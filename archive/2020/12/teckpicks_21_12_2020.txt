@@ -1,0 +1,35 @@
+TechPicks 21/12/2020 -
+
+Selling a Tiny Project
+https://tinyprojects.dev/posts/selling_a_tiny_project
+
+The web is 30 years old today
+https://home.cern/science/computing/birth-web
+
+The "rm -rf *" story - insights
+https://secalert.net/interview-with-rmrf-engineer.html
+
+Learn Big O Notation Graphically
+https://twitter.com/girlie_mac/status/1229353683089068032
+
+Cyberpwned: Beating Cyberpunk 2077's hacking minigame in ~50 lines of Python
+https://nicolas-siplis.com/blog/cyberpwned
+
+Turning the database inside-out
+https://martin.kleppmann.com/2015/11/05/database-inside-out-at-oredev.html
+
+Academics turn RAM into Wi-Fi cards to steal data from air-gapped systems
+https://www.zdnet.com/article/academics-turn-ram-into-wifi-cards-to-steal-data-from-air-gapped-systems/
+
+Owncast – The open source, self-hosted live streaming server
+https://github.com/owncast/owncast
+
+Personal Infrastructure with Inlets, k3s, and Pulumi
+https://andrewmeier.dev/personal-infrastructure
+
+[JVM Advent #20] Hidden Treasures Of Eclipse Collections – 2020 Edition
+https://www.javaadvent.com/2020/12/hidden-treasures-of-eclipse-collections-2020-edition.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

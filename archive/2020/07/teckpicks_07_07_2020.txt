@@ -1,0 +1,26 @@
+TechPicks 07/07/2020 -
+
+Periodic Background Sync Explained - Explaining the JavaScript API and how to use it
+https://felixgerschau.com/periodic-background-sync-explained/
+
+Brython – A Python 3 implementation for client-side web programming
+https://brython.info/
+
+A Concurrency Cost Hierarchy
+https://travisdowns.github.io/blog/2020/07/06/concurrency-costs.html
+
+Resizing Rotated Elements
+https://shihn.ca/posts/2020/resizing-rotated-elements/
+
+1-Line Layouts
+https://1linelayouts.glitch.me/
+
+Only 9% of visitors give GDPR consent to be tracked
+https://markosaric.com/gdpr-consent/
+
+Minimum Viable Kubernetes
+https://eevans.co/blog/minimum-viable-kubernetes/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

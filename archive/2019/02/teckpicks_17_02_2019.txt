@@ -1,0 +1,47 @@
+TechPicks 17/02/2019 -
+
+type of null is object - JavaScript Random Facts
+https://codedam.com/javascript-random-facts
+
+Creating objects dynamically with factory pattern in JavaScript
+https://enmascript.com/articles/2018/10/05/javascript-factory-pattern
+
+Minimal & Modern boilerplate for building apps with React & styled-components (Optimized ⚡)
+https://github.com/xxczaki/styled-react-boilerplate
+
+Some Lesser Known TypeScript Features
+https://medium.com/@eliezer/some-lesser-known-typescript-features-d067e29797d0
+
+Introducing Worldview - a React library that makes it easy to render 2D and 3D scenes
+https://medium.com/cruise/introducing-worldview-749aaf98112d
+
+vue-unicons - 1000+ Pixel-perfect svg icons for your next project as Vue components
+https://github.com/antonreshetov/vue-unicons
+
+The underestimated power behind matchMedia API
+https://enmascript.com/articles/2018/10/31/the-underestimated-power-behind-window-matchmedia
+
+Third Party Web - Summary of which third party scripts are most responsible for excessive JavaScript execution on the web
+https://github.com/patrickhulce/third-party-web
+
+Don’t get clever with login forms
+http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/
+
+Google Domains .dev Early Access Program
+https://domains.google/tld/dev/
+
+Finding And Fixing Node.js Memory Leaks: A Practical Guide
+https://go.morioh.net/2990d841cb
+
+Middleware and utility functions to help you prepare your Node.js application for production
+https://github.com/banzaicloud/node-service-tools
+
+Creating fake backend has just become super easy
+https://blog.graphqleditor.com/create-fake-backend/
+
+The hover media query can help to remove hover styles on touch devices
+https://www.stefanjudis.com/today-i-learned/the-hover-media-query-can-help-to-remove-hover-styles-on-touch/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

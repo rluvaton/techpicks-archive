@@ -1,0 +1,41 @@
+TechPicks 20/09/2018 -
+
+iOS 12 Array reverse bug
+https://stackoverflow.com/questions/52390368/array-state-will-be-cached-in-ios-12-safari-is-bug-or-feature
+
+Meet a new Git client, from the makers of Sublime Text
+https://www.sublimemerge.com/
+
+Every previous generation programmer thinks that current software are bloated
+https://blogs.msdn.microsoft.com/larryosterman/2004/04/30/units-of-measurement/
+
+How to Become a Better Software Developer: A Handbook on Personal Performance
+https://www.7pace.com/blog/become-a-better-programmer-skills-development
+
+React.js — Compound Components
+https://medium.com/@Dane_s/react-js-compound-components-a6e54b5c9992
+
+JavaScript: call functions without using parenthesis (what?!)
+https://michelenasti.com/2018/09/19/Javascript-chiamare-funzioni-senza-usare-parentesi-(what!).html
+
+BundlePhobia — find the cost of adding a npm package to your bundle
+https://bundlephobia.com/
+
+Why we're ditching Ruby on Rails for JavaScript & Node.js
+https://www.imaginarycloud.com/blog/ditching-ruby-on-rails-for-javascript-and-nodejs/
+
+How To Secure Node.js RESTful APIs With JSON Web Tokens
+http://www.agiratech.com/how-to-secure-node-js-restful-apis-with-json-web-tokens/
+
+Complex numbers in JavaScript
+https://beta.observablehq.com/@mateogianolio/complex-numbers-in-javascript
+
+3D Emoji Town (Pure CSS)
+https://codepen.io/GeorgePark/pen/MqVoYP
+
+I could do that in a weekend!
+https://danluu.com/sounds-easy/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

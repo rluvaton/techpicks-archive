@@ -1,0 +1,38 @@
+TechPicks 24/01/2019 -
+
+Hooks are now merged and enabled - release coming soon
+https://github.com/facebook/react/pull/14679
+
+Multi-Threaded Node.js has arrived!
+https://medium.com/lazy-engineering/node-worker-threads-b57a32d84845
+
+GraphQL vs REST - Handling errors
+https://blog.graphqleditor.com/graphql-vs-rest-errors/
+
+Big-O Algorithm Complexity Cheatsheet
+http://bigocheatsheet.com/
+
+Former Google engineer breaks down interview problems he used to use to screen candidates. Lots of good programming tips and advice.
+https://medium.com/@alexgolec/google-interview-problems-synonymous-queries-36425145387c
+
+Algorithms explained in JavaScript and pseudocode, with examples
+https://github.com/trekhleb/javascript-algorithms
+
+Shards React - A Free & Modern UI Toolkit
+https://github.com/DesignRevision/shards-react
+
+Revolution incoming: CSS Houdini and the future of frontend development (code and demos)
+https://tsh.io/blog/css-houdini-future-frontend-development/
+
+do you realistically use Generator functions with NodeJS?
+https://www.stackchief.com/tutorials/JavaScript%20ES6%20Generators
+
+PHP PEAR compromised for the last 6 months
+https://arstechnica.com/information-technology/2019/01/pear-php-site-breach-lets-hackers-slip-malware-into-official-download/
+
+HTML5 Input Types: Where Are They Now?
+https://www.smashingmagazine.com/2019/01/html5-input-types/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

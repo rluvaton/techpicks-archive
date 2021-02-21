@@ -1,0 +1,29 @@
+TechPicks 03/04/2019 -
+
+Nice People Matter? NPM may stand for Not Politely Managed – job cuts leave staff sore
+https://www.theregister.co.uk/2019/04/01/npm_layoff_staff/
+
+Stealing Data With CSS: Attack and Defense
+https://www.mike-gualtieri.com/posts/stealing-data-with-css-attack-and-defense
+
+Proof of concept for website tracking/analytics using only CSS and without JavaScript
+https://github.com/jbtronics/CrookedStyleSheets/blob/master/README.md
+
+You probably don't need that hip web framework
+https://char.gd/blog/2019/you-dont-need-that-hipster-web-framework
+
+Make it hard to screw up driven development
+https://css-tricks.com/make-it-hard-to-screw-up-driven-development/
+
+From Flow to Typescript. Why?
+https://sobolevn.me/2019/03/from-flow-to-typescript
+
+👑 Awesome one-liners you might find useful while coding
+https://gist.github.com/mikowl/5fa1a06c06264afaa544bb6b8af641b1
+
+Routing with TypeScript decorators for Node.js applications
+https://nehalist.io/routing-with-typescript-decorators/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

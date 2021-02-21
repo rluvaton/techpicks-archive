@@ -1,0 +1,50 @@
+TechPicks 31/07/2018 -
+
+Daniel Sternlicht - Handling PayPal IPN Messages With Node.js
+https://medium.com/@danielsternlicht/handling-paypal-ipn-messages-with-nodejs-5ccd97870c4
+
+Gilad Shoham @ bit - 7 Javascript EEG Mind Reading Libraries for 2018
+https://blog.bitsrc.io/7-javascript-eeg-mind-reading-libraries-for-2018-9a8e28544cd7
+
+A new security header: Feature Policy
+https://scotthelme.co.uk/a-new-security-header-feature-policy/
+
+Node.js Best Practices
+https://github.com/i0natan/nodebestpractices
+
+Announcing TypeScript 3.0
+https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/
+
+js13kGames competition - build a game with ≤ 13kB of JavaScript in 30 days 🕹
+http://2018.js13kgames.com/
+
+Use NodeJS to implement microservices RPC using gRPC
+https://medium.com/@chittorashobhit/blazing-fast-ipc-with-grpc-part-1-9af1b7d99553
+
+Codier - Front-end Coding Challenges and Creations
+https://codier.io/
+
+Lessons from a small Firebase project
+https://medium.com/@jbesw/b433ce8ee49e
+
+GOTO Amsterdam 2015 - Progress Toward an Engineering Discipline of Software
+https://www.youtube.com/watch?v=lLnsi522LS8
+
+Codier - Front-end Coding Challenges and Creations
+https://codier.io/
+
+Solved with CSS! Logical Styling Based on the Number of Given Elements
+https://css-tricks.com/solved-with-css-logical-styling-based-on-the-number-of-given-elements/
+
+Humble Book Bundle: Cybersecurity 2.0 by Wiley
+https://www.humblebundle.com/books/cybersecurity-wiley-books
+
+Building an Inclusive Code Review Culture
+https://blog.plaid.com/building-an-inclusive-code-review-culture/
+
+Blink: "Intent to Deprecate and Remove: Shadow DOM V0, Custom Elements V0, HTML Imports"
+https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/h-JwMiPUnuU/sl79aLoLBQAJ
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

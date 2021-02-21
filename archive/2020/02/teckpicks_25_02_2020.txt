@@ -1,0 +1,29 @@
+TechPicks 25/02/2020 -
+
+Introducing AntV: a new player in data visualization
+https://medium.com/@afc163/introduce-antv-a-new-player-in-data-visualization-90ca999cfb08
+
+Hooks and Streams - React's missed opportunity
+https://james-forbes.com/#!/posts/hooks-and-streams
+
+Making Web Components for Different Contexts
+https://hackdoor.io/articles/5kQdnVND/making-web-components-for-different-contexts
+
+Vue.js: The Documentary
+https://youtu.be/OrxmtDw4pVI
+
+Curated list of productive tools for web development
+https://dev.to/akshay35c/productive-tools-for-web-development-4bd5
+
+Math is your insurance policy
+https://bartoszmilewski.com/2020/02/24/math-is-your-insurance-policy/
+
+Gentle introduction into compilers. Part 1: Lexical analysis and Scanner in TypeScript
+https://indepth.dev/gentle-introduction-into-compilers-part-1-lexical-analysis-and-scanner/
+
+Flagged enum, why and how
+https://timdeschryver.dev/blog/flagged-enum-what-why-and-how
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

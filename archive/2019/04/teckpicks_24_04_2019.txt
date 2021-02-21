@@ -1,0 +1,38 @@
+TechPicks 24/04/2019 -
+
+New Sentry integration with Rookout lets you get (and debug) live data from your apps
+https://blog.sentry.io/2019/04/23/introducing-sentry-integration-platform
+
+Play with Docker Classroom
+https://training.play-with-docker.com/
+
+Researcher who stopped WannaCry ransomware pleads guilty to hacking charges
+https://siliconangle.com/2019/04/21/researcher-stopped-wannacry-ransomware-pleads-guilty-hacking-charges/
+
+Could Grouping HTML Classes Make Them More Readable?
+https://css-tricks.com/could-grouping-html-classes-make-them-more-readable/
+
+Introducing Node.js 12
+https://medium.com/@nodejs/introducing-node-js-12-76c41a1b3f3f
+
+Numeric separators for JavaScript (ES Proposal)
+http://2ality.com/2018/02/numeric-separators.html
+
+A horrifying globalThis polyfill in universal JavaScript
+https://mathiasbynens.be/notes/globalthis
+
+How much do we really know about how packages behave on the npm registry?
+https://snyk.io/blog/how-much-do-we-really-know-about-how-packages-behave-on-the-npm-registry/
+
+HTTP headers for the responsible developer
+https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer
+
+Here’s How TurboTax Just Tricked You Into Paying to File Your Taxes
+https://www.propublica.org/article/turbotax-just-tricked-you-into-paying-to-file-your-taxes
+
+Solar CSSystem
+https://codepen.io/robdimarzo/pen/LMOLer
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

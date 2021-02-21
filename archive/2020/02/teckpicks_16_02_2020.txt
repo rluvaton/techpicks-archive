@@ -1,0 +1,23 @@
+TechPicks 16/02/2020 -
+
+Liran Tal - Node.js CLI Apps Best Practices
+https://github.com/lirantal/nodejs-cli-apps-best-practices
+
+Free Open-Source Endpoint Testing App for HTTP2/WS/GraphQl/SSE/gRPC
+http://getSwell.io
+
+Chrome 79+ no longer shows preflight CORS requests
+https://httptoolkit.tech/blog/chrome-79-doesnt-show-cors-preflight/
+
+Google calls out Samsung for 'unnecessary' Android changes
+https://9to5google.com/2020/02/14/google-samsung-android-kernel-changes-security/
+
+The Horrifically Dystopian World of Software Engineering Interviews
+https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews
+
+You Don't Need GUI
+https://github.com/you-dont-need/You-Dont-Need-GUI/blob/master/readme.md
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

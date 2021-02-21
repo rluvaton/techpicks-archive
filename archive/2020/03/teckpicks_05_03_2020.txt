@@ -1,0 +1,26 @@
+TechPicks 05/03/2020 -
+
+Docker Essentials for JavaScript and Front End Developers
+https://nosleepjavascript.com/docker-essentials-for-front-end-developers/
+
+Future-proofing Firefox’s JavaScript Debugger Implementation
+https://hacks.mozilla.org/2020/03/future-proofing-firefoxs-javascript-debugger-implementation/
+
+Why Are We Talking About CSS4?
+https://www.smashingmagazine.com/2020/03/css4-pros-cons-discussion/
+
+The Technical Side of the Capital One AWS Security Breach
+https://start.jcolemorrison.com/the-technical-side-of-the-capital-one-aws-security-breach/
+
+Webpack 5 Module Federation: A game-changer in JavaScript architecture
+https://itnext.io/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669
+
+“Let’s use Kubernetes!” Now you have 8 problems
+https://pythonspeed.com/articles/dont-need-kubernetes/
+
+KubeCon EU postponed
+https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,35 @@
+TechPicks 13/03/2019 -
+
+Five Tips for Working with Redux in Large Applications (2017)
+https://techblog.appnexus.com/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb
+
+Let's Get Colorblind is an extension for Chrome/Firefox that can simulate color vision deficiency. Use it to test if your CSS colors are CVD friendly!
+https://chrome.google.com/webstore/detail/lets-get-color-blind/bkdgdianpkfahpkmphgehigalpighjck
+
+Introducing Firefox Send, Providing Free File Transfers while Keeping your Personal Information Private
+https://blog.mozilla.org/blog/2019/03/12/introducing-firefox-send-providing-free-file-transfers-while-keeping-your-personal-information-private/
+
+A JavaScript-Free Frontend
+https://dev.to/winduptoy/a-javascript-free-frontend-2d3e
+
+Automated responsive font sizes
+https://github.com/twbs/rfs
+
+AWS Joins the GraphQL Foundation
+https://aws.amazon.com/blogs/opensource/aws-joins-the-graphql-foundation/
+
+Netflix and Google jointly donate their continuous delivery system, Spinnaker, to the Continuous Delivery Foundation
+https://medium.com/netflix-techblog/spinnaker-sets-sail-to-the-continuous-delivery-foundation-e81cd2cbbfeb
+
+GitHub - blend/promise-utils: Lodash-like utilities for promises
+https://github.com/blend/promise-utils
+
+When "Zoë" !== "Zoë". Or why you need to normalize Unicode strings
+https://withblue.ink/2019/03/11/why-you-need-to-normalize-unicode-strings.html
+
+Lesser-known CSS properties in GIFs
+https://medium.com/@PavelLaptev/lesser-known-css-properties-in-gifs-966a143497ba
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

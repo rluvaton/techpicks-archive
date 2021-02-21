@@ -1,0 +1,29 @@
+TechPicks 31/01/2019 -
+
+ECMAScript 2019 – the final feature set
+http://2ality.com/2018/02/ecmascript-2019.html
+
+Simulating blobs of fluid - Implementing the double density relaxation algorithm
+https://peeke.nl/simulating-blobs-of-fluid
+
+Animated CSS burger components - available as plain html/css or as React components
+https://march08.github.io/animated-burgers/
+
+Swiss Army knife for Unix permissions
+https://github.com/ehmicky/unix-permissions
+
+What actually is CSS-in-JS?
+https://medium.com/@oleg008/what-is-actually-css-in-js-f2f529a2757
+
+Diving Deeper in JavaScripts Objects
+https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12
+
+Theming with CSS variables in RGBA
+https://codepen.io/finnhvman/post/theming-with-css-variables-in-rgba
+
+AlaSQL: A Real Database for Web Browsers (and Node.js)
+https://dev.to/jorge_rockr/alasql-a-real-database-for-web-browsers-and-nodejs-24gj
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

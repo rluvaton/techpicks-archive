@@ -1,0 +1,38 @@
+TechPicks 26/02/2019 -
+
+Offboarding: How to quit your job gracefully
+https://dev.to/peterdev/offboarding-how-to-quit-your-job-gracefully-12n1
+
+New browser attack lets hackers run bad code even after users leave a web page
+https://www.zdnet.com/article/new-browser-attack-lets-hackers-run-bad-code-even-after-users-leave-a-web-page/
+
+Microsoft has open sourced their Frontend Bootcamp training materials (including React and Redux exercises)
+https://github.com/Microsoft/frontend-bootcamp
+
+Get valid HTTPS certificates for dev & pre-prod using step
+https://smallstep.com/blog/step-v0-8-6-valid-HTTPS-certificates-for-dev-pre-prod.html
+
+How to filter 1GB JSON on the frontend and not crash the browser
+https://blog.uptech.team/https-medium-com-oleksii-kryvonosov-how-to-filter-1gb-json-on-the-frontend-and-not-crash-the-browser-ff59ebeb1baa
+
+💋 FrenchKiss.js a new i18n javascript library running 5-1000 times faster than others
+https://github.com/koala-interactive/frenchkiss.js
+
+In the last 12 years I have never got a job thanks to my CV
+https://medium.com/@kemyd/in-the-last-12-years-i-have-never-got-a-job-thanks-to-my-cv-255213bbbf0e
+
+Famous laws of Software Development
+https://www.timsommer.be/famous-laws-of-software-development/
+
+The engineering problem of A/B testing
+https://medium.com/@d.gieselaar/the-engineering-problem-of-a-b-testing-ac1adfd492a8
+
+How A Screen Reader User Accesses The Web: A Smashing Video
+https://www.smashingmagazine.com/2019/02/accessibility-webinar/
+
+Using CSS Grid the right way
+https://vgpena.github.io/using-css-grid-the-right-way/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

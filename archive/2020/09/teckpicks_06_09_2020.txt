@@ -1,0 +1,35 @@
+TechPicks 06/09/2020 -
+
+Michal Porag - Synchronous vs. Asynchronous vs. Parallel Programming
+https://medium.com/@miporagi/synchronous-vs-asynchronous-vs-parallel-programming-1f51ae0a5146
+
+Web Design in 4 minutes
+https://jgthms.com/web-design-in-4-minutes/
+
+The value that senior engineers provide, and a few reasons to stop worrying about your technical skills becoming obsolete
+https://medium.com/@jacobcomer/bridging-the-gap-between-junior-and-senior-engineers-571b2248fbb8
+
+Why GitHub Won't Help You With Hiring
+https://www.benfrederickson.com/github-wont-help-with-hiring/
+
+CSS Grid Layout Module Level 2: Masonry Layout
+https://www.bram.us/2020/05/04/css-grid-layout-module-level-2-masonry-layout/
+
+Massacring C Pointers
+https://wozniak.ca/blog/2018/06/25/1/index.html
+
+Test smarter, not harder
+https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/
+
+Master Your React Skills With Event Listeners
+https://medium.com/better-programming/master-your-react-skills-with-event-listeners-ebc01dde4fad
+
+What Functional Programming Is, What it Isn't, and Why it Matters
+https://www.inner-product.com/posts/fp-what-and-why/
+
+Cloud Functions and Service Mesh. Why and what next
+https://medium.com/@aleksei.kornev/why-there-are-cloud-functions-and-service-mesh-whats-next-6a60ec013f8
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

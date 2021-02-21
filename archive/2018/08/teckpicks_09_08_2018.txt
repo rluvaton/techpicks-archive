@@ -1,0 +1,41 @@
+TechPicks 09/08/2018 -
+
+Dan Abramov wrote a guide on the most scalable file structure for React & Vue.js projects
+http://react-file-structure.surge.sh/
+
+Pts - a library for visualization and creative-coding. Enables you to compose and express what you see in your mind's eyes — points as ideas, shapes, colors, motions, interactions, and more
+https://ptsjs.org/
+
+Simulating fluids in the browser using WebGL
+http://blog.jamiejquinn.com/webgl-fluid-1
+
+Google AMP — A 70% drop in our conversion rate
+https://medium.com/the-set-list/google-amp-a-70-drop-in-our-conversion-rate-35fe3cb69c59
+
+dev.to is now open source
+https://dev.to/ben/devto-is-now-open-source-5n1
+
+Coding Bootcamp vs. Computer Science Degree [Infographic]
+https://www.whatsthehost.com/coding-bootcamp-vs-cs-degree/
+
+Are you caught in the trap of Sales Driven Development?
+https://hackernoon.com/the-trap-of-sales-driven-development-89e16c5e292f
+
+A collection of pure bash alternatives to external processes
+https://github.com/dylanaraps/pure-bash-bible
+
+Ray Tracing Part 1
+https://www.gamedev.net/articles/programming/graphics/ray-tracing-part-1-r3556/
+
+Disgruntled hacker leaks Snapchat's iOS source code on Github
+https://yalujailbreak.net/snapchat-source-code-leaked-2018/
+
+Step: A New Open Source "Swiss Army Knife" for Zero Trust Security
+https://smallstep.com/blog/zero-trust-swiss-army-knife.html
+
+Mathematics behind Comparison #3: Ordering Relations in C++
+https://foonathan.net/blog/2018/07/19/ordering-relations-programming.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

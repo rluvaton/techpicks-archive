@@ -1,0 +1,50 @@
+TechPicks 25/01/2021 -
+
+The Hassle-Free JavaScript Tool Manager
+https://volta.sh/
+
+The whole web at maximum FPS: How WebRender gets rid of jank
+https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/
+
+The Definition of Framework
+https://dev.to/francescostrazzullo/the-definition-of-framework-k70
+
+Redux/Flux: The Bigger Picture
+https://rossketeer.medium.com/redux-flux-the-bigger-picture-429410c0dbee
+
+New codebase, who dis? (How to Join a Team and Learn a Codebase)
+https://www.samueltaylor.org/articles/how-to-learn-a-codebase.html
+
+Simple, prompt-driven scaffolding for continuously evolving boilerplates
+https://github.com/raineorshine/yogini/
+
+tinyX - a tiny state manager for big applications
+https://github.com/dmaevsky/tinyx
+
+Software development topics I've changed my mind on after 6 years in the industry
+https://chriskiehl.com/article/thoughts-after-6-years
+
+GitHub Monorepo Navbar - Adds a navbar with buttons for each package in a monorepo
+https://github.com/jdf221/GitHub-Monorepo-Navbar
+
+Generators in JS, Part III - "Advanced" Concepts
+https://mpodlasin.com/articles/generators-iii
+
+Python Latest Updates: PIP is dropping support for Python 2
+https://gansai.blogspot.com/2021/01/python-latest-updates-pip-is-dropping.html
+
+Comprehensive language-agnostic guidelines on variable naming
+https://github.com/kettanaito/naming-cheatsheet
+
+How I Learned to Love the Email Patch Developer Workflow
+https://nasamuffin.github.io/git/open-source/email/code-review/2019/05/22/how-i-learned-to-love-email-patches.html
+
+Three Mistakes Smart Devs Make
+https://lanning.bearblog.dev/3-mistakes/
+
+Choose Exciting Technology
+https://lucjan.medium.com/choose-exciting-technology-e735bba08acc
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

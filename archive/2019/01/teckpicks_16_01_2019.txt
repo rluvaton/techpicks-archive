@@ -1,0 +1,32 @@
+TechPicks 16/01/2019 -
+
+Detecting Agile Bullshit (from the US Department of Defense)
+https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF
+
+Trouble hiring senior engineers? It's probably you. When hiring senior engineers, you’re not buying, you’re selling
+https://hiringengineersbook.com/post/trouble-hiring/
+
+Animated Input Label with Chrome Autofill Detection in React
+https://codedaily.io/tutorials/69/Animated-Input-Label-with-Chrome-Autofill-Detection-in-React
+
+12 Great Design Tools & Websites for UI/UX Designers
+https://medium.com/@gracejia/12-great-design-tools-websites-for-ui-ux-designers-d7f13c3f1396
+
+JavaScript Modules: From IIFEs to CommonJS to ES6 Modules
+https://tylermcginnis.com/javascript-modules-iifes-commonjs-esmodules/
+
+Reverse engineering GoDaddy's tracking Javascript
+https://lolware.net/2019/01/14/godaddy-tracking-code.html
+
+The (Almost) Secret Algorithm Researchers Used to Break Thousands of RSA Keys
+https://algorithmsoup.wordpress.com/2019/01/15/breaking-an-unbreakable-code-part-1-the-hack/
+
+Code to Graph: Visualize JavaScript code as a network diagram
+https://crubier.github.io/code-to-graph/
+
+A simple theater-themed loading animation
+https://codepen.io/quinlo/full/NeoxxG
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

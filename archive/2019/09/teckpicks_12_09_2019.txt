@@ -1,0 +1,32 @@
+TechPicks 12/09/2019 -
+
+Spacekit - a JavaScript library for creating interactive 3D space visualizations, whether of the Earth/moon system, solar system, or beyond
+https://github.com/typpo/spacekit
+
+Moving Your JavaScript Development To Bash On Windows
+https://www.smashingmagazine.com/2019/09/moving-javascript-development-bash-windows/
+
+If you're using Sequelize ORM npm library you might be vulnerable to SQL Injection attacks
+https://snyk.io/blog/sequelize-orm-npm-library-found-vulnerable-to-sql-injection-attacks/
+
+What's New in Mongoose 5.7: Conditional Immutability, Faster Document Arrays
+http://thecodebarbarian.com/mongoose-5-7-conditional-immutability-document-array-perf.html
+
+Avoiding useEffect race conditions with a custom hook
+https://flufd.github.io/avoiding-race-conditions-use-current-effect/
+
+Optimizing Single-Page Apps with Real User Monitoring
+https://sematext.com/blog/tracking-and-monitoring-spa-apps/
+
+Learning the hard way: Microservices
+https://medium.com/@andrewvr/microservices-c8b5dbdd58b8
+
+How I Developed React Hooks for Web Workers
+https://medium.com//how-i-developed-react-hooks-for-web-workers-9e97efc86266
+
+If you’re not using SSH certificates you’re doing SSH wrong
+https://smallstep.com/blog/use-ssh-certificates/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

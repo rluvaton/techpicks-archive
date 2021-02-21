@@ -1,0 +1,29 @@
+TechPicks 07/12/2020 -
+
+git wip: What the heck was I just doing?
+https://carolynvanslyck.com/blog/2020/12/git-wip/
+
+Docker's Second Death
+https://www.tariqislam.com/posts/kubernetes-docker-dep/
+
+6 dev and operations factors to consider for software scalability to meet high demands
+https://geshan.com.np/blog/2020/12/software-scalability/
+
+Your Smart TV is probably ignoring your PiHole
+https://labzilla.io/blog/force-dns-pihole
+
+Recovering passwords from pixelized screenshots
+https://www.linkedin.com/pulse/recovering-passwords-from-pixelized-screenshots-sipke-mellema
+
+Code Diary: How and Why to Keep One
+https://www.youtube.com/watch?v=tarmCEHfGa0
+
+How to Animate a SVG with border-image
+https://css-tricks.com/how-to-animate-a-svg-with-border-image/
+
+CSS Tips you won't see in most tutorials
+https://denic.hashnode.dev/css-tips-you-wont-see-in-most-tutorials
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

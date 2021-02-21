@@ -1,0 +1,26 @@
+TechPicks 18/11/2019 -
+
+Elad Shechter - Understanding the Difference Between CSS Resolution and Device Resolution
+https://medium.com/@elad/understanding-the-difference-between-css-resolution-and-device-resolution-28acae23da0b
+
+Igal Leikin - Stable, Flexible and Fully Customizable Vue and Nuxt preloaders library
+https://www.npmjs.com/package/vue-preloaders
+
+jQuery is included on 85% of the top 5M websites
+https://almanac.httparchive.org/en/2019/javascript#open-source-libraries-and-frameworks
+
+When not to use machine learning?
+https://towardsdatascience.com/when-not-to-use-machine-learning-14ec62daacd7
+
+Highlights on "quality," and Deming's work as it applies to software development
+https://apenwarr.ca/log/20161226 
+
+useReduction: useReducer without the boilerplate
+https://github.com/anater/useReduction/
+
+Reasons for Cancelling a Move to Microservices
+https://www.infoq.com/news/2019/08/cancelling-move-to-microservices/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

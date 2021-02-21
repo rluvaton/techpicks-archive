@@ -1,0 +1,29 @@
+TechPicks 02/01/2020 -
+
+JavaScript Design Patterns in Action
+https://blog.soshace.com/javascript-design-patterns-in-action/
+
+Simple 2d car physics with JavaScript
+https://pakastin.github.io/car/
+
+Thriving on the Technical Leadership Path
+http://keavy.com/work/thriving-on-the-technical-leadership-path/
+
+The Illustrated Children's Guide to Kubernetes
+https://www.youtube.com/watch?v=4ht22ReBjno
+
+What I learned about Product Delivery in 2019
+https://isthisit.nz/posts/2019/product-delivery-learnings-2019/
+
+The polygons of Another World
+http://fabiensanglard.net/another_world_polygons/index.html
+
+Beware SAFe (the Scaled Agile Framework for Enterprise), an Unholy Incarnation of Darkness
+https://medium.com/@seandexter1/beware-safe-the-scaled-agile-framework-for-enterprise-an-unholy-incarnation-of-darkness-bf6819f6943f
+
+Software disenchantment
+https://tonsky.me/blog/disenchantment/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

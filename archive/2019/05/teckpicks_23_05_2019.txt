@@ -1,0 +1,38 @@
+TechPicks 23/05/2019 -
+
+Elad Shechter - Normalize CSS or CSS Reset?
+https://medium.com/@elad/normalize-css-or-css-reset-9d75175c5d1e
+
+It is perfectly OK to only code at work, you can have a life too
+https://zeroequalsfalse.press/posts/it-is-ok-to-only-code-at-work/
+
+GitHub launches Sponsors, lets you pay your favorite open source contributors
+https://github.com/sponsors
+
+WebAssembly at eBay: A Real-World Use Case
+https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/
+
+Google faces first investigation by its European lead authority for “suspected infringement” of the GDPR, following formal complaint from Brave.
+https://brave.com/dpc-google/
+
+Elegant Error Handling With The JavaScript "Either" Monad
+https://jrsinclair.com/articles/2019/elegant-error-handling-with-the-js-either-monad/
+
+Forget fancy chefs and foosball, what developers really want is balance & growth
+https://hackernoon.com/forget-fancy-chefs-and-foosball-what-developers-really-want-is-balance-growth-b493e297c606
+
+Functional JavaScript: How to use array reduce for more than just numbers
+https://jrsinclair.com/articles/2019/functional-js-do-more-with-reduce/
+
+Managing a Secure JSON Web Token Implementation
+https://cursorblog.com/managing-a-secure-json-web-token-implementation/
+
+Node.js 12.3: Experimental Support for WebAssembly Modules
+https://helpdev.eu/node-js-12-3-webassemblyexperimental-support-for-wasm-modules/
+
+Transform your Typescript code into UML diagram (PlantUML) with tplant
+https://github.com/bafolts/tplant
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

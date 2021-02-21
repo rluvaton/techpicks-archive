@@ -1,0 +1,32 @@
+TechPicks 03/09/2018 -
+
+Tech Notes: TypeScript at Google
+http://neugierig.org/software/blog/2018/09/typescript-at-google.html
+
+The Terrible Performance Cost Of CORS Request, on the single-page application (SPA).
+https://medium.com/@ankur_anand/the-terrible-performance-cost-of-cors-api-on-the-single-page-application-spa-6fcf71e50147
+
+A tour of JavaScript timers on the web
+https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/
+
+babel-upgrade: upgrade to v7 (dependencies, config files, JS files)
+https://github.com/babel/babel-upgrade
+
+eslint-plugin-better-styled-components: ESlint plugin with an auto-fixable rule to sort alphabetically declarations in styled components 💅.
+https://github.com/siffogh/eslint-plugin-better-styled-components
+
+Microsoft Sketch2Code - An AI based website "Builder" that converts your hand drawn sketches to HTML
+https://youtu.be/V6pqqPPHyYM
+
+Set Theory for Absolute Beginners
+https://youtu.be/9sMYu1ieNVA
+
+Write good commit messages by blaming others
+https://robots.thoughtbot.com/write-good-commit-messages-by-blaming-others
+
+Why is the StackOverflow community so toxic?
+http://stackoverflow.com
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

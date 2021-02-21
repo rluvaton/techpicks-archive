@@ -1,0 +1,29 @@
+TechPicks 21/04/2020 -
+
+The Secret Lives of Data: Raft - Understandable Distributed Consensus
+http://thesecretlivesofdata.com/raft/
+
+The software industry's greatest sin: hiring
+https://www.neilwithdata.com/developer-hiring
+
+Playstation Architecture: A Practical Analysis
+https://copetti.org/projects/consoles/playstation/
+
+Python 2.7.18, the last release of Python 2
+https://blog.python.org/2020/04/python-2718-last-release-of-python-2.html
+
+How to add dark mode to a Gatsby site
+https://joshwcomeau.com/gatsby/dark-mode/
+
+Guide to Content-Based Recommendation Systems
+https://rubikscode.net/2020/04/20/guide-to-content-based-recommendation-systems/
+
+5 Lessons for Developers to Prevent Zoombombing and Zoom’s Security Blunders
+https://code.oursky.com/5-lessons-for-developers-to-prevent-zoombombing-zoom-security-blunders/
+
+A Rant On Reusability
+https://makingloops.com/reusability-rant/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,32 @@
+TechPicks 29/07/2020 -
+
+GitHub public roadmap
+https://github.com/github/roadmap
+
+A virtual 1991 Macintosh, written in JavaScript
+https://github.com/felixrieseberg/macintosh.js
+
+Github Profile Readme Generator - Generate github profile README easily with latest add-ons like visitors count, github stats, using minimal UI
+https://github.com/rahuldkjain/github-profile-readme-generator
+
+Under the hood webpack: core library behind the event-driven architecture
+https://codecrumbs.io/stories/webpack-tapable-core/
+
+Bold on Hover... Without the Layout Shift
+https://css-tricks.com/bold-on-hover-without-the-layout-shift/
+
+You don’t need reproducible builds.
+http://blog.cmpxchg8b.com/2020/07/you-dont-need-reproducible-builds.html
+
+What on Earth Is Static Regeneration?
+https://jessesibley.com/what-on-earth-is-static-regeneration
+
+The Regular Expression Visualizer, Simulator & Cross-Compiler Tool
+https://blog.robertelder.org/regular-expression-visualizer/
+
+Malware Reverse Engineering Handbook
+https://ccdcoe.org/library/publications/malware-reverse-engineering-handbook/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

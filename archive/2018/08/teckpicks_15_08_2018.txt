@@ -1,0 +1,47 @@
+TechPicks 15/08/2018 -
+
+"VSCode Breadcrumbs Are Here, And I Love 'em!"
+https://dev.to/mrahmadawais/vscode-breadcrumbs-are-here-jkn
+
+How long since Google said a Google Drive Linux client is coming
+https://abevoelker.github.io/how-long-since-google-said-a-google-drive-linux-client-is-coming/
+
+Angular Console — The UI for the Angular CLI
+https://blog.nrwl.io/angular-console-the-ui-for-the-angular-cli-a5d0924240b7
+
+"Understanding why Semantic HTML is important, as told by TypeScript."
+https://medium.com/@mandy.michael/understanding-why-semantic-html-is-important-as-told-by-typescript-bd71ad41e6c4
+
+How many Microsoft employees does it take to change a lightbulb?
+https://blogs.msdn.microsoft.com/ericlippert/2003/10/28/how-many-microsoft-employees-does-it-take-to-change-a-lightbulb/
+
+Slack + Codedeploy = ❤
+https://medium.com/@davidedimauro/slack-codedeploy-%EF%B8%8F-6c177a88c730
+
+Roller coaster loader
+https://codepen.io/comehope/pen/KBxYZg
+
+Postman vs Insomnia – why not both?
+http://blog.tdwright.co.uk/2018/08/14/postman-vs-insomnia-why-not-both/
+
+Building a rate limiter for distributed systems
+https://blog.ably.io/how-adopting-a-distributed-rate-limiting-helps-scale-your-platform-1afdf3944b5a
+
+Git v2 support is now available for Bitbucket Server
+https://www.atlassian.com/blog/bitbucket/unearth-new-repositories-git-v2-improvements-bitbucket-server-5-13
+
+How to pretend you have social skills
+https://notamonadtutorial.com/how-to-pretend-you-have-social-skills-963ced9d8642
+
+WebAssembly: what it means for JavaScript and the future of web development
+https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71
+
+Cache-Line Aware Data Structures
+https://accu.org/index.php/journals/2535
+
+Data Oriented Design Resources
+https://github.com/dbartolini/data-oriented-design
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

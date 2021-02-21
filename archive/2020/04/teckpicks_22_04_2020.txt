@@ -1,0 +1,35 @@
+TechPicks 22/04/2020 -
+
+Node.js v14 released
+https://medium.com/@nodejs/node-js-version-14-available-now-8170d384567e
+
+Stripe is Silently Recording Your Movements On its Customers' Websites
+https://mtlynch.io/stripe-recording-its-customers/
+
+Opinionated/Controversial: Brave Browser - An Anti Privacy Project To Its Core
+https://www.reddit.com/r/privacy/comments/g5cqo5/brave_browser_an_anti_privacy_project_to_its_core/
+
+The Cost of JavaScript Frameworks - an analysis based on real-world data obtained from HTTP Archive
+https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/
+
+Engineering code quality in the Firefox browser: A look at our tools and challenges
+https://hacks.mozilla.org/2020/04/code-quality-tools-at-mozilla/
+
+Dev Fonts - List of the best fonts for coding with live preview
+https://devfonts.gafi.dev/
+
+Pattern.css: pure CSS background patterns library
+https://github.com/bansal-io/pattern.css
+
+A Possible New Backend for Rust
+https://jason-williams.co.uk/a-possible-new-backend-for-rust
+
+What Is Interesting About Factorio
+http://fuseki.net/home/WhatIsInterestingAboutFactorio.html
+
+Remote Software Developers Earn 22% More Than Non-Remote Developers
+https://whoisnnamdi.com/remote-software-developers-earn-more/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

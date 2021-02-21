@@ -1,0 +1,26 @@
+TechPicks 14/05/2020 -
+
+Deno 1.0 released
+https://deno.land/v1
+
+VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor
+https://github.com/vsls-contrib/codetour
+
+RGM - a tiny but very powerful React Google Map
+https://github.com/realadvisor/rgm
+
+"How I switched from classic hosting to Kubernetes"
+https://blog.cyborch.com/how-i-switched-to-kubernetes/
+
+Kubernetes cheatsheets in A4
+https://github.com/dennyzhang/cheatsheet-kubernetes-A4
+
+Git Wizardry - Obscure but useful Git commands
+https://legends2k.github.io/note/git_nuances/
+
+JavaScript Features To Forget
+https://davidflanagan.com/2020/05/12/javascript-to-forget.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

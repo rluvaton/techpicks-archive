@@ -1,0 +1,31 @@
+TechPicks 24/06/2019 -
+
+I'm a Developer. I Won't Teach My Kids to Code, and Neither Should You.
+https://slate.com/human-interest/2018/12/against-teaching-kids-to-code-creativity-problem-solving.html
+
+A GitHub template for creating cross-browser browser extensions
+https://github.com/notlmn/browser-extension-template
+
+Viewport Units, the CSS You Didn’t Know About But Should
+https://itnext.io/viewport-units-the-css-you-didnt-know-about-but-should-24b104483429
+
+Why Firefox is good for CSS developing? A little-little note
+https://dev.to/dtroode/why-you-need-to-give-firefox-a-chance-5g5a
+
+Auto-update your GitHub repository and execute tasks/commands on push
+https://github.com/eddiejibson/update
+
+Gradient CSS - Create CSS Gradients & Explore Hex Colors
+http://www.gradientcss.com
+
+Notes to a Young Software Engineer: Beware Engineering Media
+https://www.nemil.com/on-software-engineering/beware-engineering-media.html
+
+color-scheme-change - Detect system color scheme changes on the web (Dark Mode)
+https://github.com/feross/color-scheme-change
+
+Typing Iterables and Iterators with TypeScript
+https://www.geekabyte.io/2019/06/typing-iterables-and-iterators-with.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

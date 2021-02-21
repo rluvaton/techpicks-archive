@@ -1,0 +1,29 @@
+TechPicks 12/08/2019 -
+
+Yoni Goldberg - 44 Node.js & JavaScript Testing Best Practices
+https://github.com/goldbergyoni/javascript-testing-best-practices
+
+Exploring the Two-Sum Interview Question in JavaScript
+https://nick.scialli.me/exploring-the-two-sum-interview-question-in-javascript/
+
+Broadcasting a Dynamic YouTube Video for Slipknot
+https://medium.com/@leemartin/broadcasting-a-dynamic-youtube-video-for-slipknot-8ca018fb7775
+
+Promise chaining memory leak
+https://cribl.io/2019/08/11/promise-chaining-memory-leak/
+
+TSCC - bundle & minify your Typescript project with Closure Compiler
+https://github.com/theseanl/tscc
+
+Paged Out! issue #1 is out! It's a free e-zine about broadly understood security/hacking/programming
+https://pagedout.institute/?page=issues.php
+
+Programmer Time Translation Table
+https://coding.abel.nu/2012/06/programmer-time-translation-table/
+
+Creating Scalable UIs with React: Theming & Configuration
+https://medium.com/@ESR360/creating-scalable-uis-theming-configuration-d49d6c22654c
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

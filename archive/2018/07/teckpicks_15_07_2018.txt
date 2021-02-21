@@ -1,0 +1,53 @@
+TechPicks 15/07/2018 -
+
+The Complete CSS Flexbox Tutorial
+https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc
+
+NPM Blog: Two-factor authentication protection for packages
+https://blog.npmjs.org/post/175861857230/two-factor-authentication-protection-for-packages
+
+D3.js in all its glory
+https://medium.com/@mshabrikov/d3-js-in-all-its-glory-7066601aa16b
+
+CSS: A New Kind Of JavaScript
+https://medium.com/@Heydon/css-a-new-kind-of-javascript-fcf730d33ce7
+
+[ESLint] Postmortem for Malicious Packages Published on July 12th, 2018
+https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes
+
+Chrome is using 10-13% more RAM because of Spectre mitigation efforts
+https://www.androidpolice.com/2018/07/12/chrome-using-10-13-ram-spectre-mitigation-efforts/
+
+Understanding Redux: The World’s Easiest Guide to Beginning Redux
+https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6
+
+How To Ask Questions The Smart Way
+http://www.catb.org/~esr/faqs/smart-questions.html
+
+The open-plan office is a terrible, horrible, no good, very bad idea
+https://m.signalvnoise.com/the-open-plan-office-is-a-terrible-horrible-no-good-very-bad-idea-42bd9cd294e3
+
+WebAssembly is more than the web
+http://words.steveklabnik.com/webassembly-is-more-than-just-the-web
+
+The Origins of the <blink> Tag
+http://www.montulli.org/theoriginofthe%3Cblink%3Etag
+
+The cheapest way to kill a programmers productivity, is to get him on a company Slack team
+https://dev.to/nebojsac/slack-keeps-interrupting-you-but-you-can-stop-it-883
+
+How to write a good software engineering design doc
+https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c
+
+How We Ditched Redux for MobX
+https://medium.com/skillshare-team/how-we-ditched-redux-for-mobx-a05442279a2b
+
+Easy guide to writing your first graphical terminal-based game!
+https://github.com/harrinp/Command-line-guide
+
+draxt.js – jQuery/NodeList-like package for file system (Node.js)
+https://github.com/ramhejazi/draxt
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

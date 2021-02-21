@@ -1,0 +1,29 @@
+TechPicks 05/12/2019 -
+
+Optional Chaining just achieved Stage 4 at TC39
+https://twitter.com/robpalmer2/status/1202312626891452416
+
+JavaScript Christmas: Audit your app
+https://javascript.christmas/2019/4
+
+Solving Problems in JavaScript Part 1: Recursive vs Iterative
+https://www.codespot.org/javascript-solving-problems-recursive-iterative/
+
+NPM: Avoiding the Tragedy of the Commons: Acceptable Use of the Public Registry
+https://blog.npmjs.org/post/187698412060/acceptible-use
+
+Firefox 71 developer tools: Websocket monitor, Network full-text search, Console multi-line editor mode
+https://hacks.mozilla.org/2019/12/firefox-71-a-winter-arrival/
+
+How Facebook Avoids Ad Blockers
+https://www.dylanpaulus.com/2019-11-24-how-fb-avoids-adblockers/
+
+What's New for Node.js in 2020
+https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020
+
+Having a Little Fun With Custom Focus Styles
+https://css-tricks.com/having-a-little-fun-with-custom-focus-styles/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

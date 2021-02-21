@@ -1,0 +1,35 @@
+TechPicks 18/09/2019 -
+
+Storybook 5.2: Zero-config component docs have landed 🔥
+https://medium.com/storybookjs/storybook-5-2-794958b9b111
+
+More Things Developers Say and What They Mean
+https://medium.com/the-non-traditional-developer/more-things-developers-say-and-what-they-mean-f41f36c7f270
+
+Indeed donates $10,000 to ESLint
+https://eslint.org/blog/2019/09/indeed-donates-10000-to-eslint
+
+FOSS game engine Godot is less than $200 on Patreon of being able to hire their third full time contributor
+https://www.patreon.com/godotengine/overview
+
+CSS Naming Conventions that Will Save You Hours of Debugging
+https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
+
+Software Architecture is Overrated, Clear and Simple Design is Underrated
+https://blog.pragmaticengineer.com/software-architecture-is-overrated/
+
+How to test Observables
+https://blog.angularindepth.com/how-to-test-observables-a00038c7faad
+
+Richard Stallman, author of the GNU manifesto, resigns from the Free Software Foundation
+https://www.techradar.com/news/richard-stallman-author-of-the-gnu-manifesto-resigns-from-the-free-software-foundation
+
+Software Freedom Conservancy - Richard Stallman Does Not and Cannot Speak for the Free Software Movement
+https://sfconservancy.org/news/2019/sep/16/rms-does-not-speak-for-us/
+
+Delegating logic to the type system
+https://gist.github.com/timhwang21/43e79d53928146bea23b14e50fc33fe3
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,20 @@
+TechPicks 11/02/2020 -
+
+VS Code Debug Visualizer
+https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer
+
+Opinionated: The simple Math every developer should know
+https://medium.com/@boltmick1/the-simple-math-every-developer-should-know-3f9b25446550
+
+Every Melody Has Been Copyrighted (and they're all on this hard drive)
+https://www.youtube.com/watch?v=sfXn_ecH5Rw
+
+"How I built Heimdall, an open-source personal email guardian"
+https://medium.com/swlh/how-i-built-heimdall-an-open-source-personal-email-guardian-68e306d172d1
+
+Learn about box-sizing: border-box; It will save you headaches.
+https://i.redd.it/0f556gtz34g41.png
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

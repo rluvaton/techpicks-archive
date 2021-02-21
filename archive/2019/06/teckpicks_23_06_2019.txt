@@ -1,0 +1,34 @@
+TechPicks 23/06/2019 -
+
+Just is a library that organizes build tasks for your JS projects
+https://github.com/microsoft/just
+
+An incredibly easy way to use Firebase in React
+https://github.com/cevr/firespace
+
+Embedme - a simple utility for embedding source code into markdown code blocks
+https://github.com/zakhenry/embedme
+
+Git-Pending – List TODO, FIXME, TESTME, DOCME comments in a repo with verbose details
+https://github.com/kamranahmedse/git-pending
+
+Everything you need to know about the date in JavaScript
+https://css-tricks.com/everything-you-need-to-know-about-date-in-javascript/
+
+JavaScript Interview Simulator
+https://algodaily.com/javascript-interview-questions
+
+100s of free fun APIs for your next project
+https://apilist.fun
+
+Amsterdam JSNation 2019 Full Playlist
+https://www.youtube.com/watch?v=ZrKjgSfpppM&list=PLfIM4SvaiIyygQEe2WPpENwxIf-0agBr9
+
+A CSS specific Discord - Live help for those learning - Advanced channels for experts to discuss in
+https://discord.gg/DDcMHPu
+
+Vue's Darkest Day
+https://dev.to/danielelkington/vue-s-darkest-day-3fgh
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

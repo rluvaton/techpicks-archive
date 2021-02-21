@@ -1,0 +1,29 @@
+TechPicks 10/08/2020 -
+
+“It never gets easier, you just go faster.”
+https://letterstoanewdeveloper.com/2020/04/27/it-never-gets-easier-you-just-go-faster/
+
+A curated list of awesome system design material
+https://github.com/madd86/awesome-system-design
+
+Unsplash’s dataset is now open source
+https://unsplash.com/blog/the-unsplash-dataset/
+
+A Generation Lost in the Bazaar - Quality happens only when someone is responsible for it
+https://queue.acm.org/detail.cfm?id=2349257
+
+Curious case of Content Security Policy (CSP)
+https://www.vinaybhinde.in/2020/08/a-curious-case-of-content-security-policy-csp/
+
+Styled Components: A Quick Start Guide
+https://scalablecss.com/styled-components-quickstart-guide/
+
+Pyre: A performant type-checker for Python 3 developed by Facebook
+https://pyre-check.org/
+
+Dorking - use advanced Google Search to find any webpage, emails, info, or secrets
+https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

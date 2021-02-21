@@ -1,0 +1,35 @@
+TechPicks 01/07/2020 -
+
+The end of the Redis adventure
+http://antirez.com/news/133
+
+Reno - A lightweight router for Deno's standard HTTP server
+https://github.com/reno-router/reno
+
+Observables, Reactive Programming, and RxJs
+https://dev.to/benlesh/observables-reactive-programming-and-regret-4jm6
+
+Hands-on with Portals: seamless navigation on the Web
+https://web.dev/hands-on-portals/
+
+Awesome list of finite state machines and statecharts content
+https://github.com/leonardomso/awesome-fsm
+
+tooling.report - Determine the best build tool for your next web project
+https://bundlers.tooling.report/
+
+CUBE CSS - A new CSS methodology
+https://piccalil.li/cube-css/
+
+Synchly - CLI to automate database backups with customizable recurring schedules.
+https://github.com/hariprasanths/synchly
+
+Web.dev Live - a three-day event brought to you by the Chrome team
+https://web.dev/live/
+
+What Happened to the Webmaster - The History of the Web
+https://thehistoryoftheweb.com/postscript/what-happened-to-the-webmaster/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 12/11/2018 -
+
+Tips on Applying for a Front End Developer Position
+https://medium.com/@shmatul/tips-on-applying-for-a-front-end-developer-position-59cefa43d138
+
+A Complete Firebase in React Authentication Tutorial [2018]
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
+
+An alternative to React Redux by React Hooks API (For both JavaScript and TypeScript)
+https://medium.com/@dai_shi/c5e9a351ba0b
+
+Learn CSS Grid and Flexbox fundamentals before 2019 hits the ground
+https://medium.com/@shuvohabib/learn-css-grid-and-flexbox-fundamentals-before-2019-hits-the-ground-765010c6e21f
+
+A supercomputer on the ISS will soon be open for science experiments
+https://www.theverge.com/2018/11/1/18050172/hpe-supercomputer-space-station
+
+"A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js" by Ashley Williams
+https://youtu.be/aGJTXdXQN2o
+
+An introduction to WebAssembly
+https://flaviocopes.com/webassembly/
+
+Listen to localStorage and dance
+https://hellomahe.me/listen-to-localstorage-and-dance
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

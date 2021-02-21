@@ -1,0 +1,32 @@
+TechPicks 25/12/2018 -
+
+Still confused in JS scopes?
+https://medium.com/@ideepak.jsd/still-confused-in-js-scopes-f7dae62c16ee
+
+The Fragmented, But Evolving State of CSS-in-JS
+https://css-tricks.com/the-fragmented-but-evolving-state-of-css-in-js/
+
+The medium.com profile of Tomek Sułkowski, including 24 Posts of DevTools tips, as part of the “Advent calendar for front-end developers” series
+https://medium.com/@tomsu
+
+Comments are always failures
+https://medium.com/@michael_61711/chapter-4-comments-ec3c4be40885
+
+Understanding Throttling and Debouncing
+https://blog.bitsrc.io/understanding-throttling-and-debouncing-973131c1ba07
+
+What We Wished For
+https://www.smashingmagazine.com/2018/12/internet-explorer-what-we-wished-for/
+
+Writing Controllable Components in React
+https://medium.com/@ntgard/c9cccf41b48c
+
+Hooked on React
+https://react.christmas/2018/24
+
+One of Microsoft’s coolest releases this year had nothing to do with Windows or Office — it lets you make a font from your handwriting
+https://www.cnbc.com/2018/12/20/how-to-use-microsoft-font-maker-windows-app.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

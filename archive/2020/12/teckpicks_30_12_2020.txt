@@ -1,0 +1,26 @@
+TechPicks 30/12/2020 -
+
+HTTPS for Humans
+https://romankolpak.github.io/https/2020/12/27/https-for-humans/
+
+How to Load Fonts in a Way That Fights FOUT and Makes Lighthouse Happy
+https://css-tricks.com/how-to-load-fonts-in-a-way-that-fights-fout-and-makes-lighthouse-happy/
+
+Maximally optimizing image loading for the web in 2021
+https://www.industrialempathy.com/posts/image-optimizations/
+
+Apple loses copyright claims in lawsuit against U.S. security bug startup
+https://www.reuters.com/article/us-apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-u-s-security-bug-startup-idUSKBN29320J?il=0
+
+Git Commands to Live By: the cheat sheet that goes beyond the basics
+https://medium.com/better-programming/git-commands-to-live-by-349ab1fe3139?source=friends_link&sk=3c6a8fe034c7e9cbe0fbfdb8661e360b
+
+PostHog - Open Source Product Analytics
+https://github.com/PostHog/posthog
+
+So you want to build the Matrix
+https://glebshev.medium.com/so-you-want-to-build-the-matrix-a972aea6aad9
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

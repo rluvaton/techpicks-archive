@@ -1,0 +1,20 @@
+TechPicks 25/05/2020 -
+
+Humble Book Bundle: Definitive Guides to All Things Programming by O'Reilly
+https://www.humblebundle.com/books/definitive-guides-to-all-things-programming-oreilly-books?partner=indiekings
+
+You need containers to build an image
+https://iximiuz.com/en/posts/you-need-containers-to-build-an-image
+
+"RecoilJS by Facebook is meant to rock your React world"
+https://mariosfakiolas.com/blog/recoiljs-is-meant-to-rock-your-react-world
+
+Trie: Data Structure Explained
+http://parthshandilya.com/what-are-tries/
+
+The Mediocre Programmer
+http://themediocreprogrammer.com/build/html/the_mediocre_programmer.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

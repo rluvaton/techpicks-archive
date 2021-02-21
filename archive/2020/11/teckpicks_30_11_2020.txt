@@ -1,0 +1,32 @@
+TechPicks 30/11/2020 -
+
+Pijul - The Mathematically Sound Version Control System Written in Rust
+https://initialcommit.com/blog/pijul-version-control-system
+
+Run Python Applications Efficiently With malloc_trim
+https://reliability.substack.com/p/run-python-servers-more-efficiently
+
+A better Kubernetes, from the ground up
+https://blog.dave.tf/post/new-kubernetes/
+
+What React refs really are
+https://huth.me/what-react-refs-really-are
+
+Ruffle - Flash Player Emulator Written in Rust
+https://ruffle.rs/
+
+Reasons why SELECT * is bad for SQL performance
+https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/
+
+Flappy bird in 341 bytes
+https://gist.github.com/gullyn/95b2ab9e465317f1d4e4607cf6e94205
+
+Seeing is believing: a client-centric specification of database isolation
+https://blog.acolyer.org/2020/11/30/seeing-is-believing/
+
+Everything You Need to Know About Object Storage
+https://lakefs.io/object-storage/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 15/10/2020 -
+
+Unifying the Technical Interview
+https://aphyr.com/posts/354-unifying-the-technical-interview
+
+The -​-var: ; hack to toggle multiple values with one custom property
+https://lea.verou.me/2020/10/the-var-space-hack-to-toggle-multiple-values-with-one-custom-property/
+
+verless: A simple and lightweight Static Site Generator
+https://github.com/verless/verless
+
+Leading Trim is in the works!
+https://zellwk.com/blog/leading-trim/
+
+Dockerfile Security Best Practices
+https://cloudberry.engineering/article/dockerfile-security-best-practices/
+
+Code Reviews are Changes Too
+https://blog.auxon.io/2020/10/09/code-reviews-are-changes-too/
+
+essentia.js - a JavaScript library for music/audio signal analysis and processing for both real-time and offline use-cases
+https://mtg.github.io/essentia.js/
+
+Pluralsight is Free for a Week
+https://www.pluralsight.com/free
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

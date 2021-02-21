@@ -1,0 +1,35 @@
+TechPicks 29/04/2019 -
+
+WebGL magic walls
+https://oguzeroglu.github.io/ROYGBIV/demo/magic_walls/application.html
+
+Stop using so many divs! An intro to semantic HTML
+https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i
+
+The inception bar: a new phishing method
+https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method/
+
+A Comprehensive List of Tech Resources for All Junior Devs
+https://medium.com/@claytonwert/a-comprehensive-list-of-tech-resources-for-all-junior-devs-21ba0bf3f090
+
+10 Tips for Developers according to Twitter
+https://dev.to/turnerj/10-tips-for-developers-according-to-twitter-28hm
+
+Stop Teaching C++
+http://ibob.github.io/blog/2018/11/22/stop-teaching-cpp/
+
+You just need to know these properties to start loving CSS
+https://medium.freecodecamp.org/you-just-need-to-know-these-properties-to-start-loving-css-a06aca6087e9
+
+Help Keep Domain Prices in Check
+https://www.namecheap.com/blog/keep-domain-prices-in-check/
+
+How We Used WebAssembly To Speed Up Our Web App By 20X (Case Study)
+https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/
+
+Node.js modules and the "use strict" directive
+http://imaginativethinking.ca/what-the-heck-is-node-modules-strict-by-default/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

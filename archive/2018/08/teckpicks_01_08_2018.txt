@@ -1,0 +1,32 @@
+TechPicks 01/08/2018 -
+
+Svgurt - An interactive image to SVG conversion tool
+https://svgurt.com/
+
+Writing Secure JavaScript
+https://www.youtube.com/watch?v=c1H9JXgYY_Q&t=127s
+
+The Best Web Development Podcasts
+https://blog.planetargon.com/entries/the-best-web-development-podcasts
+
+Taskbook: Like Trello but for the Terminal
+https://github.com/klauscfhq/taskbook
+
+Stop hiding the error and start fixing the problem
+http://blog.plataformatec.com.br/2018/07/stop-hiding-the-error-and-start-fixing-the-problem/
+
+Automatically remove unused css from Bootstrap with PurgeCSS and Webpack
+https://lukencode.com/2018/07/29/automatically-removeunused-css-from-bootstrap-or-other-frameworks/
+
+Engineering Blogs - A Collection of engineering blogs from top tech companies in the world
+https://www.quickcode.co/engineer-blogs
+
+How we scaled nginx and saved the world 54 years every day
+https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day/
+
+Humble Book Bundle: Cybersecurity 2.0 by Wiley
+https://www.humblebundle.com/books/cybersecurity-wiley-books
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

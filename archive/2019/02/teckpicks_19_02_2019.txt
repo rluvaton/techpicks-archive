@@ -1,0 +1,35 @@
+TechPicks 19/02/2019 -
+
+Graceful GraphQL with React Hooks and MobX
+https://levelup.gitconnected.com/graceful-graphql-with-react-hooks-and-mobx-38b66e8d0ee7
+
+React 101: Things every beginner should know — Part 1
+https://medium.com/@nileshsingh/react-101-things-every-beginner-should-know-part-1-f90a9c2f891e
+
+Rethinking Separation of Concerns with React
+https://medium.com/@PurpleGreenLemon/7e5de1b5c0f7
+
+Everything I Wish I Knew Before My First Internship
+https://www.matthewgerstman.com/everything-i-wish-i-knew-before-my-first-bay-area-internship/
+
+Unclosuring closures and introducing Dependency Injection in JavaScript
+https://medium.com/@vladihost/unclosuring-closures-and-introducing-dependency-injection-in-javascript-3b6673d21862
+
+Elegant Development Experience With Zsh and Hyper Terminal
+https://www.robertcooper.me/elegant-development-experience-with-zsh-and-hyper-terminal
+
+Code-splitting with dynamic import — Test and Learn
+https://medium.com/@ohsiwon/code-splitting-with-dynamic-import-test-and-learn-28bc2a06d1b8
+
+You probably don’t need a single-page application
+https://journal.plausible.io/you-probably-dont-need-a-single-page-app
+
+Using CSS Grid the right way
+https://vgpena.github.io/using-css-grid-the-right-way/
+
+Raster—CSS Grid System
+https://rsms.me/raster/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

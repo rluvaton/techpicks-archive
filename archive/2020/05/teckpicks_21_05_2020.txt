@@ -1,0 +1,29 @@
+TechPicks 21/05/2020 -
+
+IE11 Mainstream End Of Life in Oct 2020
+https://www.swyx.io/writing/ie11-eol/
+
+Better Box Shadows
+https://uglyduck.ca/better-box-shadows/
+
+Ray Tracing In Notepad.exe At 30 FPS
+http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html
+
+Welcome to C# 9
+https://devblogs.microsoft.com/dotnet/welcome-to-c-9-0/
+
+Microsoft CEO Not a Huge Fan of Remote Work During COVID-19
+https://insights.dice.com/2020/05/19/microsoft-ceo-not-huge-fan-remote-work-covid-19/
+
+Rust-101
+https://www.ralfj.de/projects/rust-101/main.html
+
+Things I hate about Rust
+https://blog.yossarian.net/2020/05/20/Things-I-hate-about-rust
+
+Opinionated: Don't Fear Empty Divs (And Other Semantic Faux Pas)
+https://www.coryetzkorn.com/blog/dont-fear-empty-divs/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,44 @@
+TechPicks 23/08/2018 -
+
+Animated Bezier Curves
+https://www.jasondavies.com/animated-bezier/
+
+An Interactive Article - Visualizing Process with JavaScript ES6 Generators
+http://vez.website/a/?Visualizing%20Process%20with%20ES6%20Generators
+
+CodeDribble is a web portal where you can view, validate, edit, convert, beautify/minify and compare
+http://www.codedribble.com
+
+Incredible CSS-only animation: Fancy Input
+https://codepen.io/stanko/pen/PdwGEy
+
+On Transitioning from Google Maps API to Leaflet.js and OSM
+https://www.neilgunton.com/doc/?o=1mr&doc_id=21272
+
+Teutonic CSS: 12KB of CSS to jump start your HTML
+https://teutonic.co/
+
+Dynamic App Themes with CSS Variables and JavaScript 🎨
+https://medium.com/@mjw56/css-variables-dynamic-app-themes-86c0db61cbbb
+
+Proton, a modified version of WINE for playing Windows games on Linux... Officially by Valve.
+https://github.com/ValveSoftware/Proton
+
+Google, Apple and IBM are ditching college degree requirements
+https://www.axios.com/google-apple-college-degree-hiring-a290bca8-65a7-4de2-8fa9-d93b4c30457a.html
+
+----- Mod and Remainder are not the Same
+----- https://rob.conery.io/2018/08/21/mod-and-remainder-are-not-the-same/
+
+Redis will remain BSD licensed
+http://antirez.com/news/120
+
+The Commons Clause will destroy open source
+https://drewdevault.com/2018/08/22/Commons-clause-will-destroy-open-source.html
+
+A Practical Introduction to Artificial Neural Networks with Python
+http://krisbolton.com/a-practical-introduction-to-artificial-neural-networks-with-python/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

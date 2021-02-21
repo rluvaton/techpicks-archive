@@ -1,0 +1,47 @@
+TechPicks 08/08/2018 -
+
+Yonatan Doron - How I Implemented the Medium Clap from Scratch
+https://medium.com/@yonatandoron/how-i-implemented-the-medium-clap-from-scratch-4a16ac90ad3b
+
+The Free, Online, React Native Bootcamp starts tonight
+https://tylermcginnis.com/free-react-native-bootcamp/
+
+Where Vim Came From
+https://twobithistory.org/2018/08/05/where-vim-came-from.html
+
+Removing Babel's Stage Presets
+https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets
+
+TinyEditor – A functional HTML/CSS/JS editor in less than 400 bytes
+https://github.com/umpox/TinyEditor
+
+How to deal with dirty side effects in your pure functional JavaScript
+https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/
+
+Let's Encrypt Is Now Officially Trusted by All Major Root Certificates
+https://www.bleepingcomputer.com/news/security/lets-encrypt-is-now-officially-trusted-by-all-major-root-certificates/
+
+The Beginning of the End of WPA-2 — Cracking WPA-2 Just Got a Whole Lot Easier
+https://medium.com/@billbuchanan_27654/the-beginning-of-the-end-of-wpa-2-cracking-wpa-2-just-got-a-whole-lot-easier-55d7775a7a5a
+
+How I gained commit access to Homebrew in 30 minutes
+https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab
+
+Homebrew: Security Incident Disclosure
+https://brew.sh/2018/08/05/security-incident-disclosure/
+
+25 Tips for New Developers: Advice from a (Mostly) Self-Taught Software Engineer
+https://dev.to/aspittel/25-tips-for-new-developers-advice-from-a-mostly-self-taught-software-engineer-1ff1
+
+Securing Web Sites Made Them Less Accessible
+https://meyerweb.com/eric/thoughts/2018/08/07/securing-sites-made-them-less-accessible/
+
+Now you can use JavaScript modules on the web
+https://developers.google.com/web/fundamentals/primers/modules
+
+Document Your #@$#$ REST API - Seashore
+https://www.seashore.io/document-api/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

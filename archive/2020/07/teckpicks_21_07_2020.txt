@@ -1,0 +1,29 @@
+TechPicks 21/07/2020 -
+
+According to GPT3 - All software development problems are so simple, that a monkey could do it
+http://www.bemmu.com/gpt3-presentation
+
+550+ customizable (size, color, stroke) open-source SVG icons for web developers
+https://tablericons.com
+
+Ireland donates its contact tracing app to the Linux Foundation to be open-sourced
+https://www.nearform.com/blog/ireland-donates-contact-tracing-app-to-linux-foundation/
+
+Jailer - a tool for database subsetting and relational data browsing
+https://github.com/Wisser/Jailer
+
+Vue Docs Writing Guide
+https://v3.vuejs.org/guide/writing-guide.html
+
+Storybook Controls - Live edit UI components with no code
+https://medium.com/storybookjs/storybook-controls-ce82af93e430
+
+How to Build HTML Forms Right: Styling
+https://stegosource.com/build-html-forms-right-styling/
+
+6 Tips to finish your Side Project
+https://thomas-sojka.tech/6-tips-to-finish-your-side-project.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

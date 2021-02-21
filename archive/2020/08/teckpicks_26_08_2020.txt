@@ -1,0 +1,23 @@
+TechPicks 26/08/2020 -
+
+ztext.js - a new JS library (3.9 kb) that makes any font 3D
+https://bennettfeely.com/ztext
+
+Serverless versus containers
+https://medium.com/@jwnwilson/serverless-versus-containers-20cb3ae1d9a1
+
+Vuln Cost: An open source security scanner for VS Code
+https://snyk.io/security-scanner-vuln-cost/
+
+What's it like as a Senior Engineer? My experiences working at Google & Microsoft
+https://www.zainrizvi.io/blog/whats-it-like-as-a-senior-engineer/
+
+Don't marry your design after the first date
+https://tomgamon.com/posts/2020-08-25-dont-marry-your-design/
+
+How to stop procrastinating by using the Fogg Behavior Model
+https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,26 @@
+TechPicks 13/07/2020 -
+
+Linux team approves new terminology, bans terms like 'blacklist' and 'slave'
+https://www.zdnet.com/article/linux-team-approves-new-terminology-bans-terms-like-blacklist-and-slave/
+
+Building a self-updating profile README for GitHub
+https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
+
+Tour of Rust
+https://tourofrust.com/
+
+Hukum - Github Action progress in your terminal
+https://github.com/abskmj/hukum
+
+Generating billions of UUIDs in the browser
+https://medium.com/teads-engineering/generating-uuids-at-scale-on-the-web-2877f529d2a2
+
+"The Plague of Linters": Controversial, but painfully real thoughts on common linting mistakes
+https://redd.one/blog/the-plague-of-linters
+
+Best way to keep users safe while using Google Analytics
+https://itsopensource.com/best-way-to-keep-users-safe-while-using-google-analytics/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

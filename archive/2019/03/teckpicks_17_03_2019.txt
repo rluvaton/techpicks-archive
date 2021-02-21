@@ -1,0 +1,32 @@
+TechPicks 17/03/2019 -
+
+Intro: YugaByte DB is a high-performance SQL database for powering internet-scale, globally-distributed applications
+https://docs.yugabyte.com/latest/introduction/
+
+UI Email Signature Generator - Make easy to create your email signature
+https://mysigmail.com/
+
+Multi-threaded programming quizzes
+https://deadlockempire.github.io/
+
+A GitHub action which automatically deploys your site to GitHub pages
+https://github.com/JamesIves/github-pages-deploy-action
+
+Simple visualizer for CSS3 Matrix 3D transforms
+https://github.com/ramlmn/visualizing-matrix3d
+
+Finally, a CSS only solution to :hover on touchscreens
+https://medium.com/@mezoistvan/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c
+
+Use Docker to Create a Node.js Development Environment
+https://auth0.com/blog/use-docker-to-create-a-node-development-environment/
+
+Overengineering CSS
+https://gomakethings.com/overengineering-css/
+
+Getting started with fp-ts: Semigroup
+https://dev.to/gcanti/getting-started-with-fp-ts-semigroup-2mf7
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

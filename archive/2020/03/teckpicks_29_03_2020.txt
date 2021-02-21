@@ -1,0 +1,32 @@
+TechPicks 29/03/2020 -
+
+New Grad vs. Senior Dev
+https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/
+
+Introduction to MobX & React in 2020
+https://youtu.be/pnhIJA64ByY
+
+How are Unix pipes implemented?
+https://toroid.org/unix-pipe-implementation
+
+Bootstrap 5 is dropping IE 10 & 11 browser support
+https://themesberg.com/blog/bootstrap/bootstrap-5-ie-11-browser-support
+
+How to speed up Node.js modules installation in CI/CD Pipeline as of 2020
+https://medium.com/@jeromewus/how-to-speed-up-node-js-modules-installation-in-ci-cd-pipeline-as-of-2020-4865d77c0eb7
+
+Learn D3: a guided intro
+https://observablehq.com/@d3/learn-d3
+
+What happens when the maintainer of a JS library downloaded 26m times a week goes to prison for killing someone with a motorcycle? Core-js just found out
+https://www.theregister.co.uk/2020/03/26/corejs_maintainer_jailed_code_release/
+
+react-ultimate-resume is an open-source customizable software developer resume to highlight your skills and experiences (built with React and JSONResume)
+https://github.com/welovedevs/react-ultimate-resume
+
+A Practical Guide to Memory Leaks in Node.js
+https://www.arbazsiddiqui.me/a-practical-guide-to-memory-leaks-in-nodejs/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,32 @@
+TechPicks 08/01/2019 -
+
+Github private repositories are free now
+https://github.com/pricing
+
+This is the final straw, evil Microsoft. Making private GitHub repos free? You've gone too far
+https://www.theregister.co.uk/2019/01/07/github_free_private_repos/
+
+Node.js Testing & Continuous Integration Tips
+https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347
+
+A pragmatic overview of Async Hooks API in Node.js
+https://itnext.io/a-pragmatic-overview-of-async-hooks-api-in-node-js-e514b31460e9
+
+Power Up Your Command Line, Part 3
+https://dev.to/_darrenburns/power-up-your-command-line-part-3-4o53
+
+34 Ways to Save Time on Manual Cross-Browser Testing, Part 1: Methods 1-10
+https://dzone.com/articles/34-ways-to-save-time-on-manual-cross-browser-testi
+
+Understanding Gatsby’s Lifecycle
+https://medium.com/narative/understanding-gatsbys-lifecycle-31c473ba2f2d
+
+create-react-blog: Create a blog with create-react-app, MDX and TypeScript
+https://github.com/frontarm/create-react-blog
+
+Understanding React Hooks — useState
+https://blog.bitsrc.io/understanding-react-hooks-usestate-6627120614ab
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

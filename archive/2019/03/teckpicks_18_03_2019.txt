@@ -1,0 +1,20 @@
+TechPicks 18/03/2019 -
+
+Chrome 73 - What’s New in Dev Tools
+https://www.youtube.com/watch?v=uddZX9ZK6wY
+
+Dr. Alan Kay on the Meaning of "Object-Oriented Programming"
+http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en
+
+Dan Abramov - Writing Resilient Components
+https://overreacted.io/writing-resilient-components/
+
+41 quality React blogs of the past week
+https://www.reddit.com/r/reactjs/comments/b24w8g/41_quality_react_blogs_of_the_past_week_that/
+
+Introducing Marshal.ts, the typesafe serializer for TypeScript. One entity definition for all: frontend, http transport, backend, database
+https://github.com/marcj/marshal.ts
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

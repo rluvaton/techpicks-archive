@@ -1,0 +1,26 @@
+TechPicks 04/02/2020 -
+
+The Missing Semester of Your CS Education
+https://missing.csail.mit.edu/
+
+useEffect(fn, []) is not the new componentDidMount()
+https://reacttraining.com/blog/useEffect-is-not-the-new-componentDidMount/
+
+Chrome 80 - What’s New in DevTools - Support for let and class redeclarations, improved WebAssembly debugging and more
+https://www.youtube.com/watch?v=2EiPb1opH3g
+
+Understanding the ECMAScript spec, part 1
+https://v8.dev/blog/understanding-ecmascript-part-1
+
+Animation Worklet: The 4 Missing Features
+https://inventingwithmonster.io/20200203-animationworklet-the-missing-pieces/
+
+Practical Functional Programming with Javascript
+https://medium.com/nmc-techblog/practical-functional-programming-with-javascript-c1a9d2d0c6df
+
+GLTFJSX 1.0 released, a tool that brings 3D content to the web as re-usable React components
+https://github.com/react-spring/gltfjsx/blob/master/whatsnew.md
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

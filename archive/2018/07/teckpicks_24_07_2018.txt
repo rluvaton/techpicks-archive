@@ -1,0 +1,44 @@
+TechPicks 24/07/2018 -
+
+Your favorite icons in pure CSS
+https://cssicon.space/#/
+
+Short article on crafting great UX when doing API calls from JavaScript
+https://medium.com/@ryan.da.baker/crafting-beautiful-ux-with-api-requests-56e7dcc2f58e
+
+excel4node: Node.js module to create Excel (XLSX) files
+https://github.com/natergj/excel4node
+
+Testing in Production the Netflix Way
+https://launchdarkly.com/blog/testing-in-production-the-netflix-way/
+
+ReactOS releases 0.4.9 with much improved stability and self-hosting ability
+https://www.reactos.org/project-news/reactos-049-released
+
+Modular Game Worlds in Phaser 3 (Tilemaps #3) - Procedural Dungeon - Medium
+https://medium.com/p/3bc19b841cd
+
+One Year of Serverless - a CTO's Review
+https://javascript.works-hub.com/learn/one-year-of-serverless-22361
+
+Handling errors with async/await and promises
+https://medium.com/@cvitullo/handling-errors-with-async-await-and-promises-cd2fea534f08
+
+Optimizing a breadth-first search
+https://www.snellman.net/blog/archive/2018-07-23-optimizing-breadth-first-search/
+
+Website Size: The Average Web Page Size Is More than 2MB – Twice the Size of the Average Page Just 3 Years Ago
+https://www.machmetrics.com/speed-blog/website-size-the-average-web-page-size-is-more-than-2mb-twice-the-size-of-the-average-page-just-3-years-ago/
+
+Visually Designing State Machines with React & Statecharts
+https://medium.freecodecamp.org/how-to-visually-design-state-in-javascript-3a6a1aadab2b
+
+What Are Service Workers and How They Help Improve Performance
+https://www.keycdn.com/blog/service-workers/
+
+Beyond Regular Expressions: An Introduction to Parsing Context Free Grammars
+https://medium.com/@cdiggins/beyond-regular-expressions-an-introduction-to-parsing-context-free-grammars-ee77bdab5a92
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

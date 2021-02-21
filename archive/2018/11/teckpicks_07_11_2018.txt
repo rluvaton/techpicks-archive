@@ -1,0 +1,35 @@
+TechPicks 07/11/2018 -
+
+The Road to GraphQL [free eBook]
+https://www.robinwieruch.de/the-road-to-graphql-book/
+
+A Netflix Web Performance Case Study
+https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9
+
+Understanding CSS Animations in Email: Transitions and Keyframe Animations
+https://litmus.com/blog/understanding-css-animations-in-email-transitions-and-keyframe-animations
+
+You can run SQL-like queries in Google Sheets for crunching data
+https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/
+
+Chrome to ad-block an entire website if it shows abusive ads
+https://www.theverge.com/platform/amp/2018/11/5/18063906/chrome-71-update-abusive-ads-blocking-december-2018
+
+Anglocentrism broke my tests – ignore localisation at your peril
+http://blog.tdwright.co.uk/2018/11/06/anglocentrism-broke-my-tests-ignore-localisation-at-your-peril/
+
+Mything the point: The AI renaissance is simply expensive hardware and PR thrown at an old idea
+https://www.theregister.co.uk/2018/11/06/andrew_fentem_on_ai/
+
+TabNine: an autocompleter for all languages
+https://tabnine.com/
+
+The Linux Foundation announces intent to form new foundation to support GraphQL
+https://www.linuxfoundation.org/press-release/2018/11/intent_to_form_graphql/
+
+6502 source code for BBC Micro game Crazee Rider from 1987 is released
+https://twitter.com/KevEdwardsRetro/status/1059562559123218432
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

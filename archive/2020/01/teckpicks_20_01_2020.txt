@@ -1,0 +1,26 @@
+TechPicks 20/01/2020 -
+
+The new Babel release gives support for ECMAscript 2020 features. We can now use the nullish operator, optional chaining and dynamic module import
+https://babeljs.io/blog/2020/01/11/7.8.0
+
+JavaScript tree shaking, like a pro
+https://medium.com/@bluepnume/javascript-tree-shaking-like-a-pro-7bf96e139eb7
+
+npmbomb - Guess dependencies count for popular NPM packages
+https://npmbomb.tmkn.dev/
+
+No, dynamic type systems are not inherently more open
+https://lexi-lambda.github.io/blog/2020/01/19/no-dynamic-type-systems-are-not-inherently-more-open/
+
+OneDev: A Super Easy All-In-One DevOps Platform
+https://github.com/theonedev/onedev
+
+A set of standard document templates
+https://github.com/kbariotis/templates
+
+How is search so goddamn bad? A Case Study
+https://svilentodorov.xyz/blog/bad-search/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

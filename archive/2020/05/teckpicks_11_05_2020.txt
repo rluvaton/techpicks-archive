@@ -1,0 +1,26 @@
+TechPicks 11/05/2020 -
+
+Second-guessing the modern web
+https://macwright.org/2020/05/10/spa-fatigue.html
+
+useHooks - Easy to understand React Hook recipes by Gabe Ragland
+https://usehooks.com/
+
+AngularJS Migration War Story
+https://codingwithjs.rocks/blog/angular-js-migration-war-story
+
+Scunthorpe Sans - automatically censors profanity using ligatures
+https://vole.wtf/scunthorpe-sans/
+
+The ultimate guide to CSS Grid
+https://www.freecodecamp.org/news/complete-css-grid-tutorial/
+
+Mistakes made and lessons learned with Kubernetes and GitOps
+https://blog.lukechannings.com/2020-05-10-kubernetes-gitops-lessons.html
+
+Rachel Andrew - Making Things Better: Redefining the Technical Possibilities of CSS
+https://aneventapart.com/news/post/making-things-better-aea-video
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

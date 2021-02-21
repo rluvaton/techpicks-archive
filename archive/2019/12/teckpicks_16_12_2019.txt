@@ -1,0 +1,29 @@
+TechPicks 16/12/2019 -
+
+"My top React techtalks of 2019"
+https://reddit.com/r/reactjs/comments/eay5cg/my_top_react_techtalks_of_2019/
+
+Asking questions is a skill: Lessons from 10 years of Stack Overflow
+https://blog.mattbierner.com/10-years-stack-overflow-learnings/
+
+Code Health: Respectful Reviews == Useful Reviews
+https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html
+
+SQL Murder Mystery
+https://mystery.knightlab.com/
+
+How to remove all node_modules folders in your system (and how not to)
+https://www.petroskyriakou.com/how-to-remove-all-node_modules-folders-in-your-system
+
+Spotify’s Event Delivery – Life in the Cloud
+https://labs.spotify.com/2019/11/12/spotifys-event-delivery-life-in-the-cloud/
+
+An introduction to Raspberry Pi 4 GPIO and controlling it with Node.js
+https://medium.com/@thatisuday/an-introduction-to-raspberry-pi-4-gpio-and-controlling-it-with-node-js-10f2ce41af12
+
+Getting started with serverless functions using Node.js and AWS
+https://medium.com/@ashwinsoni/getting-started-with-serverless-functions-using-nodejs-and-aws-eef8c84abbf3
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 08/10/2020 -
+
+With Chrome 86 we now have the File System Access Api
+https://developers.google.com/web/updates/2020/10/nic86
+
+SuperJSON - JSON on steroids
+https://simonknott.de/articles/SuperJSON.html
+
+A free and open source service to get a name.is-a.dev domain for developers
+https://github.com/is-a-dev/register
+
+Redux In Web Workers: Off-Main-Thread Redux Reducers and Middleware
+https://blog.asayer.io/redux-in-web-workers-off-main-thread-redux-reducers-and-middleware
+
+Becoming A Consultant In 2020: A How-To Guide
+https://ericvanular.com/becoming-a-consultant-in-2020/
+
+Pysa: Open Source static analysis for Python code by Facebook Engineering
+https://engineering.fb.com/security/pysa/
+
+Installation Tutorial for graphical Windows Subsystem on Linux (WSL2)
+https://l-o-o-s-e-d.net/wsl2
+
+Full-Bleed Layout Using CSS Grid
+https://www.joshwcomeau.com/css/full-bleed/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

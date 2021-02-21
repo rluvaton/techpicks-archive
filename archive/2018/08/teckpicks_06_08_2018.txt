@@ -1,0 +1,47 @@
+TechPicks 06/08/2018 -
+
+HERE Maps launches new generous freemium plan (250K free transactions per month) following Google Maps API changes
+https://venturebeat.com/2018/08/03/here-launches-new-freemium-plan-for-developers-in-response-to-google-maps-api-changes/
+
+Regular Expressions - Enough to be Dangerous
+https://youtu.be/bgBWp9EIlMM
+
+The peculiar magic of flexbox and auto margins
+https://css-tricks.com/the-peculiar-magic-of-flexbox-and-auto-margins/
+
+"How I slashed a SQL query runtime from 380 hours to 12 with two Unix commands"
+https://www.spinellis.gr/blog/20180805/
+
+Magical thinking about machine learning won’t bring the reality of AI any closer
+https://www.theguardian.com/commentisfree/2018/aug/05/magical-thinking-about-machine-learning-will-not-bring-artificial-intelligence-any-closer
+
+A Dynamic Programming Tutorial
+https://lukasmericle.github.io/dynprotut/
+
+What Does a Software Tech Lead Do?
+http://allyouneedisbackend.com/blog/2018/08/03/what-does-a-tech-lead-do/
+
+Virtual network sound card for Microsoft Windows
+https://github.com/duncanthrax/scream
+
+The SSH management TO-DOs list
+https://medium.com/@xynova/the-ssh-management-to-dos-list-7c40421387e1
+
+Functional programming talks
+https://hackernoon.com/functional-programming-talks-19f12cc20b8d
+
+Lessons from a small Firebase project
+https://medium.com/@jbesw/b433ce8ee49e
+
+WebAssembly and Blazor .NET – dreaming of sharing .NET code between the client & the server
+https://szumiato.pl/2018/08/03/webassembly-and-blazor-net-dreaming-of-sharing-net-code-between-the-client-the-server/
+
+A Powerful Argument Against Structural Inspection In Tests
+https://enterprisecraftsmanship.com/2016/07/21/unit-testing-anti-patterns-structural-inspection/
+
+Pragmatic Haskell III: Beam Postgres DB
+https://jappieklooster.nl/pragmatic-haskell-iii-beam-postgres-db.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

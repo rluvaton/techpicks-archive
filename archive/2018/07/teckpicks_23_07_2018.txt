@@ -1,0 +1,32 @@
+TechPicks 23/07/2018 -
+
+Rockstar: a programming language where code is also 1980s song lyrics
+https://github.com/dylanbeattie/rockstar
+
+GitHub - GoogleChromeLabs/ndb: ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
+https://github.com/GoogleChromeLabs/ndb
+
+React Performance Fixes on Airbnb Listing Pages – Airbnb Engineering
+https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4
+
+JavaScript- Currying VS Partial Application
+https://medium.com/@ideepak.jsd/javascript-currying-vs-partial-application-4db5b2442be8
+
+Google’s iron grip on Android: Controlling open source by any means necessary
+https://arstechnica.com/gadgets/2018/07/googles-iron-grip-on-android-controlling-open-source-by-any-means-necessary/
+
+a FUSE filesystem that allows you to mount HTTP directory listings
+https://github.com/fangfufu/httpdirfs/
+
+Job board: only for remote developer jobs.
+http://eastvox.com/
+
+Pax - JS bundler written in Rust
+https://github.com/nathan/pax
+
+Stuff you can do with CSS pointer events
+https://codepen.io/MartijnCuppens/pen/MBjqbM?editors=1100
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

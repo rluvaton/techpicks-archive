@@ -1,0 +1,35 @@
+TechPicks 28/04/2019 -
+
+GB Studio - a visual retro game maker
+https://github.com/chrismaltby/gb-studio
+
+Can’t Git no satisfaction: why we need a new-gen source control
+https://www.rookout.com/cant-git-no-satisfaction-why-we-need-a-new-gen-source-control/
+
+Introducing Base Web, Uber’s New Design System for Building Websites in React
+https://eng.uber.com/introducing-base-web/
+
+Jira CLI tool to quickly show tickets you're assigned to and its impedements
+https://github.com/wingleung/jira-standup
+
+Docker Hub Hacked – 190k accounts, GitHub tokens revoked, builds disabled
+https://news.ycombinator.com/item?id=19763413
+
+Metro Retro - a free to use collaboration tool for running team retrospectives
+https://metroretro.io/
+
+That Time I Tried Browsing the Web Without CSS
+https://css-tricks.com/that-time-i-tried-browsing-the-web-without-css/
+
+What's New in Node.js 12: ESM Imports
+http://thecodebarbarian.com/nodejs-12-imports.html
+
+Global HTTP/HTTPS proxy for Node.js v12+
+https://github.com/gajus/global-agent
+
+Moving Rainbow Border Around Div
+https://v.redd.it/tjdjvqirvwu21
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

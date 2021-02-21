@@ -1,0 +1,32 @@
+TechPicks 05/08/2020 -
+
+Alex Kubica - Render props improved our React components
+https://alexkubica.com/render-props-improved-our-react-components/
+
+Announcing the new TypeScript Website
+https://devblogs.microsoft.com/typescript/announcing-the-new-typescript-website/
+
+useState lazy initialization and function updates - by Kent C. Dodds
+https://kentcdodds.com/blog/use-state-lazy-initialization-and-function-updates
+
+Royalty-Free SVG Illustrations and Animations
+https://www.pixeltrue.com/free-illustrations
+
+Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business
+https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/
+
+Deconstructing Kubernetes Networking
+https://eevans.co/blog/deconstructing-kubernetes-networking/
+
+Introducing Bumbag – A React UI Kit
+https://bumbag.style/
+
+AWS on Your Local Machine With LocalStack
+https://medium.com/better-programming/dont-be-intimidated-learn-how-to-run-aws-on-your-local-machine-with-localstack-2f3448462254
+
+Things I Wish I Knew About Assembly
+http://blog.xn--sintheprogrammer-xmb.com/things-i-wish-i-knew-about-assembly
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

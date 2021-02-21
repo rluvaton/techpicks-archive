@@ -1,0 +1,35 @@
+TechPicks 10/02/2021 -
+
+Mozilla Welcomes the Rust Foundation
+https://blog.mozilla.org/blog/2021/02/08/mozilla-welcomes-the-rust-foundation/
+
+Node.js Modules, Packages, and SemVer
+https://thomashunter.name/posts/2021-02-08-nodejs-modules-packages-and-semver
+
+github1s - One second to read GitHub code with VS Code
+https://github.com/conwnet/github1s
+
+Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies
+https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610
+
+A Hands-on Introduction to Fine-Grained Reactivity
+https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf
+
+npm - Catching Up with Package Lockfile Changes in v7
+https://nitayneeman.com/posts/catching-up-with-package-lockfile-changes-in-npm-v7/
+
+Browser 'Favicons' Can Be Used as Undeletable ‘Supercookies’ to Track You Online
+https://www.vice.com/en/article/n7v5y7/browser-favicons-can-be-used-as-undeletable-supercookies-to-track-you-online
+
+Gaze-detection - Use machine learning in JavaScript to detect eye movements and build gaze-controlled experiences
+https://github.com/charliegerard/gaze-detection
+
+An Interactive Guide to CSS Transitions
+https://www.joshwcomeau.com/animation/css-transitions/
+
+The Surprising Things That CSS Can Animate
+https://codersblock.com/blog/the-surprising-things-that-css-can-animate/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

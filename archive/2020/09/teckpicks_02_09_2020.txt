@@ -1,0 +1,26 @@
+TechPicks 02/09/2020 -
+
+Introducing GitHub Container Registry
+https://github.blog/2020-09-01-introducing-github-container-registry/
+
+Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators
+https://www.jvt.me/posts/2020/09/01/against-online-tooling/
+
+Browsers may throttle requestAnimationFrame
+https://mattperry.is/writing-code/browsers-may-throttle-requestanimationframe-to-30fps
+
+First impressions of Github Codespaces
+https://www.aristotlemetadata.com/blog/2020/08/first-impressions-github-codespaces.html
+
+A Primer on Bézier Curves
+https://pomax.github.io/bezierinfo/
+
+Rewritten in Rust: Modern Alternatives of Command-Line Tools
+https://zaiste.net/posts/shell-commands-rust/
+
+No, typing *can be* the bottleneck
+https://thorstenball.com/blog/2020/09/01/typing-can-be-the-bottleneck/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

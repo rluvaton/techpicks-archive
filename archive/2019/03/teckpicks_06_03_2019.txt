@@ -1,0 +1,32 @@
+TechPicks 06/03/2019 -
+
+Storybook 5.0 – Gorgeous new developer experience
+https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8
+
+JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
+https://github.com/terser-js/terser
+
+JavaScript Symbols: But Why?
+https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c
+
+10 Awesome npm Security Best Practices for any JavaScript developer and maintainer
+https://snyk.io/blog/ten-npm-security-best-practices/
+
+Great Scott! Timing Attack Demo for the Everyday Webdev
+https://www.simplethread.com/great-scott-timing-attack-demo/
+
+Mitigating Gatekeeping and Impostor Syndrome with Emotional Intelligence
+https://hackernoon.com/mitigating-gatekeeping-and-impostor-syndrome-with-emotional-intelligence-1c837ba88d0b
+
+Node.js & JavaScript Testing Best Practices (2019)
+https://school.geekwall.in/p/Hyso3b4HE/node-js-javascript-testing-best-practices-2019
+
+Awesome Things to Do with Puppeteer
+https://www.codemate.com/en/awesome-things-to-do-with-puppeteer/
+
+useTypescript - A Complete Guide to React Hooks and TypeScript
+https://www.reddit.com/r/reactjs/comments/axjsu6/usetypescript_a_complete_guide_to_react_hooks_and/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,26 @@
+TechPicks 20/11/2018 -
+
+The State of JavaScript 2018
+https://2018.stateofjs.com/
+
+Google to pay JavaScript frameworks to implement performance-first code
+https://www.zdnet.com/article/google-to-pay-javascript-frameworks-to-implement-performance-first-code/
+
+Some notes about HTTP/3
+https://blog.erratasec.com/2018/11/some-notes-about-http3.html
+
+Why Using reduce() to Sequentially Resolve Promises Works
+https://css-tricks.com/why-using-reduce-to-sequentially-resolve-promises-works/
+
+Design patterns for modern web APIs
+https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215
+
+Optimizing data access in JavaScript arrays
+https://medium.com/@alessandro.mitelli/optimizing-data-access-in-javascript-arrays-dfd4894a4fc0
+
+The Most Annoying Website - JSConf US 2018 [VIDEO]
+https://www.youtube.com/watch?v=QFZ-pwErSl4
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,32 @@
+TechPicks 31/01/2021 -
+
+The weirdest compiler bug
+https://blog.zaita.com/mingw64-compiler-bug/
+
+Cracks are showing in Enterprise Open Source's foundations
+https://www.jeffgeerling.com/blog/2021/cracks-are-showing-enterprise-open-sources-foundations
+
+`undefined` vs. `null` revisited
+https://2ality.com/2021/01/undefined-null-revisited.html
+
+The life of a Web Component - Declarative State
+https://hugodaniel.com/posts/the-life-of-a-web-component-state-in-shadow/
+
+The life of a Web Component - Reversing the Shadow DOM visibility
+https://hugodaniel.com/posts/the-life-of-a-web-component-reverse-shadow-dom/
+
+Don't use functions as callbacks unless they're designed for it
+https://jakearchibald.com/2021/function-callback-risks/
+
+Updates from the latest TC39 meeting
+https://dev.to/hemanth/updates-from-80th-tc39-meeting-2nho
+
+fjb - Fast JavaScript Bundler, written in C
+https://github.com/sebbekarlsson/fjb
+
+Storybook addons to manage data & state
+https://storybook.js.org/blog/storybook-addons-to-manage-data-state/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

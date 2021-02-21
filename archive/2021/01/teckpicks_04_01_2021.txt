@@ -1,0 +1,41 @@
+TechPicks 04/01/2021 -
+
+Reverse Engineering Source Code of the Biontech Pfizer Vaccine: Part 2
+https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/
+
+Linus Torvalds rails against 80-character-lines as a de facto programming standard
+https://www.theregister.com/2020/06/01/linux_5_7/
+
+How to get the fastest web fonts
+https://twitter.com/leeerob/status/1345554813375938561?s=08
+
+How to write a simple formula parser in JavaScript. Includes a code editor with syntax highlighting and validation, and a formula evaluator that calculates the result.
+https://andrewstevens.dev/posts/formula-parser-in-javascript/
+
+Computer Programming for IKEA shoppers!
+https://idea-instructions.com/
+
+snm: Smol Node Manager | Cross-platform written in Rust
+https://github.com/numToStr/snm
+
+Guide For Exploring Large Open-Source Codebases
+https://pncnmnp.github.io/blogs/oss-guide.html
+
+fast-printf – Fast and spec-compliant printf implementation for Node.js and browser.
+https://github.com/gajus/fast-printf
+
+Why Software Development is Hard
+http://jeremymikkola.com/posts/2021_01_01_why_software_development_is_hard.html
+
+You Can Compare Dates in JavaScript
+https://filipvitas.medium.com/you-can-compare-dates-in-javascript-5437a2e7e98
+
+AWS Lambda the Terraform Way
+https://github.com/nsriram/lambda-the-terraform-way
+
+The Big Little Guide to Message Queues
+https://sudhir.io/the-big-little-guide-to-message-queues/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,26 @@
+TechPicks 19/03/2020 -
+
+COVID-19 projects looking for volunteers
+https://helpwithcovid.com/
+
+A Complete Guide to calc() in CSS
+https://css-tricks.com/a-complete-guide-to-calc-in-css/
+
+"We are pausing upcoming Chrome and Chrome OS releases."
+https://blog.chromium.org/2020/03/upcoming-chrome-releases.html
+
+Get Involved: Open Source Healthcare Software
+https://medium.com/@dannyrb/get-involved-open-source-healthcare-software-a5122c505ec0
+
+Why we chose Typescript for the Hasura Console (React Codebase)
+https://hasura.io/blog/why-we-chose-typescript-for-hasura-console/
+
+Inside Fiber: in-depth overview of the new reconciliation algorithm in React
+https://indepth.dev/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react/
+
+How Prince of Persia Defeated Apple II's Memory Limitations | War Stories | Ars Technica
+https://youtu.be/sw0VfmXKq54
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

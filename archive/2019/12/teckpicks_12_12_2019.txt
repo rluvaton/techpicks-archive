@@ -1,0 +1,29 @@
+TechPicks 12/12/2019 -
+
+Yoni Goldberg - 20 ways to become a better Node.js developer in 2020
+https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424
+
+Reports of the Virtual DOM’s Death are Greatly Exaggerated
+https://medium.com/javascript-in-plain-english/reports-of-the-virtual-doms-death-are-greatly-exaggerated-2206d00beead
+
+Patching your node_modules
+https://opensource.christmas/2019/4
+
+Electron joins the OpenJS Foundation
+https://openjsf.org/blog/2019/12/11/electron-joins-the-openjs-foundation/
+
+Safer-Eval library branded ‘harmful’ with no patch planned
+https://portswigger.net/daily-swig/safer-eval-library-branded-harmful-with-no-patch-planned
+
+Automatically lazy-loading offscreen images & iframes for Lite mode users
+https://blog.chromium.org/2019/10/automatically-lazy-loading-offscreen.html
+
+Five years later, Heartbleed vulnerability still unpatched
+https://blog.malwarebytes.com/exploits-and-vulnerabilities/2019/09/everything-you-need-to-know-about-the-heartbleed-vulnerability/
+
+Multiple Git vulnerabilities in 2.24 and older
+https://github.blog/2019-12-10-multiple-git-vulnerabilities-in-2-24-and-older/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

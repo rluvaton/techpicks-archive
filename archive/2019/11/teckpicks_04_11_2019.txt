@@ -1,0 +1,23 @@
+TechPicks 04/11/2019 -
+
+Shared Cache is Going Away
+https://www.jefftk.com/p/shared-cache-is-going-away
+
+Level up git! Rebasing and Squashing
+https://medium.com/@nbelakovski/level-up-git-rebasing-and-squashing-6bff432d796e
+
+Night Mode with Mix Blend Mode: Difference
+https://dev.wgao19.cc/sun-moon-blending-mode/
+
+5 things you can do with CSS instead of JavaScript
+https://dev.to/bnevilleoneill/5-things-you-can-do-with-css-instead-of-javascript-975
+
+Scaling Web Sockets using Shared Workers
+https://ayushgp.github.io/scaling-websockets-using-sharedworkers/
+
+Chrome 78 will allow websites to edit local files
+https://www.androidpolice.com/2019/11/01/chrome-beta-78-allows-sites-to-edit-local-files-read-verification-sms-texts-and-more/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

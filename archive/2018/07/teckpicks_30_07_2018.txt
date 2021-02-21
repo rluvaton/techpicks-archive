@@ -1,0 +1,41 @@
+TechPicks 30/07/2018 - 
+
+You Can Now Write Google Cloud Functions with Node.js 8
+https://itnext.io/you-can-now-write-google-cloud-functions-with-node-js-8-bd066ea6d4f5
+
+Why Discord is Sticking with React Native – Discord Blog
+https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427
+
+I created the exact same app in React and Vue. Here are the differences.
+https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd
+
+🎮 The only Front-End Performance Checklist that runs faster than the others
+https://github.com/thedaviddias/Front-End-Performance-Checklist
+
+A Vue pattern for idiomatic, performant component registration you might not know about
+https://itnext.io/vue-a-pattern-for-idiomatic-performant-component-registration-you-might-not-know-about-9f3c091846f5
+
+Vim.Wasm - Vim editor ported to WebAssembly
+https://rhysd.github.io/vim.wasm/
+
+Pyxel: a retro gaming console in Python
+https://github.com/kitao/pyxel
+
+[Kotlin] Inheritance, composition, delegation, and traits
+https://blog.kotlin-academy.com/inheritance-composition-delegation-and-traits-b11c64f11b27
+
+Declarative GUIs: Simple, Consistent, and Verified [pdf]
+http://www.cs.swan.ac.uk/~csetzer/articles/PPDP18/PPDP18adelsbergerSetzerWalkingshawAccepted.pdf
+
+The Felix programming language
+https://github.com/felix-lang/felix
+
+Keep a changelog
+https://keepachangelog.com/en/1.0.0/
+
+Cross-platform system monitoring tool written in Python
+https://nicolargo.github.io/glances/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

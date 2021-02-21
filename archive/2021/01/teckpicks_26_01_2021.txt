@@ -1,0 +1,35 @@
+TechPicks 26/01/2021 -
+
+Israeli Queues
+https://arpitbhayani.me/blogs/israeli-queues
+
+The styled-components happy path
+https://www.joshwcomeau.com/css/styled-components/
+
+Google has turned off access to sync features for Non-Google Chromium 
+https://bodhi.fedoraproject.org/updates/FEDORA-2021-48866282e5
+
+Metamorphic Testing
+https://www.hillelwayne.com/post/metamorphic-testing/
+
+Testing Microservices, the sane way
+https://copyconstruct.medium.com/testing-microservices-the-sane-way-9bb31d158c16
+
+Unit Test Fetish
+https://250bpm.com/blog:40/
+
+Livewire a full-stack framework for Laravel that makes building dynamic interfaces simple, without leaving the comfort of Laravel
+https://laravel-livewire.com/
+
+JavaScript Wake Lock API
+https://davidwalsh.name/wake-lock-api
+
+How would websites look like if they had motion blur on scroll
+https://pie6k.github.io/motionblur/
+
+Fluid Typography with two-dimensional CSS Locks
+https://frontaid.io/blog/fluid-typography-2d-css-locks-clamp/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

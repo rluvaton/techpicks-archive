@@ -1,0 +1,29 @@
+TechPicks 04/09/2019 -
+
+Simplify your JavaScript – Use .some() and .find()
+https://medium.com/poka-techblog/simplify-your-javascript-use-some-and-find-f9fb9826ddfd
+
+The history of Tetris randomizers
+https://simon.lc/the-history-of-tetris-randomizers
+
+ORMs are backwards
+https://abe-winter.github.io/2019/09/03/orms-backwards.html
+
+Using WSL 2 with Visual Studio Code
+https://code.visualstudio.com/blogs/2019/09/03/wsl2
+
+Testing Firestore locally with Firebase emulators
+https://claritydev.net/blog/testing-firestore-locally-with-firebase-emulators
+
+Use React Context to DRY up your components
+https://akoskm.com/2019/09/03/react-usecontext-practical-example.html
+
+"My favorite CSS hack"
+https://medium.com/@gajus/my-favorite-css-hack-a7f447026cf2
+
+Firefox 69: Resize Observer, JS public instance fields, DevTools (Event Listener Breakpoints, new Remote Debugging) & more
+https://hacks.mozilla.org/2019/09/firefox-69-a-tale-of-resize-observer-microtasks-css-and-devtools/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

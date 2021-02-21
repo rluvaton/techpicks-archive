@@ -1,0 +1,31 @@
+TechPicks 20/06/2019 -
+
+The Real Cost of UI Components
+https://medium.com/better-programming/the-real-cost-of-ui-components-6d2da4aba205
+
+Colleges improve website accessibility as they are defendants in lawsuits - About 50 institutions are being sued
+https://www.ithacajournal.com/story/news/local/2019/06/13/colleges-improve-websites-they-subjects-lawsuits/1302352001/
+
+Hiring is Broken: What Do Developers Say About Technical Interviews?
+https://medium.com/@gameweld/hiring-is-broken-what-do-developers-say-about-technical-interviews-21821141ca71
+
+I Git It! ― Summary of my Aha! moments with Git
+https://legends2k.github.io/note/git_concepts/
+
+Where Has the Magic Gone?
+https://arnavdhamija.com/2019/06/19/where-has-the-magic-gone/
+
+GitHub README templates & tips on writing high-quality documentation
+https://github.com/kylelobo/The-Documentation-Compendium/
+
+Great overview and analysis of all major data structures and algorithms, in JavaScript, with code
+https://github.com/amejiarosario/dsa.js-data-structures-and-algorithms-in-javascript
+
+A Look At PHP’s isset()
+https://blog.usejournal.com/a-look-at-phps-isset-df64df7158ab
+
+How to Increase Your Page Size by 1,500% with webpack and Vue
+https://css-tricks.com/how-to-increase-your-page-size-by-1500-with-webpack-and-vue/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

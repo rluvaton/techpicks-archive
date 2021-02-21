@@ -1,0 +1,20 @@
+TechPicks 17/10/2019 -
+
+Things All Developers Should Learn In College
+https://www.cdevn.com/what-developers-should-actually-learn-in-college/
+
+Next + Nest: Working together
+https://medium.com/real-dev-engineering/next-nest-working-together-199bd45c1bcc
+
+Practical applications of Rest and Spread operator
+https://www.wisdomgeek.com/development/web-development/rest-and-spread-operator-three-dots-that-changed-javascript/
+
+Understanding JavaScript UI Benchmarking
+https://medium.com/javascript-in-plain-english/understanding-javascript-ui-benchmarking-afe4278b4b46
+
+FPGA design for Software Engineers
+https://www.walknsqualk.com/post/014-tiny-fpga-bx/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

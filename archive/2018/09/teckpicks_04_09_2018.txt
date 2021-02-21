@@ -1,0 +1,35 @@
+TechPicks 04/09/2018 -
+
+Hygen: The simple, fast, and scalable code generator that lives in your project
+http://www.hygen.io/
+
+pnpm vs Lerna: filtering in a multi-package repository
+https://medium.com/pnpm/pnpm-vs-lerna-filtering-in-a-multi-package-repository-1f68bc644d6a
+
+GraphQL List - How to use arrays in GraphQL schema (GraphQL Modifiers)
+https://graphqlmastery.com/blog/graphql-list-how-to-use-arrays-in-graphql-schema
+
+Customize Radio Buttons without Compromising Accessibility
+https://blog.bitsrc.io/customise-radio-buttons-without-compromising-accessibility-b03061b5ba93
+
+​Linus Torvalds talks frankly about Intel security bugs
+https://www.zdnet.com/article/linus-torvalds-talks-frankly-about-intel-security-bugs/
+
+TypeScript at Google
+http://neugierig.org/software/blog/2018/09/typescript-at-google.html
+
+Learning BASIC Like It's 1983
+https://twobithistory.org/2018/09/02/learning-basic.html
+
+Jenkins: Shifting Gears
+https://jenkins.io/blog/2018/08/31/shifting-gears/
+
+Braid – A More Organized Slack-like Group Chat (Open Source, Written in Clojure)
+https://github.com/braidchat/braid
+
+Learn Binary and Hex with this Gwent-Inspired Card Game
+https://medium.com/squallygame/learn-binary-and-hex-with-this-gwent-inspired-card-game-5e2c7a27a507
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

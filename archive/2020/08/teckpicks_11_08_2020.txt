@@ -1,0 +1,26 @@
+TechPicks 11/08/2020 -
+
+React v17.0 Release Candidate: No New Features
+https://reactjs.org/blog/2020/08/10/react-v17-rc.html
+
+How I became a senior JavaScript developer with personal projects
+https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
+
+Ideas for Programmers Looking Beyond Web Development
+https://carolchen.me/blog/past-webdev/
+
+How I Modernized My Flash Game
+http://twinbeard.com/how-i-modernized-my-flash-game.html
+
+Safety-Critical Software: 15 things every developer should know
+https://smallbusinessprogramming.com/safety-critical-software-15-things-every-developer-should-know/
+
+How to customize git diff to spot changes faster
+https://gitbetter.substack.com/p/how-to-customize-git-diff-to-spot
+
+Why the C Language Will Never Stop You from Making Mistakes
+https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 05/11/2018 -
+
+Basics: How to stop using console.log() and start using your browser’s debugger
+https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff
+
+🎓 Path to a free self-taught education in Computer Science!
+https://github.com/ossu/computer-science
+
+What Most Remote Companies Don’t Tell You About Remote Work
+https://blog.doist.com/mental-health-and-remote-work-1b77616f6945
+
+Programming Paradigms for Dummies: What Every Programmer Should Know [pdf]
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
+
+Red Dead Redemption 2 loading screen in CSS
+https://codepen.io/leemartin/pen/KrKGbM
+
+An error message in Windows 10 is a mistake from 1974
+https://threadreaderapp.com/thread/1058676834940776450.html
+
+XOR Swap Explained Visually
+https://teaearlgraycold.me/xor-swap-explained-visually/
+
+An Amazon Interview Horror Story
+https://www.igorkromin.net/index.php/2018/11/04/my-amazon-interview-horror-story/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

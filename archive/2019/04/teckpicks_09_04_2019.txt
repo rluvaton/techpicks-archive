@@ -1,0 +1,32 @@
+TechPicks 09/04/2019 -
+
+Progressive Web Apps: do we still need native apps at all?
+https://itnext.io/progressive-web-apps-do-we-still-need-native-apps-at-all-bb7a00ae4fa7
+
+Kyle Simpson: I’ve Forgotten More JavaScript Than Most People Ever Learn
+https://medium.com/@amsterdamjs/kyle-simpson-ive-forgotten-more-javascript-than-most-people-ever-learn-3bddc6c13e93
+
+Microsoft releases new Microsoft Edge based on Chromium
+https://twitter.com/MSEdgeDev/status/1115283353731600384?s=19
+
+A terminal-based Snake implementation written in JavaScript (Node.js)
+https://github.com/taniarascia/snek
+
+Channel.js - a library which aims to do for async iterators what the promise constructor did for promises
+https://github.com/channeljs/channel
+
+Mozilla is Working on a Time Travel Debugger for JavaScript
+https://codesmithdev.com/mozilla-is-working-on-a-time-travel-debugger-for-javascript/
+
+Microsoft reveals all the Google things it removed in its Chromium Edge browser
+https://www.theverge.com/2019/4/8/18300772/microsoft-google-services-removed-changed-chromium-edge-browser
+
+Netlify Releases Netlify Dev
+https://www.netlify.com/products/dev/
+
+CSS code-golfing is here! Use your CSS skills to replicate targets with smallest possible code
+https://cssbattle.dev/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,32 @@
+TechPicks 22/05/2019 -
+
+GraphQL + Suspense by Jared Palmer, Engineering Lead at The Palmer Group
+https://www.youtube.com/watch?v=8mnaI8BpsmE
+
+JavaScript Clean Code - Best Practices - based on Robert C. Martin's book Clean Code
+https://devinduct.com/blogpost/22/javascript-clean-code-best-practices
+
+I don't know how CPUs work so I simulated one in code
+https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/
+
+Some Elasticsearch security features are now free for everyone
+https://www.zdnet.com/article/some-elasticsearch-security-features-are-now-free-for-everyone/
+
+Anti Patterns of Continuous Integration
+https://hackernoon.com/anti-patterns-of-continuous-integration-e1cafd47556d
+
+Managing a Secure JSON Web Token Implementation
+https://cursorblog.com/managing-a-secure-json-web-token-implementation/
+
+How to Easily Share Reusable Modules in Node.js - at Scale
+https://hackernoon.com/how-to-easily-share-reusable-modules-in-node-js-at-scale-daaab9f0f41d
+
+HTTP/2 progressive image streaming
+https://blog.cloudflare.com/parallel-streaming-of-progressive-images/
+
+Long-awaited `backdrop-filter` CSS property will finally be available by default in Chrome 76 (July 2019)
+https://bugs.chromium.org/p/chromium/issues/detail?id=497522#c195
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

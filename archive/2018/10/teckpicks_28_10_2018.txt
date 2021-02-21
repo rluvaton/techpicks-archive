@@ -1,0 +1,35 @@
+TechPicks 28/10/2018 -
+
+React Conf 2018 Talks
+https://www.youtube.com/playlist?list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ
+
+Why React’s new Hooks API is a game changer
+https://medium.com/@ryardley/why-reacts-hooks-api-is-a-game-changer-8731c2b0a8c
+
+The Hidden Benefit of Giving Back to Open Source Software
+https://hbswk.hbs.edu/item/the-hidden-benefit-of-giving-back-to-open-source-software
+
+Crana - React & Node.js apps in under a second
+https://dev.to/scriptify/crana---react--nodejs-apps-in-under-a-second-3d70
+
+Why I’m ending my 3-year Open Source contribution spree
+https://hackernoon.com/why-im-ending-my-3-year-open-source-contribution-spree-3061032f1fb
+
+Verified (signed) commits on GitHub
+https://wouterdeschuyter.be/blog/verified-signed-commits-on-github
+
+A tool for recruiters who demand years of experience for what have just come out
+https://howoldisit.glitch.me/
+
+Fear, trust and JavaScript: When types and functional programming fail
+https://www.reaktor.com/blog/fear-trust-and-javascript/
+
+Pull request successfully merged. Starting build... (Github Aquiry by Microsoft Finalized)
+https://blog.github.com/2018-10-26-github-and-microsoft/
+
+The Architecture of Git
+http://aosabook.org/en/git.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

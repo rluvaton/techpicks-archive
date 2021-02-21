@@ -1,0 +1,47 @@
+TechPicks 19/08/2018 -
+
+How to write unmaintainable code
+https://github.com/Droogans/unmaintainable-code/blob/master/README.md
+
+A Realistic Engineering Hiring Process​
+https://dunne.io/creating-an-engineering-hiring-process/
+
+Open Source Has Not Failed. Don't Cover Up Corporate Abuse of Open Source
+https://dev.to/lethargilistic/open-source-has-not-failed-dont-cover-up-corporate-abuse-of-open-source-3ffe
+
+About youtube Ids - Or why every video has 4 of them
+https://cable.ayra.ch/Help/#youtube_id
+
+Elastic range input
+https://codepen.io/lmgonzalves/pen/NyzKdr
+
+What I wish I had known before starting to use Flow
+https://davidgom.es/what-i-wish-i-had-known-before-starting-to-use-flow/
+
+Testing npm packages before publishing
+https://medium.com/@cvitullo/problems-with-npm-link-and-an-alternative-4dbdd3e66811
+
+Pro tips for VS Code for productivity
+https://medium.com/@i_AnkurBiswas/pro-tips-for-visual-studio-code-to-be-productive-in-2018-d5252e914561
+
+An article about how to scrape data from the web. (Example with financial data)
+https://sipios.com/blog/financial-data-scraping/
+
+Flat, simple, responsive and hackable Color-Picker. No dependencies, no jQuery
+https://simonwep.github.io/pickr/
+
+Creating a Secure REST API in Node.js
+https://www.toptal.com/nodejs/secure-rest-api-in-nodejs
+
+In-depth Step-by-Step Tutorial on How to Write Integration Tests for REST APIs with node.js
+https://maximilianschmitt.me/posts/tutorial-rest-api-integration-testing-node-js/
+
+git-bug: Distributed bug tracker embedded in git
+https://github.com/MichaelMure/git-bug
+
+Programming Servo: an HTTP cache
+https://medium.com/programming-servo/programming-servo-an-http-cache-edb52a7f267f
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

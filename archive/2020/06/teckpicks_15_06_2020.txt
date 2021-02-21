@@ -1,0 +1,29 @@
+TechPicks 15/06/2020 -
+
+GitHub to replace "master", "whitelist", "blacklist", and others with alternative terms to avoid slavery references
+https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/
+
+On Redis master-slave terminology
+http://antirez.com/news/122
+
+denoland/deno_lint: fast alternative to ESLint
+https://github.com/denoland/deno_lint
+
+The Surprising Things That CSS Can Animate
+https://codersblock.com/blog/the-surprising-things-that-css-can-animate/
+
+Rust marks five years since its 1.0 release: The long and winding road actually works
+https://www.theregister.com/2020/05/15/rust_marks_five_years_since/
+
+Component namespacing with Emotion
+https://diary.kud.io/en/posts/2020/06/15/component-namespacing-with-emotion
+
+Architecting Kubernetes clusters — choosing a cluster size
+https://medium.com/@weibeld/architecting-kubernetes-clusters-choosing-a-cluster-size-92f6feaa2908
+
+Kubernetes Bug Leaves Default Clusters Vulnerable to Man-in-the-Middle Attacks
+https://www.cbronline.com/news/kubernetes-bug
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

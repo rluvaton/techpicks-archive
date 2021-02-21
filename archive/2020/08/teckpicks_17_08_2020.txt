@@ -1,0 +1,23 @@
+TechPicks 17/08/2020 -
+
+How I stopped abandoning my side projects
+https://www.zainrizvi.io/blog/do-more-by-doing-less
+
+Style Stage - A modern CSS showcase styled by community contributions
+https://stylestage.dev/
+
+A celebration of Mozilla's contributions to WebAssembly
+https://wasmweekly.news/issue-126/
+
+OS13k – A Tiny Web Based OS and Game Engine
+https://github.com/KilledByAPixel/OS13k
+
+Python 3.8 Makes me Sad Again
+https://ilya-sher.org/2020/08/16/python-3-8-makes-me-sad-again/
+
+I wrote the world's worst text editor (so you don't have to)
+https://briancallahan.net/blog/20200816.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

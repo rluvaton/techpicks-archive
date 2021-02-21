@@ -1,0 +1,32 @@
+TechPicks 08/05/2019 -
+
+Luciano Mammino - Unbundling the JavaScript module bundler
+https://youtu.be/WGlT921ixx4
+
+XSS vulnerability in the jQuery Mobile JavaScript library poses severe risk
+https://portswigger.net/daily-swig/xss-vulnerability-in-unmaintained-javascript-library-poses-severe-risk
+
+There's Such a Thing As Using Too Many Ifs
+https://dreith.com/blog/theres-such-a-thing-as-using-too-many-ifs/
+
+Avoid loops in JavaScript
+https://blog.sapegin.me/all/avoid-loops/
+
+Matteo Collina & David Clements: Companies Should Enable Their Devs to Contribute Back to Open Source
+https://medium.com/@amsterdamjs/matteo-collina-david-clements-companies-should-enable-their-devs-to-contribute-back-to-open-1a37dea860ca
+
+CSS-Only Chat - a truly monstrous async web chat using no JS whatsoever on the frontend
+https://github.com/kkuchta/css-only-chat
+
+The new evergreen Googlebot - Improved JS Rendering
+https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html
+
+Are you underqualified to apply to a software development position?
+https://medium.com/@Charles_Stover/are-you-underqualified-to-apply-to-a-software-development-position-45c01079861a
+
+How to implement dark mode, the proper way
+https://medium.com/@somilsharma627/what-is-dark-mode-and-how-to-implement-it-7bf039576d6a
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

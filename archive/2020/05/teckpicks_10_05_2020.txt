@@ -1,0 +1,29 @@
+TechPicks 10/05/2020 -
+
+Under-the-hood of type systems (e.g. TypeScript)
+https://medium.com/@tabu_craig/under-the-hood-of-type-systems-e-g-typescript-b3b0b5c18963
+
+Visual Studio Code April 2020
+https://code.visualstudio.com/updates/v1_45
+
+Rebuilding our tech stack for the new Facebook.com
+https://engineering.fb.com/web/facebook-redesign/
+
+Ask HN: What are your favorite developer-efficiency tips?
+https://news.ycombinator.com/item?id=23118940
+
+Write Libraries, Not Frameworks
+https://www.brandonsmith.ninja/blog/libraries-not-frameworks
+
+A Critique of React Hooks Addendum
+https://dillonshook.com/a-critique-of-react-hooks-addendum/
+
+iSH - The Linux shell on iOS
+https://github.com/ish-app/ish
+
+How Khan Academy Successfully Handled 2.5x Traffic in a Week
+http://engineering.khanacademy.org/posts/handling-2x-traffic-in-a-week.htm
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

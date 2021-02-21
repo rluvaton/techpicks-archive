@@ -1,0 +1,32 @@
+TechPicks 06/11/2018 -
+
+Create React App now officially supports Typescript
+https://facebook.github.io/create-react-app/docs/adding-typescript
+
+Building an automatic "Deal With It" meme generator using Face Detection, Python, and OpenCV
+https://www.pyimagesearch.com/2018/11/05/creating-gifs-with-opencv/
+
+Why Angular Made Me Quit Web Dev
+https://medium.com/@TobyMerk/why-angular-made-me-quit-web-dev-f63b83a157af
+
+No more __snapshots__ folders with Jest!
+https://medium.com/c-hive/no-more-snapshots-folders-with-jest-98de26681764
+
+Meet the latest vulnerability in your multi-threaded CPU: PortSmash
+https://www.techspot.com/news/77240-meet-latest-vulnerability-multi-threaded-cpu-portsmash.html
+
+pnpm vs Yarn: monorepo node_modules
+https://medium.com/pnpm/pnpm-vs-yarn-monorepo-node-modules-6c025d50b9bd
+
+"Why I wrote 33 VSCode extensions and how I manage them"
+https://medium.com/@fabiospampinato/why-i-wrote-33-vscode-extensions-and-how-i-manage-them-cb61df05e154
+
+A better comparison between Angular and React and their core languages
+https://medium.com/@kodewithmonky/a-better-comparison-between-angular-and-react-and-their-core-languages-b3cab3db22cf
+
+Guide — React-App Monorepo with Lerna
+https://medium.com/@f1lt3r/d932afb2e875
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

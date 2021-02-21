@@ -1,0 +1,26 @@
+TechPicks 24/03/2020 -
+
+Stanford CS253: Web Security
+https://cs253.stanford.edu
+
+A tiny progress bar that supports Promise (1.2kb)
+https://skt-t1-byungi.github.io/rsup-progress/
+
+An ASCII/Node based fluid simulation library
+https://github.com/batman-nair/puddle.js
+
+Need to stash untracked files? There is a way!
+https://practicalgit.com/blog/stash-untracked-files.html
+
+Using Zoom? Here are the privacy issues you need to be aware of
+https://protonmail.com/blog/zoom-privacy-issues/
+
+https://meet.jit.si/
+Jitsi Meet: An open source alternative to Zoom
+
+42 Projects to Practice Programming Skills
+https://medium.com/@vardanator/42-projects-to-practice-programming-skills-6f5acc10fec0
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

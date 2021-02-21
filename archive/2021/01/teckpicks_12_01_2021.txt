@@ -1,0 +1,38 @@
+TechPicks 12/01/2021 -
+
+Lots of Ways to Use Math.random() in JavaScript
+https://css-tricks.com/lots-of-ways-to-use-math-random-in-javascript/
+
+The complete CSS Flex tutorial (all features visualized) with color-coded diagrams
+https://semicolon.dev/tutorial/css/complete-css-flex-tutorial#css
+
+Advanced Promise Patterns: Promise Memoization
+https://www.jonmellman.com/posts/promise-memoization
+
+ElementF gives custom element definition a more functional feel
+https://github.com/tweinfeld/element-f
+
+Stealing Your Private YouTube Videos, One Frame at a Time
+https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/
+
+Conan O'Brien says "you know" every 0.6 seconds - a speech analysis project
+https://itnext.io/you-know-speech-analysis-and-video-summarization-69b400b2ac70
+
+An additional non-backtracking RegExp engine in V8
+https://v8.dev/blog/non-backtracking-regexp
+
+Pyroscope - continuous profiling tool to help debug performance issues. Would love some feedback!
+https://pyroscope.io/
+
+Re-Introducing Hash Indexes in PostgreSQL
+https://hakibenita.com/postgresql-hash-index
+
+New York City proposes regulating algorithms used in hiring
+https://arstechnica.com/tech-policy/2021/01/new-york-city-proposes-regulating-algorithms-used-in-hiring/
+
+React - Introducing Server and Shared Components
+https://nitayneeman.com/posts/introducing-server-and-shared-components-in-react/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

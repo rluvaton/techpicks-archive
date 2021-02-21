@@ -1,0 +1,32 @@
+TechPicks 30/01/2019 -
+
+React 16.8 (The One Hopefully with Hooks) planned for Feb 4
+https://github.com/facebook/react/pull/14692
+
+Introducing React Quantum, a render performance heatmap
+https://reddit.com/r/reactjs/comments/al2z6w/we_launched_our_beta_version_of_react_quantum_a/
+
+Awesome Podcasts Github List: For Programmers
+https://github.com/rShetty/awesome-podcasts
+
+React Smooth Range Input
+https://react-smooth-range-input.now.sh/
+
+Meta Tags — Preview, Edit and Generate
+https://metatags.io/
+
+Simple collision hover effect
+https://www.youtube.com/watch?v=ktHLwti1jvU
+
+Microsoft decides Internet Explorer 10 has had its fun: Termination set for January 2020
+https://www.theregister.co.uk/2019/01/29/microsoft_internet_explorer_10/
+
+Firefox 65 finally supports WebP
+https://hacks.mozilla.org/2019/01/firefox-65-webp-flexbox-inspector-new-tooling/
+
+How to stop content jumping when images load?
+https://medium.com/@jahvi/7c915e47f576
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

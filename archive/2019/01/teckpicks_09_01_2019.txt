@@ -1,0 +1,29 @@
+TechPicks 09/01/2019 -
+
+Yonatan Doron - Star Rating — Make SVG Great Again
+https://uxdesign.cc/star-rating-make-svg-great-again-d4ce4731347e
+
+PHP VS Node.js | Which technology is better?
+https://www.techuz.com/blog/php-vs-node-js-which-backend-technology-is-better-for-your-project/
+
+Web Maker - A blazing fast & offline frontend playground (Open Source CodePen alternative)
+https://github.com/chinchang/web-maker
+
+Creating and filling Arrays of arbitrary lengths in JavaScript
+http://2ality.com/2018/12/creating-arrays.html
+
+Unhandled Promise Rejection in depth
+https://diophant.com/blog/unhandled-promise-rejection-in-depth/
+
+Courier: Dropbox migration to gRPC
+https://blogs.dropbox.com/tech/2019/01/courier-dropbox-migration-to-grpc/
+
+Local web development vs Vagrant vs Docker: What’s right for you?
+https://www.mattlayman.com/blog/2019/web-development-environments/
+
+The Best Way To Unsubscribe RxJS Observables In The Angular Applications
+https://medium.com/@tomastrajan/the-best-way-to-unsubscribe-rxjs-observable-in-the-angular-applications-d8f9aa42f6a0
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

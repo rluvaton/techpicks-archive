@@ -1,0 +1,32 @@
+TechPicks 26/03/2019 -
+
+Architecting UIs for Change
+https://joreteg.com/blog/architecting-uis-for-change
+
+KV Storage: the Web's First Built-in Module
+https://developers.google.com/web/updates/2019/03/kv-storage
+
+A Guide to Integrating and Enforcing Prettier & ESLint
+https://silvenon.com/blog/integrating-and-enforcing-prettier-and-eslint
+
+ReasonML vs TypeScript: comparing their type systems
+https://medium.freecodecamp.org/reasonml-typescript-comparing-their-type-systems-620e4343221c
+
+The Best Whiteboard Interview Advice I Ever Received
+https://hackernoon.com/the-best-whiteboard-interview-advice-i-ever-received-3ebbfa72e4a
+
+Quickly convert JSON to a typed class in many languages, huge time-saver for the uninitiated
+https://app.quicktype.io
+
+Hands-on with a leaked build of the new Microsoft Edge browser based on Chromium
+https://www.xda-developers.com/hands-on-microsoft-edge-chromium-leaked/
+
+Golang for Node.js Developers
+https://github.com/miguelmota/golang-for-nodejs-developers
+
+Worker Topology: A very easy and declarative way to create sophisticated Node.js Worker Threads topology
+https://www.npmjs.com/package/workertopology
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

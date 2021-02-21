@@ -1,0 +1,29 @@
+TechPicks 27/11/2019 -
+
+JSONCrush On GitHub - Compress JSON into URI friendly strings
+https://github.com/KilledByAPixel/JSONCrush
+
+For the Sake of Your Event Listeners, Use Web Workers
+https://macarthur.me/posts/use-web-workers-for-your-event-listeners
+
+I launched JS TL;DR app - zen mode documentation of JavaScript essentials
+https://medium.com/@rusinovantondev/js-tl-dr-zen-mode-web-docs-for-javascript-developers-cf45e0143a09
+
+How to Approach State Management in React, Vue and Angular
+https://medium.com/javascript-in-plain-english/the-art-of-the-state-e19816732530
+
+React Native vs Flutter: A comparison from real project experience perspective
+https://medium.com/javascript-in-plain-english/react-native-vs-flutter-a-comparison-from-real-project-experience-perspective-1e7fbd56f217
+
+Getting the Right Level of Generalization
+https://liaison.dev/blog/articles/Getting-the-Right-Level-of-Generalization-7xpk37
+
+Introducing Bootstrap Icons
+https://blog.getbootstrap.com/2019/11/26/bootstrap-icons/
+
+A lighter V8
+https://v8.dev/blog/v8-lite
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

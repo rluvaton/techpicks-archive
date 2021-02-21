@@ -1,0 +1,32 @@
+TechPicks 01/09/2019 -
+
+Firefox Nightly added support for WebSocket debugging
+https://blog.nightly.mozilla.org/2019/08/30/these-weeks-in-firefox-issue-63/
+
+Native "Share to DEV" button is now on Stack Overflow
+https://dev.to/devteam/native-share-to-dev-button-is-now-on-stack-overflow-3a5a
+
+Turtle graphics in JavaScript the goofball way
+https://slicker.me/javascript/turtle.htm
+
+npm bans Terminal Ads - a reaction to recent 'funding' experiment
+https://www.zdnet.com/article/npm-bans-terminal-ads/
+
+npm announces plan to launch open source funding platform by end of 2019
+https://blog.npmjs.org/post/187382017885/supporting-open-source-maintainers
+
+core-js owner refuse to remove terminal ad saying he's okay with npm removing his package which will cause millions of projects to break
+https://github.com/zloirock/core-js/pull/634
+
+The Totally Not Sarcastic at All Guide to How to Design for the Web in 2019
+https://www.freecodecamp.org/news/how-to-design-for-the-web-in-2019/
+
+The Baseline Interpreter: a faster JS interpreter in Firefox 70
+https://hacks.mozilla.org/2019/08/the-baseline-interpreter-a-faster-js-interpreter-in-firefox-70/
+
+The only introduction to Redux (and React-Redux) you'll ever need
+https://medium.com/@h.stevanoski/the-only-introduction-to-redux-and-react-redux-youll-ever-need-8ce5da9e53c6
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

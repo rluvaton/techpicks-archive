@@ -1,0 +1,26 @@
+TechPicks 17/12/2018 -
+
+Concord: How I built a screen sharing application in two weeks
+https://medium.com/@bradziolko/concord-how-i-built-a-screen-sharing-application-in-two-weeks-bef3f6a56ec4
+
+The Most Annoying Website - Feross Aboukhadijeh - JSConf US 2018
+https://www.youtube.com/watch?v=QFZ-pwErSl4
+
+Compound Components in React Using the Context API
+https://css-tricks.com/compound-components-in-react-using-the-context-api/
+
+Better NPM'ing, Tips and Tricks using NPM
+http://www.tomsquest.com/blog/2018/10/better-npm-ing/
+
+The Most Annoying Website - Feross Aboukhadijeh - JSConf US 2018
+https://www.youtube.com/watch?v=QFZ-pwErSl4
+
+How CryptoCompare used Node.js to scale their API to over 50,000 calls a second
+https://blog.cryptocompare.com/the-commercial-api-journey-8a493d85448e
+
+Seeding your Database with Thousands of Users using Knex.js and Faker.js
+https://blog.bitsrc.io/seeding-your-database-with-thousands-of-users-using-knex-js-and-faker-js-6009a2e5ffbf
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

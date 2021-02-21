@@ -1,0 +1,32 @@
+TechPicks 07/02/2021 -
+
+ARCHITECTURE.md
+https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html
+
+The Magic Function principle
+https://swizec.com/blog/the-magic-function-principle
+
+Is abstraction killing civilization?
+https://www.datagubbe.se/endofciv/
+
+Inline caching: quickening
+https://bernsteinbear.com/blog/inline-caching-quickening/
+
+Fun with a Functional Programming Interview Question
+https://danielbmarkham.com/fun-with-an-interview-question/
+
+How to Change Look & Feel of Pseudo Elements using JavaScript and CSS Custom Properties
+https://blog.shhdharmen.me/how-to-change-look-and-feel-of-pseudo-elements-using-javascript-and-css-custom-properties
+
+Web platform's hidden gems - Shape Detection API
+https://arunmichaeldsouza.com/blog/web-platform's-hidden-gems---shape-detection-api
+
+Visual Studio Code January 2021
+https://code.visualstudio.com/updates/v1_53
+
+Mastering Typescript for React Hooks
+https://medium.com/javascript-in-plain-english/mastering-typescript-for-react-hooks-3e9e9e3797d7
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

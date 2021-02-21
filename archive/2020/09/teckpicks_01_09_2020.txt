@@ -1,0 +1,23 @@
+TechPicks 01/09/2020 -
+
+Mastering Hard Parts of JavaScript
+https://dev.to/ryanameri/mastering-hard-parts-of-javascript-callbacks-i-3aj0
+
+Logical assignment operators in JavaScript
+https://dev.to/hemanth/logical-assignment-operators-in-javascript-inh
+
+The how and why of dependency injection in Front End JavaScript
+https://nullvoxpopuli.com/2020-08-08-how-does-di-work
+
+Visualizing CSS Resets
+https://elijahmanor.com/css-resets
+
+The database I wish I had
+https://euandre.org/2020/08/31/the-database-i-wish-i-had.html
+
+A grim outlook on the future of browser add-ons
+https://palant.info/2020/08/31/a-grim-outlook-on-the-future-of-browser-add-ons/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,32 @@
+TechPicks 05/06/2019 -
+
+npm passes the 1 millionth package milestone! What can we learn?
+https://snyk.io/blog/npm-passes-the-1-millionth-package-milestone-what-can-we-learn/
+
+DigitalOcean's update on the Raisup incident
+https://blog.digitalocean.com/an-update-on-last-weeks-customer-shutdown-incident/
+
+Code quality and web performance in JavaScript, the myths, the do's and the don'ts
+https://enmascript.com/articles/2019/06/04/code-quality-and-web-performance-the-myths-the-dos-and-the-donts
+
+Flattening RxJS Observables with switchMap(), concatMap(), mergeMap(), exhaustMap()
+https://angular-academy.com/rxjs-switchmap-concatmap-mergemap-exhaustmap
+
+Building the most inaccessible site possible with a perfect Lighthouse score
+https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/
+
+Just made Space Invaders in 512 bytes of x86 assembler code (one boot sector)
+https://github.com/nanochess/Invaders
+
+Why We're Relicensing CockroachDB
+https://www.cockroachlabs.com/blog/oss-relicensing-cockroachdb/
+
+New Official Unity3D preview version for Linux now available
+https://blogs.unity3d.com/2019/05/30/announcing-the-unity-editor-for-linux/
+
+Design/Layout GUI with Visual Studio Code
+https://github.com/idea4good/GuiLite
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

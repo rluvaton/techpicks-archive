@@ -1,0 +1,44 @@
+TechPicks 03/01/2020 -
+
+CSS Variable hinting for VS Code
+https://marketplace.visualstudio.com/items?itemName=yanai101.css-var-hint
+
+The Best Software every Reverse Engineer should have for cracking Software
+https://piprogramming.org/articles/The-Best-Software-every-Reverse-Engineer-should-have-for-cracking-Software-0000000029.html
+
+Coding A NES Emulator in C++: Cycle Accuracy
+https://www.youtube.com/watch?v=Dq_cpyrYI70
+
+Slowbug - a VS Code extension that allows you to debug your code in slow-mo.
+https://github.com/postmalloc/slowbug
+
+A half-hour to learn Rust
+https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+
+Introducing Handsfree.js.org - Add hand, face, and pose estimation to your frontend projects in a snap!
+https://dev.to/midiblocks/introducing-handsfree-js-integrate-hand-face-and-pose-gestures-to-your-frontend-4g3p
+
+How Not to Teach Recursion
+https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/
+
+A Comprehensive (and Animated) Guide to InnoDB Locking
+https://jahfer.com/posts/innodb-locks/
+
+Advanced Async Patterns: Singleton Promises
+https://www.jonmellman.com/posts/singleton-promises
+
+Deadlines are bullshit.
+https://contrariantruth.substack.com/p/deadlines-are-bullshit
+
+Lets talk about changelogs, or, how I loathe 'bugfixes and performance improvements'
+https://raymii.org/s/blog/Rant_Lets_talk_about_changelogs.html
+
+A simple and dynamic method for consistent productivity
+https://matthewsaltz.wordpress.com/2020/11/24/a-simple-and-dynamic-method-for-consistent-productivity/
+
+TabFS is a browser extension that mounts your browser tabs as a filesystem on your computer
+https://omar.website/tabfs/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

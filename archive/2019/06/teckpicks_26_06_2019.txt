@@ -1,0 +1,31 @@
+TechPicks 26/06/2019 -
+
+DarkmodeJS - manage dark mode on the web with matchMedia and prefers-color-scheme
+https://github.com/Assortment/darkmodejs
+
+Why are there so many JavaScript frameworks?
+https://www.evolutionjobs.com/uk/media/why-are-there-so-many-javascript-frameworks-188799/
+
+Git Cloning the Windows OS Repo
+https://rehansaeed.com/git-cloning-the-windows-os-repo/
+
+I will now charge my clients a fee to support open source projects
+https://dev.to/manuelbieh/i-will-now-charge-my-clients-a-fee-to-support-open-source-projects-277
+
+Paying Cold, Hard Cash For Open Source Contributions
+https://formidable.com/blog/2019/sauce-program/
+
+The Complete Intro to React v5 and Intermediate React v2 (Brian Holt's Frontend Masters workshop updated for Hooks)
+https://github.com/btholt/complete-intro-to-react-v5
+
+The Weird History of JavaScript
+https://www.youtube.com/watch?v=Sh6lK57Cuk4
+
+Windows 10 Calculator is now running on WebAssembly, natively on iOS and Android
+https://platform.uno/a-piece-of-windows-10-is-now-running-on-webassembly-natively-on-ios-and-android/
+
+YARP (Yet Another Rant about Programming)
+https://mostbadassscientist.blogspot.com/2019/06/yarp-yet-another-rant-about-programming.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

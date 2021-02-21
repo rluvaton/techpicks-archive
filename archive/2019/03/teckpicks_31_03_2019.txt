@@ -1,0 +1,38 @@
+TechPicks 31/03/2019 -
+
+Microservices: The no-bullshit guide for developers (part 1)
+https://www.rookout.com/microservices-a-guide-for-developers-part-1/
+
+A library to render guitar chords in SVG
+https://github.com/0xfe/vexchords
+
+Responsible JavaScript: Part I
+https://alistapart.com/article/responsible-javascript-part-1
+
+Code of Conduct Generator
+https://codeofconduct.space/
+
+Announcing TypeScript 3.4
+https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/
+
+Pill – tiny (1 KiB) library to add dynamic loading into static site
+https://github.com/rumkin/pill
+
+Powers of Two
+https://www.benrady.com/2017/12/powers-of-two.html
+
+The first shall be last with JavaScript arrays
+https://medium.freecodecamp.org/the-first-shall-be-last-with-javascript-arrays-11172fe9c1e0
+
+Precise UI – an extensive React component library, has been created for React 16 with styled-components 2
+https://precise-ui.io/
+
+A smart programmer understands the problems worth fixing
+https://medium.com/@fagnerbrack/a-smart-programmer-understands-the-problems-worth-fixing-dcf15871f943
+
+Let's Dockerize a Node.js Express API
+https://itnext.io/lets-dockerize-a-nodejs-express-api-22700b4105e4
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

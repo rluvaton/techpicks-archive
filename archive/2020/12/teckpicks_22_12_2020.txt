@@ -1,0 +1,38 @@
+TechPicks 22/12/2020 -
+
+JavaScript Frameworks, Performance Comparison 2020
+https://medium.com/@ryansolid/javascript-frameworks-performance-comparison-2020-cd881ac21fce
+
+Introducing Zero-Bundle-Size React Server Components
+https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html
+
+Rysolv - A crowdfunding platform for open source development
+https://rysolv.com
+
+BangleJS - A powerful toolkit for building next generation, modern wysiwyg editors
+https://bangle.dev/
+
+How we built the GitHub globe
+https://github.blog/2020-12-21-how-we-built-the-github-globe/
+
+How Adblockers work & can get detected
+https://medium.com/javascript-in-plain-english/adblocker-detection-580fd6383f2
+
+Creating randomness with pure CSS
+https://uxdesign.cc/creating-randomness-with-pure-css-a990dafcd569
+
+Convert Postgres schemas into TypeScript interfaces
+https://github.com/nettofarah/postgres-schema-ts
+
+My Engineering Axioms
+https://martinrue.com/my-engineering-axioms/
+
+YouTube Class Action: Same IP Address Used to Upload 'Pirate' Movies & File DMCA Notices
+https://torrentfreak.com/youtube-class-action-same-ip-address-used-to-upload-pirate-movies-file-dmca-notices-201221/
+
+Building My Own Chess Engine
+https://healeycodes.com/building-my-own-chess-engine/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,23 @@
+TechPicks 02/01/2019 -
+
+Bandersnatch.Life - an Interactive Black Mirror: Bandersnatch Paths Website
+https://github.com/Ahmad-Magdy-Osman/Bandersnatch
+
+rendora - a FOSS, stack-independent and self-hosted alternative to prerender.io
+https://github.com/rendora/rendora
+
+Will PWAs Replace Native Mobile Apps?
+https://www.smashingmagazine.com/2018/12/pwa-native-mobile-apps/
+
+Let's block Australian visitors until their politicians fix their insane anti-privacy laws
+https://source.netsyms.com/Netsyms/AusBlock
+
+Shiki – A beautiful Syntax Highlighter
+https://shiki.matsu.io
+
+nnn v2.2, a terminal file manager for programmers, released with many new features!
+https://github.com/jarun/nnn/releases/tag/v2.2
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

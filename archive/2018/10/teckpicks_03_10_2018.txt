@@ -1,0 +1,23 @@
+TechPicks 03/10/2018 -
+
+You Might Not Need mapDispatchToProps
+https://daveceddia.com/redux-mapdispatchtoprops-object-form/
+
+How to Program Your Job
+https://www.theatlantic.com/technology/archive/2018/10/agents-of-automation/568795/
+
+Should you learn C to “learn how the computer works”?
+https://words.steveklabnik.com/should-you-learn-c-to-learn-how-the-computer-works
+
+Porting a 75,000 line native iOS app to Flutter
+https://medium.com/flutter-community/porting-a-75-000-line-native-ios-app-to-flutter-57c6571c57b4
+
+Sourcegraph is now open source
+https://about.sourcegraph.com/blog/sourcegraph-is-now-open-source/
+
+Using Kubernetes for Personal Projects
+http://www.doxsey.net/blog/kubernetes--the-surprisingly-affordable-platform-for-personal-projects
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

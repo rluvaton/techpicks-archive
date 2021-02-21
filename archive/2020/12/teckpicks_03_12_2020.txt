@@ -1,0 +1,35 @@
+TechPicks 03/12/2020 -
+
+How to Make Your Code Reviewer Fall in Love with You
+https://mtlynch.io/code-review-love/
+
+Taking PHP Seriously
+https://slack.engineering/taking-php-seriously/
+
+HTTP/2 Push is dead
+https://evertpot.com/http-2-push-is-dead/
+
+AWS announces Babelfish: open source Postgres with SQL Server compatibility
+https://www.ongres.com/blog/aws_announces_open_source_postgres_with_sql_server_compatibility/
+
+Feature Casualties of Large Databases
+https://brandur.org/large-database-casualties
+
+Storybook is revamping its addon ecosystem
+https://storybook.js.org/blog/addon-catalog-sneak-peak/
+
+The complete CSS animation tutorial (with color-coded diagrams)
+https://jst.hashnode.dev/css-animation-tutorial
+
+Making things move
+https://varun.ca/torsions/
+
+Wait, Docker is deprecated in Kubernetes now? What do I do?
+https://dev.to/inductor/wait-docker-is-deprecated-in-kubernetes-now-what-do-i-do-e4m
+
+Don't Panic: Kubernetes and Docker
+https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

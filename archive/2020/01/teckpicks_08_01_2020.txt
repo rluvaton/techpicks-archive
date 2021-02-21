@@ -1,0 +1,29 @@
+TechPicks 08/01/2020 -
+
+How to *not* ditch your side project ever again
+https://medium.com/wix-engineering/lets-not-ditch-another-side-project-5181575e57ac
+
+Translating Quake 3 into Rust
+https://immunant.com/blog/2020/01/quake3/
+
+First SHA-1 chosen prefix collision
+https://sha-mbles.github.io/
+
+The Pipeline Operator - a simple introduction to how it'll improve your composition
+https://www.dev6.com/javascript/future-js-the-pipeline-operator/
+
+A declarative way to configure Storybook
+https://medium.com/storybookjs/declarative-storybook-configuration-49912f77b78
+
+Half of the websites using WebAssembly use it for malicious purposes
+https://www.zdnet.com/article/half-of-the-websites-using-webassembly-use-it-for-malicious-purposes/
+
+Webserver Benchmark: Erlang vs Go vs Java vs Node.js
+https://stressgrid.com/blog/webserver_benchmark/
+
+MongoDB in production: How connection pool size can bottleneck application scale
+https://medium.com/@kyle_martin/mongodb-in-production-how-connection-pool-size-can-bottleneck-application-scale-439c6e5a8424
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

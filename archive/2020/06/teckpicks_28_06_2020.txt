@@ -1,0 +1,29 @@
+TechPicks 28/06/2020 -
+
+peer-cdn · Lightweight library providing peer to peer CDN functionality
+https://rafallorenz.com/peer-cdn/
+
+Cache Oblivious Algorithms
+https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/
+
+On Pair Programming
+https://martinfowler.com/articles/on-pair-programming.html
+
+npm v7 Series - Why Keep `package-lock.json`?
+https://blog.npmjs.org/post/621733939456933888/npm-v7-series-why-keep-package-lockjson
+
+Announcing TypeScript 4.0 Beta
+https://devblogs.microsoft.com/typescript/announcing-typescript-4-0-beta/
+
+Chrome DevTools now supports style editing for CSS-in-JS frameworks (Chrome 85+)
+https://developers.google.com/web/updates/2020/06/devtools
+
+Low level JavaScript: The Bits And Bytes Of Binary
+https://www.youtube.com/watch?v=pOM86M1pGb4&list=PLP29wDx6QmW47oPsNBFNEi_SYTOLDJXqQ
+
+Tailwind CSS Cheat Sheet
+https://nerdcave.com/tailwind-cheat-sheet
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

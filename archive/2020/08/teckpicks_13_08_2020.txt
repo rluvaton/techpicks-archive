@@ -1,0 +1,23 @@
+TechPicks 13/08/2020 -
+
+Storybook 6.0: New workflows + 100s of improvements
+https://medium.com/storybookjs/storybook-6-0-1e14a2071000
+
+Ubuntu on WSL 2 Is Generally Available
+https://ubuntu.com/blog/ubuntu-on-wsl-2-is-generally-available
+
+Broot – A new way to see and navigate directory trees
+https://dystroy.org/broot/
+
+Google News RSS search parameters. The missing documentation
+https://newscatcherapi.com/blog/google-news-rss-search-parameters-the-missing-documentaiton
+
+Teki - The unreasonably efficient route parser
+https://github.com/philipnilsson/teki#teki
+
+Six more ways to improve your Python
+https://sourcery.ai/blog/explaining-refactorings-3/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

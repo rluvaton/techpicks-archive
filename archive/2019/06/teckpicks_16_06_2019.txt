@@ -1,0 +1,40 @@
+TechPicks 16/06/2019 -
+
+Good Code Reviews, Better Code Reviews
+https://blog.pragmaticengineer.com/good-code-reviews-better-code-reviews/
+
+My personal journey from MIT to GPL
+https://drewdevault.com/2019/06/13/My-journey-from-MIT-to-GPL.html
+
+List of (Advanced) JavaScript Questions
+https://github.com/lydiahallie/javascript-questions
+
+Trusted Types - Securing the DOM from the bottom up (Slides from JSNation Amsterdam)
+https://www.slideshare.net/kkotowicz/trusted-types-securing-the-dom-from-the-bottom-up-jsnation-amsterdam
+
+10 books that changed my career as a software engineer
+https://storyforj.com/s/dk79PY
+
+settlement.js not found: JavaScript package biz NPM scraps talks, fights union-busting claims
+https://www.theregister.co.uk/2019/06/14/npm_union_busting_claims/
+
+Pika CDN - Introducing a CDN for modern JavaScript
+https://www.pika.dev/cdn
+
+pikapkg search results include a little icon if definitions come included with the package
+https://twitter.com/pikapkg/status/1139539980718526469
+
+An open letter to Stewart Butterfield: Why Slack will never replace email
+https://medium.com/@dvirbenaroya/why-slack-will-never-replace-email-873a20856716
+
+reddit's open-source Moderator Toolbox looking for contributors
+https://www.reddit.com/r/toolbox/comments/c0njtb/toolbox_5_harmonizing_hare_is_here_supports_both/
+
+Optimising Google Fonts requests (shave off up to 90% by declaring only the characters you need)
+https://i.imgur.com/gM7o5Uv.jpg
+
+Vibrant Colors - a CLI for getting vibrant colors from an image using node-vibrant
+https://github.com/krmax44/vibrant-colors
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

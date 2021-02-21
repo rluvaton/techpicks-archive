@@ -1,0 +1,38 @@
+TechPicks 17/01/2021 -
+
+Report: TikTok Harvested MAC Addresses By Exploiting Android Loophole
+https://www.securityweek.com/report-tiktok-harvested-mac-addresses-exploiting-android-loophole
+
+Ganja.js: Geometric Algebra Generator for JavaScript
+https://github.com/enkimute/ganja.js
+
+YouTuber runs viewer-submitted Python code to light up 500 LEDs in Christmas tree
+https://youtu.be/v7eHTNm1YtU
+
+Would Rust secure cURL?
+https://timmmm.github.io/curl-vulnerabilities-rust/
+
+Azure Devops Pull Request Extension for VS Code
+https://ankitbko.github.io/blog/2021/01/azdo-pr-vscode-extension/
+
+Running Rust in WebAssembly in a Pool of Concurrent Web Workers in JavaScript
+https://alesgenova.github.io/concurrent-wasm-workers/
+
+Lua, a misunderstood language
+https://andregarzia.com/2021/01/lua-a-misunderstood-language.html
+
+Vite 2, a DX jump into the future
+https://patak.dev/web/vite-2.html
+
+A different view of TypeScript's type system
+https://fwouts.com/articles/typescript-generic-types
+
+Luxurious Life Of First Class Python Functions
+https://aagamsheth.com/luxurious-life-of-first-class-python-functions#1-what-are-first-class-objects
+
+Go Slice Tricks Cheat Sheet
+https://ueokande.github.io/go-slice-tricks/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

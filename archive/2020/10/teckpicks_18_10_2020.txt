@@ -1,0 +1,23 @@
+TechPicks 18/10/2020 -
+
+Introducing Talker: a super small i18n provider for React, with TypeScript support
+https://github.com/DoneDeal0/Talkr
+
+Programming Sucks
+https://www.stilldrinking.org/programming-sucks
+ 
+Does C++ still deserve the bad rap it has had for so long?
+https://nibblestew.blogspot.com/2020/10/does-c-still-deserve-bad-rap-it-has-had.html
+
+C++ Deserves Its Bad Reputation
+http://jmoiron.net/blog/cpp-deserves-its-bad-reputation/
+
+How to waste your career, one comfortable year at a time
+https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable
+
+Welcome to the Old Internet Again
+http://theoldnet.com/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

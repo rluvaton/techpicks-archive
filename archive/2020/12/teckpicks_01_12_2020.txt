@@ -1,0 +1,29 @@
+TechPicks 01/12/2020 -
+
+The React Hooks Announcement In Retrospect: 2 Years Later
+https://dev.to/ryansolid/the-react-hooks-announcement-in-retrospect-2-years-later-18lm
+
+Regex literals optimization (or how to cheat on benchmarks)
+https://nitely.github.io/2020/11/30/regex-literals-optimization.html
+
+How To Use Bash Parameter Substitution Like A Pro
+https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html
+
+Sick of the stupid jokes? Write your own arbitrary-precision JavaScript math library
+https://jrsinclair.com/articles/2020/sick-of-the-jokes-write-your-own-arbitrary-precision-javascript-math-library/
+ 
+Radicle: A Peer-to-Peer Stack for Code Collaboration (in beta)
+https://radicle.xyz/
+
+How I Made a Self-Quoting Tweet
+https://oisinmoran.com/quinetweet
+
+Gamedev from scratch 0: Groundwork
+https://eev.ee/blog/2020/11/30/gamedev-from-scratch-0-groundwork/
+
+Error handling is hard
+https://www.fpcomplete.com/blog/error-handling-is-hard/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

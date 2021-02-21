@@ -1,0 +1,26 @@
+TechPicks 22/09/2020 -
+
+A SQL database implemented purely using TypeScript type annotations
+https://github.com/codemix/ts-sql
+
+Plan 9 rides again; WSL file access
+https://nelsonslog.wordpress.com/2019/02/16/plan-9-rides-again-wsl-file-access/
+
+dstask - A single binary terminal-based TODO manager with git-based sync + markdown notes per task
+https://github.com/naggie/dstask
+
+A Friendly Introduction to Spring Physics
+https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/
+
+Why I’m Switching from Figma to Microsoft Paint
+https://uxplanet.org/why-im-switching-from-figma-to-microsoft-paint-425a5d783bbf
+
+Simple Anomaly Detection Using Plain SQL
+https://hakibenita.com/sql-anomaly-detection
+
+My Least Favorite Rust Type
+https://ridiculousfish.com/blog/posts/least-favorite-rust-type.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

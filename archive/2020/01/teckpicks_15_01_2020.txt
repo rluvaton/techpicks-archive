@@ -1,0 +1,32 @@
+TechPicks 15/01/2020 -
+
+Storybook 5.3 just shipped – MDX support for design systems + integrations with your design tools
+https://medium.com/storybookjs/storybook-5-3-83e114e8797c
+
+Yori - The quiet little CMD replacement that you need to install NOW
+https://www.hanselman.com/blog/YoriTheQuietLittleCMDReplacementThatYouNeedToInstallNOW.aspx
+
+Everything about React hooks: a list of awesome libraries, resources and tutorials
+https://github.com/rehooks/awesome-react-hooks
+
+Array reduce vs chaining vs for loop by Kent Dodds
+https://kentcdodds.com/blog/array-reduce-vs-chaining-vs-for-loop
+
+Intent to Deprecate and Freeze: The User-Agent string
+https://groups.google.com/a/chromium.org/forum/m/#!msg/blink-dev/-2JIRNMWJ7s/yHe4tQNLCgAJ
+
+GitHub Game Off highlights · 200+ games with source code
+https://github.blog/2020-01-14-game-off-2019-winners
+
+How I Stopped a Credit Card Thief From Ripping Off 3,537 People – and Saved Our Nonprofit in the Process
+https://www.freecodecamp.org/news/stopping-credit-card-fraud-and-saving-our-nonprofit/
+
+How anti-cheats catch virtual machine cheats
+https://vmcall.blog/battleye-hypervisor-detection/
+
+Windows Terminal Preview v0.8 Release
+https://devblogs.microsoft.com/commandline/windows-terminal-preview-v0-8-release/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

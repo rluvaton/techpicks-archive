@@ -1,0 +1,35 @@
+TechPicks 02/12/2019 -
+
+Sebastian Markbåge: "Framework Overhead" is bikeshedding - React is only 8% of execution time on real apps, but ~90% on benchmarks. Most apps are not "framework bound"
+https://twitter.com/sebmarkbage/status/1201251406604197888
+
+The Evolution of Version Control System (VCS) Internals - SCCS, RCS, CVS, Subversion, Git, & Mercurial
+https://initialcommit.io/blog/Technical-Guide-VCS-Internals
+
+Developers Need Space to Do Whatever They Want
+https://programmerfriend.com/developers-do-what-they-want/
+
+Advent of Code 2019
+https://adventofcode.com/
+
+Stack Overflow Blog: Copying code from Stack Overflow? You might paste security vulnerabilities, too
+https://stackoverflow.blog/2019/11/26/copying-code-from-stack-overflow-you-might-be-spreading-security-vulnerabilities/
+
+JavaScript Indexing Delays Are Still an Issue for Google
+https://www.searchenginejournal.com/javascript-indexing-delays-google/335703/
+
+JavaScript Christmas is back – a new article every day until Christmas
+https://javascript.christmas/2019/1
+
+Every Damn Website in 2019
+https://www.outpan.com/app/4a00af17ee/every-website-in-2019
+
+Behind the screens at The Guardian
+https://able.bio/rhett/behind-the-screens-at-the-guardian--80gf2hy
+
+Sort-of-beginner’s guide to webpack-dev-server
+https://itnext.io/sort-of-beginners-guide-to-webpack-dev-server-98f8843b1bc1
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,23 @@
+TechPicks 13/04/2020 -
+
+5 Front-End Interview Coding Challenges
+https://medium.com/@vdeantoni/5-front-end-interview-coding-challenges-6cd9f31d1169
+
+Teaching a computer to strafe jump in Quake with reinforcement learning
+https://www.youtube.com/watch?v=hx7kvTZLHYI
+
+What's new in ECMAScript 2020 | Strict Mode
+https://www.strictmode.io/articles/whats-new-es2020/
+
+Authentication vs Authorization: differences and use cases
+https://afteracademy.com/blog/authentication-vs-authorization
+
+Free Computer Science Courses in time of COVID-19
+https://www.notion.so/07d80644a8d8485f97cf893bfcd25638?v=0bf62518efc2405ebf4b6b8bc801b2aa
+
+Advanced Distributed Systems Design Online Course - free for a limited time
+https://learn.particular.net/courses/adsd-online-free
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

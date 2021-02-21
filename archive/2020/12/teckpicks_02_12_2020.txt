@@ -1,0 +1,29 @@
+TechPicks 02/12/2020 -
+
+Advent of Code 2020 has started
+https://adventofcode.com/
+
+RTK Query - Powerful data fetching and caching for Redux
+https://rtk-query-docs.netlify.app/
+
+Salesforce Signs Definitive Agreement to Acquire Slack
+https://slack.com/intl/en-il/blog/news/salesforce-signs-definitive-agreement-to-acquire-slack
+
+An introduction to micro-frontends
+https://ruairidh.dev/introduction-to-micro-frontends
+
+Computing with JavaScript's undefined
+https://esoteric.codes/blog/calculating-with-jss-undefined
+
+Observer vs Pub-Sub Pattern
+https://medium.com/better-programming/observer-vs-pub-sub-pattern-50d3b27f838c
+
+The Road to the JIT
+http://blog.erlang.org/the-road-to-the-jit/
+
+What machines can and can't do
+https://artagnon.com/articles/ml
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

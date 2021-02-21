@@ -1,0 +1,35 @@
+TechPicks 20/11/2019 -
+
+Facebook and Microsoft Partnering on Remote Development
+https://developers.facebook.com/blog/post/2019/11/19/facebook-microsoft-partnering-remote-development
+
+An open sourced, free, fast and beautiful alternative to Postman
+https://github.com/liyasthomas/postwoman
+
+Real-time GraphQL API Exploration within VS Code IDE
+https://github.com/oslabs-beta/GraphQuill
+
+JQuery Core: Migrate from AMD to ES modules
+https://github.com/jquery/jquery/commit/d0ce00cdfa680f1f0c38460bc51ea14079ae8b07
+
+How I built my first custom ESLint rule
+https://blog.maximeheckel.com/posts/how-to-build-first-eslint-rule
+
+Location, Privilege and Performant Websites
+https://blog.stephaniestimac.com/posts/10-30-2019-performance/
+
+A cron job that could save you from a ransomware attack
+https://dev.to/victoria/a-cron-job-that-could-save-you-from-a-ransomware-attack-46m
+
+The right folder permissions for a website on a Linux server
+https://www.internalpointers.com/post/right-folder-permission-website
+
+Avoiding jagged edges on gradients
+https://medium.com/pixel-and-ink/avoiding-jagged-edges-on-gradients-f485cc7401f5
+
+Why office noise bothers some people more than others
+https://www.bbc.com/worklife/article/20190702-we-need-to-talk-about-dyslexia-at-work
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 17/12/2020 -
+
+GTK 4.0 released
+https://blog.gtk.org/2020/12/16/gtk-4-0/
+
+Visly - Build React components visually
+https://visly.app/blogposts/visly--build-react-components-visually
+
+Rust Survey 2020 Results
+https://blog.rust-lang.org/2020/12/16/rust-survey-2020.html
+
+AnimXYZ - The first composable CSS animation toolkit
+https://animxyz.com/
+
+Deep Email Validator Library
+https://github.com/mfbx9da4/deep-email-validator
+
+Myths about /dev/urandom
+https://www.2uo.de/myths-about-urandom/
+
+Machine learning could be fundamentally unexplainable
+https://cerebralab.com/Machine_learning_could_be_fundamentally_unexplainable
+
+Probabilistic flakiness: How do you test your tests?
+https://engineering.fb.com/2020/12/10/developer-tools/probabilistic-flakiness/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

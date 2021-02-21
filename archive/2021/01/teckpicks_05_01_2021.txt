@@ -1,0 +1,35 @@
+TechPicks 05/01/2021 -
+
+CV Boostifier By Daniel Sternlicht - Make your CV cool again!
+https://cvboostifier.dev/
+
+Hundreds of Google Employees Unionize, Culminating Years of Activism
+https://www.nytimes.com/2021/01/04/technology/google-employees-union.html
+
+Lightspeed – subsecond, open source, self hosted stream from OBS
+https://github.com/GRVYDEV/Project-Lightspeed
+
+A functional command-line parser toolkit that grows with your program
+https://github.com/Yord/shargs
+
+Let's Learn x86-64 Assembly! Part 3 - Arithmetic and Logic
+https://gpfault.net/posts/asm-tut-3.txt.html
+
+Learn Go in ~5mins
+https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510
+
+Solving Advent of Code “Handy Haversacks” in Type-level Haskell
+https://abhinavsarkar.net/posts/type-level-haskell-aoc7/
+
+Simple.css - A classless CSS template
+https://simplecss.org/
+
+Investigating MD5 overheads
+https://cl4es.github.io/2021/01/04/Investigating-MD5-Overheads.html
+
+Machine Learning with ML.NET - Introduction
+https://rubikscode.net/2021/01/04/machine-learning-with-ml-net-introduction/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,35 @@
+TechPicks 20/07/2020 -
+
+OpenAI's GPT-3 may be the biggest thing since bitcoin
+https://maraoz.com/2020/07/18/openai-gpt3/
+
+Tempering Expectations for GPT-3 and OpenAI’s API
+https://minimaxir.com/2020/07/gpt3-expectations/
+
+Fixing Mass Effect black blobs on modern AMD CPUs
+https://cookieplmonster.github.io/2020/07/19/silentpatch-mass-effect/
+
+A GitHub action to update README.md with user activity
+https://github.com/jamesgeorge007/github-activity-readme
+
+Optimizing 128-bit Division
+https://danlark.org/2020/06/14/128-bit-division/
+
+Data Structures — Simplified and Classified
+https://towardsdatascience.com/data-structures-simplified-and-classified-e0c1e304436b
+
+Here's a GitHub Action that would update README with the recent activity of a user
+https://github.com/jamesgeorge007/github-activity-readme
+
+Not is a minimal, blazing fast, intuitive, API-centric, and customisable type-checking/validation/error handing and messaging helper
+https://github.com/calvintwr/you-are-not
+
+Axiomatic CSS and Lobotomized Owls
+https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/
+
+Synchronized state
+https://dev.to/gelio/synchronized-state-57c5
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

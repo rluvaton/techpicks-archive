@@ -1,0 +1,29 @@
+TechPicks 09/10/2018 -
+
+Uri Shaked - So what is Voltage, anyway?
+https://medium.com/@urish/so-what-is-voltage-anyway-dd8bd2545950
+
+Visual Studio Code September 2018
+https://code.visualstudio.com/updates/v1_28
+
+Fundamentals of storing data in the browser with IndexedDB
+https://wanago.io/2018/10/08/fundamentals-of-storing-data-in-the-browser-with-indexeddb/
+
+Google engineer breaks down the interview questions he used before they were leaked. Lots of programming and interview advice.
+https://medium.com/@alexgolec/google-interview-questions-deconstructed-the-knights-dialer-f780d516f029
+
+Exclusive: Microsoft's $7.5 billion GitHub deal set for EU approval - sources
+https://www.reuters.com/article/us-github-m-a-microsoft-eu-exclusive/exclusive-microsofts-7-5-billion-github-deal-set-for-eu-approval-sources-idUSKCN1MI1A9
+
+Calls between JavaScript and WebAssembly are finally fast
+https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%f0%9f%8e%89/
+
+Stop cherry-picking, start merging -- articles about how cherry-picking leads to conflicting and disappearing commits
+https://blogs.msdn.microsoft.com/oldnewthing/20180323-01/?p=98325
+
+How new-lines affect Linux performance
+https://nadav.amit.zone/blog/linux-inline
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

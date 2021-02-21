@@ -1,0 +1,53 @@
+TechPicks 29/07/2018 -
+
+What's New In DevTools (Chrome 68) - Eager Evaluation
+https://developers.google.com/web/updates/2018/05/devtools#eagerevaluation
+
+Why the New V8 is so Damn Fast
+https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast
+
+Async error handling: N² ways to shoot yourself in the foot
+https://hackernoon.com/n²-ways-to-shoot-yourself-in-the-foot-error-handling-with-async-await-and-promises-87f30cda1681
+
+ReactJS Component testing for beginners. Snapshots, Enzyme, coverage reports and more.
+https://www.youtube.com/watch?v=Yj1rqzlOXjQ
+
+Adding Particle Effects to DOM Elements with Canvas
+https://css-tricks.com/adding-particle-effects-to-dom-elements-with-canvas/
+
+Vulnerability in Hangouts Chat a.k.a. how Electron makes open redirect great again
+https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html
+
+DOOM’s Development: A Year of Madness
+https://www.youtube.com/watch?v=eBU34NZhW7I
+
+The world-wide success that is XML
+https://www.w3.org/blog/2018/07/the-world-wide-success-that-is-xml/
+
+Essential Load Balancing Concepts for system design interviews
+http://www.acodersjourney.com/2018/07/system-design-interview-load-balancing/
+
+3 years of CS in 8 minutes
+https://youtu.be/ReVeUvwTGdU
+
+The death of a TLD
+https://blog.benjojo.co.uk/post/the-death-of-a-tld
+
+Google released a follow up SRE book
+https://services.google.com/fh/files/misc/the-site-reliability-workbook-next18.pdf
+
+Zulip – Open-source, threading-based Slack alternative
+https://zulipchat.com/
+
+How small programming faults led to overflowing an entire system. The story of a bad debugging experience.
+https://deque.blog/2018/07/27/how-small-programming-faults-led-to-overflowing-an-entire-system/
+
+Software Design Patterns and Principles (quick overview)
+https://www.youtube.com/watch?v=WV2Ed1QTst8
+
+Competitive Programmer's Handbook
+https://cses.fi/book/index.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

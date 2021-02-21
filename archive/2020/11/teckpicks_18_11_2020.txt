@@ -1,0 +1,26 @@
+TechPicks 18/11/2020 -
+
+How Spotify Codes work
+https://boonepeter.github.io/posts/2020-11-10-spotify-codes/
+
+fflate, the fastest pure JavaScript compression library in existence
+https://101arrowz.github.io/fflate
+
+The most accurate way to schedule a function in a web browser
+https://medium.com/teads-engineering/the-most-accurate-way-to-schedule-a-function-in-a-web-browser-eadcd164da12
+
+Denoify: The node to Deno transpiler
+https://github.com/garronej/denoify
+
+The Rust Performance Book
+https://nnethercote.github.io/perf-book/
+
+What's new in PHP 8
+https://stitcher.io/blog/new-in-php-8
+
+Emojis paved the way for UTF-8 everywhere
+https://developers.ibexa.co/blog/emojis-paved-the-way-for-utf-8-everywhere
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

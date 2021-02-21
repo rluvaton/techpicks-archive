@@ -1,0 +1,32 @@
+TechPicks 13/01/2021 -
+
+Entire Computer Science Curriculum in 1000 YouTube Videos
+https://laconicml.com/computer-science-curriculum-youtube-videos/
+
+State of JS 2020 results are in
+https://2020.stateofjs.com/en-US/
+
+Casbin: An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js
+https://github.com/casbin/node-casbin
+
+BroTab - Control your browser's tabs from the command line
+https://github.com/balta2ar/brotab
+
+Using Web-sockets? Server-sent events might be a better fit for your use case
+https://jvns.ca/blog/2021/01/12/day-36--server-sent-events-are-cool--and-a-fun-bug/
+
+gRPC Interceptors
+https://percybolmer1.medium.com/grpc-interceptors-e221aa4cc49?source=friends_link&sk=a77e54a189726360fd845d9a74501312
+
+Announcing Typescript 4.2 Beta
+https://devblogs.microsoft.com/typescript/announcing-typescript-4-2-beta/
+
+Micro-Frontends with Glimmer.js and single-spa
+https://dev.to/rajasegar/micro-frontends-with-glimmer-js-and-single-spa-42aa
+
+GitHub is facing employee backlash after the firing of a Jewish employee who suggested 'Nazis are about' on the day of the US Capitol siege
+https://www.businessinsider.com/microsoft-github-backlash-jewish-employee-termination-2021-1
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

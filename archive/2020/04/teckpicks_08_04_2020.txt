@@ -1,0 +1,29 @@
+TechPicks 08/04/2020 -
+
+A humble guide to database schema design
+https://www.mikealche.com/software-development/a-humble-guide-to-database-schema-design
+
+JS VidCon - JavaScript Virtual Conference on May 7th
+https://www.jsvidcon.com/
+
+How we abused Slack's TURN servers to gain access to internal services
+https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/
+
+When programming became a chore
+https://medium.com/@smarimc/when-programming-became-a-chore-a0be2b9919c0
+
+/dev/null as a service
+https://devnull-as-a-service.com/home/
+
+Docker: Announcing the Compose Specification
+https://www.docker.com/blog/announcing-the-compose-specification/
+
+5 Mistakes Web Developers Should Avoid When using JWTs for Authentication
+https://ducktypelabs.com/5-mistakes-web-developers-should-avoid-when-using-jwts-for-authentication/
+
+Announcing Chronograph - An open-source reactive computational engine, implemented in TypeScript
+https://www.bryntum.com/blog/announcing-chronograph-1-0-0/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

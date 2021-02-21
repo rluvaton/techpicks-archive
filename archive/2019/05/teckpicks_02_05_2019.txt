@@ -1,0 +1,38 @@
+TechPicks 02/05/2019 -
+
+Building the New facebook.com with React, GraphQL and Relay
+https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/
+
+Why are await and async valid variable names?
+https://stackoverflow.com/questions/55934490/why-are-await-and-async-valid-variable-names/55934491
+
+Undo changes in Git - Cheat sheet for git checkout, stash, reset, clean, revert, rebase -i, amend
+https://dev.to/mzanggl/undo-changes-in-git-cheat-sheet-for-git-checkout-stash-reset-clean-revert-rebase-i-amend-2h1h
+
+Why the JS ecosystem is awesome
+https://dev.to/gmartigny/why-the-js-ecosystem-is-awesome-48nl
+
+Promise.allSettled in Chrome 76
+https://twitter.com/_gsathya/status/1123605995177922560
+
+Phantom props, unnecessary renders and what no one told me about memo()
+https://itnext.io/phantom-props-unnecessary-renders-and-what-no-one-told-me-about-memo-b34ebbd48c65
+
+A simple (and tiny ~1kb) redux inspired reducer for handling state, actions, reactions etc
+https://github.com/alexfoxy/juicr.js
+
+Faster and more feature-rich internationalization APIs
+https://v8.dev/blog/intl
+
+A Conspiracy To Kill IE6
+http://blog.chriszacharias.com/a-conspiracy-to-kill-ie6
+
+CSS Transforms Playground
+https://css-transform.moro.es/
+
+Implementing a Mockup: CSS Layout Step by Step
+https://daveceddia.com/implement-a-design-with-css/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

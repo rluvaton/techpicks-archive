@@ -1,0 +1,26 @@
+TechPicks 26/12/2018 -
+
+Why does {....0} evaluate to {}?
+https://stackoverflow.com/questions/53922010/why-does-0-evaluate-to
+
+"Think Outside The Box" CSS Animation
+https://codepen.io/awedoo/pen/oJwZMw
+
+Getting started with Docker and PHP
+http://blog.adnansiddiqi.me/getting-started-with-docker/
+
+5 Proven Ways To Finish Your Side Project
+https://medium.com/schkn/5-proven-ways-to-finish-your-side-project-c8fb529c58bd
+
+301 Redirect – How To Create A 301 redirect Properly Complete Guide
+https://worldtechis.com/301-redirect-how-to-create-301-redirect-properly/
+
+New Year 2019 and Christmas Holidays deals for programmers
+https://learninglaravel.net/new-year-2019-and-christmas-holidays-deals-for-programmers
+
+We've all faced rejection.
+https://rejected.us/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

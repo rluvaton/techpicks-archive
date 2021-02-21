@@ -1,0 +1,32 @@
+TechPicks 03/02/2021 -
+
+Visual Studio Code: How Microsoft's 'any OS, any programming language, any software' plan is paying off
+https://www.zdnet.com/article/visual-studio-code-how-microsofts-any-os-any-programming-language-any-software-plan-is-paying-off/
+
+Contract Killer, open-source contract
+https://stuffandnonsense.co.uk/projects/contract-killer
+
+An Alternative to "Clean Code": A Philosophy of Software Design
+https://johz.bearblog.dev/book-review-philosophy-software-design/
+
+Is Rust a Functional Programming Language?
+https://robert.kra.hn/posts/2021-02-03_is-rust-fp/
+
+Null-tracking, or the difference between union and sum types
+https://blog.waleedkhan.name/union-vs-sum-types/
+
+Is a Git Repository a Blockchain? (2016)
+https://medium.com/@shemnon/is-a-git-repository-a-blockchain-35cb1cd2c491
+
+minimal-feedback is a blazingly fast and highly customizable component to get user feedback.
+https://github.com/dulajkavinda/minimal-feedback
+
+The Power of Composition with CSS Variables
+https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables/
+
+Password4j - a user-friendly library that supports modern cryptographic hash functions for your passwords
+https://github.com/Password4j/password4j
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

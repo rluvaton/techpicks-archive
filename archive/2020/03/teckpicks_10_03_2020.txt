@@ -1,0 +1,26 @@
+TechPicks 10/03/2020 -
+
+Visual Studio Code February 2020
+https://code.visualstudio.com/updates/v1_43
+
+The hidden power of Promise.resolve()
+https://codingwithjs.rocks/blog/the-hidden-power-of-promise-resolve
+
+Pixels vs. Relative Units in CSS: why it’s still a big deal
+https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/
+
+Kent C. Dodds - Should I useState or useReducer?
+https://kentcdodds.com/blog/should-i-usestate-or-usereducer
+
+You May Not Need Controlled Form Components
+https://www.swyx.io/writing/no-controlled-forms/
+
+Up-to-date overview of JavaScript and TypeScript tooling
+https://tooling.js.org/
+
+Kafka disaster recovery on Kubernetes using MirrorMaker2
+https://banzaicloud.com/blog/kafka-disaster-recovery-mm2/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

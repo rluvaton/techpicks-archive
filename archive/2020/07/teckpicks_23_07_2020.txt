@@ -1,0 +1,29 @@
+TechPicks 23/07/2020 -
+
+Twilio: Someone broke into our unsecured AWS S3 silo, added 'non-malicious' code to our JavaScript SDK
+https://www.theregister.com/2020/07/21/twilio_sdk_code_injection/
+
+Microsoft Launches Build JavaScript applications with Node.js Learning Tutorials
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/
+
+Mathematicians Discover the Perfect Way to Multiply
+https://www.wired.com/story/mathematicians-discover-the-perfect-way-to-multiply/amp
+
+Records & Tuples proposal has now advanced stage 2
+https://github.com/tc39/proposal-record-tuple
+
+Write code that is easy to delete, not easy to extend
+https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to
+
+React Guitar - a beautiful and flexible guitar component for React
+https://react-guitar.com/
+
+How Google does Design Docs
+https://www.industrialempathy.com/posts/design-docs-at-google/
+
+On Generating Identity Hash Codes
+https://alidg.me/blog/2020/7/15/hash-code
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

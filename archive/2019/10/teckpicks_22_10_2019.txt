@@ -1,0 +1,32 @@
+TechPicks 22/10/2019 -
+
+Asynchronous Communication: The Real Reason Remote Workers Are More Productive
+https://doist.com/blog/asynchronous-communication/
+
+Oregon can't stop people from calling themselves engineers, judge rules in Traffic-Light-Math-Gate
+https://www.theregister.co.uk/2019/01/02/oregon_engineer_license_laws/
+
+Build FFmpeg WebAssembly version (= ffmpeg.js): Part.3 ffmpeg.js v0.1.0 — Transcoding avi to mp4
+https://medium.com/@jeromewus/build-ffmpeg-webassembly-version-ffmpeg-js-part-3-ffmpeg-js-v0-1-0-transcoding-avi-to-mp4-f729e503a397
+
+peaks.js - JavaScript UI component for interacting with audio waveforms
+https://github.com/bbc/peaks.js
+
+The problems of shared mutable state and how to avoid them
+https://2ality.com/2019/10/shared-mutable-state.html
+
+How to Create your first Gatsby Plugin
+https://blog.daudr.me/create-gatsby-plugin/
+
+seel - Build Docker images for your Node.js applications without effort
+https://github.com/kevinpollet/seel#readme
+
+secure-env: Env encryption tool that would helps you prevent attacks from npm-malicious-packages.
+https://github.com/kunalpanchal/secure-env
+
+Deep Dive Into Node.js Module Architecture
+https://medium.com/@gotoflorian.pro/deep-dive-into-node-js-module-architecture-b80fbd22dacb
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,38 @@
+TechPicks 18/10/2018 -
+
+Bill Gates' tribute to his friend Paul Allen
+https://www.gatesnotes.com/About-Bill-Gates/Remembering-Paul-Allen
+
+Property order is predictable in JavaScript objects since ES2015
+https://www.stefanjudis.com/today-i-learned/property-order-is-predictable-in-javascript-objects-since-es2015/
+
+Why Using reduce() to Sequentially Resolve Promises Works
+https://css-tricks.com/why-using-reduce-to-sequentially-resolve-promises-works/
+
+Evergreen: A React UI Framework built by Segment
+https://evergreen.segment.com/
+
+Searching and sorting text with diacritical marks in JavaScript
+https://thread.engineering/2018-08-29-searching-and-sorting-text-with-diacritical-marks-in-javascript/
+
+4 Things Developers Take for Granted That Used to Be Really Hard
+https://dev.to/remotesynth/4-things-developers-take-for-granted-that-used-to-be-really-hard-2fd3
+
+Animated Flex Tutorial
+https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2
+
+Coding like a hacker in the terminal
+https://medium.com/@caleb89taylor/coding-like-a-hacker-in-the-terminal-79e22954968e
+
+Well Architected Monoliths are Okay
+https://robertnorthard.com/devops-days-well-architected-monoliths-are-okay/
+
+A PHP terminal NES emulator
+https://github.com/hasegawa-tomoki/php-terminal-nes-emulator
+
+Mouse Underlaying: New keylogger technique
+http://eudl.eu/doi/10.4108/eai.15-10-2018.155740
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

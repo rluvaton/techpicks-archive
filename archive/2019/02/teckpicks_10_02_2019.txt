@@ -1,0 +1,35 @@
+TechPicks 10/02/2019 -
+
+What Hooks Mean For Vue
+https://css-tricks.com/what-hooks-mean-for-vue/
+
+A JavaScript Neural Network playing a JavaScript game
+https://github.com/victorqribeiro/carGamePerceptron
+
+CRA vs Next.js vs Gatsby - Comparison and How to Choose One
+https://coffeencoding.com/cra-vs-next-js-vs-gatsby/
+
+Machine Learning for Everyone. In simple words. With real-world examples.
+https://vas3k.com/blog/machine_learning/
+
+A Guide To Prototype-Based Class Inheritance In JavaScript
+https://medium.com/@js_tut/a-guide-to-prototype-based-class-inheritance-in-javascript-849d3c3ddca
+
+A GitHub user is taking over dozens of domains they don't own via GitHub Pages
+https://news.ycombinator.com/item?id=19118740
+
+Times Tables (Mathematical beauty)
+https://codepen.io/EntropyReversed/full/YBEwXV
+
+Thoughts on the node_modules folder size debate: It's a privilege
+https://flaviocopes.com/node-modules-size/
+
+Fonts Degooglifier - A script to de-googlify CSS files, downloading relevant fonts in the process
+https://git.occrp.org/libre/fonts-degooglifier
+
+Mastering Maps: Build a Flexible Variable System in Sass
+https://www.viget.com/articles/maps-math-and-magic-build-a-flexible-variable-system-in-sass/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

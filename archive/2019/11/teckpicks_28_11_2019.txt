@@ -1,0 +1,23 @@
+TechPicks 28/11/2019 -
+
+Why you should choose useState instead of useReducer
+https://medium.com/free-code-camp/why-you-should-choose-usestate-instead-of-usereducer-ffc80057f815
+
+Job negotiation for programmers: the basic principles
+https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/
+
+Does JavaScript keep you too busy to care about CSS? Here are recent features you want to know about!
+https://pawelgrzybek.com/does-javascript-keep-you-too-busy-to-care-about-css-here-are-recent-features-you-want-to-know-about/
+
+2019 State of Haskell Survey results
+https://taylor.fausak.me/2019/11/16/haskell-survey-results/
+
+The problems of shared mutable state and how to avoid them
+https://2ality.com/2019/10/shared-mutable-state.html
+
+An Approach to JavaScript Object Schema Migration
+https://typeofnan.dev/an-approach-to-js-object-schema-migration/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,41 @@
+TechPicks 15/10/2019 -
+
+typical: animated typing in ~400 bytes of JavaScript
+https://github.com/camwiegert/typical
+
+Python 3.8 released
+https://www.python.org/downloads/release/python-380/
+
+Rough Charts - A responsive, composable react charting chart library with a hand-drawn style
+https://github.com/beizhedenglong/rough-charts
+
+noiseToScroll - Scroll your page by making noise (whistle, finger snap...)
+https://github.com/clementraballand6/noise-to-scroll
+
+A hierarchical front-end structure proposal
+https://github.com/petejank/hierarchical-front-end-structure
+
+Tutorial for building FFmpeg with Emscripten (=ffmpeg.js)
+https://medium.com/@jeromewus/build-ffmpeg-webassembly-version-ffmpeg-js-part-1-preparation-ed12bf4c8fac
+
+Update your website favicon dynamically for dark mode
+https://jross.me/updating-your-website-favicon-dynamically-with-dark-mode/
+
+Clean Code concepts adapted for TypeScript
+https://github.com/labs42io/clean-code-typescript
+
+Build Command-Line Spinners in Node.js
+https://blog.bitsrc.io/build-command-line-spinners-in-node-js-3e432d926d56
+
+James Gosling on how Richard Stallman stole his Emacs source code and edited the copyright notices
+https://www.youtube.com/watch?v=TJ6XHroNewc&t=10377
+
+Rethinking CSS Frameworks
+https://bubblin.io/blog/toucaan-introduction
+
+TSConf 2019: Types on every desk, in every home, for every JS developer
+https://dev.to/remojansen/tsconf-2019-types-on-every-desk-in-every-home-for-every-js-developer-5h1j
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

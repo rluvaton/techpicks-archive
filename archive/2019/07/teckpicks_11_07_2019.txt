@@ -1,0 +1,38 @@
+TechPicks 11/07/2019 -
+
+Dan Abramov - Preparing for a Tech Talk, Part 3: Content
+https://overreacted.io/preparing-for-tech-talk-part-3-content/
+
+"I Am Unhireable"
+https://dev.to/vorahsa/i-am-unhireable-541d
+
+Framer Motion, the successor to Pose by Popmotion, is now open source!
+https://www.framer.com/motion/
+
+Backdoor discovered in Ruby strong_password library
+https://nakedsecurity.sophos.com/2019/07/09/backdoor-discovered-in-ruby-strong_password-library/
+
+QuickJS Javascript Engine by Fabrice Bellard
+https://bellard.org/quickjs/
+
+Netlify introduces Netlify Analytics
+https://www.netlify.com/blog/2019/07/10/netlify-analytics---accurate-insights-without-performance-impacts/
+
+Web Accessibility Guidebook for Developers
+https://www.telerik.com/blogs/web-accessibility-guidebook-for-developers
+
+Here Are The Most Common JavaScript Algorithms and Data Structures
+https://medium.com/@indreklasn/here-are-the-most-common-javascript-algorithms-and-data-structures-ec3729050169
+
+Fun places to learn CSS Layout – Part 2: Grid Layout, by Stéphanie Walter
+https://stephaniewalter.design/blog/fun-places-to-learn-css-layout-part-2-grid-layout/
+
+Creating Pixel Art with CSS
+https://dev.to/jnschrag/creating-pixel-art-with-css-3451
+
+Apple is silently removing Zoom’s web server software from Macs
+https://www.theverge.com/2019/7/10/20689644/apple-zoom-web-server-automatic-removal-silent-update-webcam-vulnerability
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

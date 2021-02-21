@@ -1,0 +1,41 @@
+TechPicks 26/09/2018 -
+
+Gal Schlezinger - The Programming Language I’m Looking For
+https://hackernoon.com/the-programming-language-im-looking-for-948d93f7a396
+
+Eliran Peer - TravisBuddy is a service that integrates with TravisCI and GitHub in order to let your contributors know why their PRs fail the tests and what they need to do to fix it
+https://www.github.com/bluzi/travis-buddy
+
+JavaScript Promises vs. RxJS Observables
+https://medium.com/@weibeld/javascript-promises-vs-rxjs-observables-de5309583ca2
+
+Apify SDK: The scalable web crawling and scraping library for JavaScript. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer
+https://github.com/apifytech/apify-js
+
+Destructuring ES6 lambda signatures for fun and profit
+https://medium.com/@me_76676/destructuring-es6-lambda-signatures-for-fun-and-profit-5cc081fe45f3
+
+Accurately measuring layout on the web
+https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/
+
+Writing useful unit tests
+https://carlanderson.xyz/writing-useful-unit-tests/
+
+Chrome 69 will keep Google Cookies when you tell it to delete all cookies
+https://imgur.com/a/itwlWx0
+
+The Solo JavaScript Developer Challenging Google and Facebook
+https://www.wired.com/story/the-solo-javascript-developer-challenging-google-facebook/
+
+Tool to visualize database schema using code for developers and analysts
+http://dbdiagram.io/
+
+A 0Day vulnerability in MS Windows has gone public because Microsoft missed the canonical 120 days deadline
+https://www.zerodayinitiative.com/advisories/ZDI-18-1075/
+
+SQL Join Types Explained – Visualizing SQL Joins and Building on the Classic Venn Diagrams
+https://dataschool.com/sql-join-types-explained-visualizing-sql-joins-and-building-on-the-classic-venn-diagrams/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

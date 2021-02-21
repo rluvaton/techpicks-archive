@@ -1,0 +1,29 @@
+TechPicks 04/05/2020 -
+
+What the heck is React Fast Refresh
+https://mariosfakiolas.com/blog/what-the-heck-is-react-fast-refresh
+
+Modern SAT solvers: fast, neat and underused (part 1 of N)
+https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/
+
+DarkMode: A micro library (~360B) for handling dark mode on browsers.
+https://github.com/kazzkiq/darkmode
+
+Intel Virtualisation: How VT-x, KVM and QEMU Work Together
+https://binarydebt.wordpress.com/2018/10/14/intel-virtualisation-how-vt-x-kvm-and-qemu-work-together/
+
+How to prevent code reviews from slowing down your team
+http://www.sheshbabu.com/posts/how-to-prevent-code-reviews-from-slowing-down-your-team/
+
+ICANN blocks controversial sale of .org domain to a private equity firm
+https://arstechnica.com/tech-policy/2020/05/icann-blocks-controversial-sale-of-org-domain-to-a-private-equity-firm/
+
+State of Persistent Storage in K8s — A Benchmark
+https://medium.com/@bratao/state-of-persistent-storage-in-k8s-a-benchmark-77a96bb1ac29
+
+Be fast with Kubectl 1.18 (CKAD/CKA)
+https://medium.com/faun/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

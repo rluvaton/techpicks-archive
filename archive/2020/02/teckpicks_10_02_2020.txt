@@ -1,0 +1,26 @@
+TechPicks 10/02/2020 -
+
+Elad Shechter - An opinionated approach on creating a more readable CSS
+https://medium.com/@elad/how-to-create-a-more-readable-css-3e67ea4812ee
+
+How we built Picture-in-Picture in Firefox Desktop with more control over video
+https://hacks.mozilla.org/2020/01/how-we-built-picture-in-picture-in-firefox-desktop/
+
+6 things I wished I knew about state management when I started writing React apps
+https://medium.com/@veeralpatel/things-ive-learned-about-state-management-for-react-apps-174b8bde87fb
+
+Use and Reuse Everything in SVG… Even Animations!
+https://css-tricks.com/use-and-reuse-everything-in-svg-even-animations/
+
+USWDS: US Gov's surprisingly modern web design system
+https://designsystem.digital.gov/
+
+"My productivity app for the past 12 years has been a single .txt file"
+https://jeffhuang.com/productivity_text_file/
+
+Personal info of 6m. Israelis leaked after Likud uploads voter info
+https://www.jpost.com/Israel-Elections/Personal-info-of-6m-Israelis-leaked-after-Likud-uploads-voter-info-617048
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

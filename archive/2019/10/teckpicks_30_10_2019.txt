@@ -1,0 +1,32 @@
+TechPicks 30/10/2019 -
+
+format-graphql: Format GraphQL schema definition language (SDL) document
+https://github.com/gajus/format-graphql
+
+Debugging Memory Leaks in Angular
+https://blog.bitsrc.io/debugging-memory-leaks-in-angular-4bc7b3eab569
+
+Strongly-typed destructuring and rest parameters
+https://www.carlrippon.com/strongly-typed-destructuring-and-rest-parameters/
+
+XML is almost always misused
+https://www.devever.net/~hl/xml
+
+Why Is React Concurrent Mode Exciting?
+https://hswolff.com/blog/why-is-react-concurrent-mode-exciting/
+
+My Most Embarrassing Mistakes as a Programmer (so far)
+https://stackoverflow.blog/2019/10/29/my-most-embarrassing-mistakes-as-a-programmer-so-far/
+
+Setting up your app to turn it into a PWA
+https://medium.com/@victoria.adnet/turning-your-existing-application-into-a-pwa-776d65b0aa12
+
+Peak.AI open-sourced their serverless microservice tooling
+https://github.com/peak-ai/ais-service-discovery-js
+
+Huawei Becomes a Strategic Member of the Eclipse Foundation
+https://blog.huawei.com/2019/10/22/huawei-becomes-a-strategic-member-of-the-eclipse-foundation/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

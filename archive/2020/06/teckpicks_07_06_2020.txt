@@ -1,0 +1,29 @@
+TechPicks 07/06/2020 -
+
+Starting with order: an approach to generative art
+https://karthikkaranth.me/blog/starting-with-order/
+
+What is Functional Programming all about?
+https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html
+
+CheckPoint - A VSCode extension for easy file state tracking
+https://www.github.com/BurntBanana/CheckPoint
+
+A guide to writing a DNS Server from scratch in Rust
+https://github.com/EmilHernvall/dnsguide
+
+Yet Another Doom Clone (In 13kb of JavaScript)
+https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html
+
+How to avoid race conditions using asynchronous JavaScript
+https://www.lorenzweiss.de/race_conditions_explained/
+
+A collection of classic data structures and algorithms implemented in TypeScript with video lectures
+https://github.com/jeffzh4ng/dsa-ts
+
+The top types `any` and `unknown` in TypeScript
+https://2ality.com/2020/06/any-unknown-typescript.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

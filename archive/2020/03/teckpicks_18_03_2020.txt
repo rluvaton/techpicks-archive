@@ -1,0 +1,26 @@
+TechPicks 18/03/2020 -
+
+JavaScript Proxies : Real world use cases
+https://www.arbazsiddiqui.me/javascript-proxies-real-world-use-cases/
+
+GitHub for mobile is out of beta
+https://github.blog/2020-03-17-github-for-mobile-is-now-available/
+
+GitHub's new notifications: a case of regressive design
+https://drewdevault.com/2020/03/13/GitHub-notifications.html
+
+The bug tracker for Windows 1.0 was just a text file - "We called it RAID because it kills bugs dead"
+https://devblogs.microsoft.com/oldnewthing/20200317-00/?p=103566
+
+Traefik Webinar: Cloud Native Tools for Developers with Alex Ellis and Alistair Hey
+https://www.youtube.com/watch?v=r4mEF8rtXWo&feature=youtu.be
+
+Cambridge text books (Including Computer Science) available for free until the end of May
+https://www.cambridge.org/core/what-we-publish/textbooks/listing
+
+Kind - run local Kubernetes clusters using Docker
+https://kind.sigs.k8s.io/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

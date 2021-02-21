@@ -1,0 +1,26 @@
+TechPicks 01/04/2019 -
+
+Easy way to internationalize your React application
+https://github.com/ibitcy/eo-locale
+
+Jekyll + Webpack = Jekpack, an integration of Jekyll and Webpack, more enjoyable way to develop static sites
+https://github.com/yfxie/jekpack
+
+Typescript Introduction II
+https://github.com/n0ruSh/blogs/issues/19
+
+In Pursuit of Enjoyable Developer Collaboration
+https://dev.to/lostintangent/visual-studio-live-share-in-pursuit-of-enjoyable-developer-collaboration-2nko
+
+Node.js Readable streams distilled (second edition)
+https://micromind.me/posts/nodejs-readable-streams-distilled
+
+React Hooks — designing a simple forms API — part 1
+https://itnext.io/react-hooks-designing-a-simple-forms-api-part-1-307b04bc6007
+
+How to Use the useContext Hook in React - Upmostly
+https://upmostly.com/tutorials/how-to-use-the-usecontext-hook-in-react/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

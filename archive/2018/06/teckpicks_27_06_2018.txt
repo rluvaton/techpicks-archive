@@ -1,0 +1,39 @@
+TechPicks 27/06/2018 -
+
+BroadcastChannel that works in New Browsers, Old Browsers, WebWorkers and NodeJs
+https://github.com/pubkey/broadcast-channel
+
+The Vue JS Handbook - Free 120 pages ebook
+https://vuehandbook.com/
+
+Mimicking the Bloomberg menu widget without JavaScript
+https://dosyago-coder-0.github.io/mimic-bloomberg-menu-no-js
+
+UW CS Lecturer Explains "Why Women Don't Code"; Chaos Ensues
+https://www.thestranger.com/slog/2018/06/26/28210971/university-of-washington-computer-science-lecturer-explains-why-why-women-dont-code-chaos-ensues
+
+Oldest domains in the .com, .net, and .org TLDs
+https://www.cambus.net/oldest-domains-in-the-com-net-and-org-tlds/
+
+Massacring C Pointers
+https://wozniak.ca/blog/2018/06/25/Massacring-C-Pointers/index.html
+
+Doing Windows, Part 1: MS-DOS and Its Discontents The Digital Antiquarian
+https://www.filfre.net/2018/06/doing-windows-part-1-ms-dos-and-its-discontents/
+
+A beginner's intro to Network Protocols
+https://www.destroyallsoftware.com/compendium/network-protocols
+
+SQLite: The Database at the Edge of the Network with Dr. Richard Hipp
+https://www.youtube.com/watch?v=Jib2AmRb_rk
+
+Zapper: A Very Fast Templating Engine
+https://ceres1.space/posts/zapper/
+
+Demonstrating Reflected versus DOM Based XSS
+https://littlemaninmyhead.wordpress.com/2018/06/24/demonstrating-reflected-versus-dom-based-xss/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

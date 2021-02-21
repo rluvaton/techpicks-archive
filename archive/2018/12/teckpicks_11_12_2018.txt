@@ -1,0 +1,26 @@
+TechPicks 11/12/2018 -
+
+Michel Weststrate - Immer, Immutability and the Wonderful World of Proxies | ReactNext 2018
+https://www.youtube.com/watch?v=FKRVDfpQ9cw
+
+“Tech Trends Showdown🏆: React vs Angular vs Vue” by Andrei Neagoie 
+https://medium.com/zerotomastery/tech-trends-showdown-react-vs-angular-vs-vue-61ffaf1d8706
+
+Finding photos on Twitter using face recognition with TensorFlow.js
+http://jamesthom.as/blog/2018/10/30/finding-photos-on-twitter-using-face-recognition/
+
+Chrome Extensions are coming to Microsoft’s new Edge browser
+https://www.theverge.com/2018/12/10/18134073/chromium-microsoft-browser-chrome-extensions-xbox-one
+
+The ultimate guide to proper use of animation in UX
+https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9
+
+19 ways to become a better Node.JS developer in 2019
+https://medium.com/@me_37286/19-ways-to-become-a-better-node-js-developer-in-2019-ffd3a8fbfe38
+
+Easy transitions for CSS Grid
+https://github.com/aholachek/animate-css-grid
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

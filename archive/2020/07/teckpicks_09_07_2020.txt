@@ -1,0 +1,26 @@
+TechPicks 09/07/2020 -
+
+Software Roles and Titles
+https://medium.com/javascript-scene/software-roles-and-titles-e3f0b69c410c
+
+We can't send mail more than 500 miles
+http://web.mit.edu/jemorris/humor/500-miles
+
+Web Monetization · A JavaScript browser API which allows the creation of a payment stream from the user agent to the website
+https://webmonetization.org/
+
+How Developers Stop Learning: Rise of the Expert Beginner
+https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
+
+Loopy - a tool for thinking in systems
+https://ncase.me/loopy/
+
+Bumblebee - a JavaScript voice app framework
+https://github.com/jaxcore/bumblebee
+
+Why you'll probably regret using Tailwind
+https://johanronsse.be/2020/07/08/why-youll-probably-regret-using-tailwind/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 01/01/2019 -
+
+Dan Abramov - The Elements of UI Engineering
+https://overreacted.io/the-elements-of-ui-engineering/
+
+"Rock star" engineers sometimes work at startups, but usually they work for big companies who can pay them twice the salary
+https://www.karllhughes.com/posts/myths-working-engineer-startup
+
+Type Theory and its Meaning
+https://www.youtube.com/watch?v=xMAqniX2Paw
+
+Electron and the Decline of Native Apps
+https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps
+
+Notes From Michael Feathers’ Brutal Refactoring
+https://www.thekua.com/atwork/2011/05/notes-from-michael-feathers-brutal-refactoring/
+
+A simple, lightweight Javascript library for dynamic grid layouts
+https://github.com/e-oj/Magic-Grid
+
+Bitwise Operators in JavaScript: The Good Parts
+https://medium.com/p/bitwise-operators-in-javascript-the-good-parts-a2e811a8c76b
+
+Styling a Select Like It's 2019
+https://www.filamentgroup.com/lab/select-css.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

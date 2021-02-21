@@ -1,0 +1,23 @@
+TechPicks 06/01/2020 -
+
+This Is Why You Always Review Your Dependencies, AGPL Edition
+https://www.agwa.name/blog/post/always_review_your_dependencies
+
+Algorithms interviews: theory vs. practice
+https://danluu.com/algorithms-interviews/
+
+ES-Everything: an ECMA Explainer
+https://www.matthewgerstman.com/tech/es-everything
+
+Things I've Learnt Optimizing Our Build Time
+https://dutzi.github.io/optimizing-our-build-time/
+
+Tests should be coupled to the behavior of code and decoupled from the structure of code
+https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3
+
+Is "is" Useful?
+https://css-tricks.com/is-is-useful/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

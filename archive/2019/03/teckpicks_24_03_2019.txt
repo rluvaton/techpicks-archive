@@ -1,0 +1,35 @@
+TechPicks 24/03/2019 -
+
+Did you know that you can share from native Android app to your website through the share intent?
+https://chodounsky.net/2019/03/24/progressive-web-application-as-a-share-option-in-android/
+
+JavaScript tampering – detection and stealth
+https://adtechmadness.wordpress.com/2019/03/23/javascript-tampering-detection-and-stealth/
+
+V8 release v7.4 is out: private class fields!
+https://v8.dev/blog/v8-release-74
+
+Hands-On with Microsoft's New Edge Browser Built on Chromium
+https://www.thurrott.com/microsoft/203601/hands-on-with-microsofts-new-edge-browser-built-on-chromium
+
+Understanding Prototypes in JavaScript
+https://medium.com/@PurpleGreenLemon/e466244da086
+
+SQL joins
+https://i.redd.it/xd0kgoexwon21.jpg
+
+A Better Next.js MobX Example
+https://www.themikelewis.com/post/nextjs-with-mobx
+
+(JavaScript) naming conventions: do’s and don’ts
+https://i.redd.it/azsy1xlq5rn21.png
+
+All you need to know about hyphenation in CSS
+http://clagnut.com/blog/2395
+
+CSS Flexbox: 5 Real World Use Cases
+https://ishadeed.com/article/flexbox-real-world-use-cases/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

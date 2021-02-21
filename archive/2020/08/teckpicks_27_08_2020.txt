@@ -1,0 +1,29 @@
+TechPicks 27/08/2020 -
+
+Why Johnny Won't Upgrade
+http://jacquesmattheij.com/why-johnny-wont-upgrade/
+
+7 versatile Vim commands that are easy to memorize
+https://initialcommit.com/blog/7-versatile-vim-commands
+
+Programming as an addiction (And how it makes your code worse, while it makes your life worse)
+http://www.grindd.com/blog/2013/07/the-effects-of-computer-programming-on-the-brain/#
+
+A Way to Distribute Two Million Students to Universities
+https://ambertide.github.io/data/2020/08/26/distributing-students.html
+
+Learn Vim (the Smart Way): a book to learn the good parts of Vim
+https://github.com/iggredible/Learn-Vim
+
+Don't trust default timeouts
+https://robertovitillo.net/default-timeouts/
+
+Kubernetes: Virtual Clusters For CI/CD & Testing
+https://medium.com/@danielthiry92/kubernetes-virtual-clusters-for-ci-cd-testing-ccc3664d21e0
+
+Some Tips & Tricks with AWS Step Functions
+https://medium.com/@alexander.mancevice/using-amazon-step-functions-b234d4b4157f
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

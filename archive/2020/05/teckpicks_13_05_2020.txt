@@ -1,0 +1,26 @@
+TechPicks 13/05/2020 -
+
+Kite launches a free AI-powered autocomplete for JavaScript
+https://venturebeat.com/2020/05/12/kite-pro-ai-powered-python-javascript-code-completions/
+
+The Deno Handbook: a concise introduction to Deno
+https://flaviocopes.com/deno/
+
+Announcing TypeScript 3.9
+https://devblogs.microsoft.com/typescript/announcing-typescript-3-9/
+
+NPM 7 Introduction
+https://blog.npmjs.org/post/617484925547986944/npm-v7-series-introduction
+
+Out-of-date, insecure open-source code is everywhere
+https://www.zdnet.com/article/out-of-date-insecure-open-source-software-is-everywhere/
+
+Researchers spot thousands of Android apps leaking user data through misconfigured Firebase databases
+https://www.theregister.co.uk/2020/05/12/report_thousands_of_android_apps/
+
+GitHub stars are overvalued
+https://towardsdatascience.com/github-stars-are-overvalued-15ba780b36
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

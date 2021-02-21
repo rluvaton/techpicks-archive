@@ -1,0 +1,26 @@
+TechPicks 21/01/2020 -
+
+Inside Node.js: What happens when we execute a script?
+https://blog.s1h.org/inside-node-executing-a-script/
+
+My approach as Fullstack working with Microservices
+https://repoflow.com/blog/fullstack-dev/eWRhpR1.html
+
+Styled Components vs. CSS Stylesheets
+https://getstream.io/blog/styled-components-vs-css-stylesheets/
+
+The 2038 problem is already affecting some systems
+https://twitter.com/jxxf/status/1219009308438024200
+
+Analysis of compensation, level, and experience details of 19k tech workers
+https://huyenchip.com/2020/01/18/tech-workers-19k-compensation-details.html
+
+BLAKE3 Hashing in JavaScript (wasm and native neon bindings)
+https://github.com/connor4312/blake3
+
+Gamedev Tutorial: Dot Product, Rulers, And Bouncing Balls
+https://www.allenchou.net/2020/01/dot-product-projection-reflection/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

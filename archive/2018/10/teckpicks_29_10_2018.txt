@@ -1,0 +1,35 @@
+TechPicks 29/10/2018 -
+
+How to apply SOLID principles in React applications
+https://blog.usejournal.com/how-to-apply-solid-principles-in-react-applications-6c964091a982
+
+Writing cleaner and safer JavaScript with Sum Types
+https://medium.com/@phenax5/writing-cleaner-and-safer-javascript-with-sum-types-bec9c68ba7aa
+
+Reactive Programming: Why It Matters
+https://www.youtube.com/watch?v=49dMGC1hM1o&feature=youtu.be
+
+TeXMe – Self-Rendering Markdown and LaTeX Documents
+https://github.com/susam/texme
+
+What time is it? Oh it's purple
+http://www.jacopocolo.com/hexclock/
+
+The Code You Write Should Only Suck Less Than The One Before
+https://medium.com/@fagnerbrack/the-code-you-write-should-only-suck-less-than-the-one-before-5a20e9a543f
+
+Why the NSA Called Me After Midnight and Requested My Source Code
+https://medium.com/datadriveninvestor/why-the-nsa-called-me-after-midnight-and-requested-my-source-code-f7076c59ab3d
+
+IBM acquires Red Hat
+https://newsroom.ibm.com/2018-10-28-IBM-To-Acquire-Red-Hat-Completely-Changing-The-Cloud-Landscape-And-Becoming-Worlds-1-Hybrid-Cloud-Provider
+
+The Waiting Time Paradox, or, Why Is My Bus Always Late? - Detailed Analysis
+http://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/
+
+The Periodic Table of Data Structures
+https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

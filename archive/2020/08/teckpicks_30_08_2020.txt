@@ -1,0 +1,26 @@
+TechPicks 30/08/2020 -
+
+Ariel Weinberger: JSON Web Tokens (JWT) — the only explanation you will ever need
+https://medium.com/@weinberger.ariel/json-web-token-jwt-the-only-explanation-youll-ever-need-cf53f0822f50
+
+Probably more than what you want to know about the Node.js shebang
+https://medium.com/@alexewerlof/node-shebang-e1d4b02f731d
+
+Inventing Monads
+https://stopa.io/post/247
+
+The Infinite Loop That Wasn't: A Holy Grail Bug Story
+https://mgba.io/2020/01/25/infinite-loop-holy-grail/
+
+Trigonofighter: A game that teaches people trigonometry
+https://github.com/dataf3l/trigonofighter
+
+A tower defence game played by filling in CSS
+http://www.flexboxdefense.com/
+
+How Edge Detection In Images Work
+https://blog.digitalbunker.dev/2020/08/28/how-does-edge-detection-work/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

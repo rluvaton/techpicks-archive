@@ -1,0 +1,38 @@
+TechPicks 14/03/2019 -
+
+GitHub/Outbrain - Tech Companies Logos in CSS
+https://github.com/outbrain/tech-companies-logos-in-css
+
+Liron Navon - Mastering testing with Vue.js by testing a real application and setting up CI/CD
+https://medium.com/clockwork-nl/mastering-testing-with-vue-js-by-testing-a-real-application-and-setting-up-ci-cd-e4e989c12912
+
+Polyfilling a web app the right way
+https://medium.com/@lee_85949/polyfilling-a-web-app-the-right-way-6e3fcb74f56
+
+Why you shouldn't use Moment.js
+https://inventi.studio/en/blog/why-you-shouldnt-use-moment-js
+
+V8 v7.4 now supports JavaScript execution without allocating executable memory at runtime
+https://v8.dev/blog/jitless
+
+New code editor from Panic coming soon - Coda discontinued
+https://panic.com/next/
+
+These Cookie Warning Shenanigans Have Got to Stop
+https://www.troyhunt.com/these-cookie-warning-shenanigans-have-got-to-stop/
+
+type-fest - a collection of essential TypeScript types
+https://github.com/sindresorhus/type-fest
+
+useDimensions – a React Hook to measure DOM nodes
+https://swizec.com/blog/usedimensions-a-react-hook-to-measure-dom-nodes/swizec/8983
+
+Why I Write CSS in JavaScript
+https://mxstbr.com/thoughts/css-in-js/
+
+Sublime Text 3.2 Released!
+https://www.sublimetext.com/blog/articles/sublime-text-3-point-2
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

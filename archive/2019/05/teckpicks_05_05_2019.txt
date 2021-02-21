@@ -1,0 +1,32 @@
+TechPicks 05/05/2019 -
+
+Autoslap - a Node CLI tool that automatically installs and configures ESLint, Prettier, Husky and lint-staged
+https://github.com/paolostyle/autoslap
+
+A* Mazing thing - an A* pathfinding algorithm encapsulated in an ES6 Class with interactive rendered demos (Vanilla, React, Blocklike)
+https://bitbucket.org/ronilan/a-mazing-thing/
+
+Attackers Wiping GitHub and GitLab Repos, Leave Ransom Notes
+https://www.bleepingcomputer.com/news/security/attackers-wiping-github-and-gitlab-repos-leave-ransom-notes/
+
+JavaScript Interview Questions and How to Solve Them
+https://www.algodaily.com/challenges
+
+Why I'm not collaborating with Kenneth Reitz
+https://vorpus.org/blog/why-im-not-collaborating-with-kenneth-reitz/
+
+Making the Move from jQuery to Vue
+https://css-tricks.com/making-the-move-from-jquery-to-vue/
+
+Unraveling The JPEG
+https://parametric.press/issue-01/unraveling-the-jpeg/
+
+Privacy and the :visited selector - CSS: Cascading Style Sheets
+https://developer.mozilla.org/en-US/docs/Web/CSS/Privacy_and_the_:visited_selector
+
+Writing scalable TypeScript
+https://medium.com/@.gc/e62e1f24a013
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

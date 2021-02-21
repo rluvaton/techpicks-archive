@@ -1,0 +1,45 @@
+TechPicks 13/06/2018 -
+
+Search Interactive Maps to Learn Anything
+https://learn-anything.xyz/
+
+Office 365, MS teams, Skype, @code, and the edge debug protocol are being rewritten in js instead of C++ with special MS tooling
+https://twitter.com/thelarkinn/status/1006746626617008128?s=21
+
+Node.js - The Dangers of Malicious Modules
+https://medium.com/intrinsic/common-node-js-attack-vectors-the-dangers-of-malicious-modules-863ae949e7e8
+
+6 Best Practices & Pro Tips when using Angular CLI
+https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81
+
+Recognizing images using Tensorflow.JS in browser
+https://ednsquare.com/publisher/view/Recognizing-images-using-Tensorflow-JS-in-browser------IeouBX4SWf
+
+Announcing winston@3.0.0
+https://godaddy.github.io/2018/06/12/announcing-winston-3/
+
+GitHub - olstenlarck/resources: Huge curated collection of links of #Tech, #Science, #Conferences, #Videos, #Courses, #Books and much more resources from everyday surfing. Since October 21, 2017.
+https://github.com/olstenlarck/resources
+
+Docz — It has never been so easy to document your things!
+https://www.docz.site/
+
+The new (and old) CSS units you've never heard about
+https://dev.to/maxart2501/the-new-and-old-css-units-youve-never-heard-about-1mn1
+
+Keep Tests Focused
+https://testing.googleblog.com/2018/06/testing-on-toilet-keep-tests-focused.html
+
+How WebAssembly is changing the Web and what it means for you
+https://www.youtube.com/watch?v=lOUXzBAXhO4
+
+We analyzed the GitHub Issues from the most popular Front-End frameworks, here's what we found
+https://building.lang.ai/we-analyzed-the-github-issues-from-the-most-popular-front-end-frameworks-heres-what-we-found-c3491b26ec95
+
+Learning operating system development using Linux kernel and Raspberry Pi
+https://github.com/s-matyukevich/raspberry-pi-os
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

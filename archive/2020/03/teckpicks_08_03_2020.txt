@@ -1,0 +1,32 @@
+TechPicks 08/03/2020 -
+
+How to rate-limit your Node/Express API (the easy way)
+https://zachwhite.io/post/how-to-rate-limit-your-node-express-api
+
+Bring some structure to your file and directory names with ls-lint
+http://github.com/loeffel-io/ls-lint
+
+Future-proofing Firefox’s JavaScript Debugger Implementation
+https://hacks.mozilla.org/2020/03/future-proofing-firefoxs-javascript-debugger-implementation/
+
+Midori - library for animated image backgrounds in websites
+https://aeroheim.github.io/midori/
+
+The Story of the PS2’s Backwards Compatibility From the Engineer Who Built It
+https://medium.com/@freelansations/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353
+
+My favourite Git commit
+https://dhwthompson.com/2019/my-favourite-git-commit
+
+Using TypeScript without TypeScript
+https://www.dandoescode.com/blog/using-typescript-without-typescript/
+
+TypeBox - Mapping TypeScript as JSONSchema
+https://github.com/sinclairzx81/typebox
+
+Private Helm Repo with GCS and GitHub Actions
+https://www.arthurkoziel.com/private-helm-repo-with-gcs-and-github-actions/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 02/02/2020 -
+
+Understanding Git for real by exploring the .git directory
+https://www.daolf.com/posts/git-series-part-1/
+
+Implementing 2D Physics in JavaScript
+https://towardsdatascience.com/implementing-2d-physics-in-javascript-860a7b152785
+
+mappersmith - a lightweight rest client for Node.js and the browser
+https://github.com/tulios/mappersmith
+
+iHateRegex.io - A Regex cheatsheet for the haters
+https://ihateregex.io/
+
+Emulator bug? No, LLVM bug
+https://cookieplmonster.github.io/2020/02/01/emulator-bug-llvm-bug/
+
+Writing Safe Shell Scripts
+https://sipb.mit.edu/doc/safe-shell/
+
+gh - The GitHub CLI tool (beta)
+https://github.com/cli/cli
+
+Electron joins the OpenJS Foundation
+https://openjsf.org/blog/2019/12/11/electron-joins-the-openjs-foundation/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

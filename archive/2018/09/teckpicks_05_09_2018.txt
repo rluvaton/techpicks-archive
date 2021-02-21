@@ -1,0 +1,44 @@
+TechPicks 05/09/2018 -
+
+Deep Learning in the Browser with TensorFlow.js: A tutorial to teach your browser where you are looking at
+https://cpury.github.io/learning-where-you-are-looking-at/
+
+LinkedIn Message Generator
+https://duberste.in/linkedin_generator/
+
+Windows 2000 running in the browser using WebAssembly
+https://bellard.org/jslinux/vm.html?url=https://bellard.org/jslinux/win2k.cfg&mem=192&graphic=1&w=1024&h=768
+
+Do-it-yourself: Client-side State Management — Part 2
+https://medium.com/@adi.levinshtein/do-it-yourself-client-side-state-management-part-2-f1767b5bfc9b
+
+Very long Javascript programming tutorial with examples
+http://leftmouseclickin.com/2018/09/04/javascript-tutorial/
+
+Call for Code asks developers worldwide to collaborate on solutions to save lives
+https://developer.ibm.com/callforcode/
+
+Chrome's Getting an Updated Look for its 10th Birthday
+https://www.blog.google/products/chrome/chromes-turning-10-heres-whats-new/
+
+Google Analytics is lying to you (massively)
+https://www.tallprojects.co.uk/articles/google-analytics-is-lying-to-you/
+
+TypeScript and Babel 7 (Babel 7 now ships with TypeScript support)
+https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/
+
+Microsoft Azure suffers outage after cooling issue
+https://www.datacenterdynamics.com/news/microsoft-azure-suffers-outage-after-cooling-issue/
+
+Notes on "A Philosophy of Software Design."
+https://lethain.com//notes-philosophy-software-design/
+
+Agile Makes No Sense
+https://hackernoon.com/agile-makes-no-sense-c8ebbf971012
+
+Designing for suicidal users: preventing suicide the modern way
+https://uxdesign.cc/preventing-suicide-the-modern-way-86a816e2bf07
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

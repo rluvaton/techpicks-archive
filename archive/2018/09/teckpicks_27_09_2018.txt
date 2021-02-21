@@ -1,0 +1,26 @@
+TechPicks 27/09/2018 -
+
+NASA's website for their open source build-it-yourself rover is insanely cool
+https://opensourcerover.jpl.nasa.gov/
+
+Chrome 70: "Product updates based on your feedback"
+https://www.blog.google/products/chrome/product-updates-based-your-feedback/
+
+Why using localStorage directly is a bad idea
+https://michalzalecki.com/why-using-localStorage-directly-is-a-bad-idea/
+
+CSS Box Dog
+https://codepen.io/agathaco/full/eLOKvr/
+
+Writing Good Commit Messages
+https://medium.com/compass-true-north/writing-good-commit-messages-fc33af9d6321
+
+SpaceVim release v0.9.0
+https://spacevim.org/SpaceVim-release-v0.9.0/#.W6uSRQJFYGU.reddit
+
+AWS now supports U2F/Yubikeys
+https://aws.amazon.com/blogs/security/use-yubikey-security-key-sign-into-aws-management-console/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

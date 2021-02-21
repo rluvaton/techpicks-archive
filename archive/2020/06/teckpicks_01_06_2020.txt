@@ -1,0 +1,26 @@
+TechPicks 01/06/2020 -
+
+Deep dive into lazy loading images
+https://dev.to/carles/deep-dive-into-lazy-loading-images-211f
+
+WebTorrent Workshop: Learn WebTorrent and WebRTC
+https://webtorrent.github.io/workshop/
+
+StackOverflow - Best practices for REST API design
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
+
+Notes on Distributed Systems for Young Bloods
+https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
+
+Image Scrubber: tool for anonymizing photographs
+https://everestpipkin.github.io/image-scrubber/
+
+The rise of React
+https://increment.com/frontend/the-rise-of-react/
+
+Major Linux Problems on the Desktop, 2020 edition
+https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 25/03/2019 -
+
+The Definitive Guide to Approaching Tough Coding Interview Problems When Blanking Out or Stuck
+https://www.algodaily.com/lessons/the-definitive-guide-to-approaching-tough-coding-interview-problems-when-blanking-out-or-stuck
+
+Things no one ever taught me about CSS
+https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e
+
+How To Set Up a Node.js Application for Production on Ubuntu 16.04
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04
+
+Advanced Map Shading
+https://wwwtyro.net/2019/03/21/advanced-map-shading.html
+
+Add request ids to your Express & Koa app's logs, batteries included
+https://github.com/puzpuzpuz/cls-rtracer
+
+Choose Simple Solutions Over Flexible Ones
+https://thinkingsideways.net/code/2019/03/24/simplicity-over-flexibility.html
+
+Red – terminal log analysis tools
+https://github.com/antonmedv/red
+
+Oracle Swings the Layoff Axe and Clear-cuts Teams of Engineers
+https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/oracle-swings-the-layoff-axe-and-clearcuts-teams-of-engineers
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

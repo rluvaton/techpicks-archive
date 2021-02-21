@@ -1,0 +1,26 @@
+TechPicks 22/01/2020 -
+
+Elad Shechter - Understanding the “Initial”, “Inherit” and “Unset” CSS Keywords
+https://medium.com/@elad/understanding-the-initial-inherit-and-unset-css-keywords-2d70b7121695
+
+Debug like a Pro in Chrome Dev Tools — How to use Rendering tab
+https://medium.com/@tharakamd.12/debug-like-a-pro-in-chrome-dev-tools-how-to-use-rendering-tab-ba25f5bb6264
+
+Understanding Big O Notation via JavaScript
+https://alligator.io/js/big-o-notation/
+
+What I learned as a developer from Soviet accidents in Space
+https://evilmartians.com/chronicles/what-i-learned-as-a-developer-from-accidents-in-space
+
+PHP in 2020
+https://stitcher.io/blog/php-in-2020
+
+BEM Grandchildren: How To Handle Deeply Nested Elements
+https://medium.com//bem-grandchildren-how-to-handle-deeply-nested-elements-da2e5dc18a4b
+
+You're doing it wrong (B-heaps vs Binary Heaps and Big O)
+http://phk.freebsd.dk/B-Heap/queue.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

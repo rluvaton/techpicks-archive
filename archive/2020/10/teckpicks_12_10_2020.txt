@@ -1,0 +1,26 @@
+TechPicks 12/10/2020 -
+
+Webpack 5 Headache
+https://blog.sindresorhus.com/webpack-5-headache-b6ac24973bf1
+
+Everything you ever wanted to know about building a secure password reset feature
+https://www.troyhunt.com/everything-you-ever-wanted-to-know/
+
+Rust after the honeymoon
+http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/
+
+Learning Rust through open source and live code reviews
+https://loige.co/learning-rust-through-open-source-and-live-code-reviews
+
+Google may be forced to break up chrome
+https://www.politico.com/news/2020/10/10/feds-may-target-googles-chrome-browser-for-breakup-428468
+
+Angu: A small, zero-dependency library for implementing mini-languages in the browser or Node.js
+https://github.com/jsdw/angu
+
+Convert cURL command syntax to Python requests, Ansible URI, Node.js, R, PHP, Strest, Go, Dart, JSON, and Rust code
+https://curl.trillworks.com/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,26 @@
+TechPicks 19/01/2020 -
+
+Become a Better Software Architect
+https://github.com/justinamiller/SoftwareArchitect
+
+A continuously-evolving compendium of javascript tips based on common areas of confusion or misunderstanding
+https://github.com/nas5w/javascript-tips-and-tidbits
+
+100 Days of Code for Frontend Development
+http://github.com/nas5w/100-days-of-code-frontend/blob/master/README.md
+
+Should I build things on my own or rely on external tools/knowledge?
+https://medium.com/javascript-in-plain-english/should-i-build-things-on-my-own-or-rely-on-external-tools-knowledge-848c0a4a3354
+
+I have been underestimating JavaScript
+https://adlrocha.substack.com/p/adlrocha-i-have-been-underestimating
+
+How Figma’s multiplayer technology works
+https://www.figma.com/blog/how-figmas-multiplayer-technology-works/
+
+The Complete CSS Flexbox Tutorial
+https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

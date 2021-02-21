@@ -1,0 +1,29 @@
+TechPicks 14/01/2020 -
+
+Styled components v5.0.0 released
+https://github.com/styled-components/styled-components/releases/tag/v5.0.0
+
+FatFinger - a JavaScript library expanding JS to allow typos and misspellings as valid code
+http://fatfingerjs.com/
+
+Tiny Helpers – A collection of single-purpose online tools for web developers
+https://tiny-helpers.dev/
+
+Improved Vim setup in Visual Studio Code
+https://medium.com/@hoitz/improved-vim-setup-in-visual-studio-code-bc579501b80c
+
+React-spring visualizer - tweak your spring configuration
+https://react-spring-visualizer.com/
+
+Let’s Reverse Engineer Discord
+https://medium.com/tenable-techblog/lets-reverse-engineer-discord-1976773f4626
+
+Database Design Standards
+https://ovid.github.io/articles/database-design-standards.html
+
+Writing dependency-free client-side JavaScript
+https://magnushoff.com/blog/dependency-free-javascript/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,32 @@
+TechPicks 11/02/2019 -
+
+The perils of using IE as your default browser [Microsoft Tech blog post]
+https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/The-perils-of-using-Internet-Explorer-as-your-default-browser/ba-p/331732
+
+Tweakpane - compact pane for fine-tuning parameters and monitoring value changes
+https://cocopon.github.io/tweakpane/
+
+"Why I've stopped exporting defaults from my JavaScript modules"
+https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/
+
+"Everything I know as a software developer without a degree"
+https://www.taniarascia.com/everything-i-know-as-a-software-developer-without-a-degree/
+
+Pattern Matching Custom Data Types in TypeScript
+https://blog.parametricstudios.com/posts/pattern-matching-custom-data-types/
+
+Sheety - Turn your Google Sheet into an API
+https://sheety.co/
+
+Writing Easy-To-Change Code: Your Second-Most Important Goal As A Developer
+https://developer.apple.com/videos/play/wwdc2011/112/
+
+Being explicit with your own React Hook + TypeScript return type
+https://www.slightedgecoder.com/2019/02/10/being-explicit-with-your-own-react-hook-typescript-return-type/
+
+8 Best Practices for Perfect CSS Documentation
+https://webdesign.tutsplus.com/articles/css-documentation-best-practices--cms-30139
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

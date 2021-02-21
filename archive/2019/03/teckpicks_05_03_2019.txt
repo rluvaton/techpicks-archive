@@ -1,0 +1,35 @@
+TechPicks 05/03/2019 -
+
+Performance optimized JS architecture
+https://medium.com/@activenode/e95241d061f
+
+Julia Evans - Networking tool comics
+https://jvns.ca/blog/2019/02/10/a-few-networking-tool-comics/
+
+@pika/web - Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required
+https://github.com/pikapkg/web
+
+W3C approves WebAuthn as the web standard for password-free logins
+https://venturebeat.com/2019/03/04/w3c-approves-webauthn-as-the-web-standard-for-password-free-logins/
+
+JScasts episode 8 - Dockerizing a Node.js app
+https://youtu.be/rmjcq5LWEO4
+
+Optimal file structure for React applications. Community feedback welcome!
+https://medium.com/@Charles_Stover/optimal-file-structure-for-react-applications-f3e35ad0a145
+
+Preact X Beta: Fragments, Hooks, createContext, componentDidCatch, and DevTools & Profiler support
+http://github.com/developit/preact/releases/tag/10.0.0-alpha.0
+
+Cleaning up stale useEffect closures in React Hooks
+https://medium.com/@kamry.bowman/cleaning-up-stale-useeffect-closures-in-react-hooks-3df5204d809a
+
+Tips & Tricks for Gatsby – Collection of quick tips from the community
+https://www.lekoarts.de/en/blog/tips-and-tricks-for-gatsby
+
+PostgreSQL Tools for the Visually Inclined
+https://rob.conery.io/2019/03/04/postgresql-tools-for-the-visually-inclined/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

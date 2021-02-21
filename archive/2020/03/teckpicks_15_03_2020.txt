@@ -1,0 +1,26 @@
+TechPicks 15/03/2020 -
+
+uPlot.js – A fast, small chart for time series, OHLC and bars
+https://github.com/leeoniya/uPlot
+
+InboxSDK – Build apps inside Gmail
+https://www.inboxsdk.com
+
+Lesspass – open-source stateless password manager
+https://lesspass.com
+
+The getOwnPropertyDescriptors Method in JavaScript
+https://alligator.io/js/getownpropertydescriptors/
+
+fdir - the fastest directory crawler for NodeJS. 10k files in 13ms.
+https://github.com/thecodrr/fdir
+
+Understanding positioning in CSS
+https://www.chenhuijing.com/blog/understanding-positioning-in-css/
+
+The Problem with the Way Scientists Study Reason
+http://nautil.us/blog/-the-problem-with-the-way-scientists-study-reason
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

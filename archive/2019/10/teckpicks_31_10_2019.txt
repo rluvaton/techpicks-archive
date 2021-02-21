@@ -1,0 +1,32 @@
+TechPicks 31/10/2019 -
+
+Erez Hadas-Sonnenschein - Stay On Top Of Your GitLab Board
+https://medium.com/@erezson/stay-on-top-of-your-gitlab-board-5349c6c5edf8
+
+Reddit Security Report -- October 30, 2019
+https://www.reddit.com/r/redditsecurity/comments/dp9nbg/reddit_security_report_october_30_2019/
+
+What goes into building a drag and drop component in 2019?
+https://baseweb.design/blog/drag-and-drop-list/
+
+Exciting new features in Vue 3
+https://vueschool.io/articles/vuejs-tutorials/exciting-new-features-in-vue-3/
+
+The Complete Guide to ES10 Features
+https://medium.com/@js_tut/the-complete-guide-to-es10-features-f09a8c7be1bd
+
+fetch-pkg: Fetch packages programmatically from any npm-compatible registry
+https://github.com/kevinpollet/fetch-pkg#readme
+
+Uncommon Use Cases For Pseudo Elements
+https://ishadeed.com/article/unusual-use-cases-pseudo-elements/
+
+Ghost 3.0 with Gatsby/GraphQL
+https://blog.graphqleditor.com/ghost-gatsby-graphql/
+
+Google opens up '.new' domain shortcuts to other companies: Spotify, Medium, Bitly already on board
+https://www.androidpolice.com/2019/10/29/google-opens-up-new-domain-shortcuts-to-other-companies-spotify-medium-bitly-already-on-board/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

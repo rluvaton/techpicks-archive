@@ -1,0 +1,29 @@
+TechPicks 09/12/2018 -
+
+Dan Abramov - How Does setState Know What to Do?
+https://overreacted.io/how-does-setstate-know-what-to-do/
+
+IBM gives 2000 drones for free to developers to attend their contest.
+https://developer.ibm.com/contest/
+
+30 seconds of code snippets extension now available on Visual Studio Code Marketplace
+https://marketplace.visualstudio.com/items?itemName=30-seconds.30-seconds-of-code
+
+Microsoft Edge is moving to Chromium
+https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/
+
+How to understand CSS Position Absolute once and for all
+https://medium.freecodecamp.org/how-to-understand-css-position-absolute-once-and-for-all-b71ca10cd3fd
+
+Goodbye Transform-Streams, long live ES9 Async Generators
+https://medium.com/@andreasimonecosta/goodbye-transform-streams-long-live-es9-async-generators-86e60284fb80
+
+How (not) to ask a technical question
+https://www.youtube.com/watch?v=53zkBvL4ZB4
+
+Accidentally From macOS to Windows and WSL
+https://blog.questionable.services/article/accidentally-macos-wsl-windows-development/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

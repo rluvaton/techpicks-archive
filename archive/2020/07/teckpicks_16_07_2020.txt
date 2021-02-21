@@ -1,0 +1,32 @@
+TechPicks 16/07/2020 -
+
+Super Expressive - a Zero-dependency JavaScript Library For Building Regular Expressions in (Almost) Natural Language
+https://github.com/francisrstokes/super-expressive
+
+How SHA-2 works step-by-step (SHA-256)
+https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/
+
+Why You Should Love (Not Fear) “Interview Questions”
+https://medium.com/@kennethscoggins/why-you-should-love-interview-questions-7b32d8aa2254
+
+Tech Lead Compass – an opinionated list of resources for new and aspiring Tech Leads
+https://techleadcompass.com/
+
+Nitzan Uziely - Selenium and Playwright Visibility Checks: Why do they fail and how to fix?
+https://www.testim.io/blog/selenium-and-playwright-visibility-checks-why-do-they-fail-and-how-to-fix/
+
+Webpack plugins and tools for faster sites
+https://github.com/iamakulov/awesome-webpack-perf
+
+The State Of Pixel Perfection
+https://ishadeed.com/article/pixel-perfection/
+
+Three CSS Alternatives to JavaScript Navigation
+https://css-tricks.com/three-css-alternatives-to-javascript-navigation/
+
+HTTP Cats
+https://http.cat/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

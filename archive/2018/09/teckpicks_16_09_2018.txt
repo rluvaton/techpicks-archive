@@ -1,0 +1,56 @@
+TechPicks 16/09/2018 -
+
+'Impostor syndrome' affects almost 58% of tech professionals
+https://jaxenter.com/impostor-syndrome-survey-149402.html
+
+Practical Inversion of Control in TypeScript, Functional Way
+https://medium.com/@danieldughila/practical-inversion-of-control-in-typescript-42a7364511af
+
+The danger of target=_blank and opener
+https://www.pixelstech.net/article/1537002042-The-danger-of-target=_blank-and-opener
+
+Mutation Observers to The Rescue
+https://medium.com/@norabrown/mutation-observers-to-the-rescue-c73e786158c0
+
+The Rise of Immer as Immutability library in React
+https://www.netlify.com/blog/2018/09/12/the-rise-of-immer-in-react/
+
+TypeScript try/catch/finally and Custom Error Best Practices
+https://blog.joefallon.net/2018/09/typescript-try-catch-finally-and-custom-errors/
+
+Local network host discovery through blind execution of JavaScript in the browser.
+https://rain-1.github.io/in-browser-localhostdiscovery
+
+NPM Blog - Next Generation Package Management
+https://blog.npmjs.org/post/178027064160/next-generation-package-management
+
+Google’s Plan to Transform Email to AMP Is Deeply Flawed (AMP.js for Email)
+http://nymag.com/selectall/2018/03/google-amp-for-email-what-it-is-and-why-its-a-bad-idea.html
+
+Global scan: 390,000 web pages exposed their .git directory
+https://lynt.cz/blog/global-scan-exposed-git
+
+Build and Understand Express Middleware
+https://developer.okta.com/blog/2018/09/13/build-and-understand-express-middleware-through-examples
+
+Vim: Make the yanked region highlighted and apparent
+https://github.com/machakann/vim-highlightedyank
+
+Making a hash of things – using #s in git commit messages
+http://blog.tdwright.co.uk/2018/09/15/making-a-hash-of-things-using-s-in-git-commit-messages/
+
+How relevant is Joel Spolsky's "Don’t Let Architecture Astronauts Scare You" nowadays?
+https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/
+
+Ian Cooper - TDD, Where Did It All Go Wrong
+https://www.youtube.com/watch?v=EZ05e7EMOLM
+
+Interactive Git Cheatsheet
+https://ndpsoftware.com/git-cheatsheet.html
+
+It does more harm than good to categorize programmers into types
+https://hackernoon.com/the-sin-of-statically-typed-programmers-c979dca3da8f
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

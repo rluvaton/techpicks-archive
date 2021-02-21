@@ -1,0 +1,32 @@
+TechPicks 08/07/2019 -
+
+How do JavaScript’s global variables really work?
+https://2ality.com/2019/07/global-scope.html
+
+Working with React Native feels like Malcolm in the Middle father's changing a lightbulb
+https://dev.to/cutiko/working-with-react-native-feels-like-malcolm-in-the-middle-father-s-changing-a-lightbulb-4ni8
+
+Top CSS Interview Questions with detailed answers, Part II
+https://dev.to/theodesp/top-css-interview-questions-with-detailed-answers-part-ii-13l2
+
+How to create a tracker like the GitHub contribution graph with Node.js and Google Sheets
+https://medium.com/p/how-to-create-a-tracker-like-the-github-contribution-graph-with-node-js-and-google-sheets-5e915c668c1
+
+Intro Guide to Dockerfile Best Practices by Docker
+https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/
+
+Structuring React applications
+https://javascriptplayground.com/structuring-react-applications/
+
+Nat Pryce: Mistakes we made adopting event sourcing (and how we recovered)
+http://www.natpryce.com/articles/000819.html
+
+Why Most Unit Testing is Waste
+https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf
+
+A gentle introduction to Regular Expressions
+https://towardsdatascience.com/regular-expressions-explained-c9bce508e672
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

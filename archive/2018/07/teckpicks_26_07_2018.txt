@@ -1,0 +1,35 @@
+TechPicks 26/07/2018 -
+
+jQuery was removed from GitHub.com front end
+https://twitter.com/mislav/status/1022058279000842240
+
+Learn Git in 20 Minutes
+https://www.youtube.com/watch?v=IHaTbJPdB-s
+
+Byteconf React Speakers Announced - and btw, it’s free :)
+https://medium.com/byteconf/announcing-our-byteconf-react-2018-speakers-5c8a28f3f13b
+
+How to Stop Using Callbacks and Start Living
+https://hackernoon.com/how-to-stop-using-callbacks-and-start-living-1e5ed92e68e8
+
+"It works on my machine"
+https://medium.com/@tbrisker/it-works-on-my-machine-b712fd532670
+
+Page Lifecycle API | Web | Google Developers
+https://developers.google.com/web/updates/2018/07/page-lifecycle-api
+
+"What I learned after three internships at Microsoft."
+https://danielsada.tech/blog/three-times-microsoft-intern/
+
+Is WebAssembly the return of Java Applets & Flash?
+https://words.steveklabnik.com/is-webassembly-the-return-of-java-applets-flash
+
+Why Google Stores Billions of Lines of Code in a Single Repository
+https://m-cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
+
+TLDR: Show the most used parameters with an explanation of different CLI tools
+https://github.com/mstruebing/tldr
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,32 @@
+TechPicks 30/10/2018 -
+
+React's Hooks API implemented for web components
+https://github.com/matthewp/haunted
+
+Storybook 4.0 is here!
+https://medium.com/storybookjs/storybook-4-0-is-here-10b9857fc7de
+
+Pennywise – Application to open anything in a floating window
+https://github.com/kamranahmedse/pennywise/blob/master/readme.md
+
+Google launches reCAPTCHA v3
+https://webmasters.googleblog.com/2018/10/introducing-recaptcha-v3-new-way-to.html
+
+There’s always more work to do — but you still don’t need to work long hours
+https://codewithoutrules.com/2018/08/10/always-more-work-to-do/
+
+How Software Developers Use Patreon to Fund Independent Projects
+https://blog.patreon.com/rewards-software-developers
+
+WebAssembly Threads ready to try in Chrome 70 - Google Developers
+https://developers.google.com/web/updates/2018/10/wasm-threads
+
+"Dear Red Hat" - An Open Letter to my favorite Open Company. From: a current employee
+https://medium.com/@teeoh/dear-red-hat-an-open-letter-to-my-favorite-open-company-1037b835fc03
+
+The Architecture No One Needs
+https://www.gregnavis.com/articles/the-architecture-no-one-needs.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,26 @@
+TechPicks 15/01/2019 -
+
+Since GitHub now has free private repos, here's a node project that migrates your Bitbucket repos over to GitHub
+https://github.com/pouriaa/bitbucket-to-github
+
+Structural Sharing and Copy-on-Write Semantics, in JavaScript
+http://raganwald.com/2019/01/14/structural-sharing-and-copy-on-write.html
+
+Common API mistakes and how to avoid them (with examples in Node.js)
+https://blog.logrocket.com/common-api-mistakes-and-how-to-avoid-them-804fbcb9cc4b
+
+Getting started with BEM
+https://medium.com/@timothyrobards/6d59317d9ba1
+
+Type aliases to `any`
+https://birukov.me/blog/all/temporary-any.html
+
+Bitwise Operators in JavaScript: The Good Parts
+https://medium.com/@zandaqo/bitwise-operators-in-javascript-the-good-parts-a2e811a8c76b
+
+Hooks support added in DevTools v3.6
+https://twitter.com/brian_d_vaughn/status/1084944848434524160
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

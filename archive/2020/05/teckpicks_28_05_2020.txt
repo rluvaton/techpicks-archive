@@ -1,0 +1,23 @@
+TechPicks 28/05/2020 -
+
+The 2020 Developer Survey results are here!
+https://stackoverflow.blog/2020/05/27/2020-stack-overflow-developer-survey-results/
+
+Introduction to UEFI: Part 1
+https://secret.club/2020/05/26/introduction-to-uefi-part-1.html
+
+Better (more accessible) active link styling
+https://gomakethings.com/better-more-accessible-active-link-styling/
+
+Introducing Snowpack 2.0
+https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/
+
+Denoify: For NPM module authors that would like to support Deno but do not want to write and maintain a port.
+https://github.com/garronej/denoify
+
+Avoiding CSRF Attacks with API Design
+https://www.thedreaming.org/2020/05/26/avoid-csrf-attacks-with-api-design/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

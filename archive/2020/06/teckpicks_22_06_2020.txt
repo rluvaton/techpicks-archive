@@ -1,0 +1,29 @@
+TechPicks 22/06/2020 -
+
+Teach Yourself Computer Science
+https://teachyourselfcs.com/
+
+Browservice – Browse the modern web on historical browsers
+https://github.com/ttalvitie/browservice
+
+Twenty Proofs of Euler’s Formula: V-E+F=2
+https://www.ics.uci.edu/~eppstein/junkyard/euler/
+
+Goodbye, Chrome: Google’s Web browser has become spy software
+https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/
+
+Hey guys this is something I wrote something about writing better abstraction
+https://medium.com/healthify-tech/your-way-to-better-abstraction-53b165a8c54f
+
+GraphQL in JavaScript: An Introduction
+https://medium.com/@rossbulat/graphql-in-javascript-an-introduction-f50b8dc6e92
+
+Writing userspace USB drivers for abandoned devices
+https://blog.benjojo.co.uk/post/userspace-usb-drivers
+
+Software should be designed to last
+https://adlrocha.substack.com/p/adlrocha-software-should-be-designed
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,25 @@
+TechPicks 25/06/2019 -
+
+Vue - "We no longer have any plan of deprecating the Object API. It will stay for the foreseeable future."
+https://github.com/vuejs/rfcs/pull/42#issuecomment-504963168
+
+Understanding Python’s Debugging Internals - Liran Haimovitch - PyCon Israel 2019
+https://www.youtube.com/watch?v=dO8S_qJ7bpo
+
+GraphQL: The Documentary
+https://youtu.be/783ccP__No8
+
+password-leak: a library (and cli) to check passwords against the HaveIBeenPwned API
+https://github.com/mathiscode/password-leak
+
+Verizon and a BGP Optimizer Knocked Large Parts of the Internet Offline
+https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/
+
+Bringing service workers to Google Search
+https://web.dev/google-search-sw/
+
+Intel Is Working On A New ‘Data Parallel C++’ Programming Language
+https://fossbytes.com/intel-developing-new-programming-language-data-parallel-c/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

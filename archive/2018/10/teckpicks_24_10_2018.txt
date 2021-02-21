@@ -1,0 +1,23 @@
+TechPicks 24/10/2018 -
+
+React v16.6.0: lazy, memo and contextType
+https://reactjs.org/blog/2018/10/23/react-v-16-6.html
+
+Siteaudit: Generate audit benchmark for your site from your terminal
+https://github.com/thecreazy/siteaudit
+
+Are Web Components a thing?
+https://medium.com/@granze/are-web-components-a-thing-5a116b1da7e4
+
+"I Know the Salaries of Thousands of Tech Employees"
+https://medium.com/s/powertrip/i-know-the-salaries-of-thousands-of-tech-employees-4841bc26d753
+
+Three Ways of Generating Terrain with Erosion Features
+https://github.com/dandrino/terrain-erosion-3-ways
+
+Toodles - Project management directly from the TODO's in your code
+http://github.com/aviaviavi/toodles
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

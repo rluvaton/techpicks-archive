@@ -1,0 +1,32 @@
+TechPicks 03/11/2019 -
+
+GitHub Game Off theme announced - Leaps and bounds
+https://itch.io/jam/game-off-2019
+
+Chrome 0-day exploit CVE-2019-13720 used in Operation WizardOpium
+https://securelist.com/chrome-0-day-exploit-cve-2019-13720-used-in-operation-wizardopium/94866/
+
+Less known bits of the Python Standard Library
+https://medium.com/@vmsp/less-known-bits-of-the-python-standard-library-46dc88490115
+
+Programming in 1969: An interview with a pioneer
+https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html
+
+84% of all websites are impacted by jQuery XSS vulnerabilities
+https://snyk.io/blog/84-percent-of-all-websites-impacted-by-jquery-xss-vulnerabilities/
+
+"simplur" - string pluralization with ES6 tagged templates
+https://www.npmjs.com/package/simplur
+
+Mongoose Design Pattern: Store What You Query For
+http://thecodebarbarian.com/mongoose-schema-design-pattern-store-what-you-query-for.html
+
+Late entry for Halloween: CSS animated generative haunted houses
+https://codepen.io/cobra_winfrey/full/KKKvXgO
+
+Are There Random Numbers in CSS?
+https://css-tricks.com/are-there-random-numbers-in-css/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

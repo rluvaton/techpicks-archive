@@ -1,0 +1,35 @@
+TechPicks 14/05/2019 -
+
+"One of my most controversial software opinions is that your sleep quality and stress level matter far, far more than the languages you use or the practices you follow."
+https://twitter.com/hillelogram/status/111970985997971456
+
+Luciano Mammino - Unbundling the JavaScript module bundler
+https://www.youtube.com/watch?v=WGlT921ixx4
+
+First chosen-prefix collision attack discovered against SHA-1
+https://www.zdnet.com/article/sha-1-collision-attacks-are-now-actually-practical-and-a-looming-danger/
+
+How I failed the <a>
+https://remysharp.com/2019/04/04/how-i-failed-the-a
+
+JavaScript Procedural City Generator for Tabletop Games
+https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator
+
+Publish a PWA to Play Store
+https://twitter.com/FranckAbgrall/status/1127823287684292608
+
+Easy to Remember Color Guide for Non-Designers
+https://sendwithses.gitbook.io/helpdocs/random-stuff/easy-to-remember-color-guide-for-non-designers
+
+Portable Web Documents - An Alternative to PDF based on HTML5 and Web Standards
+https://getpolarized.io/2019/05/11/portable-web-documents.html
+
+Lalalambda: Serverless functions powered by hapijs
+https://github.com/hapipal/lalalambda
+
+It's 2019 and a WhatsApp call can hack a phone: Zero-day exploit infects mobes with spyware
+https://www.theregister.co.uk/2019/05/14/whatsapp_zero_day/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

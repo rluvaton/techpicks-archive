@@ -1,0 +1,26 @@
+TechPicks 19/05/2020 -
+
+Yaniv Preiss: Code Review comments - consequences will never be the same
+https://medium.com/@yanivpr/code-review-comments-consequences-will-never-be-the-same-d529b87ae918
+
+SQL for the rest of us: a complete, practical beginner's guide to SQL and being a useful data literate teammate
+https://technically.dev/posts/sql-for-the-rest-of-us.html
+
+A Visual Guide To React Mental Models
+https://obedparla.com/code/a-visual-guide-to-react-mental-models/
+
+The Vue 3 upgrade guide
+https://dev.to/blacksonic/the-vue-3-upgrade-guide-4dc4
+
+The unreasonable effectiveness of declarative programming
+https://bollu.github.io/mathemagic/declarative/index.html
+
+The Hardest Program I've Ever Written
+https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/
+
+Linux Productivity Tools: A Beginner's Guide
+https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

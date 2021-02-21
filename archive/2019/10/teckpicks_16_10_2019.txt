@@ -1,0 +1,32 @@
+TechPicks 16/10/2019 -
+
+npm is moving back to its developer roots, founder says
+https://www.techrepublic.com/article/npm-is-moving-back-to-its-developer-roots-founder-says/
+
+Migration Complete – Amazon's Consumer Business Just Turned off its Final Oracle Database
+https://aws.amazon.com/blogs/aws/migration-complete-amazons-consumer-business-just-turned-off-its-final-oracle-database/
+
+CSS media queries are not just max-width
+https://medium.com/mabiloft/css-media-queries-are-not-just-max-width-e543ee5d1a5b
+
+Lets build a 3D Renderer in the Terminal with NodeJS
+https://github.com/sinclairzx81/zero
+
+How Reshuffle Solves Common Fullstack problems
+https://dev.to/taillogs/how-reshuffle-solves-common-fullstack-problems-4h17
+
+Firefox's New WebSocket Inspector
+https://hacks.mozilla.org/2019/10/firefoxs-new-websocket-inspector/
+
+Should We Rebrand JavaScript?
+https://kieranpotts.com/rebranding-javascript/
+
+Stripe: Designing accessible color systems
+https://stripe.com/blog/accessible-color-systems
+
+CSS Circles
+https://cloudfour.com/thinks/css-circles/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

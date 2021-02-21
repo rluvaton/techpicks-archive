@@ -1,0 +1,35 @@
+TechPicks 29/11/2020 -
+
+Summary of the Amazon Kinesis Event in the Northern Virginia (US-EAST-1) Region - AWS outage November 25th 2020
+https://aws.amazon.com/message/11201/
+
+Do not create union types with Redux Action Types. It's most likely an antipattern
+https://phryneas.de/redux-typescript-no-discriminating-union
+
+Microfrontends: an expensive recipe for frontend applications
+https://blog.sergiomartino.com/2020/11/microfrontends-an-expensive-recipe-for-frontend-applications
+
+Presenting tinyhttp 1.0 - a 0-legacy, tiny & fast web framework as a replacement of Express, written in TypeScript
+https://github.com/talentlessguy/tinyhttp
+
+Under-the-hood of GraphQL
+https://craigtaub.dev/under-the-hood-of-graphql
+
+WebAssembly integration with JavaScript BigInt
+https://v8.dev/features/wasm-bigint
+
+Mozilla/web-ext: A command line tool to help build, run, and test web extensions
+https://github.com/mozilla/web-ext
+
+CSS Scroll Anchoring: My Experience
+https://colinjmiller.medium.com/css-scroll-anchoring-my-experience-8335a72a8719
+
+Bref, the serverless PHP framework, reaches v1.0 to celebrate 1 billion invocations/month
+https://bref.sh/docs/news/01-bref-1.0.html
+
+Rich Harris and Evan You discuss Vue vs. Svelte vs. React and the future of web development on The Undefined Podcast
+https://undefined.fm/radio/vue-vs-svelte-with-evan-you-and-rich-harris
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

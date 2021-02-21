@@ -1,0 +1,29 @@
+TechPicks 24/11/2020 -
+
+Understanding React's useReducer Hook
+https://ui.dev/usereducer/
+
+How the BBC World Service migrated 31 million weekly readers to an isomorphic react app and improved page performance by up to 83%
+https://medium.com/@chris-hinds/bbc-world-service-web-performance-26b08f7abfcc
+
+The Tech Stack of a One-Man SaaS
+https://panelbear.com/blog/tech-stack/
+
+Modern JavaScript for Python Developers (40 min talk from PyCon South Africa)
+https://www.youtube.com/watch?v=hdAv2Fju5g8
+
+eBook: Advanced Python Tips Easily Explained by Rahul Aggarwal
+https://drive.google.com/file/d/1cenkD8SPvexffn5Y9Lp_GXXaYP7uJClw/view?usp=drivesdk
+
+An opinionated list of best practices for textual websites
+https://seirdy.one/2020/11/23/website-best-practices.html
+
+You might not need machine learning
+https://nullprogram.com/blog/2020/11/24/
+
+Basic Git Setup
+https://batsov.com/articles/2020/11/22/basic-git-setup/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

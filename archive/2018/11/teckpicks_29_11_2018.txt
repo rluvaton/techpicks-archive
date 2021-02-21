@@ -1,0 +1,29 @@
+TechPicks 29/11/2018 -
+
+Private class methods support has been merged into Babel's master branch
+https://github.com/babel/babel/pull/8654
+
+Dominic's Response To The event-stream NPM Package Hack
+https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a
+
+CraS.Sh -- cross-browser purely js-less way to crash any modern browser
+https://cras.sh
+
+Can I call setState()?
+http://canicallsetstate.in/
+
+A deep dive into the fundamentals of git
+http://aosabook.org/en/git.html
+
+“Exploiting developer infrastructure is insanely easy” by Jarrod Overson
+https://link.medium.com/R1QeObuDdS
+
+Flexbox — The Animated Tutorial
+https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2
+
+The Complete Beginner's Guide to Sass
+https://blog.bitsrc.io/the-complete-beginners-guide-to-sass-ee8d5278f4c
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

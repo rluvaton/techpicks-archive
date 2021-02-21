@@ -1,0 +1,32 @@
+TechPicks 07/05/2019 -
+
+Image lazy loading with inline svg
+https://twitter.com/mikaelainalem/status/918213244954861569
+
+Microsoft launches React Native for Windows
+https://techcrunch.com/2019/05/06/microsoft-launches-react-native-for-windows/
+
+A Denial of Service vulnerability discovered in the Axios JavaScript package - affecting all versions of the popular HTTP client
+https://snyk.io/blog/a-denial-of-service-vulnerability-discovered-in-the-axios-javascript-package-affecting-all-versions-of-the-popular-http-client/
+
+Microsoft launches Visual Studio Online, an online code editor
+https://techcrunch.com/2019/05/06/microsoft-launches-visual-studio-online-an-online-code-editor/
+
+Microsoft announces WSL2, which promises to fix the speed and compatibility issues in their Linux CLI
+https://devblogs.microsoft.com/commandline/announcing-wsl-2/
+
+Flutter for web (preview) is imminent (Google I/O 2019)
+https://flutter.dev/web
+
+Microsoft unveils Windows Terminal, a new command line app for Windows
+https://github.com/microsoft/terminal
+
+The state of GraphQL
+https://blog.graphqleditor.com/the-state-of-graphql/
+
+How I Improved my Node Performances by 5 with the Profiler - Theodo
+https://blog.theodo.com/2019/04/improve-node-performances-profiler/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

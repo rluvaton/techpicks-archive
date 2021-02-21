@@ -1,0 +1,29 @@
+TechPicks 06/05/2020 -
+
+Floating Point Visually Explained
+http://fabiensanglard.net/floating_point_visually_explained/index.html
+
+A Comparison of Modern Graphics APIs
+https://alain.xyz/blog/comparison-of-modern-graphics-apis
+
+Five code review anti-patterns
+https://blogs.oracle.com/javamagazine/five-code-review-antipatterns
+
+TLDR: Writing a Slack bot to Summarize Articles
+https://blog.concurlabs.com/how-to-write-a-tldr-chat-bot-ec02d9e1649c
+
+ES2020: Everything You Need to Know
+https://www.martinmck.com/posts/es2020-everything-you-need-to-know/
+
+A Complete Guide to CSS Functions
+https://css-tricks.com/complete-guide-to-css-functions/
+
+React Flow: a React library for rendering interactive node-based graphs
+https://webkid.io/blog/react-flow-node-based-graph-library/
+
+Ultimate Vim TypeScript Setup
+https://pragmaticpineapple.com/ultimate-vim-typescript-setup/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

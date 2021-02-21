@@ -1,0 +1,26 @@
+TechPicks 15/12/2020 -
+
+React Query v3 Released!
+https://twitter.com/tannerlinsley/status/1338498989918998532?s=21
+
+Welcome Yari: MDN Web Docs has a new platform
+https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/
+
+Let’s Create a Lightweight Native Event Bus in JavaScript
+https://css-tricks.com/lets-create-a-lightweight-native-event-bus-in-javascript/
+
+The case of the extra 40ms
+https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513
+
+Pointers Are Complicated II, or: We need better language specs
+https://www.ralfj.de/blog/2020/12/14/provenance.html
+
+Minimal safe Bash script template
+https://betterdev.blog/minimal-safe-bash-script-template/
+
+Shitlist Driven Development (2016)
+https://sirupsen.com/shitlists/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

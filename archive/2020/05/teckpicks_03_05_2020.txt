@@ -1,0 +1,29 @@
+TechPicks 03/05/2020 -
+
+Michal Porag - Useful Links for Software Developers
+https://medium.com/@miporagi/useful-links-cd9eaadaf48f
+
+JetBrains announces JetBrains Academy, where you can learn Java, Python and Kotlin for free
+https://www.jetbrains.com/academy/
+
+Regular Expressions for Regular Folk
+https://refrf.shreyasminocha.me/
+
+Awk in 20 Minutes
+https://ferd.ca/awk-in-20-minutes.html
+
+Text Rendering Hates You - a random collection of weird problems you need to deal with when rendering text
+https://gankra.github.io/blah/text-hates-you/
+
+The Best Medium-Hard Data Analyst SQL Interview Questions  
+https://quip.com/2gwZArKuWk7W
+
+Ask HN: Intellectually simulating Podcasts/conversations/Talk
+https://news.ycombinator.com/item?id=23051122
+
+Jolt Server - Zero-dependency dev server, supporting live reloading and single page apps
+https://github.com/outwalk-studios/jolt-server
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

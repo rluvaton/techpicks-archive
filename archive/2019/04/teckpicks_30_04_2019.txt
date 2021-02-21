@@ -1,0 +1,29 @@
+TechPicks 30/04/2019 -
+
+horrifying-pdf-experiments - breakout in a pdf file in Chrome
+https://github.com/osnr/horrifying-pdf-experiments
+
+Erez Hadas-Sonnenschein - How Do You Track GitLab Tickets?
+https://medium.com/@erezson/how-do-you-track-gitlab-tickets-77eecb854813
+
+Perceived Velocity through Version Numbers
+https://css-tricks.com/perceived-velocity-through-version-numbers/
+
+Advanced Map Shading by Rye Terrell
+https://wwwtyro.net/2019/03/21/advanced-map-shading.html
+
+Node.js v12 - New Features You Shouldn't Miss
+https://blog.risingstack.com/node-js-12-new-features/
+
+CSS Subgrid News and demos
+https://rachelandrew.co.uk/archives/2019/04/16/css-subgrid-news-and-demos/
+
+Lets turn a Web Browser into a Web Server with WebRTC, IndexedDB and TypeScript
+https://github.com/sinclairzx81/smoke
+
+Harnessing the power of many processes using a cluster
+https://wanago.io/2019/04/29/node-js-typescript-power-of-many-processes-cluster/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,38 @@
+TechPicks 11/03/2019 -
+
+Dan Abramov - A Complete Guide to useEffect
+https://overreacted.io/a-complete-guide-to-useeffect/
+
+CSS to get support for trigonometry functions
+https://www.zdnet.com/article/css-to-get-support-for-trigonometry-functions/
+
+Sider - a VCS for your database dumps supporting Redis, Postgres and MySQL
+https://github.com/jonaslu/sider#what-the-heck-is-this
+
+Form Validation Using Custom React Hooks
+https://upmostly.com/tutorials/form-validation-using-custom-react-hooks/
+
+chaos - A pastejacking tool to replace semicolon with Greek Question Mark
+https://github.com/aydwi/chaos
+
+IPv6 Excuse Bingo
+https://ipv6bingo.com/
+
+Compiler basics: LLVM
+http://notes.eatonphil.com/compiler-basics-llvm.html
+
+Oh Shit Git! – A cli tool to help you unfuck your git mistakes
+https://github.com/whatthefoo/ohshitgit
+
+How to Build a URL Shortener With Node.js and MongoDB
+http://go.learn4startup.com/1ba5c3625c
+
+Run any version of JavaScript or TypeScript without having to setup babel or tsconfig
+https://www.npmjs.com/package/nnode
+
+CSS selectors cheatsheet
+https://codepen.io/nana8/pen/aXQgoj
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

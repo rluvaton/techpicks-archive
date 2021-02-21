@@ -1,0 +1,32 @@
+TechPicks 15/11/2018 -
+
+Amit Diamant - Smooth Text Scaling in JavaScript & CSS
+https://medium.com/@amitdiamant/smooth-text-scaling-in-javascript-css-a817ae8cc4c9
+
+React Hooks in Action: Building a Todo App (hint: no classes)
+https://medium.com/@shuvohabib/react-hooks-in-action-building-a-todo-app-hint-no-classes-53e0b4028ba5
+
+GoogleChromeLabs/ProjectVisBug - Make any webpage feel like an artboard
+https://github.com/GoogleChromeLabs/ProjectVisBug
+
+Interesting new-born project for monitoring the latest JavaScript trendy projects
+http://esjsnews.com
+
+Writing Memory Efficient Software Applications in Node.js
+https://medium.com/dev-bits/writing-memory-efficient-software-applications-in-node-js-5575f646b67f
+
+Google has released a web-based open source image compression and comparison tool
+https://alternativeto.net/news/2018/11/google-has-released-a-web-based-open-source-image-compression-and-comparison-tool
+
+scratch-node: Smallest Node.js Docker Images
+https://github.com/astefanutti/scratch-node
+
+An insane answer to "What's the largest amount of bad code you have ever seen work?"
+https://news.ycombinator.com/item?id=18442941
+
+Spectre, Meltdown researchers unveil 7 more speculative execution attacks
+https://arstechnica.com/gadgets/2018/11/spectre-meltdown-researchers-unveil-7-more-speculative-execution-attacks/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

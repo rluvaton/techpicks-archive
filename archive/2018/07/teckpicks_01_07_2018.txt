@@ -1,0 +1,45 @@
+TechPicks 01/07/2018 -
+
+A Better Javascript Ecosystem
+http://gelatindesign.co.uk/coding/javascript-ecosystem
+
+Advanced TypeScript Types with Examples
+https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e
+
+GitHub - vuetifyjs/vuetify: Material Component Framework for Vue.js 2
+https://github.com/vuetifyjs/vuetify
+
+Seva Zaikov - Node.js Guide for Frontend Developers
+https://blog.bloomca.me/2018/06/21/nodejs-guide-for-frontend-developers.html
+
+A plain English introduction to JSON web tokens (JWT): what it is and what it isn't
+https://medium.com/ag-grid/a-plain-english-introduction-to-json-web-tokens-jwt-what-it-is-and-what-it-isnt-8076ca679843
+
+ES6’s Function Destructuring Assignment Is Not Free Lunch.
+https://medium.com/@ankur_anand/es6s-function-destructuring-assignment-is-not-free-lunch-19caacc18137
+
+Level up your CSS selector skills
+https://blog.logrocket.com/level-up-your-css-selector-skills-5d7bb45ddd37
+
+CSS Cheat Sheet
+https://adam-marsden.co.uk/css-cheat-sheet
+
+The matrix calculus you need for deep learning
+http://explained.ai/matrix-calculus/index.html
+
+Reasons to Love Jest: The Developer Experience
+https://medium.com/@liran.tal/reasons-to-love-jest-the-developer-experience-b00ec93df7bb
+
+Cervus - A WebAssembly subsystem for Linux
+https://github.com/cervus-v/cervus
+
+Startup Interviewing is Fucked
+https://zachholman.com/posts/startup-interviewing-is-fucked/
+
+Google admits it lost out to Microsoft buying GitHub
+https://www.theverge.com/2018/6/28/17512908/google-github-microsoft-acquisition-comments
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

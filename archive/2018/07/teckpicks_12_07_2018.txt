@@ -1,0 +1,59 @@
+TechPicks 12/07/2018 -
+
+The only cheat sheet you need
+https://github.com/chubin/cheat.sh
+
+Create graphics with a hand-drawn, sketchy, appearance
+https://github.com/pshihn/rough
+
+When 7 KB Equals 7 MB
+https://cloudfour.com/thinks/when-7-kb-equals-7-mb/
+
+Explaining HTTP 2 Server Push
+https://pogsdotnet.blogspot.com/2018/06/http-2-server-push.html
+
+Physics-Based Background Scroll Effects
+https://codersblock.com/blog/physics-based-background-scroll-effects/
+
+JavaScript Framework Comparison with Examples (React, Vue & Hyperapp)
+https://hackernoon.com/javascript-framework-comparison-with-examples-react-vue-hyperapp-97f064fb468d
+
+Creating The Infinity Gauntlet of Thanos with JavaScript Objects (Object properties and methods explained)
+https://medium.com/p/e674788c71fe
+
+Create chrome extension with React using inject page strategy
+https://medium.com/@satendra02/137650de1f39
+
+Wondering how to add new features to a large project without sacrificing long-term maintainability?
+https://ebaytech.berlin/a-city-of-technical-debt-58568747b12
+
+Scaling Microservices with Message Queues, Spring Boot and Kubernetes
+https://learnk8s.io/blog/scaling-spring-boot-microservices
+
+The Ultimate Guide to Learning CSS
+https://zendev.com/ultimate-guide-to-learning-css.html
+
+Slickmap 2.0 – A modern version of the CSS sitemapping tool for web developers
+https://www.astuteo.com/slickmap
+
+.bashrc generator: create your .bashrc PS1 with a drag and drop interface
+http://bashrcgenerator.com/
+
+More Unicode Patterns
+https://css-tricks.com/more-unicode-patterns/
+
+How to Use Color Fonts on the Web
+https://webdesign.tutsplus.com/tutorials/what-are-color-fonts--cms-31467
+
+An iOS Bug in China Triggered by Taiwanese Flag Emoji
+https://objective-see.com/blog/blog_0x34.html
+
+The Google Photos Web UI – layout algorithm and performance
+https://medium.com/google-design/google-photos-45b714dfbed1
+
+Drawing points properly in WebGL
+https://charto.net/blog/drawing-points-properly-in-webgl/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

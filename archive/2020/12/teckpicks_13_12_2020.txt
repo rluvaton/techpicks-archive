@@ -1,0 +1,35 @@
+TechPicks 13/12/2020 -
+
+Can developer productivity be measured?
+https://stackoverflow.blog/2020/12/07/measuring-developer-productivity/
+
+if...then...else had to be invented
+https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md
+
+Become shell literate
+https://drewdevault.com/2020/12/12/Shell-literacy.html
+
+kubectl create pizza
+https://ops.tips/notes/kubernetes-pizza/
+
+Rust Iterator Cheat Sheet
+https://danielkeep.github.io/itercheat_baked.html
+
+SASS-ZERO system design
+https://github.com/lazaronixon/sass-zero
+
+Dockerfile best practices
+https://github.com/hexops/dockerfile
+
+pipx — Install and Run Python Applications in Isolated Environments
+https://pipxproject.github.io/pipx/
+
+Traits of a Distinguished Software Engineer
+https://thewholesome.dev/p/traits-of-a-distinguished-software
+
+Docker Desktop 3.0.0: Smaller, Faster Releases
+https://www.docker.com/blog/docker-desktop-3-0-0-smaller-faster-releases/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

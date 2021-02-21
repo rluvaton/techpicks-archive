@@ -1,0 +1,26 @@
+TechPicks 26/11/2018 -
+
+How TDD Can Prevent Over-Engineering
+https://medium.com/@fagnerbrack/how-tdd-can-prevent-over-engineering-1265a02f8863
+
+Pure CSS Animated logo SVG
+https://codepen.io/Yudo/pen/yQEerw
+
+Getting started with Docker #1
+https://itnext.io/getting-started-with-docker-1-b4dc83e64389
+
+"How I changed the law with a GitHub pull request"
+https://arstechnica.com/tech-policy/2018/11/how-i-changed-the-law-with-a-github-pull-request/
+
+JS and React syntax highlight in vim/neovim
+https://medium.com/@jimeno0/1167c1945c84
+
+Redux and Mobx showdown
+https://github.com/xinsight/mobx-redux-showdown/blob/master/README.md
+
+The Hidden Dangers You Have Never Noticed: target = "_blank" and "opener"
+https://www.tutorialdocs.com/article/html-opener-blank.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

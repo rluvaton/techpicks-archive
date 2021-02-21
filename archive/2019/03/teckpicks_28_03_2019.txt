@@ -1,0 +1,26 @@
+TechPicks 28/03/2019 -
+
+One reduce() to rule them all
+https://medium.com/@bojzi/one-reduce-to-rule-them-all-504e1b790a83
+
+Storing UTC is not a silver bullet
+https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/
+
+What Every JavaScript Framework Could Learn from React
+https://medium.com/@ryansolid/what-every-javascript-framework-could-learn-from-react-1e2bbd9feb09
+
+Removing YouTube's cookie, being added by default in embed videos
+https://dri.es/how-to-remove-youtube-tracking
+
+Competing by mimicking
+https://andy-bell.design/wrote/competing-by-mimicking/
+
+FIRE (Financial Independence Retire Early) - An Interview With a Programmer Who Retired at 34
+https://triplebyte.com/blog/refactor-your-finances
+
+The shortest way to conditional insert properties into an object literal
+https://dev.to/jfet97/the-shortest-way-to-conditional-insert-properties-into-an-object-literal-4ag7
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

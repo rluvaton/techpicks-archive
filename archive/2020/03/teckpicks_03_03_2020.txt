@@ -1,0 +1,32 @@
+TechPicks 03/03/2020 -
+
+Elad Shechter - Why the World Needs CSS Developers
+https://medium.com/@elad/why-the-world-needs-css-developers-318025a6f5c1
+
+The JavaScript Beginner's Handbook (2020 Edition)
+https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/
+
+Deep Dive into JavaScript Generators for the confused
+https://itnext.io/deep-dive-into-javascript-generators-for-the-confused-546b1c07436d
+
+Little known features of iTerm2
+https://banga.github.io/blog/2020/03/02/little-known-features-of-iterm2.html
+
+How Refactoring Too Late Is Killing Your Productivity
+https://medium.com/javascript-in-plain-english/how-refactoring-too-late-is-killing-your-productivity-ce10e2e636cd
+
+Stryker — Test your tests with mutation testing in JavaScript
+https://stryker-mutator.io/
+
+Docker Quickstart Guide for Developers
+https://ao.gl/the-docker-quickstart-guide-for-developers/
+
+Client-Side Web Development - These materials were developed for the INFO 340: Client-Side Web Development course taught at the University of Washington Information School
+https://info340.github.io/
+
+500+ CSS Icons - Minimalistic icon library Designed by code
+https://css.gg/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

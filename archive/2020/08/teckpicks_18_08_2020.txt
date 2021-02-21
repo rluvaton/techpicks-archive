@@ -1,0 +1,23 @@
+TechPicks 18/08/2020 -
+
+Understanding React's useRef Hook
+https://ui.dev/useref/
+
+Factorio and Software Engineering
+https://blog.nindalf.com/posts/factorio-and-software-engineering/
+
+handwritten.js - Convert typed text to realistic handwriting
+https://github.com/alias-rahil/handwritten.js
+
+Microsoft 365 apps say farewell to Internet Explorer 11, and Windows 10 sunsets Microsoft Edge Legacy
+https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666
+
+Node.js Internals | V8, Heap/Stack, Libuv
+https://www.youtube.com/watch?v=OCjvhCFFPTw
+
+Parse, don’t validate
+https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 06/10/2020 -
+
+5 tips for writing great client SDK libraries
+https://medium.com/wix-engineering/5-tips-for-writing-great-client-libraries-f6d02d57fdcc
+
+Corruption Is Attractive
+https://venam.nixers.net/blog/programming/2020/10/05/corruption-at-the-core.html
+
+Fortunately, I don't squash my commits
+https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/
+
+JavaScript Event Loop And Call Stack Explained
+https://felixgerschau.com/javascript-event-loop-call-stack/
+
+A same-origin storage (IndexedDB/WebSQL/localStorage) for cross-domain access
+https://github.com/unadlib/origin-storage
+
+For.io - Generate & develop Node.js backends up to 50x faster - in your browser!
+https://studio.for.io/
+
+Python 3.9: Cool New Features for You to Try – Real Python
+https://realpython.com/python39-new-features/
+
+Create Beautiful Architecture Diagrams with Python
+https://towardsdatascience.com/create-beautiful-architecture-diagrams-with-python-7792a1485f97
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

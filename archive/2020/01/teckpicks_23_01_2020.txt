@@ -1,0 +1,26 @@
+TechPicks 23/01/2020 -
+
+microsoft/playwright: Node.js library to automate browsers (Puppeteer successor from the same team)
+https://github.com/microsoft/playwright
+
+The Complete Freelance Web Developer Guide: How to Make Money Through Freelance Programming Jobs
+https://www.freecodecamp.org/news/freelance-web-developer-guide/
+
+New browser on the block: Flow
+https://www.quirksmode.org/blog/archives/2020/01/new_browser_on.html
+
+TLDR pages: Simplified, community-driven man pages
+https://tldr.sh/
+
+Popper 2 released! The popular positioning engine for tooltips and popovers, used by Material UI, Bootstrap, and more
+https://dev.to/fezvrasta/smarter-tooltips-and-popovers-with-popper-2-44bh
+
+All ProtonVPN apps are now 100% open source
+https://protonvpn.com/blog/open-source/
+
+CSS layouts without using media queries
+https://polypane.app/blog/4-css-layouts-without-using-media-queries/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

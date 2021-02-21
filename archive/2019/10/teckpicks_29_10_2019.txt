@@ -1,0 +1,32 @@
+TechPicks 29/10/2019 -
+
+Tetris in the URL
+https://piet-v.github.io
+
+Modern JavaScript features you might have missed
+http://www.breck-mckye.com/blog/2019/10/modern-javascript-features-you-may-have-missed/
+
+The V8 Engine and JavaScript Optimization Tips
+https://alligator.io/js/v8-engine/
+
+Recent Study Estimates That 50% of Websites Using WebAssembly Apply It for Malicious Purposes
+https://www.infoq.com/news/2019/10/WebAssembly-wasm-malicious-usage/
+
+New PHP Flaw Could Let Attackers Hack Sites Running On Nginx Servers
+https://thehackernews.com/2019/10/nginx-php-fpm-hacking.html
+
+My 7 Favorite VS Code Extensions (That Everyone Hasn’t Mentioned Yet)
+https://medium.com/@banjoanton/my-7-favorite-vs-code-extensions-that-everyone-hasnt-mentioned-yet-4f3945d82be5
+
+Unix: A History and a Memoir, by Brian Kernighan
+https://www.cs.princeton.edu/~bwk/
+
+Is Vim really not for you? A beginner guide
+https://thevaluable.dev/vim-for-beginnners/
+
+Experiment to determine which letters should be emitted from a random string generator in order to avoid offensive output
+https://github.com/Qix-/decuss
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

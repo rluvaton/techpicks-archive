@@ -1,0 +1,26 @@
+TechPicks 26/01/2020 -
+
+Introducing Yarn 2
+https://dev.to/arcanis/introducing-yarn-2-4eh1
+
+You Don’t Need Lodash/Underscore
+https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
+
+Microsoft launches a Node-based browser automation project called Playwright
+https://css-tricks.com/playwright/
+
+Today, the Trident Era Ends - a story about the Web, Microsoft, Internet Explorer, and progress.
+https://schepp.dev/posts/today-the-trident-era-ends/
+
+Memory Leaks Demystified
+https://nodesource.com/blog/memory-leaks-demystified
+
+A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more
+https://github.com/trimstray/the-book-of-secret-knowledge
+
+ESLint configuration and best practices
+https://blog.geographer.fr/eslint-guide
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 23/09/2020 -
+
+The Era of Visual Studio Code
+https://blog.robenkleene.com/2020/09/21/the-era-of-visual-studio-code/
+
+The Stack Overflow Antipattern
+https://riggraz.dev/stack-overflow-antipattern.html
+
+Don't clone that GUI (how about this instead?)
+http://boxbase.org/entries/2020/sep/23/dont-clone-that-gui/
+
+The most important feature of Sublime Text
+https://tonsky.me/blog/sublime/
+
+Mathematics for programmers (early draft)
+https://yurichev.com/writings/Math-for-programmers.pdf
+
+React: Introducing the New JSX Transform
+https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html
+
+Charities and the advertising industry: data ecosystems and privacy risks. 92% of UK charity websites load cookies before consent
+https://blog.malwarebytes.com/privacy-2/2020/09/charity-advertising-industry-privacy-risks/
+
+MDN Browser Compatibility Report 2020
+https://mdn-web-dna.s3-us-west-2.amazonaws.com/MDN-Browser-Compatibility-Report-2020.pdf
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

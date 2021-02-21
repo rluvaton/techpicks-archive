@@ -1,0 +1,35 @@
+TechPicks 02/10/2019 -
+
+Optional chaining has landed on TypeScript master branch
+https://github.com/microsoft/TypeScript/pull/33294
+
+JavaScript quiz questions and explanations
+https://quiz.typeofnan.dev
+
+"I created the exact same app in React and Vue. Here are the differences. Now with Hooks"
+https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2019-edition-42ba2cab9e56
+
+How I stopped worrying and learned to love the JavaScript ecosystem
+https://flaviocopes.com/solve-javascript-fatigue/
+
+Vim for JavaScript and React in 2019
+https://www.vimfromscratch.com/articles/vim-for-javascript-and-react-in-2019/
+
+Announcing Gatsby’s $15M Series A Funding Round
+https://www.gatsbyjs.org/blog/2019-09-26-announcing-gatsby-15m-series-a-funding-round/
+
+JavaScript: What’s new in ECMAScript 2019 (ES2019)/ES10?
+https://medium.com/@selvaganesh93/javascript-whats-new-in-ecmascript-2019-es2019-es10-35210c6e7f4b
+
+Docker, once worth over $1 billion, tells employees it’s trying to raise cash amid ‘significant challenges’
+https://www.cnbc.com/2019/09/27/docker-is-trying-to-raise-money-following-arrival-of-ceo-rob-bearden.html
+
+Avoid 100vh On Mobile Web
+https://chanind.github.io/javascript/2019/09/28/avoid-100vh-on-mobile-web.html
+
+How to Learn Software Design and Architecture
+https://khalilstemmler.com/software-design-roadmap
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

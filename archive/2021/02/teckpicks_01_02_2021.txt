@@ -1,0 +1,29 @@
+TechPicks 01/02/2021 -
+
+Deskreen turns any device with a web browser into a secondary screen for your computer
+https://github.com/pavlobu/deskreen
+
+When should you really use useMemo in React? A benchmarked analysis
+https://medium.com/swlh/should-you-use-usememo-in-react-a-benchmarked-analysis-159faf6609b7
+
+The Node.js Event Loop: Not So Single Threaded
+https://www.youtube.com/watch?v=zphcsoSJMvM
+
+The most popular software developer tools in one app
+https://github.com/reugn/dev-tools
+
+Python creator Guido van Rossum explains the language to Monty Python’s Eric Idle
+https://twitter.com/gvanrossum/status/1355310333875773444
+
+A unique and helpful explanation of design patterns.
+https://github.com/wesdoyle/design-patterns-explained-with-food
+
+The MIT License, Line by Line
+https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html
+
+What's new in ECMAScript 2021
+https://pawelgrzybek.com/whats-new-in-ecmascript-2021/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

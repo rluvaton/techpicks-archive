@@ -1,0 +1,26 @@
+TechPicks 26/04/2020 -
+
+Can JavaScript Detect the Browser's Zoom Level?
+https://css-tricks.com/can-javascript-detect-the-browsers-zoom-level/
+
+Will it CORS? - an automatic CORS explainer
+http://willitcors.com
+
+Shell productivity tips and tricks
+https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks.html
+
+Preventing Software Rot
+https://software.rajivprab.com/2020/04/25/preventing-software-rot/
+
+The one-line package 'is-promise' broke 'create-react-app' and other NPM packages
+https://github.com/then/is-promise/issues/13
+
+5 Mistakes Web Developers Should Avoid When using JWTs for Authentication
+https://www.ducktypelabs.com/5-mistakes-web-developers-should-avoid-when-using-jwts-for-authentication/
+
+Generate TS Types from a Postgres Database
+https://github.com/kristiandupont/kanel
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

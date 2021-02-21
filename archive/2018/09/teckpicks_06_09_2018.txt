@@ -1,0 +1,47 @@
+TechPicks 06/09/2018 -
+
+Microsoft Azure suffers outage after cooling issue
+https://www.datacenterdynamics.com/news/microsoft-azure-suffers-outage-after-cooling-issue/
+
+Introduction to Go for JavaScript developer
+https://medium.com/orbs-network/introduction-to-go-for-javascript-developer-3e783b409e52
+
+62.0 Firefox Release September 5, 2018
+https://www.mozilla.org/en-US/firefox/62.0/releasenotes/
+
+Visual Studio Code August 2018
+https://code.visualstudio.com/updates/v1_27
+
+React Native Starter – Free Mobile Application Template Built with React Native
+https://github.com/flatlogic/react-native-starter
+
+Polling using RxJS - how to use reactive programming to accomplish a common task.
+https://medium.com/@hendrikwallbaum/polling-using-rxjs-54f23eb78ded
+
+Ayvar - JavaScript library for building web applications.
+https://github.com/nndv/ayvar
+
+Animate CSS Grid: small JS library to add a transition to every Grid Layout changes
+https://github.com/aholachek/animate-css-grid
+
+Is an internet without cookies possible simply by using HTTP headers?
+http://paweljaniak.co.za/2018/09/04/a-private-and-convenient-internet/
+
+GitHub - wilk/microjob: A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.
+https://github.com/wilk/microjob
+
+A blockchain for dummies
+https://dev.to/zohaibility/a-blockchain-for-dummies-393m
+
+Node.js admin panels: Strapi and Express Admin reviewed
+https://www.imaginarycloud.com/blog/node-js-admin-panels-strapi-and-express-admin-reviewed/
+
+Creator of Temple OS, Terry Davis, has passed away
+http://templeos.org/
+
+IntelliJ IDEA 2018.3 Early Access Program is open!
+https://blog.jetbrains.com/idea/2018/09/intellij-idea-2018-3-early-access-program-is-open
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

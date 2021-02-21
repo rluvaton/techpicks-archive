@@ -1,0 +1,35 @@
+TechPicks 03/09/2019 -
+
+Best Practices for Testing in JavaScript & Node.js
+https://github.com/goldbergyoni/javascript-testing-best-practices
+
+Tired of Stack Overflow
+https://arp242.net/stackoverflow.html
+
+Fix conflicts only once with git rerere
+https://medium.com/@porteneuve/fix-conflicts-only-once-with-git-rerere-7d116b2cec67
+
+Using the DOM like a Pro
+https://medium.com/@dannymoerkerke/using-the-dom-like-a-pro-163a6c552eba
+
+Continuous Integration in JavaScript: a Guide (feat. GitHub Actions)
+https://www.valentinog.com/blog/ci-js/
+
+Where did CSS named colours come from?
+https://www.chenhuijing.com/blog/where-did-css-named-colours-come-from/
+
+The Ultimate Guide to Becoming a Knowledgeable Backend Developer - Backend Engineer Roadmap
+http://www.devopscycle.com/backend-engineer-roadmap/
+
+Leon Sans - geometric sans-serif typeface made with code by Jongmin Kim
+https://github.com/cmiscm/leonsans
+
+Enigma machine Simulator
+https://observablehq.com/@tmcw/enigma-machine
+
+Styling Links with Real Underlines
+https://css-tricks.com/styling-links-with-real-underlines/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

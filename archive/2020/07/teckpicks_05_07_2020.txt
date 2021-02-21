@@ -1,0 +1,29 @@
+TechPicks 05/07/2020 -
+
+Lightweight, stylish and ethical share buttons
+https://shareon.js.org/
+
+Node.js compiled on Apple Silicon
+https://twitter.com/evanhlucas/status/1279194334886268931
+
+USA.css – The most American CSS stylesheet. All units set in inches, only 1776 bytes
+https://bennettfeely.com/usacss/
+
+https://screenshot.rocks
+Screenshot.rocks is an online tool which allows you to create beautiful browser mockups from screenshots
+
+Twitter tells its programmers that using certain words in programming makes them "not inclusive", despite their widespread use in programming
+https://mobile.twitter.com/twittereng/status/1278733305190342656
+
+A Beginner's Guide to Abstraction
+https://jesseduffield.com/beginners-guide-to-abstraction/
+
+Understanding Javascript Array's .reduce() method and exploring its use-cases
+https://gosink.in/understanding-javascript-array-reduce-method-and-its-use-cases-is-it-underrated/
+
+What is a Dangling Pointer?
+https://medium.com/@Dylan.Kerler/what-is-a-dangling-pointer-2773d49cf86c
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

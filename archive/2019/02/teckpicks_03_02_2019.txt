@@ -1,0 +1,35 @@
+TechPicks 03/02/2019 -
+
+Dan Abramov - React as a UI Runtime
+https://overreacted.io/react-as-a-ui-runtime/
+
+Netflix JavaScript Talks - Making Bandersnatch
+https://www.youtube.com/watch?v=WLqc0EX8Bmg
+
+Why Everyone Is Fighting About CSS/UX and JS
+https://dev.to/ulitroyo/why-everyone-is-fighting-about-cssux-and-js-4cpp
+
+Priority Hints: hint the `importance` of a resource to prioritize downloading it sooner/later
+https://i.redd.it/3s7ega4808e21.jpg
+
+Finance.js - makes it easy to incorporate common financial calculations into your application
+http://financejs.org/
+
+Back-off and retry using JavaScript arrays and promises
+https://philbooth.me/blog/back-off-and-retry-using-javascript-arrays-and-promises
+
+What's new in ECMAScript 2019
+https://pawelgrzybek.com/whats-new-in-ecmascript-2019
+
+Google Play Store now open for Progressive Web Apps
+https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc
+
+GitHub Spray: Generate spray for your GitHub contrib graph ░▒▓█
+https://github.com/Annihil/github-spray
+
+CSSans Pro
+https://cssans.pro/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

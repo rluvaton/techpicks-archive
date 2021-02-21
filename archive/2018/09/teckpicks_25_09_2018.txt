@@ -1,0 +1,35 @@
+TechPicks 25/09/2018 -
+
+❤️ GraphQL
+https://medium.com/@chittorashobhit/graphql-the-hero-we-deserve-part-1-3a907e1706a4
+
+A Beginner’s Guide to Closures in JavaScript
+https://blog.bitsrc.io/a-beginners-guide-to-closures-in-javascript-97d372284dda
+
+Mastering Modular JavaScript - a book series with the mission of improving our collective understanding of writing robust, well-tested, modular JavaScript code
+https://github.com/mjavascript/mastering-modular-javascript/tree/master
+
+Loony - A proof-of-concept library for building Javascript DSLs
+https://github.com/lusakasa/loony
+
+Unethical programming
+https://dev.to/rhymes/unethical-programming-4od5
+
+Machine Learning in JavaScript (TensorFlow Dev Summit 2018)
+https://www.youtube.com/watch?v=YB-kfeNIPCE
+
+Flocking: an introduction to the flocking algorithm with interactive examples
+https://www.blog.drewcutchins.com/blog/2018-8-16-flocking
+
+Learn You Some Code Humble Book Bundle
+https://www.humblebundle.com/books/learn-you-some-code-books
+
+"As developers, we are often one of the last lines of defense against potentially dangerous and unethical practices."
+https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e
+
+I built this thing to make coding interviews suck less
+https://gist.github.com/leonardofed/1a4addc3084b194c9ab4fcddb17b3aae
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

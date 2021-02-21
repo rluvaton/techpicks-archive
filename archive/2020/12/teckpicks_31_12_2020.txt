@@ -1,0 +1,29 @@
+TechPicks 31/12/2020 -
+
+History of the browser user-agent string
+https://webaim.org/blog/user-agent-string-history/
+
+PixelCraft: A Pixel Art Editor
+https://github.com/rgab1508/PixelCraft/
+
+CodeSwing: An interactive CodePen-like playground, integrated into VS Code
+https://github.com/codespaces-contrib/codeswing
+
+How to create a VSCode extension
+https://youtu.be/a5DX5pQ9p5M
+
+Thread by ex-Product Manager at Google on why Google Cloud Platform lost to AWS despite having better tech
+https://twitter.com/MohapatraHemant/status/1343969802080030720?s=20
+
+Professor Donald Knuth on Writing & More, an Interview
+https://philipkiely.com/assets/files/WfSD_Bonus_Interview_-_Donald_Knuth.pdf
+
+Computer Science textbooks that are freely available online
+https://csgordon.github.io/books.html
+
+Don't use Protobuf for Telemetry
+https://richardstartin.github.io/posts/dont-use-protobuf-for-telemetry
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

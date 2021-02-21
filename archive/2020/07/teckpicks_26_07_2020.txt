@@ -1,0 +1,26 @@
+TechPicks 26/07/2020 -
+
+Vest - Yet another form validation library
+https://github.com/ealush/vest
+
+TextDB - A simple way to share small amounts of data
+https://textdb.dev/
+
+Doing Stupid Stuff with GitHub Actions
+https://devopsdirective.com/posts/2020/07/stupid-github-actions/
+
+Cryptography is not Magic
+http://loup-vaillant.fr/articles/crypto-is-not-magic
+
+Langcraft - The LLVM target for Minecraft you've never wanted
+https://github.com/SuperTails/langcraft
+
+Fundamentals of the Vulkan Graphics API: Why Rendering a Triangle is Complicated
+https://liamhinzman.com/blog/vulkan-fundamentals
+
+Advice to Myself When Starting Out as a Software Developer
+https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

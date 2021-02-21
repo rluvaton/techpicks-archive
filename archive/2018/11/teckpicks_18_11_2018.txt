@@ -1,0 +1,32 @@
+TechPicks 18/11/2018 -
+
+The Power of Web Components – Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2018/11/the-power-of-web-components/
+
+WebSockets - A Conceptual Deep-Dive
+https://www.ably.io/concepts/websockets
+
+Vue 3.0 Updates by Evan You at VueConf Toronto 2018
+https://docs.google.com/presentation/d/1yhPGyhQrJcpJI2ZFvBme3pGKaGNiLi709c37svivv0o/preview?slide=id.p
+
+AWS in Plain English
+https://www.expeditedssl.com/aws-in-plain-english/?
+
+ddgr - DuckDuckGo from the terminal
+https://github.com/jarun/ddgr
+
+Embrace, Extend, Extinguish 4.0: How Google is slowing innovation
+https://www.jotform.com/blog/how-google-is-slowing-innovation/
+
+Modern Web Development -- a lighthearted history on the web
+https://hackernoon.com/modern-web-development-bf0b2ef0e22e
+
+Do Things That Don't Scale - a crowdsourced collection of unscalable startup hacks
+https://dothingsthatdontscale.com/
+
+Cloudflare just dropped a free privacy app for mobile browsing
+https://mashable.com/article/cloudflare-1111-dns-mobile-app/#9vp4RObIgaqr
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

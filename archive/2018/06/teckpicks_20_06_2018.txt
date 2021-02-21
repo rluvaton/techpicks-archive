@@ -1,0 +1,36 @@
+TechPicks 20/06/2018 -
+
+Github Stars !== Usage: React is still blowing Vue and Angular Away
+https://zendev.com/2018/06/19/react-usage-beating-vue-angular.html
+
+Airbnb moving away from React Native
+https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c
+
+React vs Ember: A comparison of problem solving with each ecosystem.
+https://www.developertown.com/react-vs-ember-a-comparison-of-problem-solving-with-each-ecosystem/
+
+Improved JavaScript and WebAssembly performance in EdgeHTML 17
+https://blogs.windows.com/msedgedev/2018/06/19/improved-javascript-webassembly-performance-edgehtml-17/
+
+Accepting Payments with Stripe, Vue.js, and Flask
+https://testdriven.io/accepting-payments-with-stripe-vuejs-and-flask#.Wyj_GBSeYpg.reddit
+
+Now Microsoft ports Windows 10, Linux to homegrown CPU design
+https://www.theregister.co.uk/2018/06/18/microsoft_e2_edge_windows_10/
+
+NoKey: A Distributed Password Manager Without a Master Password
+https://github.com/Zinggi/NoKey
+
+SpaceVim release v0.8.0
+https://spacevim.org/SpaceVim-release-v0.8.0/
+
+PostgreSQL Features You May Not Have Tried But Should
+https://pgdash.io/blog/postgres-features.html?p
+
+The Architecture of Open Source Applications
+https://aosabook.org/en/index.html
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

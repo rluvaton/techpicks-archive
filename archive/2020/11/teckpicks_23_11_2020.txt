@@ -1,0 +1,35 @@
+TechPicks 23/11/2020 -
+
+An Agile Guide for Solo Developers
+https://www.github.com/fawazahmed0/the-solo-developers-manifesto
+
+Even faster bash startup
+https://work.lisk.in/2020/11/20/even-faster-bash-startup.html
+ 
+250kb Club
+https://250kb.club/
+
+A practical guide to URI encoding and URI decoding
+https://qqq.is/research/a-practical-guide-to-URI-encoding-and-URI-decoding
+
+rust-script - Run Rust files and expressions as scripts without any setup or compilation step
+https://rust-script.org/
+
+PostgreSQL Benchmarks: Apple ARM M1 MacBook Pro 2020
+https://info.crunchydata.com/blog/postgresql-benchmarks-apple-arm-m1-macbook-pro-2020
+
+IPython for Web Devs
+https://ipythonbook.com/
+
+What is TDZ? from var to let and const
+https://medium.com/@hilalrizek_32627/witwhat-is-tdz-from-var-to-let-and-const-javascript-es6-3cbd5c49a48a
+
+Make BFS Your BFF
+https://www.danielleskosky.com/make-bfs-your-bff/
+
+A short guide to design for developers
+https://roland.imprint.to/post/design-for-developers
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

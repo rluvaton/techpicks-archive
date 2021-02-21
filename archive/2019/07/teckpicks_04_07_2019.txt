@@ -1,0 +1,25 @@
+TechPicks 04/07/2019 -
+
+Nobody talks about the real reason to use Tabs over Spaces
+https://www.reddit.com/r/javascript/comments/c8drjo/nobody_talks_about_the_real_reason_to_use_tabs/
+
+NPM Inc settles union-busting complaints on third try – after CEO trolled for ordering internal mole hunt
+https://www.theregister.co.uk/2019/07/02/npm_abandons_settlement_talks/
+
+Visual Studio Code June 2019
+https://code.visualstudio.com/updates/v1_36
+
+Randomness and Entropy in Node.js and Electron
+https://qvault.io/2019/07/03/randomness-and-entropy-in-node-and-electron/
+
+lploc.js - real-time eye-pupil localization in JavaScript
+https://tehnokv.com/posts/puploc-with-trees/demo/
+
+User Inyerface - A worst-practice UI experiment
+https://userinyerface.com/
+
+Litedom: A reactive Web Component library to create custom elements and make any HTML section reactive
+https://github.com/mardix/litedom
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

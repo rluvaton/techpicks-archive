@@ -1,0 +1,35 @@
+TechPicks 20/05/2019 -
+
+Why I Love useReducer
+https://www.phoronix.com/scan.php?page=article&item=mds-zombieload-mit&num=10
+
+React’s useCallback and useMemo Hooks By Example
+https://nikgrozev.com/2019/04/07/reacts-usecallback-and-usememo-hooks-by-example/
+
+10 good reasons to learn Dart
+https://hackernoon.com/10-good-reasons-why-you-should-learn-dart-4b257708a332
+
+10 reasons that stop you from becoming a good developer
+https://medium.com/@marcmintel/10-reasons-that-stop-you-from-becoming-a-good-developer-6d6dbe3637c0
+
+Reverse engineering and bypassing exam surveillance software
+https://vmcall.github.io/reversal/2019/05/16/exam-surveillance2.html
+
+Virtual DOM is pure overhead
+https://svelte.dev/blog/virtual-dom-is-pure-overhead
+
+The Performance Impact Of MDS / Zombieload Plus The Overall Cost Now Of Spectre/Meltdown/L1TF/MDS
+https://www.phoronix.com/scan.php?page=article&item=mds-zombieload-mit&num=10
+
+Automagically keep your .env in sync with .env.example before every commit
+https://github.com/codeshifu/sync-dotenv
+
+const assertions are the killer new TypeScript feature
+https://blog.logrocket.com/const-assertions-are-the-killer-new-typescript-feature-b73451f35802
+
+TypeScript: Static or Dynamic? The war is over.
+https://medium.com/p/64bceb50b93e
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

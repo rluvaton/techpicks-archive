@@ -1,0 +1,32 @@
+TechPicks 27/09/2020 -
+
+Void Is a Smell
+https://tech.freckle.com/2020/09/23/void-is-a-smell/
+
+Work on what matters
+https://staffeng.com/guides/work-on-what-matters
+
+The Windows XP source code was allegedly leaked online
+https://www.bleepingcomputer.com/news/microsoft/the-windows-xp-source-code-was-allegedly-leaked-online/
+
+FTP Fadeout
+https://tedium.co/2020/09/25/ftp-internet-history/
+
+Wikipedia is getting a new look for the first time in 10 years. Here’s why.
+https://diff.wikimedia.org/2020/09/23/wikipedia-is-getting-a-new-look-for-the-first-time-in-10-years-heres-why/
+
+PostgreSQL 13 Released
+https://www.postgresql.org/about/news/2077/
+
+fflate - the fastest JavaScript compression/decompression library, 8kB
+https://github.com/101arrowz/fflate
+
+The failed promise of Web Components
+https://lea.verou.me/2020/09/the-failed-promise-of-web-components/
+
+Smolpxl - a JavaScript library for writing little retro pixelated games
+https://gitlab.com/andybalaam/smolpxl
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

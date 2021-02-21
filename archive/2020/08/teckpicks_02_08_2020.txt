@@ -1,0 +1,29 @@
+TechPicks 02/08/2020 -
+
+Verbose regular expressions, now you have one and a bit problems
+https://moreati.org.uk/blog/2020/06/30/verbose-regular-expressions.html
+
+Questions - identify things you don't know
+https://questions.wizardzines.com/
+
+pkg.go.dev is more concerned with Google's interests than good engineering
+https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html
+
+5 arguments to make managers care about technical debt
+https://understandlegacycode.com/blog/5-arguments-to-make-managers-care-about-technical-debt
+
+Back of the envelope estimation hacks
+https://medium.com/@RaVitillo/back-of-the-envelope-estimation-hacks-4de943cb939d
+
+Shsh: A manager for shell scripts, functions, standalone binaries, completion files, and more
+https://github.com/soraxas/shsh
+
+Reviewing the worst piece of code ever
+https://www.micheleriva.it/posts/2020-07-31-reviewing-the-worst-piece-of-code-ever
+
+Get to Grips with Binary Numbers and Other Data Representations
+https://medium.com/codeburst/introduction-to-binary-numbers-b0404f4401e3
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

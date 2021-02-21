@@ -1,0 +1,35 @@
+TechPicks 17/02/2021 -
+
+Arranging Invisible Icons in Quadratic Time
+https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/
+
+Performance tip: You can specify a `text=` value in your font request URL to reduce the size of the font file by up to 90%.
+https://twitter.com/denicmarko/status/1361656749686726659
+
+Functorio
+https://bartoszmilewski.com/2021/02/16/functorio/.
+
+The Long Hack: How China Exploited a U.S. Tech Supplier
+https://www.bloomberg.com/features/2021-supermicro/
+
+Building Rich terminal dashboards
+https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/
+
+Go 1.16 is released
+https://blog.golang.org/go1.16
+
+Why Is Esbuild Fast?
+https://esbuild.github.io/faq/#why-is-esbuild-fast
+
+The Riemann Hypothesis, Explained
+https://youtube.com/watch?v=zlm1aajH6gY&feature=share
+
+Another variant to compromise frontend developers by malicious packages
+https://csal.medium.com/another-variant-to-compromise-frontend-developers-by-malicious-packages-b724dd4fef9
+
+“User Engagement” Is Code For “Addiction”
+https://craigwritescode.medium.com/user-engagement-is-code-for-addiction-a2f50d36d7ac
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,35 @@
+TechPicks 12/04/2020 -
+
+Visual Studio Code March 2020
+https://code.visualstudio.com/updates/v1_44
+
+Questions to ask at the end of a technical interview
+https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview
+
+Moving away from GMail
+https://rolisz.ro/2020/04/11/moving-away-from-gmail/
+
+Stop Making Students Use Eclipse
+https://nora.codes/post/stop-making-students-use-eclipse/
+
+Hegel: An advanced static type checker for JavaScript
+https://jsmonk.github.io/hegel/
+
+Under-the-hood of web bundlers (e.g. Webpack)
+https://medium.com/@tabu_craig/under-the-hood-of-web-bundlers-e-g-webpack-926e868f7f5e
+
+SeeThrough - A React library that masks unimportant parts of your page
+https://github.com/andrew4699/react-see-through
+
+EVT: A new EventEmitter for Deno (and every other JavaScript runtime)
+https://evt.land
+
+TIL CSS can check for a font installed locally before fetching it remotely!
+https://twitter.com/argyleink/status/1223026734817087488
+
+Some Imaginary CSS
+https://cloudfour.com/thinks/some-imaginary-css/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,45 @@
+TechPicks 24/06/2018 -
+
+Step by step guide to learn react along with projects
+https://github.com/coderplex/learn/blob/master/web-dev/Frontend/Libraries%20%26%20Frameworks/Learn-React.md
+
+Should we use React Native? Thoughts from Expo following Airbnb’s Sunsetting of RN
+https://blog.expo.io/should-we-use-react-native-1465d8b607ac
+
+✨ Immensely upgrade your development environment with these Visual Studio Code extensions
+https://medium.com/@wesharehoodies/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530
+
+A minimal guide to ECMAScript Decorators
+https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e
+
+How JavaScript works: the internals of Shadow DOM + how to build self-contained components
+https://blog.sessionstack.com/how-javascript-works-the-internals-of-shadow-dom-how-to-build-self-contained-components-244331c4de6e
+
+Openlogos: free logos for open source projects
+https://github.com/arasatasaygin/openlogos
+
+Computer and Human Languages (Using JS as Example)
+https://diessi.ca/blog/computer-and-human-languages/
+
+Enlight - Learn to code by building projects
+https://enlight.nyc/
+
+Be careful if you are using FileZilla for your freelancing work, the installer has got into trouble once again
+https://forum.filezilla-project.org/viewtopic.php?f=2&amp;t=48441
+
+From a engineering managers perspective, a first one to one with a new developer
+https://www.developer.management/first-one-to-one-with-a-new-employee/
+
+Meet TLBleed: A crypto-key-leaking CPU attack that Intel reckons we shouldn't worry about
+https://www.theregister.co.uk/2018/06/22/intel_tlbleed_key_data_leak/
+
+SOLID Principles Around You
+https://medium.com/@trekhleb/solid-principles-around-you-6db2f0e12139
+
+Google Engineers Refused to Build Security Tool to Win Military Contracts
+https://www.bloomberg.com/news/articles/2018-06-21/google-engineers-refused-to-build-security-tool-to-win-military-contracts
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

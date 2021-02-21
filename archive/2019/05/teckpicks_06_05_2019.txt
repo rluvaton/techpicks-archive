@@ -1,0 +1,32 @@
+TechPicks 06/05/2019 -
+
+Thanos snap: Reverse engineering Google's easter egg
+https://www.youtube.com/watch?v=7Raoh1IYqRY
+
+Mockery of agile
+https://dev.to/arturmartsinkovskyi/mockery-of-agile-5bdf
+
+Responsible JavaScript
+https://alistapart.com/article/responsible-javascript-part-1/
+
+pappet: A command-line tool to crawl websites using puppeteer
+https://github.com/patrickschur/pappet
+
+Jo Hanna Pearce - A is for Angular
+https://www.youtube.com/watch?v=lgGpU_o8Kqw
+
+Delete local git branches that have a remote tracking branch that is ": gone"
+https://github.com/drewwyatt/git-tidy
+
+Roadmap to becoming a Rust Web Developer in 2019
+https://github.com/csharad/rust-web-developer-roadmap
+
+Some tips to use VSCode more efficiently
+https://dev.to/selrond/tips-to-use-vscode-more-efficiently-3h6p
+
+10 Years after introducing Node.js, Ryan Dahl presents another experiment: Deno
+https://www.youtube.com/watch?v=z6JRlx5NC9E
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

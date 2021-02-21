@@ -1,0 +1,32 @@
+TechPicks 27/10/2019 -
+
+Google's Chrome Web Store under fire for shoddy service and cryptic policies
+https://www.theregister.co.uk/2019/10/25/chrome_web_store_issues/
+
+Falsehoods programmers believe about time
+https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca
+
+Focus Overlay - a library for creating overlays on focused elements
+https://github.com/mmahandev/FocusOverlay
+
+Space Invaders in the URL using Emojis and JavaScript (open in Incognito to avoid polluting your browser history)
+http://arnaud.at/emoji
+
+Web-extension starter | Build cross-browser extension with ease using this template
+https://github.com/abhijithvijayan/web-extension-starter
+
+7 Quick JavaScript Pop Quizzes With Explanations
+https://devinduct.com/blogpost/49/7-quick-javascript-pop-quizzes-with-explanations
+
+NPMGraph - Visualize NPM Module Dependencies
+http://npm.broofa.com
+
+Credit card form with smooth and sweet micro-interactions, built using Vue.js
+https://github.com/muhammederdem/credit-card-form
+
+JavaScript Promises: Zero To Hero Plus Cheat Sheet
+https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

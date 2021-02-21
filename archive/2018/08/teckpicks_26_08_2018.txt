@@ -1,0 +1,50 @@
+TechPicks 26/08/2018 -
+
+Remote Code Execution on a Facebook server
+https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/
+
+How Gmail happened: The inside story revealed by creator Pail Buchheit
+https://www.techinasia.com/gmail-happened-story
+
+The Introduction to Software Architecture Every Programmer Should Have
+https://www.youtube.com/watch?v=x30DcBfCJRI
+
+Anyway, stop recommending bazookas to kill flies in programming
+https://medium.com/@arieldi/anyway-stop-recommending-bazookas-to-kill-flies-in-programming-65f13439be3d
+
+Ron Jeffries: Developers Should Abandon Agile
+http://ronjeffries.com/articles/018-01ff/abandon-1/
+
+CSS: ::before vs :before
+https://css-tricks.com/to-double-colon-or-not-do-double-colon/
+
+Very fascinating NPM packages
+https://dev.to/ravernkoh/very-fascinating-npm-packages-7ib
+
+The Rise and Rise of JSON
+https://twobithistory.org/2017/09/21/the-rise-and-rise-of-json.html
+
+My CLI: improved
+https://remysharp.com/2018/08/23/cli-improved
+
+JavaScript Promises with Node.js
+https://medium.com/@weibeld/javascript-promises-with-node-js-e8ca827e0ea3
+
+Topsi project manager, a Desktop Kanban Board. No Signup. Offline. 100% Free and Open Source
+https://github.com/Physiix/topsi-project-manager
+
+The best coders in the world only know a small fraction of everything
+https://threader.app/thread/1022532179887353856
+
+Stack Overflow is Cruel and Lazy
+https://medium.com/@josephmeirrubin/stack-overflow-is-cruel-and-lazy-426be2d5d661
+
+Why use GraphQL, good and bad reasons
+https://honest.engineering/posts/why-use-graphql-good-and-bad-reasons
+
+🚀 DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong
+https://www.youtube.com/watch?v=EZ05e7EMOLM&t=1103s
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 11/11/2018 -
+
+Elad Ossadon - The Ultimate VSCode Setup for JS/React
+https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2
+
+Goodbye Electron, Hello Desktop PWAs
+https://medium.com/@novicki_david/goodbye-electron-hello-desktop-pwas-f316b8f39882
+
+The Forgotten History of OOP
+https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f
+
+Clean Code Checklist in Angular
+https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74
+
+Abandoning WordPress for a Node.js-based static site generator
+https://thomashunter.name/posts/2018-11-09-migrating-from-wordpress-to-static-markdown
+
+Things Nobody Told Me About Being a Software Engineer
+https://dev.to/anaulin/things-nobody-told-me-about-being-a-software-engineer-3pa5
+
+InvaderZ - A game kinda like space invaders, but the invaders evolve with genetic algorithm.
+https://github.com/victorqribeiro/invaderz
+
+Why Good Developers Write Bad Unit Tests
+https://mtlynch.io/good-developers-bad-tests/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

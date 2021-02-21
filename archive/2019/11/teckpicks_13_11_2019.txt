@@ -1,0 +1,35 @@
+TechPicks 13/11/2019 -
+
+Nullish Coalescing vs. Short-circuit vs. Default Params
+https://www.strictmode.io/articles/nullish-coalescing-vs/
+
+Results of the Front-End Tooling Survey 2019
+https://ashleynolan.co.uk/blog/frontend-tooling-survey-2019-results
+
+Making instagram.com faster: Code size and execution optimizations (Part 4)
+https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8
+
+"I sat down to learn enough PowerShell to recreate one of my bash functions. What have I learned so far?"
+https://twitter.com/jessitron/status/1194296021297352705
+
+Using GitRoyalty to fund my nearly abandoned 2.6k star Open Source project
+https://medium.com/@sdrzn/using-gitroyalty-to-fund-my-nearly-abandoned-2-6k-star-open-source-project-364cf68f05da
+
+Google plans to give slow websites a new badge of shame in Chrome
+https://www.theverge.com/2019/11/11/20959865/google-chrome-slow-sites-badge-system-chrome-dev-summit-2019
+
+ESM in Node has been unflagged
+https://twitter.com/mylesborins/status/1194375751774064647
+
+Nordic.js 2019 • James Simpson - Building Distributed Systems with Node.js
+https://www.youtube.com/watch?v=GUtd-zEDgjQ
+
+Blending Modes in CSS
+https://ishadeed.com/article/blending-modes-css/
+
+Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly
+https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

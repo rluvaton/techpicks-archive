@@ -1,0 +1,26 @@
+TechPicks 29/01/2020 -
+
+Beware: the new SameSite cookie security settings will go live for Chrome in four days
+https://blog.chromium.org/2019/10/developers-get-ready-for-new.html
+
+Why do we have Dependency Injection in web development
+https://indepth.dev/why-do-we-have-dependency-injection-in-web-development/
+
+React Color: A Collection of Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter, Material Design & more
+https://casesandberg.github.io/react-color/#about
+
+Blocking Your Adblocker: How to be an asshole, programmatically
+https://medium.com/@vmsp/blocking-your-adblocker-967d1c6e48f2
+
+The performance implications of misunderstanding Node.js promises
+https://eng.lifion.com/promise-allpocalypse-cfb6741298a7
+
+Intrinsic Sizing In CSS
+https://ishadeed.com/article/intrinsic-sizing-in-css/
+
+Some Imaginary CSS
+https://cloudfour.com/thinks/some-imaginary-css/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

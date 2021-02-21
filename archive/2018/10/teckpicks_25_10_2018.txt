@@ -1,0 +1,32 @@
+TechPicks 25/10/2018 -
+
+React-spring 6.0 is out of beta
+https://medium.com/@drcmda/react-spring-6-0-is-out-of-beta-533ad6c8b4a
+
+Web Components have shipped in Firefox
+https://hacks.mozilla.org/2018/10/firefox-63-tricks-and-treats/
+
+Cloudflare will support 246 TLDs when Cloudflare Registrar launches
+https://i.redd.it/ib0s6lasn7u11.png
+
+The Mine: No JS, CSS only adventure game
+https://codepen.io/jcoulterdesign/pen/NOMeEb
+
+On Dealing with Anxiety and Depression as a Developer
+https://dev.to/moimikey/on-dealing-with-anxiety-and-depression-as-a-developer-2ac4
+
+Tips and Tricks for keeping a healthy Git repository
+https://blog.intracto.com/how-to-save-a-puppy-by-creating-a-clean-git-repo
+
+Code ownership and software quality
+https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/code-ownership-software-quality
+
+The State of Agile Software in 2018
+https://martinfowler.com/articles/agile-aus-2018.html
+
+fff - a terminal file manager written in bash
+https://github.com/dylanaraps/fff
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

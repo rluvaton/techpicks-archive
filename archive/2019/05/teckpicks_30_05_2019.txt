@@ -1,0 +1,29 @@
+TechPicks 30/05/2019 -
+
+How We Hire Engineers
+https://auth0.com/blog/how-we-hire-engineers/
+
+Round, flat, designer-friendly pseudo-3D engine for canvas & SVG
+https://zzz.dog/
+
+The Bullwhip Effect in Continuous Delivery: When Good Features Go Bad
+https://thenewstack.io/the-bullwhip-effect-in-continuous-delivery-when-good-features-go-bad/
+
+Scene.js is an JavaScript & CSS timeline-based animation library
+https://github.com/daybrush/scenejs
+
+GitHub - FullHuman/tosin: Initialize a npm package with everything included, from CI to documentation website
+https://github.com/FullHuman/tosin
+
+Introducing FunctionScript: Turn JavaScript (Node.js) functions into typed HTTP APIs
+https://github.com/FunctionScript/FunctionScript
+
+Permanent URL Hijack Through 301 HTTP Redirect Cache Poisoning
+https://blog.duszynski.eu/domain-hijack-through-http-301-cache-poisoning/
+
+Create a split, faux-container layout with CSS Grid and Flexbox
+https://andy-bell.design/wrote/create-a-split-faux-container-layout-with-css-grid-and-flexbox/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

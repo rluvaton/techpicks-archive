@@ -1,0 +1,35 @@
+TechPicks 03/08/2020 -
+
+A Look at What's New in Chrome DevTools in 2020
+https://css-tricks.com/whats-new-in-devtools-2020
+
+Google starts testing its replacement for third-party cookies
+https://www.engadget.com/google-tests-ad-trust-tokens-223104543.html
+
+Slack Is Fumbling Developers And The Rise Of Developer Discords
+https://www.swyx.io/writing/slack-fumble/
+
+Introducing a Technology Preview of NGINX Support for QUIC and HTTP/3
+https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/
+
+fdir 4.0 - Now the fastest Node.js globbing library
+https://github.com/thecodrr/fdir
+
+GPU Accelerated JavaScript
+https://gpu.rocks/
+
+The Hitchhiker's Guide to the Containers: A Foolproof, Hands-on Docker Tutorial
+https://blog.antoniolofiego.com/the-hitchhikers-guide-to-the-containers-a-foolproof-hands-on-docker-tutorial-part-1-ckdc4tni0031759s14z0pdd2j
+
+What is "Memory Safety", really? - A brief technical primer on Rust's key security feature, with embedded-specific context
+https://tiemoko.com/blog/blue-team-rust/
+
+Morris's Algorithm for Approximate Counting
+https://arpitbhayani.me/blogs/morris-counter
+
+Writing and publishing a Python module in Rust
+https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

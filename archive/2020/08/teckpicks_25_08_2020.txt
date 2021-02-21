@@ -1,0 +1,26 @@
+TechPicks 25/08/2020 -
+
+Better, Faster, and Smarter: RESTool 2.0 is Out
+https://medium.com/@danielsternlicht/better-faster-and-smarter-restool-2-0-is-out-ec86442f5409
+
+The sound of the dialup, pictured
+https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html
+
+How I helped fix Canadaʼs COVID Alert app
+https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app
+
+A tale of webpage speed, or throwing away React
+https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/
+
+light-date ⏰ - Blazing fast & lightweight (173 bytes) date formatting for Node.js and the browser
+https://github.com/xxczaki/light-date
+
+JS/TS Debugger with Time-Traveling, Hot-swapping, API and Persistent State, zero-config for create-react-app projects (VSCode plugin)
+https://marketplace.visualstudio.com/items?itemName=effectful.debugger
+
+Lessons from migrating a 14 year old blog with 1500 posts to Gatsby
+https://swizec.com/blog/lessons-from-migrating-a-14-year-old-blog-with-1500-posts-to-gatsby/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 24/12/2019 -
+
+What are the React Team Principles?
+http://react.christmas/2019/24
+
+Subreddit Analyzer - a comprehensive Data and Text Mining workflow for submissions and comments from any given public subreddit
+https://github.com/PhantomInsights/subreddit-analyzer
+
+Debounce vs Throttle: Definitive Visual Guide
+https://redd.one/blog/debounce-vs-throttle
+
+Post UI - Minimalistic React UI Components
+https://github.com/undefinedbuddy/post-ui
+
+Create a React app from scratch with Webpack and Babel
+https://www.sentinelstand.com/article/create-react-app-from-scratch-with-webpack-and-babel
+
+Protobuffers are wrong
+http://reasonablypolymorphic.com/blog/protos-are-wrong/index.html
+
+Merry Functional Christmas
+https://functional.christmas/2019/24
+
+Animation Using CSS basics
+https://www.youtube.com/watch?v=bbzWRjkooFg
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

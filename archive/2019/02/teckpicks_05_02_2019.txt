@@ -1,0 +1,35 @@
+TechPicks 05/02/2019 -
+
+The AdTech Industry is Ruining Web Push Notifications for PWAs
+http://vancelucas.com/blog/the-adtech-industry-is-ruining-web-push-notifications-for-pwas/
+
+Axios Needs Maintainers
+https://github.com/axios/axios/issues/1965
+
+Do we still need JavaScript frameworks?
+https://medium.freecodecamp.org/do-we-still-need-javascript-frameworks-42576735949b
+
+ascii world
+https://yeahpython.github.io/game/game.html
+
+Making setInterval Play Well with React Hooks
+https://overreacted.io/making-setinterval-play-well-with-react-hooks/
+
+MiniSearch, a client-side fulltext search engine
+https://lucaongaro.eu/blog/2019/01/30/minisearch-client-side-fulltext-search-engine.html
+
+useFetch: React custom hook for Fetch API with Suspense and Concurrent Mode in Mind
+https://medium.com/@dai_shi/1d3ba9250e0
+
+Firefox 66 to block automatically playing audible video and audio – Mozilla Hacks
+https://hacks.mozilla.org/2019/02/firefox-66-to-block-automatically-playing-audible-video-and-audio/
+
+CSS Reference: A free visual guide to CSS
+https://cssreference.io/
+
+Clean Code concepts adapted for TypeScript
+https://github.com/labs42io/clean-code-typescript
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

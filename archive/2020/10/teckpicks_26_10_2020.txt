@@ -1,0 +1,29 @@
+TechPicks 26/10/2020 -
+
+Node.js 15 released: Unhandled rejections are now raised as exceptions by default
+https://nodejs.medium.com/node-js-v15-0-0-is-here-deb00750f278
+
+undelete_jpg - a program that recovers JPG images from SD cards and hard drives
+https://github.com/saintmarina/undelete_jpg
+
+A case study on vanilla web development
+https://github.com/morris/vanilla-todo
+
+I am Seriously Considering Going Back to Desktop Computers
+http://misc-stuff.terraaeon.com/articles/locked-down-computers.html
+
+A self-hostable API request builder (a la postman, but web-based)
+https://github.com/hoppscotch/hoppscotch
+
+ES modules in production: my experience so far
+https://www.bryanbraun.com/2020/10/23/es-modules-in-production-my-experience-so-far/
+
+How a one line change decreased our build times by 99%
+https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370
+
+Federated Learning
+https://federated.fastforwardlabs.com/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

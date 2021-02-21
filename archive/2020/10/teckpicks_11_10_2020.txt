@@ -1,0 +1,29 @@
+TechPicks 11/10/2020 -
+
+Webpack 5 release
+https://webpack.js.org/blog/2020-10-10-webpack-5-release/
+
+Down the ergonomic keyboard rabbit hole
+https://blog.scottlogic.com/2020/10/09/ergo-rabbit-hole.html
+
+Collision detection
+http://www.jeffreythompson.org/collision-detection/
+
+bubbletea: A fun, functional and stateful framework to build beautiful terminal apps
+https://github.com/charmbracelet/bubbletea
+
+Inheritance is for sharing an interface (and so is overloading)
+https://quuxplusone.github.io/blog/2020/10/09/when-to-derive-and-overload/
+
+Mystery Knowledge and Useful Tools
+https://nikhilism.com/post/2020/mystery-knowledge-useful-tools/
+
+We Hacked Apple for 3 Months: Here’s What We Found
+https://samcurry.net/hacking-apple/
+
+Bookmarklets for better browsing
+https://www.squarefree.com/bookmarklets/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

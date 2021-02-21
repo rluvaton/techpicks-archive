@@ -1,0 +1,47 @@
+TechPicks 25/07/2018 -
+
+Badgen - Fast badge generating service (Shields.io successor)
+https://badgen.net/
+
+StealJS 2.0 Released
+https://www.bitovi.com/blog/steal-2.0
+
+The new CKEditor 5 release is out with Electron support, autosave and block toolbar!
+https://ckeditor.com/blog/CKEditor-5-v11.0.0-released/
+
+Did you know that style and script tags can be set to display: block?
+https://css-tricks.com/did-you-know-that-style-and-script-tags-can-be-set-to-display-block/
+
+Chrome 68 drops today — an HTTP connection instead will show the words "not secure“
+https://www.cnet.com/news/chrome-warns-of-not-secure-sites-to-cut-web-surveillance-tampering-faq/
+
+Versatile CSS-Only Ripple Effect
+https://codepen.io/jproffitt71/pen/PBPKmw
+
+YouTube page load is 5x slower in Firefox and Edge than in Chrome because YouTube's Polymer redesign relies on the deprecated Shadow DOM v0 API only implemented in Chrome.
+https://twitter.com/cpeterso/status/1021626510296285185
+
+Natively run OCaml from Rust
+https://blog.s-m.ac/ocaml-rust-ffi/
+
+Kotlin on the server at Khan Academy
+http://engineering.khanacademy.org/posts/kotlin-adoption.htm
+
+Pushing the boundaries of cryptography in a security vulnerability report
+https://blogs.msdn.microsoft.com/oldnewthing/20180724-00/?p=99325
+
+Kill Your Dependencies
+http://www.mikeperham.com/2016/02/09/kill-your-dependencies/
+
+How Docker Images Work: Union File Systems for Dummies
+https://terriblecode.com/blog/how-docker-images-work-union-file-systems-for-dummies/
+
+Spectre rises from the dead to bite Intel in the return stack buffer: "Seemingly invincible ghost in the machine may also continue to haunt AMD, ARM chips"
+https://www.theregister.co.uk/2018/07/23/spectre_return_stack_buffer
+
+Stop using the Agile Testing Pyramid: a case for writing fewer unit tests
+http://hecodes.com/2018/07/stop-using-the-agile-testing-pyramid/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

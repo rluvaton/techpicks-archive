@@ -1,0 +1,35 @@
+TechPicks 09/05/2019 -
+
+A guide to setting up Vim for JavaScript development
+https://freshman.tech/vim-javascript/
+
+Googlebot now runs the latest Chromium rendering engine, supporting ES6 and newer JavaScript features, IntersectionObserver for lazy-loading, Web Components v1 APIs
+https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html
+
+Debugging Node.js the fun way using Visual Studio Code Debug mode
+https://medium.com/@dennismphil/debugging-node-js-using-visual-studio-code-c30e5eeb9e38
+
+Researcher Finds CSS-Only Method to Track Mouse Movements
+https://www.bleepingcomputer.com/news/security/researcher-finds-css-only-method-to-track-mouse-movements/
+
+You Are Not Google
+https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb
+
+Automate NPM packages security fixes with recurring tasks on CI
+https://dev.to/alex_barashkov/automate-npm-packages-security-fixes-with-recurring-tasks-on-ci-pi1
+
+How to debug JavaScript applications and tests
+https://medium.com/@kevin_peters/how-to-debug-javascript-applications-and-tests-9718fe610f7d
+
+Knao – Place output of your previous command into the clipboard
+https://github.com/chunqiuyiyu/knao
+
+Some awesome modern C++ features that every developer should know
+https://medium.freecodecamp.org/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c
+
+Awesome Modern C++
+https://github.com/rigtorp/awesome-modern-cpp
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

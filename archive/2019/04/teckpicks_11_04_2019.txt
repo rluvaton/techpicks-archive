@@ -1,0 +1,23 @@
+TechPicks 11/04/2019 -
+
+In Defense of the Ternary Statement
+https://css-tricks.com/in-defense-of-the-ternary-statement/
+
+Design Patterns in modern JavaScript development
+https://medium.com/@bojzi/design-patterns-in-modern-javascript-development-ec84d8be06ca
+
+Symbol.iterator - Modular iteration without cloning or modifying in-place
+https://medium.com/front-end-weekly/thank-u-symbol-iterator-next-aef9f09ff78
+
+A RealWorld Comparison of Front-End Frameworks with Benchmarks (2019 update)
+https://medium.freecodecamp.org/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075
+
+DNS – How a website is found on the internet
+https://i.redd.it/8myeqdcdtdr21.png
+
+Nice explanation to covariance and contravariance. How TypeScript works under the hood.
+https://medium.com/@michalskoczylas/covariance-contravariance-and-a-little-bit-of-typescript-2e61f41f6f68
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

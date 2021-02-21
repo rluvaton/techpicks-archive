@@ -1,0 +1,32 @@
+TechPicks 14/10/2018 -
+
+percollate - A command-line tool to grab web pages as beautifully formatted PDFs
+https://github.com/danburzo/percollate
+
+CSS Layout cookbook
+https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook
+
+Why Firebase Sucks
+https://medium.com/@scosta/why-firebase-sucks-ce5d2302eb20
+
+New programming derivative font - AutoMono
+https://github.com/0matgal0/AutoMono
+
+The Illustrated TLS Connection — Every byte of a TLS connection explained and reproduced
+https://tls.ulfheim.net/
+
+RawGit is now in a sunset phase and will soon shut down
+https://rawgit.com/
+
+frontendmentor.io - Practice by building real HTML & CSS projects
+https://www.frontendmentor.io/
+
+Husky - Git hooks made easy
+https://github.com/typicode/husky
+
+mb - an Exception-free nested nullable attribute accessor
+https://github.com/burakcan/mb
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

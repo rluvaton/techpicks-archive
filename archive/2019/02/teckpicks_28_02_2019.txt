@@ -1,0 +1,32 @@
+TechPicks 28/02/2019 -
+
+JavaScript game played entirely on the favicon in the browser's tab
+http://www.p01.org/defender_of_the_favicon/
+
+Gpu.js GPU – Accelerated JavaScript
+http://gpu.rocks
+
+ETS Isn't TLS and You Shouldn't Use It
+https://www.eff.org/deeplinks/2019/02/ets-isnt-tls-and-you-shouldnt-use-it
+
+How a Kalman filter works, in pictures
+https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
+
+Parsing gigabytes of JSON per second in Node.js
+https://github.com/luizperes/simdjson_nodejs
+
+Just discovered Chrome Coverage and Puppeteer to remove unused CSS/JS
+https://blog.fullstacktraining.com/remove-unused-css-javascript-code-from-your-project/
+
+Update in ES spec will make async functions way more performant
+https://github.com/tc39/ecma262/pull/1250
+
+Mike Golus created a playable version of the game Quarto in pure CSS
+https://codepen.io/mikegolus/pen/rQpZOV
+
+Automatically Remove All Unused TypeScript Imports in a Project
+https://medium.com/@wesgrimes/afd4eb0e84b7
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

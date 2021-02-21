@@ -1,0 +1,23 @@
+TechPicks 09/03/2020 -
+
+Now you can use shallow rendering for testing React components with hooks
+https://github.com/mikeborozdin/jest-react-hooks-shallow
+
+Cosha - a small (<1kb) library which makes the colors of the box shadow of an image correspond to the colors inside of it
+https://github.com/robinloeffel/cosha
+
+Easily design a CSS color gradient with this new color gradient generator
+https://mybrandnewlogo.com/color-gradient-generator
+
+Speeding up zsh and Oh-My-Zsh
+https://blog.jonlu.ca/posts/speeding-up-zsh
+
+Recursive Multi-Threaded Worker Processes in Node.js
+https://github.com/sinclairzx81/threadbox
+
+Not a 'math person'? You may be better at learning to code than you think
+https://phys.org/news/2020-03-math-person-code.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

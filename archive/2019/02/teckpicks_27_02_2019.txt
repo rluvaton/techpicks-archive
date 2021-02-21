@@ -1,0 +1,29 @@
+TechPicks 27/02/2019 -
+
+Ran Bar-Zik's list of sources on web developing, web security and web dev related issues
+https://github.com/barzik/web-dev-il-resources
+
+Apollo Client 2.5 for GraphQL announced
+https://blog.apollographql.com/announcing-apollo-client-2-5-c12230cabbb7
+
+Accessibility Guide - a curated collection of web accessibility tips, tricks, and best practices
+https://webaccessibility.guide/
+
+How, in general, does Node.js handle 10,000 concurrent requests?
+https://stackoverflow.com/questions/34855352/how-in-general-does-node-js-handle-10-000-concurrent-requests
+
+CSS Variables + calc() + rgb() = Enforcing High Contrast Colors
+https://css-tricks.com/css-variables-calc-rgb-enforcing-high-contrast-colors/
+
+Four Startup Engineering Killers
+https://hackernoon.com/four-startup-engineering-killers-1fb5c498391d
+
+Announcing Flutter 1.2
+https://developers.googleblog.com/2019/02/launching-flutter-12-at-mobile-world.html
+
+Sliding In And Out Of Vue.js
+https://www.smashingmagazine.com/2019/02/vue-framework-third-party-javascript/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

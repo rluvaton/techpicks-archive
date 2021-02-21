@@ -1,0 +1,32 @@
+TechPicks 09/02/2021 -
+
+Remotion: a suite of libraries building a fundament for creating videos programmatically using React
+https://github.com/JonnyBurger/remotion
+
+Tesla buys $1.5B in bitcoin, may accept the cryptocurrency as payment in the future
+https://techcrunch.com/2021/02/08/tesla-buys-1-5b-in-bitcoin-may-accept-the-cryptocurrency-as-payment-in-the-future
+
+Rust Foundation - Hello World!
+https://foundation.rust-lang.org/posts/2021-02-08-hello-world/
+
+Google and the Android Team joins the Rust foundation
+https://opensource.googleblog.com/2021/02/google-joins-rust-foundation.html
+
+Barcode Scanner app on Google Play infects 10 million users with one update
+https://blog.malwarebytes.com/android/2021/02/barcode-scanner-app-on-google-play-infects-10-million-users-with-one-update/
+
+Don't offer a Free Plan
+https://nofreeplan.com/
+
+I followed my dreams to get demoted to software developer
+https://stackoverflow.blog/2021/02/08/moving-from-designer-to-developer-stack-overflow/
+
+25 More JavaScript Code Solutions You Need To Know About
+https://beforesemicolon.medium.com/25-more-javascript-code-solutions-you-need-to-know-about-6ee344c2da58
+
+CD Projekt RED has been hacked, hackers obtained full source code of Cyberpunk and Witcher 3
+https://twitter.com/CDPROJEKTRED/status/1359048125403590660
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

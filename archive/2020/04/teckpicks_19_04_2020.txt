@@ -1,0 +1,32 @@
+TechPicks 19/04/2020 -
+
+X410 – X Server for Windows 10
+https://x410.dev/
+
+A great collection of TILs spread over 5 years
+https://github.com/jbranchaud/til/blob/master/README.md
+
+Puppeteer 3.0.0 now supports Firefox out of the box
+https://github.com/puppeteer/puppeteer/releases/tag/v3.0.0
+
+Crank.js - An alternative to React.js with built in support for promises and generator functions for state
+https://github.com/bikeshaving/crank
+
+Endb—Simple key-value storage with support for multiple backends
+https://github.com/chroventer/endb
+
+nodejs.dev - the intro to Node.js by the Node.js team
+https://nodejs.dev/
+
+CheektMonkey - Literally a Chaos Monkey for Kubernetes
+https://github.com/richstokes/cheekymonkey
+
+Bare-metal is awesome. Let's share our favourite tools
+https://github.com/alexellis/awesome-baremetal
+
+EKS Service Accounts Explained - An Honest Opinion
+https://fika.works/blog/eks-service-accounts/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

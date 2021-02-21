@@ -1,0 +1,32 @@
+TechPicks 03/10/2019 -
+
+Inertia.js - The Modern Monolith
+https://inertiajs.com
+
+The Life-Changing Magic of Tidying JS
+https://www.cargurus.dev/The-Life-Changing-Magic-of-Tidying-JS/
+
+Introducing DeckDeckGo: the web open source editor for presentations
+https://dev.to/daviddalbusco/introducing-deckdeckgo-the-web-open-source-editor-for-presentations-58lg
+
+You can now generate self-hostable static blogs right from your DEV content via Stackbit
+https://dev.to/devteam/you-can-now-generate-self-hostable-static-blogs-right-from-your-dev-content-via-stackbit-7a5
+
+How (Not) to Build a Button
+https://blog.benmyers.dev/clickable-divs/
+
+Why npm lockfiles can be a security blindspot for injecting malicious modules
+https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/
+
+Node.js 8 won't be supported from 2020
+https://blog.risingstack.com/update-nodejs-8-end-of-life-no-support/
+
+slack-clear-channel-messages: A simple node-powered /cls command that clears the most recent Slack activity in a channel, for decluttering Slack test channels.
+https://github.com/stdlib-examples/project-slack-clear-channel-messages
+
+Speed-learn Flexbox via this animated tutorial
+https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

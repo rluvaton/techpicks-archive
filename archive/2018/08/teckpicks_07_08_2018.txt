@@ -1,0 +1,47 @@
+TechPicks 07/08/2018 -
+
+Why I Left Gulp and Grunt for npm Scripts
+https://medium.freecodecamp.org/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8
+
+Comparison of npm scripts vs Gulp
+https://gist.github.com/elijahmanor/179e47828bf760c218bb3820d929836d
+
+A Whirlwind Tour Of The PostgreSQL Database (Interview)
+https://www.dataengineeringpodcast.com/postgresql-with-jonathan-katz-episode-42/
+
+Golang: Bazel is the Worst Build System, Except for All the Others
+https://medium.com/windmill-engineering/bazel-is-the-worst-build-system-except-for-all-the-others-b369396a9e26
+
+mauerwerk, a react-spring driven masonry-like grid with enter/exit and shared element transitions
+https://twitter.com/0xca0a/status/1026585997474242565
+
+The Test Should Verify If The Code Solves The Problem, Not If It Runs
+https://medium.com/@fagnerbrack/the-test-should-verify-if-the-code-solves-the-problem-not-if-it-runs-afea37a3a6e
+
+Using Angular HttpClient the right way
+https://medium.com/p/60c65146e5d9
+
+Webpack 4 course - part six. Increasing development experience
+https://wanago.io/2018/08/06/webpack-4-course-part-six-increasing-development-experience/
+
+The Complete Illustrated Flexbox Tutorial
+https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35
+
+Pseudo Localization @ Netflix
+https://medium.com/netflix-techblog/pseudo-localization-netflix-12fff76fbcbe
+
+Seriously, though. What is a progressive web app?
+https://medium.com/@amberleyjohanna/seriously-though-what-is-a-progressive-web-app-56130600a093
+
+Creating an animated SVG Neon light effect
+https://medium.com/9elements/creating-an-animated-svg-neon-light-effect-f5d1487d9d39
+
+Amazon to ditch Oracle by 2020
+https://www.cnbc.com/2018/08/01/amazon-plans-to-move-off-oracle-software-by-early-2020.html
+
+Introducing Android 9 Pie
+https://android-developers.googleblog.com/2018/08/introducing-android-9-pie.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

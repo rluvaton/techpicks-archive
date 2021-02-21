@@ -1,0 +1,26 @@
+TechPicks 08/12/2020 -
+
+The Road to Rome: Fundraising and Project Goals
+https://rome.tools/funding/
+
+Are you headed towards burnout?
+http://benmccormick.org/2020/08/31/simple-burnout-triage
+
+GitHub repositories to improve your programming skills
+https://denic.hashnode.dev/github-repositories
+
+Thought leaders and chicken sexers
+https://ideolalia.com/essays/thought-leaders-and-chicken-sexers.html
+
+Microsoft Teams RCE
+https://github.com/oskarsve/ms-teams-rce/blob/main/README.md
+
+Does Your Code Pass The Turkey Test? (2008)
+http://www.moserware.com/2008/02/does-your-code-pass-turkey-test.html
+
+25 free courses to celebrate 25 years of JavaScript
+https://www.javascript.com/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

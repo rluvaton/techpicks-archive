@@ -1,0 +1,26 @@
+TechPicks 10/10/2019 (correction) -
+
+Top-level await makes it possible to use the await keyword outside of async functions in JavaScript modules
+https://v8.dev/features/top-level-await
+
+3 Amazing ways to generate random numbers without Math.random()
+https://dev.to/svijaykoushik/3-amazing-ways-to-generate-random-numbers-without-math-random-4e84
+
+A Modern CSS Reset
+https://dev.to/hankchizljaw/a-modern-css-reset-6p3
+
+ferrum.js (traits like in rust & lazy sequence processing)
+https://github.com/adobe/ferrum
+
+Patterns for Practical CSS Custom Properties Use
+https://css-tricks.com/patterns-for-practical-css-custom-properties-use/
+
+Why you should use package-lock.json
+https://blog.logrocket.com/why-you-should-use-package-lock-json/
+
+Definitely Typed: The Movie - The story of how the type definition ecosystem emerged and become what we love and use today.
+https://blog.johnnyreilly.com/2019/10/definitely-typed-movie.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

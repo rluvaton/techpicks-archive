@@ -1,0 +1,38 @@
+TechPicks 29/07/2019 -
+
+Malicious code in the purescript npm installer
+https://harry.garrood.me/blog/malicious-code-in-purescript-npm-installer/
+
+Why Codewars is the best way to learn a new programming language!
+https://dev.to/lukegarrigan/why-codewars-is-the-best-way-to-learn-a-new-programming-language-4216
+
+API Gateway in a Nutshell
+https://www.pogsdotnet.com/2018/08/api-gateway-in-nutshell.html
+
+Type Yoga: Typing Flexible Functions with TypeScript’s Advanced Features
+https://medium.com//type-yoga-typing-flexible-functions-with-typescripts-advanced-features-6bb3292732bb
+
+GitHub - fabienjuif/graph-client: light zero dependency graphql-client, supporting cache and SSR
+https://github.com/fabienjuif/graph-client
+
+"Everything I Know About UI Routing" (Incomplete Gist to watch as Ryan Florence works on React Router v6)
+https://gist.github.com/f812198561c58aec1326ac800e6ea519
+
+Outline - a team wiki, documentation, meeting notes built using React and NodeJS
+https://github.com/outline/outline
+
+"How I created one of the weirdest bugs by updating readme"
+https://link.medium.com/trhJH9qyHY
+
+Tips and tricks for mocking in JavaScript tests
+https://42coders.com/tips-and-tricks-for-mocking-in-javascript-tests/
+
+Z: A new transpiled language
+https://zlanguage.github.io/
+
+"Developers who hate on OOP don't know how to use it"
+http://nomad.uk.net/articles/developers-who-hate-on-oop-don't-know-how-to-use-it.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

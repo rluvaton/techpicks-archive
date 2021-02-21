@@ -1,0 +1,26 @@
+TechPicks 04/03/2020 -
+
+Stop using isLoading booleans
+https://kentcdodds.com/blog/stop-using-isloading-booleans
+
+Introduction to D3
+https://observablehq.com/@mitvis/introduction-to-d3
+
+Optimizing data-heavy JavaScript code
+https://matthewmiller.dev/blog/optimizing-data-heavy-javascript/
+
+Migrating from jQuery to vanilla JS
+https://aristath.github.io/blog/diy-vanilla-jquery-alternative
+
+Python Cheat Sheet
+https://i.redd.it/e1lxmo33jdk41.jpg
+
+Let's Encrypt is revoking 3 million certificates on March 4 - check if you are affected
+https://community.letsencrypt.org/t/revoking-certain-certificates-on-march-4/114864
+
+The "No Code" Delusion?
+https://www.alexhudson.com/2020/01/13/the-no-code-delusion/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

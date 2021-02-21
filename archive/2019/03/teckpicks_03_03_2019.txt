@@ -1,0 +1,35 @@
+TechPicks 03/03/2019 -
+
+Itzik Pop - Neat Stuff With HTML & CSS
+https://medium.com/@itzikpop/neat-stuff-with-html-css-82a29fb8e14f
+
+NPM: The security risks of changing package owners
+https://blog.npmjs.org/post/182828408610/the-security-risks-of-changing-package-owners
+
+AOT compilation of JavaScript with V8
+http://notes.eatonphil.com/aot-compilation-of-javascript-with-v8.html
+
+Useful JavaScript one-liners
+https://medium.com/@smellycode/js-one-liners-8bc0a6af2345
+
+Reducer organization — taking a step further
+https://medium.com/@andreygoncharov/4aba7af755d6
+
+React - Auto Lint & Format on Git Commit with Airbnb Styleguide
+https://coffeencoding.com/reactjs-auto-lint-format-on-git-commit-with-airbnb-styleguide/
+
+AutoNumeric.js - provides live as-you-type formatting for international numbers and currencies
+http://autonumeric.org/
+
+Free online book: “Exploring ES2018 and ES2019”
+http://exploringjs.com/es2018-es2019/toc.html
+
+Lesser-known CSS properties in GIFs
+https://www.designyourway.net/blog/css-html/lesser-known-css-properties-in-gifs/
+
+Did you know that CSS Custom Properties can handle images too?
+https://css-tricks.com/did-you-know-that-css-custom-properties-can-handle-images-too/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

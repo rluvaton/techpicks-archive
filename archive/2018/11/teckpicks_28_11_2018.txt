@@ -1,0 +1,32 @@
+TechPicks 28/11/2018 -
+
+React 16.x Roadmap - release estimates for hooks/concurrent/suspense
+https://reactjs.org/blog/2018/11/27/react-16-roadmap.html
+
+Inside Fiber: in-depth overview of the new reconciliation algorithm in React
+https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e
+
+event-stream vulnerability explained
+https://schneid.io/blog/event-stream-vulnerability-explained/
+
+JavaScript Inheritance and the Prototype Chain
+https://tylermcginnis.com/javascript-inheritance-and-the-prototype-chain/
+
+VS Code - Event-Stream Package Security Update
+https://code.visualstudio.com/blogs/2018/11/26/event-stream
+
+Zeit: "Today we are thrilled to introduce ncc, a simple Node.js CLI program and API for compiling Node.js projects into a single JavaScript file."
+https://zeit.co/blog/ncc
+
+List of symptoms of high performing teams
+https://mobile.twitter.com/susannehusebo/status/1057010882989998083
+
+The JavaScript Object Paradigm and Prototypes Explained Simply
+https://levelup.gitconnected.com/the-javascript-object-paradigm-and-prototypes-explained-simply-e9cb9eaa49aa
+
+How to Deal with Difficult People on Software Projects
+https://people.neilon.software/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

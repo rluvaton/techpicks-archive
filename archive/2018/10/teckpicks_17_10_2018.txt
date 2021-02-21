@@ -1,0 +1,29 @@
+TechPicks 17/10/2018 -
+
+The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript
+https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/
+
+Twilio acquires email API platform SendGrid for $2 billion in stock
+https://techcrunch.com/2018/10/15/twilio-acquires-email-api-platform-sendgrid-for-2-billion-in-stock/
+
+New in Chrome 70 - Desktop Progressive Web Apps on Windows and more | Google Developers
+https://developers.google.com/web/updates/2018/10/nic70
+
+GitHub launches Actions, its workflow automation tool
+https://techcrunch.com/2018/10/16/github-launches-actions-its-workflow-automation-tool/
+
+Flight rules for Git - A guide for programmers using Git about what to do when things go wrong
+https://github.com/k88hudson/git-flight-rules
+
+6 Things to Remember When Localizing Mobile Apps
+https://blog.lokalise.co/6-things-to-remember-when-localizing-mobile-apps/
+
+Do We Worship Complexity?
+https://www.innoq.com/de/blog/do-we-worship-complexity/
+
+GitHub Game Off challenge - build a game in a month
+https://blog.github.com/2018-10-15-game-off-returns-november-2018/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

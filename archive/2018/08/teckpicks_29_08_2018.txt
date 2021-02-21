@@ -1,0 +1,41 @@
+TechPicks 29/08/2018 -
+
+CSS-in-JS Security: the rascal's guide
+https://frontarm.com/articles/how-can-i-use-css-in-js-securely/
+
+Understanding Execution Context and Execution Stack in Javascript
+https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0
+
+JavaScript Object Type Coercion
+https://medium.com/intrinsic/javascript-object-type-coercion-b2ec176c02c4
+
+How to use Docker for Node.js development
+https://cravencode.com/post/docker/nodejs-local-development/
+
+Speed up alignment in CSS with Flexbox utility classes
+https://medium.com/codyhouse/speed-up-alignment-in-css-with-flexbox-utility-classes-4030ce88e170
+
+Hacker Discloses Unpatched Windows Zero-Day Vulnerability (With PoC)
+https://thehackernews.com/2018/08/windows-zero-day-exploit.html
+
+Practical application of reverse-engineering guidelines and principles
+https://blog.angularindepth.com/practical-application-of-reverse-engineering-guidelines-and-principles-784c004bb657
+
+Fast Full-Text Search in PostgreSQL
+https://austingwalters.com/fast-full-text-search-in-postgresql/
+
+lerna adds text to MIT license banning ICE collaborators
+https://github.com/lerna/lerna/pull/1616
+
+Unethical programming
+https://dev.to/rhymes/unethical-programming-4od5
+
+Gitpod — Online IDE For GitHub
+https://medium.com/gitpod/gitpod-gitpod-online-ide-for-github-6296b907a886
+
+PostgreSQL Tips and Tricks
+https://pgdash.io/blog/postgres-psql-tips-tricks.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

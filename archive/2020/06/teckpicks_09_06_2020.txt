@@ -1,0 +1,32 @@
+TechPicks 09/06/2020 -
+
+A small JavaScript library to create and animate annotations on web pages
+https://roughnotation.com/
+
+How to emulate hand-drawn shapes (the algorithms behind RoughJS)
+https://shihn.ca/posts/2020/roughjs-algorithms/
+
+Under-the-hood of test runners (e.g Mocha)
+https://craigtaub.dev/under-the-hood-of-test-runners?v=1
+
+Deno plans to use JavaScript in internal code instead of TypeScript going forward
+https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit
+
+Dart can now produce self-contained, native executables for MacOS, Windows and Linux
+https://medium.com/dartlang/dart2native-a76c815e6baf
+
+An open letter to Bitbucket about Mercurial
+https://www.azabani.com/2020/06/07/open-letter-to-bitbucket.html
+
+NoDesign.dev – Tools and resources for non artistic developers
+https://nodesign.dev/
+
+Colors & Fonts, a free curated library of colors and fonts for Web Developers & Digital Designers
+https://www.colorsandfonts.com/
+
+Microsoft has begun rolling out its Chromium-based Edge via Windows Update
+https://www.engadget.com/microsoft-edge-windows-update-163054502.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

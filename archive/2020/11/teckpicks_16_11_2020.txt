@@ -1,0 +1,36 @@
+TechPicks 16/11/2020 -
+
+How Web Apps Work: JavaScript and the DOM
+https://blog.isquaredsoftware.com/2020/11/how-web-apps-work-javascript-dom/
+
+A React library to build Diagrams with ease
+https://github.com/antonioru/beautiful-react-diagrams
+
+Good and Bad Practices - a Limiting Perspective
+https://pmihaylov.com/good-and-bad-practices/
+
+API pagination design by using cursors instead of offsets
+https://solovyov.net/blog/2020/api-pagination-design/
+
+Can't open apps on macOS: an OCSP disaster waiting to happen
+https://blog.cryptohack.org/macos-ocsp-disaster
+
+Simulating Erosion - A experiment in terrain generation
+https://medium.com/@alberttheblacksheep/simulation-erosion-a-experiment-3cfd5c592b34
+
+Why Git blame sucks for understanding WTF code (and what to use instead)
+https://tekin.co.uk/2020/11/patterns-for-searching-git-revision-histories
+
+How do you write simple explanations without sounding condescending?
+https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/
+
+Git Rebase: Don't be Afraid of the Force (Push)
+https://blog.verslu.is/git/git-rebase/
+
+Force-with-lease: an alternative to force push
+http://weiqingtoh.github.io/force-with-lease/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
+Follow me - https://twitter.com/__tkore__

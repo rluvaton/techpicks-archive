@@ -1,0 +1,31 @@
+TechPicks 13/06/2019 -
+
+Former npm CTO launches a decentralized, federated alternative to npm
+https://wptavern.com/former-npm-inc-cto-announces-entropic-a-decentralized-package-registry
+
+CoffeeScript’s most loved feature soon in JavaScript: Optional Chaining
+https://medium.com/@dennismphil/coffeescripts-most-loved-feature-soon-in-javascript-b2f6740c2dc7
+
+Learning what fundamental problem React solve by building one in 80 lines of JS.
+https://blog.ankuranand.com/2018/03/28/The-missing-introduction-of-React-js/
+
+Noops Programming Challenges
+https://noopschallenge.com/
+
+Opera GX - new gaming browser supporting CPU throttling
+https://www.opera.com/gx
+
+Why ['1', '7', '11'].map(parseInt) returns [1, NaN, 3] in JavaScript
+https://medium.com/dailyjs/parseint-mystery-7c4368ef7b21
+
+Micro Frontends
+https://martinfowler.com/articles/micro-frontends.html
+
+Unlimited Drive Storage using Google Docs
+https://github.com/stewartmcgown/uds
+
+The Philosophy of a JavaScript Studio Building Full Stack Apps
+https://medium.com/@eliezer/how-writing-simple-javascript-got-us-6200-github-stars-in-a-single-day-420b17b4cff4
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

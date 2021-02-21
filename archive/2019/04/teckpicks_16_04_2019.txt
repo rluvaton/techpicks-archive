@@ -1,0 +1,35 @@
+TechPicks 16/04/2019 -
+
+Use Tailwind or Roll Your Own CSS Utility Library?
+https://blog.bitsrc.io/use-tailwind-or-roll-your-own-css-utility-library-fdaa89659117
+
+No Portfolio? What’s your excuse?
+https://hackernoon.com/no-portfolio-whats-your-excuse-fc2136a19672
+
+Solving the structured control flow problem once and for all (Compiling LLVM IR to JS/WebAssembly)
+https://medium.com/leaningtech/solving-the-structured-control-flow-problem-once-and-for-all-5123117b1ee2
+
+Perflink: Live javascript benchmarking
+https://perf.link/
+
+(Right to Left (The Mirror World - Spotify's challenges with RTL languages
+https://labs.spotify.com/2019/04/15/right-to-left-the-mirror-world/
+
+Adapting to Windows as a Linux Developer
+https://medium.com/@andrea.spadaccini/adapting-to-windows-as-a-linux-developer-80a6fe0ef6f4
+
+Create-react-icons: A CLI for generating react components from svg files
+https://github.com/bmcmahen/create-react-icons
+
+Crosstab-events with a BroadcastChannel that works in old browsers and Node.js
+https://github.com/pubkey/broadcast-channel
+
+Objection to ORM hatred
+https://www.jakso.me/blog/objection-to-orm-hatred
+
+SonarTS: Static code analyzer for TypeScript
+https://github.com/SonarSource/SonarTS
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

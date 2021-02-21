@@ -1,0 +1,47 @@
+TechPicks 02/08/2018 - 
+
+GitBook - Documentation your users will love
+https://www.gitbook.com/
+
+100 Days of Machine Learning Coding
+https://github.com/Avik-Jain/100-Days-Of-ML-Code
+
+Exploding Software-Engineering Myths - Microsoft Research (2009)
+https://www.microsoft.com/en-us/research/blog/exploding-software-engineering-myths/
+
+Learning Alone, Together
+https://medium.com/launch-school/javascript-weekly-learning-alone-together-d4b350ee5fb5
+
+5 Mistakes I Made When Doing Custom Data Visualization With D3.js
+https://blog.sicara.com/5-mistakes-avoid-custom-data-visualizations-d3-js-ac431e57aeff
+
+Uber releases Fusion.js, a plugin-based isomorphic web framework
+https://eng.uber.com/fusionjs/
+
+Addy Osmani - The Cost Of JavaScript In 2018
+https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
+
+Breaking up with Bootstrap
+https://kieranvenison.co.uk/blog/breaking-up-with-bootstrap/
+
+Useful Pens for Everyday Front End Development - a Collection by Sarah Drasner on CodePen
+https://codepen.io/collection/nMgKxJ/3/#
+
+The trick to viewport units on mobile
+https://css-tricks.com/the-trick-to-viewport-units-on-mobile/
+
+Where did the Microsoft tech stack disappear?
+https://michaelscodingspot.com/2018/07/30/where-did-the-microsoft-tech-stack-disappear/
+
+Why No HTTPS? Questions Answered, New Data, Path Forward
+https://www.troyhunt.com/why-no-https-questions-answered-new-data-path-forward/
+
+cli.fyi - A Potentially Useful Command Line Query Tool
+https://cli.fyi
+
+GOTO 2018: Michael Feathers - Unconditional Code
+https://www.youtube.com/watch?v=AnZ0uTOerUI
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

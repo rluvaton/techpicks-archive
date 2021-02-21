@@ -1,0 +1,32 @@
+TechPicks 17/04/2019 -
+
+Developing in the Cloud: the no-bullshit microservices dev guide (part 4)
+https://www.rookout.com/developing-in-the-cloud-the-no-bullshit-microservices-dev-guide-part-4/
+
+Storybook Docs - New component docs tool for React/Vue/Angular & more
+https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a
+
+Mozilla bringing Python interpreter to browsers, allowing it to talk to JS directly
+https://venturebeat.com/2019/04/16/mozilla-details-pyodide-a-project-that-aims-to-bring-python-to-web-browsers/
+
+One secret to becoming a great software engineer: read code
+https://hackernoon.com/one-secret-to-becoming-a-great-software-engineer-read-code-467e31f243b0
+
+How to hire the best developers
+https://hackernoon.com/how-to-hire-the-best-developers-3ac0fa4e3f39
+
+Amazing site with a collection of filtered programming talks
+https://codetalks.tv/
+
+Express.js — How to refactor your routes using middlewares
+https://medium.com/@avivbiton01/express-js-how-to-refactor-your-routes-using-middlewares-1c95413934e
+
+Back-End pagination with NodeJS, ExpressJS, MongoDB, Mongoose, EJS
+https://medium.com/@andreasdev/3566994356e0
+
+CSS masonry with flexbox, :nth-child(), and order
+https://tobiasahlin.com/blog/masonry-with-css/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 27/10/2020 -
+
+Cypress: Writing and organizing test setups with cypress-routines
+https://maxschmitt.me/posts/cypress-routines/
+
+Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
+https://phosphoricons.com/
+
+Dendron – A Hierarchical Tool for Thought
+https://github.com/dendronhq/dendron
+
+Continuations in TypeScript
+https://medium.com/@wim_jongeneel/continuations-in-typescript-db18402010bc
+
+Notes for the "Clean Architecture" book
+https://github.com/preslavmihaylov/booknotes/tree/master/architecture/clean-architecture
+
+Text layout is a loose hierarchy of segmentation
+https://raphlinus.github.io/text/2020/10/26/text-layout.html
+
+Glow: terminal based markdown reader
+https://github.com/charmbracelet/glow
+
+Impact of using HTTP connection pooling for PHP applications at Wikipedia
+https://techblog.wikimedia.org/2020/10/26/impact-of-using-http-connection-pooling-for-php-applications-at-scale/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

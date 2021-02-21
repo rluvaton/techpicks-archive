@@ -1,0 +1,38 @@
+TechPicks 13/08/2019 -
+
+Easily find and remove old and heavy node_modules folders
+https://github.com/voidcosmos/npkill
+
+Reselect source code — seeing closure and memoization in practice
+https://medium.com/@tctammychu/reselect-source-code-seeing-closure-and-memoization-in-practice-8d12139cb756
+
+Microsoft Edge: Inspired by Firefox DevTools' Tilt feature, we just released the 3D DOM viewer in Edge Dev/Canary builds
+https://twitter.com/edgedevtools/status/1158485601798119424
+
+console-badge - Create simple badges in the browser console
+https://github.com/dennis47528/console-badge
+
+Tom Scott - 2 generals problem and food delivery app screw up
+https://www.youtube.com/watch?v=IP-rGJKSZ3s
+
+What Color is Your Function?
+https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/
+
+TypeScript in the real world — Why and how you should use it
+https://medium.com/engineered-publicis-sapient/typescript-in-the-real-world-132d32a290db
+
+High-performance input handling on the web
+https://nolanlawson.com/2019/08/11/high-performance-input-handling-on-the-web/
+
+The Steve Wozniak Guide to Building Better Software
+https://medium.com/@tindleaj/the-steve-wozniak-guide-to-building-software-966a15ab7ed5
+
+Chrome 77 to remove EV indicators
+https://chromium.googlesource.com/chromium/src/+/HEAD/docs/security/ev-to-page-info.md
+
+Metacode — better code search for your JavaScript repository.
+https://metacode.app
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

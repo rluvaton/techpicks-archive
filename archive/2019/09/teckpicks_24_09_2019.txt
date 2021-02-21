@@ -1,0 +1,32 @@
+TechPicks 24/09/2019 -
+
+Releasly - Be notified on new open-source version releases
+https://releasly.co
+
+“How I brought down my project's dependency tree from 36 packages to 4 packages”
+https://dev.to/saurabhdaware/how-i-brought-down-my-project-s-dependency-tree-from-36-packages-to-4-packages-1n0h
+
+Page Visibility API: let's help users save their battery life and data
+https://dev.to/yashints/page-visibility-api-let-s-help-users-save-their-battery-life-and-data-2moa
+
+Serverless: 15% slower and 8x more expensive
+http://einaregilsson.com/serverless-15-percent-slower-and-eight-times-more-expensive/
+
+The Distribution of Users’ Computer Skills: Worse Than You Think
+https://www.nngroup.com/articles/computer-skill-levels/
+
+Thinking about Recursion: How to Recursively Traverse JSON Objects and the Filesystem
+https://qvault.io/2019/09/22/thinking-about-recursion-how-to-recursively-traverse-json-objects-and-the-filesystem/
+
+Thoughts on structural and nominal typing in TypeScript
+https://dfreeman.io/whats-in-a-name/
+
+Open response to “Tests > Types”
+https://medium.com/@adamterlson/open-response-to-tests-types-71e6c88b344b
+
+TypeScript Tutorial for Beginners: The Missing Guide
+https://www.valentinog.com/blog/typescript/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

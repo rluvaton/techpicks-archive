@@ -1,0 +1,35 @@
+TechPicks 24/12/2020 -
+
+TechStack - an easy way to visualize your tech stack in README.md files by parsing your package.json file
+https://github.com/erangeles/techstack
+
+Let's Build a Confetti Cannon
+https://varun.ca/confetti/
+
+How to Favicon in 2021: Six files that fit most needs
+https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs
+
+JavaScript Performance in the Wild 2020 - We rendered a million web pages to find out what makes the web slow
+https://catchjs.com/Blog/PerformanceInTheWild
+
+Cryptographic Wear-Out for Symmetric Encryption
+https://soatok.blog/2020/12/24/cryptographic-wear-out-for-symmetric-encryption/
+
+Announcing Tokio 1.0
+https://tokio.rs/blog/2020-12-tokio-1-0
+
+htmx - high power tools for html
+https://htmx.org/
+
+Three Great Videos About Regex Derivatives
+http://www.oilshell.org/blog/2020/12/regex-videos.html
+
+Deploying Gitea on NixOS (Git self-hosting)
+https://mcwhirter.com.au/craige/blog/2019/Deploying_Gitea_on_NixOS/
+
+My e-mail honeypots
+http://www.abclinuxu.cz/blog/jenda/2020/12/my-e-mail-honeypots
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

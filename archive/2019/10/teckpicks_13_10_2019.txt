@@ -1,0 +1,35 @@
+TechPicks 13/10/2019 -
+
+How Instagram uses Redux
+https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669
+
+A Code Glitch May Have Caused Errors In More Than 100 Published Studies
+https://www.vice.com/en_us/article/zmjwda/a-code-glitch-may-have-caused-errors-in-more-than-100-published-studies
+
+You cannot cURL under pressure
+https://blog.benjojo.co.uk/post/you-cant-curl-under-pressure
+
+>_TerminalSplash - A place to browse and submit Windows Terminal themes
+https://terminalsplash.com/
+
+Detecting Network Failures When Using Fetch
+https://medium.com/to-err-is-aaron/detect-network-failures-when-using-fetch-40a53d56e36
+
+Object preventExtension vs seal vs freeze
+https://til.cybertec-postgresql.com/post/2019-10-11-Object-preventExtension-vs-seal-vs-freeze/
+
+Woah.CSS - The bizarre CSS Animations library for eccentric developers
+https://www.joerezendes.com/projects/Woah.css/
+
+uBlock Origin Update Rejected from the Chrome Web Store (and eventually gets approved)
+https://github.com/uBlockOrigin/uBlock-issues/issues/745
+
+Introduction to JavaScript Naming Conventions
+https://www.robinwieruch.de/javascript-naming-conventions
+
+Lessons from Building Node Apps in Docker (2019)
+https://jdlm.info/articles/2019/09/06/lessons-building-node-app-docker.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

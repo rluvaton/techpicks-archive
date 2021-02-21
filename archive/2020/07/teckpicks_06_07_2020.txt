@@ -1,0 +1,26 @@
+TechPicks 06/07/2020 -
+
+Adam Klein - You don't know how React state hooks work
+https://www.youtube.com/watch?v=waALzgnZnBo
+
+Ridiculous Math Problems
+http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html
+
+A Deep Introduction to JIT Compilers: JITs are not very Just-in-time
+https://carolchen.me/blog/jits-intro/
+
+Yet another explanation on sourcemap
+https://medium.com/@trungutt/yet-another-explanation-on-sourcemap-669797e418ce
+
+Rich - a Python library for rich text and beautiful formatting in the terminal
+https://github.com/willmcgugan/rich
+
+web.dev - Sign-in form best practice
+https://web.dev/sign-in-form-best-practices/
+
+Uncommon CSS Properties
+https://ishadeed.com/article/uncommon-css/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

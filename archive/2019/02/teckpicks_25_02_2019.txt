@@ -1,0 +1,29 @@
+TechPicks 25/02/2019 -
+
+Dan Abramov - useRef() is basically useState({current: initialValue })[0]
+https://twitter.com/dan_abramov/status/1099842565631819776?s=20
+
+Lofi: a minimalist Spotify player with WebGL visualizations
+https://github.com/dvx/lofi
+
+Debugging Microservices Running in Containers: Tooling Review at KubeCon NA
+https://www.infoq.com/news/2019/02/debugging-microservices
+
+Using Custom React Hooks to Simplify Forms
+https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms/
+
+How @supports Works
+https://css-tricks.com/how-supports-works/
+
+Advanced FP: What the Functor
+https://www.matthewgerstman.com/what-the-functor/
+
+Using Custom React Hooks to Simplify Forms
+https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms/
+
+true-myth: a library that provides standard, type-safe wrappers and helper functions to help you with extremely common cases in programming
+https://github.com/true-myth/true-myth
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

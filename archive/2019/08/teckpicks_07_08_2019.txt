@@ -1,0 +1,32 @@
+TechPicks 07/08/2019 -
+
+git-revise: a faster non-working-copy alternative to rebase [-i]
+https://mystor.github.io/git-revise.html
+
+gifcast: Convert asciinema to animated GIF in the browser
+https://dstein64.github.io/gifcast/
+
+Stack Overflow: How We Do App Caching - 2019 Edition
+https://nickcraver.com/blog/2019/08/06/stack-overflow-how-we-do-app-caching/
+
+React 16.9 coming soon: 16.9.0-rc.0 available now
+https://github.com/facebook/react/pull/16254
+
+Apollo Client, now with React Hooks
+https://blog.apollographql.com/apollo-client-now-with-react-hooks-676d116eeae2
+
+Low Level JavaScript: youtube channel building low-level constructs from scratch in JS
+https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw
+
+Comparing Postgres JSONB with NoSQL
+https://blog.couchbase.com/postgres-jsonb-and-nosql/
+
+Await, do not make your E2E tests sleep ⏳
+https://dev.to/noriste/await-do-not-make-your-e2e-tests-sleep-4g1o
+
+Pika REPL - Try out npm packages in the browser before installing them
+https://www.pika.dev/packages/lodash-es/repl#rdt
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

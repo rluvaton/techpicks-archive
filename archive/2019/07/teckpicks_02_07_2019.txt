@@ -1,0 +1,37 @@
+TechPicks 02/07/2019 -
+
+"Why Did I Have Difficulty Learning React?"
+https://snook.ca/archives/javascript/difficulty-with-react
+
+Scaling from 2,000 to 25,000 engineers on GitHub at Microsoft
+https://jeffwilcox.blog/2019/06/scaling-25k/
+
+Dear Agile, I’m Tired of Pretending
+https://medium.com/columbus-egg/dear-agile-im-tired-of-pretending-d39ab6a12003
+
+Google open-sources 20-year old robots.txt parser
+https://github.com/google/robotstxt
+
+Detailed Computer Science notes
+https://github.com/darshanime/notes
+
+What are higher-order functions, and why should anyone care?
+https://jrsinclair.com/articles/2019/what-is-a-higher-order-function-and-why-should-anyone-care/
+
+Building a Realtime Multiplayer Game with Deepstream
+https://medium.com/madebywild/building-a-realtime-multiplayer-game-with-deepstream-c80d6e1bc50a
+
+Simple D3 Heatmap: Create Heatmap Calendars
+https://github.com/team-centric-software/simple-d3-heatmap
+
+WebSocket Simplified
+https://iamshadmirza.hashnode.dev/websocket-simplified-cjxjzcu0m002i3hs1eewt2p80
+
+Duolingo UX case study
+https://growth.design/case-studies/duolingo-user-retention
+
+Media queries cheat sheet for maximum device support
+https://kapeli.com/cheat_sheets/CSS_Device_Media_Queries.docset/Contents/Resources/Documents/index
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

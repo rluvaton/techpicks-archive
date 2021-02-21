@@ -1,0 +1,29 @@
+TechPicks 12/01/2020 -
+
+Goodbye, Clean Code
+https://overreacted.io/goodbye-clean-code/
+
+Announcing TypeScript 3.8 Beta
+https://devblogs.microsoft.com/typescript/announcing-typescript-3-8-beta/
+
+The unseen performance costs of modern CSS-in-JS libraries in React apps
+https://calendar.perfplanet.com/2019/the-unseen-performance-costs-of-css-in-js-in-react-apps/
+
+Lodash Function Finder
+https://springload.github.io/lodash-function-finder/
+
+Why you should use generic types in TypeScript, a simple example
+https://medium.com/@rivoltafilippo/why-you-should-use-generic-types-in-typescript-a-simple-example-4708e69a003b
+
+The ultimate guide to master tree data structures step-by-step
+https://merunas.io/tree-data-structures/
+
+6 Lessons learned from optimizing the performance of a Node.js service
+https://engineering.klarna.com/6-lessons-learned-from-optimizing-the-performance-of-a-node-js-service-f163cac20473
+
+Diagram of every possible TypeScript type
+https://gist.github.com/laughinghan/31e02b3f3b79a4b1d58138beff1a2a89
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

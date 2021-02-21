@@ -1,0 +1,29 @@
+TechPicks 01/04/2020 -
+
+Cognitive Biases In Software Development
+http://smyachenkov.com/posts/cognitive-biases-software-development/
+
+"My favorite lessons from Pragmatic Programmer"
+https://swizec.com/blog/my-favorite-lessons-from-pragmatic-programmer/swizec/9361
+
+Building dark mode on Stack Overflow
+https://stackoverflow.blog/2020/03/31/building-dark-mode-on-stack-overflow/
+
+"Logical assignment" operators (||= &&= ??=) proposal reaches stage 3
+http://github.com/tc39/proposal-logical-assignment
+
+How an anti ad-blocker works: Reverse-engineering BlockAdBlock
+https://xy2.dev/article/re-bab/
+
+Trusted - Validate localStorage entries against a schema and set fallback values
+https://github.com/baleeds/trusted
+
+Getting Acquainted With Svelte, the New Framework on the Block
+https://css-tricks.com/getting-acquainted-with-svelte-the-new-framework-on-the-block/
+
+4 CSS Grid Properties (and One Value) for Most of Your Layout Needs
+https://css-tricks.com/4-css-grid-properties-and-one-value-for-most-of-your-layout-needs/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

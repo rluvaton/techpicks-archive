@@ -1,0 +1,29 @@
+TechPicks 10/12/2019 -
+
+Elad Shechter - Why CSS HSL Colors are Better!
+https://medium.com/@elad/why-css-hsl-colors-are-better-83b1e0b6eead
+
+25 Days of Serverless
+https://25daysofserverless.com/
+
+Nedux - The next redux state management. Fast, few code, typed and functional.
+https://github.com/lucasmrdt/nedux
+
+Understand Virtual DOM
+https://www.pixelstech.net/article/1575773786-Understand-Virtual-DOM
+
+An Introduction to the DOM: How Browsers Show Content On-screen
+https://unicorn-utterances.com/posts/understanding-the-dom/
+
+Improve Page Speed when Using Google Fonts
+https://johnfraney.ca/posts/2019/12/09/improve-page-speed-google-fonts/
+
+"The Prize Is Not Given; You Have To Win It: How I Became a Self-Taught Developer"
+https://medium.com/p/the-prize-is-not-given-you-have-to-win-it-9767cb3f740c
+
+Going serverless with your Node.js apps
+https://blog.logrocket.com/going-serverless-with-your-node-js-apps/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

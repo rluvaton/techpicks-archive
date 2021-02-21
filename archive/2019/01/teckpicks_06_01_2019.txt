@@ -1,0 +1,35 @@
+TechPicks 06/01/2019 -
+
+Simple Redux–a bare-bones redux implementation for teaching purposes
+https://github.com/eddyerburgh/simple-redux
+
+run-if-changed - simple tool to run a command when a file changes. Useful for lockfiles and other use cases
+https://github.com/hkdobrev/run-if-changed
+
+RunJS: A MacOS JavaScript 'Scratchpad' Tool
+https://projects.lukehaas.me/runjs/
+
+Creating a declarative oscillator component with React hooks.
+https://madewithlove.be/creating-a-declarative-oscillator-component-with-react-hooks/
+
+How Not to Use CAPTCHAs on Your Forms
+http://keepcoding.ehsanabbasi.com/security/how-not-to-use-captchas-on-your-forms/
+
+GitHub - ecthros/uncaptcha2: defeating the latest version of ReCaptcha with 91% accuracy
+https://github.com/ecthros/uncaptcha2
+
+A style tag that is styling itself
+https://codepen.io/Lunoware/pen/rQagYe
+
+5 CSS tips you didn't know you needed
+https://dev.to/lynnewritescode/5-css-tips-you-didnt-know-you-needed-nb3
+
+Getting started with debugging Node.js applications with ndb
+https://geshan.com.np/blog/2019/01/getting-started-with-debugging-nodejs-applications-with-ndb/
+
+GraphQL Tutorial: Queries and Mutations
+https://blog.graphqleditor.com/graphql-tutorial-queries-and-mutations-part1/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

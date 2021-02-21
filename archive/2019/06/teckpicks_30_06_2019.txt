@@ -1,0 +1,28 @@
+TechPicks 30/06/2019 -
+
+A better way to sell your skills as a developer than just "hire me!" or mass applying
+https://dev.to/ccleary00/a-better-way-to-sell-your-skills-as-a-developer-than-just-hire-me-or-mass-applying-3d77
+
+1 in 5 Employees Is Highly Engaged and at Risk of Burnout
+https://hbr.org/2018/02/1-in-5-highly-engaged-employees-is-at-risk-of-burnout
+
+Without a GUI - How to Live Entirely in a Terminal
+https://www.linuxjournal.com/content/without-gui-how-live-entirely-terminal
+
+The little legacy code that could: a fable of software ownership
+https://circleci.com/blog/the-little-legacy-code-that-could-a-fable-of-software-ownership/
+
+Why I Don’t Use CSS Variables
+https://medium.com/@ntgard/e50a4b792c18
+
+CSS Grid Generator
+https://cssgrid-generator.netlify.com
+
+Data Still Dominates
+https://theartofmachinery.com/2019/06/30/data_still_dominates.html
+
+Monte Carlo methods - Why it's a bad idea to go to the casino
+https://easylang.online/apps/tutorial_mcarlo.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

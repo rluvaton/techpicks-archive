@@ -1,0 +1,32 @@
+TechPicks 27/12/2018 -
+
+Pet Projects and New Year’s Resolutions — a Dev’s Holiday Season
+https://medium.com/@rookout/pet-projects-and-new-years-resolutions-a-dev-s-holiday-season-25ea5b553ced
+
+music-fns is a JavaScript music utility library that contains small music notation related functions
+https://github.com/madewithlove/music-fns
+
+If voice is the future of computing what about those who cannot speak or hear?
+https://twitter.com/shekitup/status/1017072947624857605
+
+notable: The markdown-based note-taking app that doesn't suck
+https://github.com/fabiospampinato/notable
+
+Resources.js.org - A curated list of Node.js & JavaScript tutorials, books, resources and shiny 💎 things
+https://resources.js.org/
+
+Write code that is easy to delete, not easy to extend. (2016)
+https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to
+
+Amoeba finds approximate solutions to NP-hard problem in linear time
+https://phys.org/news/2018-12-amoeba-approximate-solutions-np-hard-problem.html
+
+Comprehensive Python Cheatsheet
+https://gto76.github.io/python-cheatsheet/
+
+23 Awesome Programming Blogs to Follow in 2019
+https://aircto.com/blog/best-development-programming-blogs/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

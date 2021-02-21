@@ -1,0 +1,23 @@
+TechPicks 29/10/2020 -
+
+Useful shell prompt
+https://solovyov.net/blog/2020/useful-shell-prompt/
+
+Software correctness is a lot like flossing
+https://www.hillelwayne.com/post/flossing/
+
+If not SPAs, What?
+https://macwright.com/2020/10/28/if-not-spas.html
+
+Designing for the Web, by Mark Boulton
+https://designingfortheweb.co.uk/
+
+Deno 1.5 Release Notes
+https://deno.land/posts/v1.5
+
+Sharp — High-Performance Node.js Image Processing Library
+https://medium.com/better-programming/sharp-high-performance-node-js-image-processing-library-3f04df66c722
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

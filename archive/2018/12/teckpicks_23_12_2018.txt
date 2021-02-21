@@ -1,0 +1,32 @@
+TechPicks 23/12/2018 -
+
+Stanford scientists locate nearly all U.S. solar panels by applying machine learning to a billion satellite images
+https://news.stanford.edu/2018/12/19/inventory-indicates-goes-solar/
+
+A real-time map of all airplanes in the world built with WebGL and React
+https://reactviz.holiday/webgl-airplanes/
+
+GitHub Game Off (300+ games you can play, fork, or hack on)
+https://blog.github.com/2018-12-22-game-off-2018-highlights/
+
+What Every Programmer Should Know About Memory
+https://akkadia.org/drepper/cpumemory.pdf
+
+ECMAScript modules in Node.js: the new plan
+http://2ality.com/2018/12/nodejs-esm-phases.html
+
+The Wavefunction Collapse Algorithm explained very clearly
+https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/
+
+thank u, next: an introduction to linked lists
+https://dev.to/aspittel/thank-u-next-an-introduction-to-linked-lists-4pph
+
+Node.js & Raspberry Pi Temperature & Humidity Monitor
+http://www.phantomgrow.com/raspberry-pi-temperature-humidity-monitor/
+
+The Rise and Demise of RSS
+https://twobithistory.org/2018/12/18/rss.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

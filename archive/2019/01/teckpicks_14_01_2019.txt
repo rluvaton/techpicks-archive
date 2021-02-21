@@ -1,0 +1,35 @@
+TechPicks 14/01/2019 -
+
+Dean Shub - Affordable Smart-Home DIY with JavaScript
+https://medium.com/@deanshub/affordable-smart-home-diy-with-js-c7d3755e8b62
+
+Building Your Color Palette
+https://refactoringui.com/previews/building-your-color-palette/
+
+“Re-approaching Color” by Kevyn Arnott 
+https://design.lyft.com/re-approaching-color-9e604ba22c88
+
+It’s 2019 and I Still Make Websites with my Bare Hands
+https://medium.com/@mattholt/its-2019-and-i-still-make-websites-with-my-bare-hands-73d4eec6b7
+
+Improvement Rut: Sometimes, I miss the all-nighter version of myself
+https://colelawrence.com/blurts/2019-01-improvement-rut/
+
+[WIP] A WhatsApp JS wrapper to programmatically send messages
+https://reddit.com/r/javascript/comments/afjbo8/wip_a_whatsapp_js_wrapper_to_programmatically/
+
+Securing Node.js apps with SSL/TLS
+https://medium.com/@davisonpro/securing-node-js-apps-with-ssl-tls-b3570dbf84a5
+
+The Complete Guide To SCSS/SASS
+https://medium.com/@js_tut/the-complete-guide-to-scss-sass-49ac053fcde5?source=friends_link&sk=779c31b21ee3ffe2f38c33a1ce04e252
+
+When And How To Use CSS Multi-Column Layout
+https://www.smashingmagazine.com/2019/01/css-multiple-column-layout-multicol/
+
+The mistake developers make when coding a hamburger menu
+https://dev.to/tongrhj/the-mistake-developers-make-when-coding-a-hamburger-menu-1deg
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

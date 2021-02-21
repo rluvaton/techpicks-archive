@@ -1,0 +1,35 @@
+TechPicks 30/07/2019 -
+
+‘No way to prevent this’, Says Only Development Community Where This Regularly Happens
+https://medium.com/@nimelrian/no-way-to-prevent-this-says-only-development-community-where-this-regularly-happens-8ef59e6836de
+
+The Unsolved Load Balancing Problem of WebSockets
+https://movingfulcrum.com/the-unsolved-load-balancing-problem-of-websockets/
+
+From design patterns to category theory (a large article series)
+https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
+
+Introducing Component Story Format for Storybook – express component examples with ES6 modules
+https://medium.com/storybookjs/component-story-format-66f4c32366df
+
+Life simulator with real natural selection written entirely in vanilla JS
+http://meeba-farm.github.io
+
+Evan You on Vue.js: Seeking the Balance in Framework Design | JSConf.Asia 2019
+https://www.youtube.com/watch?v=ANtSWq-zI0s
+
+Undervalued Software Engineering Skills: Writing Well
+https://blog.pragmaticengineer.com/on-writing-well/
+
+Top 10 most deadly CSS mistakes made by new and experienced developers
+https://www.painlesscss.com/top-10-css-mistakes.html
+
+Handling Collections in Aggregates (0-to-Many, Many-to-Many) - Domain-Driven Design w/ TypeScript
+https://khalilstemmler.com/articles/typescript-domain-driven-design/one-to-many-performance/
+
+Have an embedded "Like" / "Tweet" button? Sites could be liable for helping Facebook secretly track your web browsing, says EU court
+https://www.theverge.com/2019/7/29/8934924/facebook-like-buttons-court-justice-eu-ruling-privacy-data-protection-tracking
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

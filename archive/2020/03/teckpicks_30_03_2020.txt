@@ -1,0 +1,29 @@
+TechPicks 30/03/2020 -
+
+Roee Zolantz - JS Optionals are finally here
+https://medium.com/@zolantz.roee/js-optionals-are-finally-here-8389d09c10e4
+
+Web Cache Deception Named Top Web Hacking Technique of 2019
+https://portswigger.net/daily-swig/web-cache-deception-named-top-web-hacking-technique-of-2019
+
+react-tagged: A minimalistic (1Kb) Tags component with TypeScript declarations
+https://github.com/hiquest/react-tagged
+
+Unsure Calculator - Calculate with numbers you’re not sure about
+https://filiph.github.io/unsure/
+
+Azure being overwhelmed by 775% surge in demand in lockdown regions
+https://mspoweruser.com/azure-overwhelmed-775-percent-demand-in-lockdown/
+
+Hillel Wayne: Please don't write your documentation in Markdown
+https://buttondown.email/hillelwayne/archive/please-dont-write-your-documentation-in-markdown/
+
+A cheatsheet for TailwindCSS to code your interface faster
+https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css
+
+buildless.site: The resource site about getting rid of bundlers, "built" without bundlers.
+https://buildless.site
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

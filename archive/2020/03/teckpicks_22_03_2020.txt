@@ -1,0 +1,29 @@
+TechPicks 22/03/2020 -
+
+tsParticles - What particles.js could be if it wasn't abandoned years ago
+https://github.com/matteobruni/tsparticles
+
+grocy - a web-based self-hosted groceries & household management solution for your home
+https://grocy.info/
+
+Prettier 2.0
+https://prettier.io/blog/2020/03/21/2.0.0.html
+
+Learning to Code with Kotlin
+https://marcuseisele.com/pages/learning-kotlin
+
+Should you learn Vim as a JavaScript Developer?
+https://medium.com/@joey_colon/should-you-learn-vim-as-a-developer-in-2020-75fde02c5443
+
+MediaWiki is adopting a modern JavaScript framework: Vue.js
+https://phabricator.wikimedia.org/T241180
+
+Introducing Gretchen: Making Fetch Happen in TypeScript
+https://www.truework.com/blog/engineering/2020-03-04-introducing-gretchen/
+
+Seafox: self-hosted JavaScript parser written in Typescript
+https://github.com/KFlash/seafox
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

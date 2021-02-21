@@ -1,0 +1,26 @@
+TechPicks 19/08/2020 -
+
+DoppioJVM - a Java Virtual Machine written in 100% JavaScript
+https://plasma-umass.org/doppio-demo/
+
+A mostly complete guide to error handling in JavaScript
+https://www.valentinog.com/blog/error/
+
+ts-migrate: A Tool for Migrating to TypeScript at Scale
+https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc
+
+Denoify: Makes your node project compatible with Deno
+https://github.com/garronej/denoify
+
+What is the difference between _ and _ in the front-end development?
+https://thisthat.dev/
+
+Reverse Engineering GTA V's Stunt Jump System
+https://hackery.site/writing/gta-v-stunt-jumps/
+
+theheadless.dev - a free & open source knowledge base for Puppeteer and Playwright
+https://theheadless.dev
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

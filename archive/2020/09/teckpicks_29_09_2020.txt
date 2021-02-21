@@ -1,0 +1,38 @@
+TechPicks 29/09/2020 -
+
+How to get promoted
+https://defmacro.substack.com/p/how-to-get-promoted
+
+I was wrong. CRDTs are the future
+https://josephg.com/blog/crdts-are-the-future/
+
+5 TILs about Node.js Fundamentals from the Node.js Design Patterns Book
+https://dev.to/swyx/5-tils-about-node-js-fundamentals-from-the-node-js-design-patterns-book-4dh2
+
+ByteDance open-sourced IconPark on GitHub - Transform an SVG icon into multiple themes, and generate React icons, Vue icons, SVG icons
+https://github.com/bytedance/IconPark
+
+The Red Flags on Your Resume
+https://danicfilip.com/2020/red-flags-on-your-resume/
+
+A tale of two libcs
+https://drewdevault.com/2020/09/25/A-story-of-two-libcs.html
+
+The React Cheatsheet for 2020  (+ real-world examples)
+https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg
+
+Things I Was Wrong About: Types
+https://v5.chriskrycho.com/journal/things-i-was-wrong-about/1-types/
+
+Light colour schemes are better, based on science
+https://stitcher.io/blog/why-light-themes-are-better-according-to-science
+
+Don’t trust Cloudflare with your personal data
+https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/
+ 
+Most Technical debt is just bullshit
+https://louwrentius.com/most-technical-debt-is-just-bullshit.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,23 @@
+TechPicks 09/12/2020 -
+
+A new State of JS survey
+https://stateofjs.com/
+
+How did JavaScript’s console.log get its name?
+https://jshakespeare.com/javascript-console-log-etymology/
+
+How To Cope with Imposter Syndrome as a Developer
+https://thewholesome.dev/p/how-to-cope-with-imposter-syndrome
+
+CSS { In Real Life } | A Utility Class for Covering Elements
+https://css-irl.info/a-utility-class-for-covering-elements/
+
+There's Always More History
+https://www.hillelwayne.com/post/always-more-history/
+
+Exhaustiveness Checking with Mypy
+https://hakibenita.com/python-mypy-exhaustive-checking
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

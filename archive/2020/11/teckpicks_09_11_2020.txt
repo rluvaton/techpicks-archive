@@ -1,0 +1,26 @@
+TechPicks 09/11/2020 -
+
+Miki Stanger - Having Moment.js Replacements Is Not Enough
+https://dev.to/mimafogeus2/having-moment-js-replacements-is-not-enough-1cp4
+
+Problem Solving
+https://denvaar.github.io/articles/problem_solving_example.html
+
+The EC2 Cheat Sheet for Beginners
+https://www.stackchief.com/blog/Amazon%20EC2%20Tutorial
+
+The JavaScript Self-Profiling API
+https://addyosmani.com/blog/js-self-profiling/
+
+Standing on Our Own Two Feet - Let's Encrypt
+https://letsencrypt.org/2020/11/06/own-two-feet.html
+
+ A tiny CI system
+https://www.0chris.com/tiny-ci-system.html
+
+An Immutable Blog Application in PostgreSQL
+https://kevinmahoney.co.uk/articles/immutable-data/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

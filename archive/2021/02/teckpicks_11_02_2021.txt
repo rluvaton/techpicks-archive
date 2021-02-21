@@ -1,0 +1,32 @@
+TechPicks 11/02/2021 -
+
+LinkeDOM - A faster, ESModule friendly, and more readable alternative to JSDOM
+https://github.com/WebReflection/linkedom
+
+What Truthy and Falsy values are in Python and how to use them to write more Pythonic code + code examples
+https://mathspp.com/blog/pydonts/truthy-falsy-and-bool
+
+I don't want to do front-end anymore
+https://www.askonomm.com/blog/i-dont-want-to-do-frontend-anymore
+
+Stack Overflow Users Rejoice as Pattern Matching is Added to Python 3.10
+https://brennan.io/2021/02/09/so-python/
+
+DNS exfiltration of data: step-by-step simple guide
+https://hinty.io/devforth/dns-exfiltration-of-data-step-by-step-simple-guide/
+
+Timezone Bullshit
+https://blog.wesleyac.com/posts/timezone-bullshit
+
+Preparing to Issue 200 Million Certificates in 24 Hours - Let's Encrypt
+https://letsencrypt.org/2021/02/10/200m-certs-24hrs.html
+
+buneary: An easy-to-use CLI client for RabbitMQ
+https://github.com/dominikbraun/buneary
+
+Toolchains.net - A collection of toolchain resources
+https://www.toolchains.net/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

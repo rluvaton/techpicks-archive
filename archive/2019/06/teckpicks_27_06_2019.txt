@@ -1,0 +1,28 @@
+TechPicks 27/06/2019 -
+
+One simple trick to optimize React re-renders
+https://kentcdodds.com/blog/optimize-react-re-renders
+
+"AI Against Humanity: How I turned a Machine Learning experiment into an AI-driven browser game based on Cards Against Humanity"
+https://cpury.github.io/ai-against-humanity/
+
+The cost of JavaScript in 2019
+https://v8.dev/blog/cost-of-javascript-2019
+
+How Pattern Matching may clean up your JS control flow.
+https://www.dev6.com/Future_JS_The_Pattern_Matching_Proposal
+
+Why you should make sure your DNS records are kept up to date when using cloud providers
+https://arstechnica.com/information-technology/2019/06/security-firms-demonstrate-subdomain-hijack-exploit-vs-eaorigin/
+
+Elegant Error Handling With The JavaScript "Either" Monad
+https://jrsinclair.com/articles/2019/elegant-error-handling-with-the-js-either-monad/
+
+Advanced Webpack Setup: Step by Step from Scratch
+https://www.robinwieruch.de/webpack-advanced-setup-tutorial/
+
+Postman now supports GraphQL
+https://blog.graphqleditor.com/graphql-postman/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

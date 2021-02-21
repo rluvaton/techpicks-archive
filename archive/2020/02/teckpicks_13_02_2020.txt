@@ -1,0 +1,26 @@
+TechPicks 13/02/2020 -
+
+To Understand Concurrent React, Look Outside React: 3 Talks from Outside React
+https://www.swyx.io/writing/react-outside/
+
+Supercharge your command line experience: GitHub CLI is now in beta - The GitHub Blog
+https://github.blog/2020-02-12-supercharge-your-command-line-experience-github-cli-is-now-in-beta/
+
+Thinking With Autotracking: What Makes a Good Reactive System?
+https://www.pzuraq.com/thinking-with-autotracking-what-makes-a-good-reactive-system/
+
+A few math refresher concepts for developers
+https://medium.com/@sameer_haque/math-foundational-refresher-for-developers-348b48a00408
+
+Do You Solve Programming Problems or Complete Exercises? (The Difference Matters.)
+https://www.freecodecamp.org/news/do-you-solve-programming-problems-or-complete-exercises-the-difference-matters/
+
+Learn Python From The NSA: Now you can take NSA's free (scanned) course for beginners
+https://archive.org/details/comp3321/mode/2up/search/device
+
+Technical SEO: Learn the basics of what not to do from Mediums practices
+https://www.onely.com/blog/medium-lost-half-visibility/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

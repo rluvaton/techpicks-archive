@@ -1,0 +1,29 @@
+TechPicks 12/05/2019 -
+
+Introducing GitHub Package Registry
+https://github.blog/2019-05-10-introducing-github-package-registry/
+
+Stop shackling your data-scientists: tap into the dark side of ML / AI models
+https://www.rookout.com/stop-shackling-your-data-scientists-tap-into-the-dark-side-of-ml-ai-models/
+
+What if we could verify npm packages?
+https://hackernoon.com/what-if-we-could-verify-npm-packages-c2a319cff758
+
+Building a JavaScript guitar pedalboard
+https://www.trysmudford.com/blog/pedalboard/
+
+A guide to setting up Vim for JavaScript development
+https://freshman.tech/vim-javascript/
+
+GraphQL & Complex Client State: Why We Reached For Redux (But maybe didn’t have to)
+https://itnext.io/graphql-complex-client-state-why-we-reached-for-redux-804d767695c2
+
+Consulting or con-$ulting: A theory on how Hertz’s inexperience in buying software — combined with Accenture’s incompetence to deliver it — flushed $32M+ down the drain
+https://hackernoon.com/consulting-or-con-sulting-e5b7567bb6be
+
+Create CSS Toggle Switches
+https://www.danielkim.io/articles/create-css-toggle-switch
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

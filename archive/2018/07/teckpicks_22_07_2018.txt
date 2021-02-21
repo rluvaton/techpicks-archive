@@ -1,0 +1,74 @@
+TechPicks 22/07/2018 -
+
+Frontend and Computer Science for interview preparation
+https://yuchengkai.cn/docs/
+
+The future of WebAssembly - A look at upcoming features and proposals
+https://blog.scottlogic.com/2018/07/20/wasm-future.html
+
+Solving the ESM in NodeJS Odyssey. · GitHub
+https://gist.github.com/WebReflection/a4e026e78af45ede8d0f7498cab44f91
+
+What's Happening With the Pipeline (|>) Proposal?
+https://babeljs.io/blog/2018/07/19/whats-happening-with-the-pipeline-proposal
+
+Github Recommender
+https://github.getstream.io/
+
+CSS Gradient Playground
+https://v.redd.it/gyomzqavabb11
+
+Light the bulb - Responsive & Interactive CSS image
+https://codepen.io/fran-cesca/pen/vagJOL
+
+No, you're not bad at math
+http://creactiviti.com/2018/06/02/no-youre-not-bad-at-math/
+
+MySpace and the Coding Legacy it Left Behind
+https://news.codecademy.com/myspace-coding-legacy/
+
+Building a safe autocomplete operator in RxJS
+https://blog.strongbrew.io/building-a-safe-autocomplete-operator-with-rxjs/
+
+How to monitor NGINX
+https://monometric.io/article/how-to-monitor-nginx
+
+Fascinating illustration of Deep Learning and LiDAR perception in Self Driving Cars and other Autonomous Vehicles
+https://v.redd.it/v899qwd72cb11
+
+Imaginary problems, the root of bad software
+https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8
+
+Microsoft introduces the Python Language Server in Visual Studio Code
+https://sdtimes.com/msft/microsoft-introduces-the-python-language-server-in-visual-studio-code/
+
+SuperFast LAME - Technical details on multi-threaded MP3 encoding
+https://freac.org/developer-blog-mainmenu-9/14-freac/287-superfastlame
+
+Physics for Game Programmers: Continuous Collision
+https://youtu.be/7_nKOET6zwI
+
+Into the Borg – SSRF inside Google production network
+https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/
+
+The Value of Undefined Behavior
+https://nullprogram.com/blog/2018/07/20/
+
+LiveOverflow: Bugs that can happen by interaction between signed/unsigned integers
+https://www.youtube.com/watch?v=XrE-RfAYrzs
+
+1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond
+https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php?print=1
+
+The future of WebAssembly - A look at upcoming features and proposals
+https://blog.scottlogic.com/2018/07/20/wasm-future.html
+
+"Found a great step-by-step implementation for genetic algorithms"
+https://www.aitribune.com/article/2018071087
+
+Here's Why Your Static Website Needs HTTPS
+https://youtu.be/_BNIkw4Ao9w
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

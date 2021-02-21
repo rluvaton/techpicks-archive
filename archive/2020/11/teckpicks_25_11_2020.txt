@@ -1,0 +1,29 @@
+TechPicks 25/11/2020 -
+
+Etebase - An open source and end-to-end encrypted Firebase alternative
+https://www.etebase.com
+
+factbook.json 2020 Update - 260+ Public Domain (Free) World Country Profiles / Datasets (incl. Population, Internet Users, etc.)
+https://github.com/factbook/factbook.json
+
+Microsoft's best practices for fast-compiling TypeScript
+https://github.com/microsoft/TypeScript/wiki/Performance
+
+8-bit binary arithmetic using TS conditional types
+https://github.com/sinclairzx81/ts-8-bit
+
+Cover Your Tracks - See how trackers view your browser
+https://coveryourtracks.eff.org/
+
+An API is a user interface
+https://www.arp242.net/api-ux.html
+
+Python and fast HTTP clients -  Really thorough and useful comparison of  http modules (e.g. requests, aiohttp): how to use them, which are faster, and in what cases to use them
+https://julien.danjou.info/python-and-fast-http-clients/
+
+Lessons learned from managing a Kubernetes cluster for side projects
+https://armand1mm.medium.com/lessons-learned-from-managing-a-kubernetes-cluster-for-side-projects-780fbbacf36c
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

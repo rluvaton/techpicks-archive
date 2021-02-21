@@ -1,0 +1,32 @@
+TechPicks 05/09/2019 -
+
+Visual Studio Code August 2019
+https://code.visualstudio.com/updates/v1_38
+
+Why React - Sebastian Markbåge's response to Vue and Svelte
+https://gist.github.com/sebmarkbage/a5ef436427437a98408672108df01919
+
+YouTube channel about the daily grind of OS development (C++)
+https://www.youtube.com/c/AndreasKling/
+
+Minecraft now releases obfuscation maps for easier modding
+https://www.minecraft.net/en-us/article/minecraft-snapshot-19w36a
+
+It's Not Just You: Software Has Gotten Far More Expensive - The Software Inflation Rate From 2009 to 2019
+https://capiche.com/p/software-inflation-rate
+
+Chromium passes 1M filed bugs
+https://bugs.chromium.org/p/chromium/issues/detail?id=1000000
+
+CSS Grid Is Not a Replacement for Flexbox
+https://www.robertcooper.me/grid-does-not-replace-flexbox
+
+A Static Compiler for TypeScript
+https://www.microsoft.com/en-us/research/publication/static-typescript/
+
+Draft PR to add nominal typing in TypeScript
+https://github.com/microsoft/TypeScript/pull/33038
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

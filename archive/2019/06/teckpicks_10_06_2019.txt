@@ -1,0 +1,59 @@
+TechPicks 10/06/2019 -
+
+How Privileged Are Programmers? Are You a John, Too?
+https://www.sitepoint.com/how-privileged-are-programmers-are-you-a-john-too/
+
+New on GitHub - Generate new repositories with repository templates
+https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/
+
+What is a coder's worst nightmare?
+https://www.quora.com/What-is-a-coders-worst-nightmare/answer/Mick-Stute
+
+7 absolute truths I unlearned as junior developer
+https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/
+
+Write HTML Like It's 1999
+https://bradleytaunt.com/2019/06/08/html-like-1999/
+
+I didn’t get paid, so I open sourced my clients project
+https://github.com/TrillCyborg/onefraction
+
+AdTech Sucks
+https://lockwood.dev/advertising/2019/06/07/adtech-sucks.html
+
+Programmer's Proverbs
+https://github.com/AntJanus/programmers-proverbs
+
+Angular - It’s time for the compatibility opt-in preview of Ivy
+https://blog.angular.io/its-time-for-the-compatibility-opt-in-preview-of-ivy-38f3542a282f
+
+Breaking the physical limits of fonts
+https://github.com/graphitemaster/breaking_the_physical_limits_of_fonts/blob/master/README.md
+
+Beautifully simple click-to-copy CSS effects
+https://cssfx.dev/
+
+Micromodal - Tiny JavaScript library for creating accessible modal dialogs
+https://micromodal.now.sh/
+
+Use Google Sheets as your no-hassle database
+https://github.com/SteinHQ/Stein
+
+14 Patterns to Ace Any Coding Interview Question
+https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+
+To Have A Future, Ember Must Kill Its Past
+http://andrewcallahan.com/to-have-a-future-ember-must-kill-its-past/
+
+Top level await has made it to stage 3 of tc39
+https://github.com/tc39/proposal-top-level-await
+
+Twitter is rejecting posts containing JSFiddle URLs
+https://github.com/jsfiddle/jsfiddle-issues/issues/1417
+
+CSS Grid Level 2 – subgrid is coming to Firefox
+https://hacks.mozilla.org/2019/06/css-grid-level-2-subgrid-is-coming-to-firefox/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

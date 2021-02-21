@@ -1,0 +1,35 @@
+TechPicks 04/10/2020 -
+
+The Hitchhiker’s Guide to Compression - A beginner’s guide to lossless data compression
+https://go-compression.github.io/
+
+The How (and Why) of User Flows
+https://learnuxd.io/posts/the-how-and-why-of-user-flows/
+
+MobX 6 has been released (decorator free and supports CRA out of the box)
+https://michel.codes/blogs/mobx6
+
+Unicode support. What does that actually mean?
+https://boyter.org/posts/unicode-support-what-does-that-actually-mean/
+
+The key points of "The Legacy Code Programmer's Toolbox"
+https://understandlegacycode.com/blog/key-points-of-legacy-code-programmer-toolbox/
+
+Running GitHub Actions for Certain Commit Messages
+https://ryangjchandler.co.uk/articles/running-github-actions-for-certain-commit-messages
+
+The failed criticism of Web Components
+https://medium.com/swlh/the-failed-criticism-of-web-components-ee94380f3552
+
+DigitalOcean's Hacktoberfest is Hurting Open Source
+https://blog.domenic.me/hacktoberfest/
+
+Shared commitment to reducing spam with Hacktoberfest
+https://hacktoberfest.digitalocean.com/hacktoberfest-update
+
+Chrome DevTools 87 now supports CSS grid debugging
+https://twitter.com/ChromeDevTools/status/1311678505751543809?s=20
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

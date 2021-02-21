@@ -1,0 +1,29 @@
+TechPicks 18/12/2018 -
+
+Stop Learning Frameworks
+https://sizovs.net/2018/12/17/stop-learning-frameworks/
+
+JavaScript traits: the clean way to modify global prototypes
+https://medium.com/@peoro/straits-9ef2b9a563cd
+
+Sandspiel – A falling sand game built in Rust and WebGL
+https://sandspiel.club/
+
+DevTools tips — day 6: the Command Menu
+https://medium.com/@tomsu/449eb3966d9
+
+Why we use CSS-in-JS - the story of our journey as an answer to the debates lately
+https://link.medium.com/H7eqHSdDIS
+
+The Consequences of Your Code | Tom Scott
+https://www.youtube.com/watch?v=LZM9YdO_QKk
+
+A JavaScript scratchpad that auto-evaluates as you type
+https://projects.lukehaas.me/runjs/
+
+Why isn't it <style src="">? @ CSS-Tricks
+https://css-tricks.com/why-isnt-it-style-src/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

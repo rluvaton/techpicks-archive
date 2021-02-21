@@ -1,0 +1,45 @@
+TechPicks 15/11/2020 -
+
+I sold VSCode Stories
+https://www.youtube.com/watch?v=CHO316LKnZw
+
+Meet Harold — CLI tool for comparing bundles in size (and feeling the pain)
+https://dev.to/igoradamenko/meet-harold-cli-tool-for-comparing-bundles-in-size-and-feeling-the-pain-23nn
+
+Warp: Improved JS performance in Firefox 83
+https://hacks.mozilla.org/2020/11/warp-improved-js-performance-in-firefox-83/
+
+What's New In DevTools (Chrome 88)
+https://developers.google.com/web/updates/2020/11/devtools
+
+Version 11 of Angular Now Available
+https://blog.angular.io/version-11-of-angular-now-available-74721b7952f7
+
+Docketeer: An easy-to-use GUI for Docker that allows developers to manage Docker containers and monitor crucial metrics
+https://github.com/open-source-labs/Docketeer
+
+PrettyErrors, a module to format exception reports
+https://github.com/onelivesleft/PrettyErrors
+
+The “Clash of Styles” Series – FP vs. OOP as a Daily Choice
+https://vkontech.com/the-clash-of-styles-series-fp-vs-oop-as-a-daily-choice/
+
+The Widening Responsibility for Front-End Developers
+https://css-tricks.com/the-widening-responsibility-for-front-end-developers/
+
+Why an IDE?
+https://matklad.github.io//2020/11/11/yde.html
+
+Does Apple really log every app you run? A technical look
+https://blog.jacopo.io/en/post/apple-ocsp/
+
+Going Bark: A Furry’s Guide to End-to-End Encryption
+https://soatok.blog/2020/11/14/going-bark-a-furrys-guide-to-end-to-end-encryption/
+
+Features of a Modern Terminal Emulator
+https://www.youtube.com/watch?v=9DgQqDnYNyQ
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
+Follow me - https://twitter.com/__tkore__

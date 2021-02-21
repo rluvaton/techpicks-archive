@@ -1,0 +1,35 @@
+TechPicks 30/07/2020 -
+
+Stop Abusing Semver
+https://samver.org/
+
+Hiring Without Whiteboards - Companies that don't have a broken hiring process
+https://github.com/poteto/hiring-without-whiteboards
+
+Let's build a Full-Text Search engine
+https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/
+
+A tiny (~400 B) & modern library for keybindings
+https://github.com/jamiebuilds/tinykeys
+
+Proposing a new funding model for open source
+https://vriad.com/essays/a-new-funding-model-for-open-source
+
+moment-guess - A utility package for guessing a date's format
+https://github.com/apoorv-mishra/moment-guess
+
+Polymorphism in JavaScript
+https://zellwk.com/blog/polymorphism-javascript/
+
+Some awesome CSS3 loaders and spinners
+https://vineethtrv.github.io/loader/
+
+Stroke Text CSS: 📕 The Definitive Guide
+http://www.coding-dude.com/wp/css/css-stroke-text/
+
+Zoom Security Exploit – Cracking private meeting passwords
+https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,53 @@
+TechPicks 21/08/2018 -
+
+Learn how to design large-scale systems
+https://github.com/donnemartin/system-design-primer
+
+🔥 Blazingly Fast Console.log in VSCode 🔥
+https://www.youtube.com/watch?v=QbHHhLVcXNM
+
+10 Things You Will Eventually Learn About JavaScript Projects
+https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a
+
+“Let's learn about Set and its unique functionality in JavaScript 🎲”
+https://medium.freecodecamp.org/lets-learn-about-set-and-its-unique-functionality-in-javascript-5654c5c03de2
+
+“Why Every Software Engineer Should Write Articles”
+https://medium.freecodecamp.org/why-every-software-engineer-should-write-articles-f35bdae72d1b
+
+“A quick introduction to web security”
+https://medium.freecodecamp.org/a-quick-introduction-to-web-security-f90beaf4dd41
+
+Why high-performers don’t use to-do lists
+https://medium.com/swlh/why-high-performers-dont-use-to-do-lists-5d298045444d
+
+Introduction to Self-Organizing Maps
+https://rubikscode.net/2018/08/20/introduction-to-self-organizing-maps/
+
+Everything you need to know about the native lazy load in Chrome
+http://hangaroundtheweb.com/2018/08/everything-you-need-to-know-about-the-native-lazy-load-in-chrome/
+
+Building Battleship in CSS
+https://css-tricks.com/building-battleship-in-css/
+
+Pure CSS: Night Stroll
+https://codepen.io/kylewetton/pen/yqWMOP
+
+Windows 2000 emulated in WebAssembly
+https://bellard.org/jslinux/vm.html?url=https://bellard.org/jslinux/win2k.cfg&mem=192&graphic=1&w=1024&h=768
+
+Node.js Foundation - More Than A Billion Downloads of Node.js
+https://medium.com/@nodejs/more-than-a-billion-downloads-of-node-js-952a8a98eb42
+
+Docker cannot be downloaded without logging into Docker Store
+https://github.com/docker/docker.github.io/issues/6910
+
+Exactly what to say when recruiters ask you to name the first number
+http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/
+
+The Five Stages of YAML
+https://brokenco.de/2018/08/15/five-stages-of-yaml.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

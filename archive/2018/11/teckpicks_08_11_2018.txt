@@ -1,0 +1,26 @@
+TechPicks 08/11/2018 -
+
+The Console API is a lot richer than a lot of people seem to realise
+https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8
+
+A good developer says NO
+https://medium.com/datadriveninvestor/a-good-developer-says-no-f10a88c33553
+
+GitHub - enquirer/enquirer: Stylish, intuitive and user-friendly prompt system.
+https://github.com/enquirer/enquirer#enquirer
+
+tink FAQ: A Package Unwinder for JavaScript, by the npm CLI team
+https://npm.community/t/tink-faq-what-is-this-thing-even/3191
+
+GitHub now allows you to permanently delete issues
+https://twitter.com/github/status/1060233780114288640
+
+"I created a bot that talks to recruiters for me"
+https://dev.to/whokilledkevin/how-i-created-a-bot-that-talked-to-recruiters-for-me-54n5
+
+Computerphile - To infinity and beyond (Data Structures)
+https://youtu.be/bnRNiE_OVWA
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

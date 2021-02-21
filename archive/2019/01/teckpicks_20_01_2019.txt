@@ -1,0 +1,29 @@
+TechPicks 20/01/2019 -
+
+Aaron Swartz (late founder of Reddit): How to be more productive
+http://www.aaronsw.com/weblog/productivity
+
+Let's talk JS ⚡: Web APIs
+https://areknawo.com/lets-talk-js-web-apis/
+
+a small ES6 Proxy utility to mock Date without monkey patching the globals
+https://github.com/capaj/proxy-date#readme
+
+Nokia composer retro ringtone player - using the Web Audio API
+https://codepen.io/mog13/pen/WYRJQJ
+
+Handling Time Zone in JavaScript
+https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d
+
+Beautiful theme/template for jsdoc generated documentation
+https://github.com/SoftwareBrothers/better-docs
+
+GitHub - tylerbuchea/graphqless: REST and GraphQL really aren't that different.
+https://github.com/tylerbuchea/graphqless
+
+How Well Do You Know CSS Layout?
+https://css-tricks.com/how-well-do-you-know-css-layout/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

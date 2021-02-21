@@ -1,0 +1,32 @@
+TechPicks 23/06/2020 -
+
+New GitHub App automates resolving merge conflicts (JavaScript only)
+https://blogs.grammatech.com/mergeresolver-automatic-merge-conflict-resolution
+
+Secure Book: free private note-taking open-source web app
+https://github.com/securebook/securebook.github.io
+
+Watchtower: Monitor, notify, and update your containers.
+https://github.com/jakowenko/watchtower
+
+Let them paste passwords
+https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords
+
+What is Zig's "Colorblind" Async/Await?
+https://kristoff.it/blog/zig-colorblind-async-await/
+
+What happens when you update your DNS
+https://jvns.ca/blog/how-updating-dns-works/
+
+If you mock, are you even testing?
+https://understandlegacycode.com/blog/if-you-mock-are-you-even-testing/
+
+Combining observables and iterables into a single concept
+https://staltz.com/why-we-need-callbags.html
+
+Safari will officially support extensions created with the WebExtensions API in macOS 10.16
+https://www.apple.com/newsroom/2020/06/apple-introduces-macos-big-sur-with-a-beautiful-new-design/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,35 @@
+TechPicks 21/03/2019 -
+
+Adding Search to Your Site with JavaScript
+https://davidwalsh.name/adding-search-to-your-site-with-javascript
+
+Build Structured Web Socket Applications with Hexnut
+https://medium.com/@FrancisStokes/build-structured-web-socket-backends-in-node-with-hexnut-1d505c9c30b0
+
+Killed by Google
+https://killedbygoogle.com/
+
+HTML has as much as 5 different tags to preload something. Here’s a deep-dive into all of them
+https://3perf.com/blog/link-rels/
+
+No more tears, handling Forms in React using Formik, part I
+https://medium.com/@noringc/55f1400a75ba
+
+The Definitive Guide to Web Scraping with Node.js & Puppeteer
+https://learnscraping.com/nodejs-web-scraping-with-puppeteer/
+
+A complete guide to threads in Node.js
+https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f
+
+Learn CSS Flexbox with Interactive Playground
+https://medium.com/@alex.permyakov/learn-css-flexbox-with-interactive-playground-17bcf6aeb4b4
+
+Designing An Aspect Ratio Unit For CSS
+https://www.smashingmagazine.com/2019/03/aspect-ratio-unit-css/
+
+Practical functional patterns for async flow control with Puppeteer
+https://github.com/agaricide/puppeteer-functional-patterns/blob/master/ts/puppeteer-functional-patterns.md
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

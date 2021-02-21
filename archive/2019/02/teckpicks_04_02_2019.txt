@@ -1,0 +1,32 @@
+TechPicks 04/02/2019 -
+
+Math For Programmers
+https://steve-yegge.blogspot.com/2006/03/math-for-programmers.html
+
+React-Redux Roadmap: v6, Context, Subscriptions, and Hooks
+https://github.com/reduxjs/react-redux/issues/1177
+
+Let’s make this game with JavaScript — Part II
+https://medium.com/@davisonpro/lets-make-this-game-with-javascript-part-ii-48e44dca5e67
+
+Morellet crosses with JavaScript
+https://maxhalford.github.io/blog/morellet-crosses-with-javascript/
+
+Currying in JS: Answering the traditional interview question - Add(2)(3) and beyond
+http://theanubhav.com/2019/02/03/js-currying-in-interview/
+
+Objective code quality
+https://www.sep.com/sep-blog/2017/04/25/objective-code-quality-blog-series/
+
+Making setInterval Play Well with React Hooks
+https://overreacted.io/making-setinterval-play-well-with-react-hooks/
+
+"How I used CloudFlare to reduce API response time to < 100ms"
+https://coffeencoding.com/how-i-used-cloudflare-to-reduce-api-response-time/
+
+The Myth of evil ‘for loops’ and ‘try-catch blocks’ in JavaScript
+https://medium.com/@jonathangrosdubois/the-myth-of-evil-for-loops-and-try-catch-blocks-in-javascript-8601860295c1
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

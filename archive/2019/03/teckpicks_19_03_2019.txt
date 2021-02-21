@@ -1,0 +1,29 @@
+TechPicks 19/03/2019 -
+
+JavaScript functions visualized
+https://poet.codes/e/9YgdQVVD7Ip/frame/900px/515px
+
+Project Checklist - A checklist for successful projects
+https://github.com/amilajack/project-checklist
+
+Building objects progressively with the builder pattern in JavaScript
+https://enmascript.com/articles/2019/03/18/building-objects-progressively-with-the-builder-pattern-in-javascript
+
+How to Use Sass and Styled Components in a React Application
+https://www.iamtimsmith.com/blog/how-to-use-styles-in-a-react-js-application/
+
+Node.js Readable streams distilled
+http://micromind.me/posts/nodejs-readable-streams-distilled/
+
+How to convince your team to adopt CSS Grid
+https://css-irl.info/how-to-convince-your-team-to-adopt-grid/
+
+Grid by Example - Everything you need to learn CSS Grid Layout
+https://gridbyexample.com/
+
+A couple good GraphQL practices
+https://blog.graphqleditor.com/Five-mistakes-to-avoid-when-getting-started-with-GraphQL/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

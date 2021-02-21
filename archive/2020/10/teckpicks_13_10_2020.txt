@@ -1,0 +1,35 @@
+TechPicks 13/10/2020 -
+
+No, Microsoft is not rebasing Windows to Linux
+https://boxofcables.dev/no-microsoft-is-not-rebasing-windows-to-linux/
+
+World smallest office suite
+https://zserge.com/posts/awfice/
+
+Pure CSS Character
+https://github.com/cyanharlow/purecss-character
+
+A Complete Guide To TypeScript Decorator
+https://saul-mirone.github.io/a-complete-guide-to-typescript-decorator/
+
+Advice to my young self: to succeed in your career, forget side projects and focus on your job
+https://manuel.darcemont.fr/posts/focus-on-jour-job/
+
+Basic Concepts in Unity for Software Engineers
+https://blog.eyas.sh/2020/10/unity-for-engineers-pt1-basic-concepts/
+
+Bidding Farewell to Software Engineering
+http://www.cdahmedeh.net/blog/2020/10/2/bidding-farewell-to-software-engineering
+
+The Semantics of Semantic Versioning?
+https://whileydave.com/2020/09/24/the-semantics-of-semantic-versioning/
+
+GPT-3 Bot Posed as a Human on AskReddit for a Week
+https://www.kmeme.com/2020/10/gpt-3-bot-went-undetected-askreddit-for.html
+
+Please stop using CDNs for external JavaScript libraries
+https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

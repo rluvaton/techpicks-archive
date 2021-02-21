@@ -1,0 +1,26 @@
+TechPicks 15/09/2019 -
+
+Writing Testable Code
+https://medium.com/feedzaitech/writing-testable-code-b3201d4538eb
+
+Are you making your website vulnerable or compromising the performance by adding target="_blank"?
+https://gosink.in/are-you-making-website-vulnerable-target-blank-or-performance/
+
+A lighter V8
+https://v8.dev/blog/v8-lite
+
+ProtoGraphQL - Build, Visualize and Test your new GraphQL implementation. All before writing your first line of code.
+http://www.protographql.com/
+
+Wildcard is a JavaScript library to create an API between your Node.js server and your frontend
+https://github.com/reframejs/wildcard-api#readme
+
+Using GitHub Actions for CI with Node.js
+http://www.thedreaming.org/2019/09/10/github-ci/
+
+Why Dark Gray is Brighter than Gray In CSS
+https://medium.com/commitlog/why-dark-gray-is-brighter-than-gray-in-css-138c59ae51c3
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

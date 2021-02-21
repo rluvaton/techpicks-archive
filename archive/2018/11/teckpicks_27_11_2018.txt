@@ -1,0 +1,26 @@
+TechPicks 27/11/2018 -
+
+"I don't know what to say."– Backdoor in popular event-stream NPM repo (github.com)
+https://github.com/dominictarr/event-stream/issues/116
+
+Snyk - Malicious code found in npm package event-stream downloaded 8 million times in the past 2.5 months
+https://snyk.io/blog/malicious-code-found-in-npm-package-event-stream
+
+Popular Open-Source Project Storybook is Being Commercially Hijacked
+https://medium.com/protecting-storybooks-future/storybook-is-being-commercially-hijacked-463524825fbc
+
+Announcing native support for the CSS prop in styled-components 🎉
+https://medium.com/styled-components/announcing-native-support-for-the-css-prop-in-styled-components-245ca5252feb
+
+DEVSENSE steals and sells open-source IDE extension; gives developer "Friendly reminder" that "reverse engineering is a violation of license terms".
+https://twitter.com/felixfbecker/status/1067117685375422464
+
+Cyber Monday 2018 Deals thread!
+https://www.reddit.com/r/reactjs/comments/a0mpgy/cyber_monday_2018_deals_thread/
+
+Idiomatic Redux: The History and Implementation of React-Redux
+https://blog.isquaredsoftware.com/2018/11/react-redux-history-implementation/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

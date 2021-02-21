@@ -1,0 +1,38 @@
+TechPicks 04/12/2019 -
+
+How well do you know JavaScript Promises? Find out in 9 Questions
+https://danlevy.net/javascript-promises-quiz/
+
+Introducing React View, an Interactive Playground for Your Components
+https://baseweb.design/blog/introducing-react-view/
+
+Two malicious Python libraries caught stealing SSH and GPG keys
+https://www.zdnet.com/article/two-malicious-python-libraries-removed-from-pypi/
+
+Selection sort visualization
+https://reddit.com/r/programming/comments/e5md13/selection_sort_visualization/
+
+How to Secure your Frontend JavaScript Code Against Vulnerabilities and Attacks
+https://it.toolbox.com/blogs/manjunathmatathamana/how-to-secure-your-frontend-javascript-code-against-vulnerabilities-and-attacks-030119
+
+JavaScript Christmas: Removing duplicates from an array
+https://javascript.christmas/2019/3
+
+Animated CSS Background Generator
+https://vincentwill.com/resources/animated-css-background-generator
+
+24 Days of Functional Programming
+https://functional.christmas/
+
+Twelve Days of Front End Testing
+https://24ways.org/2019/twelve-days-of-front-end-testing/
+
+Sinkholed - A DNS Horror Story: How I Lost My Domain Name Under a ccTLD and Then Regained It
+https://susam.in/blog/sinkholed/
+
+Natural language processing for Node.js
+https://blog.logrocket.com/natural-language-processing-for-node-js/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

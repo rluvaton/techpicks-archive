@@ -1,0 +1,35 @@
+TechPicks 04/02/2021 -
+
+Eytan Manor - An architectural overview for Web RTC: A protocol for implementing video conferencing
+https://eytanmanor.medium.com/an-architectural-overview-for-web-rtc-a-protocol-for-implementing-video-conferencing-e2a914628d0e
+
+How to write readable code
+http://jeremymikkola.com/posts/2021_02_02_how_to_write_readable_code.html
+
+Untrusted - a user JavaScript adventure game
+https://alexnisnevich.github.io/untrusted/
+
+Things You Can Do With CSS Today
+https://www.smashingmagazine.com/2021/02/things-you-can-do-with-css-today/
+
+Drawbacks of developing in containers
+https://ntietz.com/tech-blog/drawbacks-of-developing-in-containers/
+
+Why I Still Use RSS
+https://atthis.link/blog/2021/rss.html
+
+fzf - the basics part 1 - layout
+https://qmacro.org/autodidactics/2021/02/02/fzf-the-basics-1-layout/
+
+Homebrew Python Is Not For You
+https://justinmayer.com/posts/homebrew-python-is-not-for-you/
+
+What's new in PHP 8.1
+https://stitcher.io/blog/new-in-php-81
+
+Why I chose this tech stack
+https://www.spakhm.com/p/tech-stack
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

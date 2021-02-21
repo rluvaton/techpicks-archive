@@ -1,0 +1,53 @@
+TechPicks 11/07/2018 -
+
+JavaScript ES6 — You don’t really need to learn Generators (but you should read this anyway...)
+https://medium.com/@_bengarrison/javascript-es6-you-dont-really-need-to-learn-generators-96aa2e9114fa
+
+Building a Node.js interactive CLI
+https://medium.com/@hugooodias/building-a-node-js-interactive-cli-3cb80ed76c86
+
+The Extensive Guide to Creating Streams in RxJS
+https://blog.angularindepth.com/the-extensive-guide-to-creating-streams-in-rxjs-aaa02baaff9a
+
+Simple, no dependency and powerful state mananegement replacement with Async Generators
+https://medium.com/dailyjs/async-generators-as-an-alternative-to-state-management-f9871390ffca
+
+You need to understand Big O notation, now.
+https://hackernoon.com/you-need-to-understand-big-o-notation-now-4ada3d2ec93a
+
+15 HTML element methods you’ve potentially never heard of
+https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a?token=56i42rVtcgoy1KqV
+
+Falsehoods Programmers Believe About Hiring
+https://shubhamjain.co/2018/06/07/falsehoods-programmers-believe-about-hiring/
+
+How to Autoprefixer to polyfill CSS Grid Layout in IE 10-11
+https://css-tricks.com/css-grid-in-ie-css-grid-and-the-new-autoprefixer/
+
+Web Apps: Turning Website Into Mobile App – Your Four Best Options
+https://hackernoon.com/web-apps-turn-website-into-mobile-app-your-four-best-options-78fcb2277be8
+
+CDN explained. Why, when and how to use it for your website
+https://medium.com/pixboost/cdn-explained-why-when-and-how-to-use-it-for-your-website-7d360a93cc04?source=collection_home---6------0----------------
+
+Delivering WordPress in 7KB
+https://css-tricks.com/delivering-wordpress-in-7kb/
+
+New data viz project illustrates 12 common mistakes people make when visualizing data
+https://i.redd.it/zk8lfs919z811.jpg
+
+The CSS Paint API
+https://css-tricks.com/the-css-paint-api/
+
+Goodbye Microservices: From 100s of problem children to 1 superstar
+https://segment.com/blog/goodbye-microservices/
+
+vim.wasm: Vim Ported to WebAssembly
+https://github.com/rhysd/vim.wasm
+
+"How I was planning a trip to South America with JavaScript, Python and Google Flights abuse"
+https://nvbn.github.io/2018/07/10/trip-planner/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

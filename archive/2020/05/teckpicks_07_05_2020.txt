@@ -1,0 +1,29 @@
+TechPicks 07/05/2020 -
+
+Working with GitHub Issues in Visual Studio Code
+https://code.visualstudio.com/blogs/2020/05/06/github-issues-integration
+
+Brad Traversy - Design Resources For Developers
+https://github.com/bradtraversy/design-resources-for-developers
+
+No cookie consent walls - and no, scrolling isn’t consent, says EU data protection body
+https://techcrunch.com/2020/05/06/no-cookie-consent-walls-and-no-scrolling-isnt-consent-says-eu-data-protection-body/
+
+New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more
+https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/
+
+How Our Stack Evolved in 10 Years
+https://nodejs-open-source-research.s3.eu-central-1.amazonaws.com/the-stack-evolution.htm
+
+Driving engineers to an arbitrary date is a value destroying mistake
+https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49
+
+Using Yarn v2 workspace, Docker Compose and Visual Studio Code to facilitate development of JavaScript monorepos
+https://www.huy.dev/yarn-v2-workspace-docker-vs-code-2020-03-23/
+
+CSS Tips for New Devs
+https://amberwilson.co.uk/blog/css-tips-for-new-devs/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

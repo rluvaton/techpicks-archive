@@ -1,0 +1,26 @@
+TechPicks 03/06/2020 -
+
+Djitsu: The Problem with Web Development, and What to Do About It
+https://medium.com/@danielblank/djitsu-the-problem-with-web-development-and-what-to-do-about-it-2c1925b0c2b1
+
+New in Firefox 77: DevTool improvements and web platform updates
+https://hacks.mozilla.org/2020/06/new-in-firefox-77-devtool-improvements-and-web-platform-updates/
+
+Understanding Programs Using Graphs
+https://engineering.shopify.com/blogs/engineering/understanding-programs-using-graphs
+
+Five common mistakes writing React components (with hooks) in 2020
+https://www.lorenzweiss.de/common_mistakes_react_hooks/
+
+A Guide to the Responsive Images Syntax in HTML
+https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/
+
+The Math Behind Support Vector Machines
+https://www.byteofmath.com/the-math-behind-support-vector-machines/
+
+Learn about four CSS combinators
+https://twitter.com/frontenddude/status/1267752978963980294
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

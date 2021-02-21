@@ -1,0 +1,32 @@
+TechPicks 24/02/2020 -
+
+Gal Schlezinger - Typing the Technical Interview in TypeScript: solve an interview with no runtime code
+https://gal.hagever.com/posts/typing-the-technical-interview-in-typescript/
+
+Draw needlessly complex diagrams in the console with cli-diagram
+https://github.com/Lakitna/cli-diagram
+
+Top Free Programming Books for Front-End Developers
+https://booksoncode.com/articles/free-programming-books-for-front-end-developers
+
+JavaScript Interview Questions: Common Gotchas
+https://alligator.io/js/gotchas/
+
+Streams for Reactive Programming
+https://dassur.ma/things/streams-for-reactive-programming/
+
+OkCupid Presents "Glow-Up: Bringing a Teenaged Website into the Modern World of SPA"
+https://tech.okcupid.com/glow-up-bringing-a-teenaged-website-into-the-modern-world-of-spa/
+
+Creational Patterns in ES6+ using Game of Thrones
+https://www.hackdoor.io/articles/9YJbK2Nn/creational-patterns-in-es6-using-game-of-thrones
+
+Node.js Security Deep Dive
+https://www.andreigaspar.com/nodejs-security-deep-dive/
+
+StormDB - Tiny (< 1kb), 0 dependency, easy-to-use JSON-based database for Node.js, the browser or Electron
+https://github.com/tomprograms/stormdb
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

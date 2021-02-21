@@ -1,0 +1,29 @@
+TechPicks 14/01/2021 -
+
+2020 game - The game about the mad year 2020
+https://2020game.io/
+
+Get Ready For ESM
+https://blog.sindresorhus.com/get-ready-for-esm-aa53530b3f77
+
+A megacorp is not your dream job
+https://drewdevault.com/2021/01/01/Megacorps-are-not-your-dream-job.html
+
+The worst pieces of code I've ever seen
+https://www.jesuisundev.com/en/the-worst-pieces-of-code/
+
+tmpsms - a temporary SMS utility right from your terminal
+https://github.com/sdushantha/tmpsms
+
+Express Architecture Review - Everything is a Layer
+https://alexkondov.com/express-architecture-review/
+
+Building TakeNote, a Notes App for Developers With GitHub Sync
+https://www.taniarascia.com/building-takenote/
+
+Snowpack v3.0 - released
+https://www.snowpack.dev/posts/2021-01-13-snowpack-3-0
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

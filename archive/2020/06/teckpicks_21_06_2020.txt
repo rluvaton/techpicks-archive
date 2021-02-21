@@ -1,0 +1,29 @@
+TechPicks 21/06/2020 -
+
+GitHub releases Super-Linter - a combination of multiple linters to install as a GitHub Action
+https://github.com/github/super-linter
+
+19 Zero-Day Vulnerabilities Amplified by the Supply Chain
+https://www.jsof-tech.com/ripple20/
+
+Snipsnap - VS Code extension that automatically exposes all available snippets for every library you are using in your project
+https://github.com/snipsnapdev/snipsnap
+
+Cracking BattlEye packet encryption 
+https://secret.club/2020/06/19/battleye-packet-encryption.html
+
+Scaling to 100k Users
+https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html
+
+Hardcoded secrets, unverified tokens, and other common JWT mistakes
+https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/
+
+Learn Z-Index Using a Visualization Tool
+https://thirumanikandan.com/posts/learn-z-index-using-a-visualization-tool
+
+The Kubernetes Goat designed to be intentionally vulnerable cluster environment to learn and practice Kubernetes security
+https://github.com/madhuakula/kubernetes-goat
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

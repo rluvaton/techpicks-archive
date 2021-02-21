@@ -1,0 +1,31 @@
+TechPicks 03/07/2019 -
+
+C# or Java? TypeScript or JavaScript? Machine learning based classification of programming languages
+https://github.blog/2019-07-02-c-or-java-typescript-or-javascript-machine-learning-based-classification-of-programming-languages/
+
+The Pragmatic Programmer, 20th Anniversary Edition: Your Journey to Mastery
+https://pragprog.com/news/coming-soon-the-pragmatic-programmer-20th-anniversary-edition-in-beta
+
+Cloudflare outage caused by bad deploy
+https://blog.cloudflare.com/cloudflare-outage/
+
+"I'm Making AlgoDaily Free"
+https://algodaily.com/lessons/i-m-making-algodaily-free
+
+The Best Book to Read as a Developer
+https://dev.to/taillogs/the-best-book-to-read-as-a-developer-1h4m
+
+CSS Custom Properties In The Cascade
+https://www.smashingmagazine.com/2019/07/css-custom-properties-cascade/
+
+D as a C Replacement ~ The Art of Machinery
+https://theartofmachinery.com/2019/04/05/d_as_c_replacement.html
+
+A library built for ES6 iteration protocol
+https://labs42io.github.io/itiriri
+
+The meaning of union and intersection types
+https://codewithstyle.info/The-meaning-of-union-and-intersection-types/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

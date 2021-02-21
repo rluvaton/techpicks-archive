@@ -1,0 +1,23 @@
+TechPicks 06/04/2020 -
+
+Lea Verou - LCH colors in CSS: what, why, and how?
+http://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/
+
+Deploy your first Serverless Function to Kubernetes
+https://medium.com/@alexellisuk/deploy-your-first-serverless-function-to-kubernetes-232307f7b0a9
+
+Stanford University's Computer Science department is holding a unique live class called 'Code in Place' - a free course to learn Python
+https://compedu.stanford.edu/codeinplace/announcement
+
+Crafting Interpreters - A handbook for making programming languages
+http://craftinginterpreters.com/
+
+How GOV.UK Notify reliably sends text messages to users
+https://gds.blog.gov.uk/2020/04/03/how-gov-uk-notify-reliably-sends-text-messages-to-users/
+
+Negative margins in CSS
+https://www.quirksmode.org/blog/archives/2020/02/negative_margin.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

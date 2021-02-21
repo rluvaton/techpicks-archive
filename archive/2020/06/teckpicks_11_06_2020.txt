@@ -1,0 +1,23 @@
+TechPicks 11/06/2020 -
+
+Visual Studio Code May 2020
+https://code.visualstudio.com/updates/v1_46
+
+The History of the URL
+https://blog.cloudflare.com/the-history-of-the-url/
+
+stegcloak: Hide secrets with invisible characters in plain text securely using passwords
+https://github.com/KuroLabs/stegcloak
+
+Visualizing bubble sort in 5 minutes using HTML5 canvas API
+https://dev.to/galelmalah/visualizing-bubble-sort-in-5-minutes-using-html5-canvas-api-422d
+
+Rehawk — A React audio library powered by Howler.js
+https://github.com/leonardomso/rehawk
+
+Grid For Layout, Flexbox For Components
+https://ishadeed.com/article/grid-layout-flexbox-components/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

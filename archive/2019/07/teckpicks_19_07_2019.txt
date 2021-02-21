@@ -1,0 +1,47 @@
+TechPicks 19/07/2019 -
+
+Higher-order functions map(), filter() and reduce() explained using animation.
+https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47
+
+Things All Developers Should Learn In College
+https://dev.to/taillogs/what-developers-should-actually-learn-in-college-2nen
+
+"What not to do as a programmer - my list after 2 years of working in teams"
+https://dev.to/haseebelaahi/what-not-to-do-as-a-programmer-my-list-after-2-years-of-working-with-teams-1b23
+
+Angular Platforms in depth. Part 3. Rendering Angular applications in Terminal
+https://blog.angularindepth.com/angular-platforms-in-depth-part-3-rendering-angular-applications-in-terminal-117e4da9c0cc
+
+Private browsing still detectable in Chrome 76, bypassing the protection
+http://mishravikas.com/articles/2019-07/bypassing-anti-incognito-detection-google-chrome.html
+
+A new chapter for npm
+https://blog.npmjs.org/post/186378984340/a-new-chapter-for-npm
+
+What's wrong with Promise.allSettled() and Promise.any()❓
+https://dev.to/vitalets/what-s-wrong-with-promise-allsettled-and-promise-any-5e6o
+
+How I made search engine & social media bots render my front-end React Web Application
+https://medium.com/@kavinduwijesuriya/how-i-made-search-engine-social-media-bots-render-my-front-end-react-web-application-f3438b073224
+
+Handy guide to HTTP Security Headers
+https://nullsweep.com/http-security-headers-a-complete-guide/
+
+Twitter: How using component-based design helps us build faster
+https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/buildingfasterwithcomponents.html
+
+Essential JavaScript patterns (pt1)
+https://itnext.io/essential-javascript-patterns-pt1-f59a0e3c912e
+
+Error Handling Middleware in Express - Mastering JS
+https://masteringjs.io/tutorials/express/error-handling
+
+Type Yoga: Typing Flexible Functions with TypeScript's Advanced Features
+https://medium.com/@jamesscottmcnamara/type-yoga-typing-flexible-functions-with-typescripts-advanced-features-b5a282878b74
+
+Create An Advanced CLI — With TypeScript
+https://medium.com/@jeroenouw/create-your-own-advanced-cli-with-typescript-5868ae3df397
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

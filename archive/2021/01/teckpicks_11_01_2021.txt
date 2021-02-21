@@ -1,0 +1,23 @@
+TechPicks 11/01/2021 -
+
+The code behind Quake's movement tricks explained (bunny-hopping, wall-running, and zig-zagging)
+https://www.youtube.com/watch?v=v3zT3Z5apaM
+
+How I stole the data in millions of people’s Google accounts
+https://ethanblake4.medium.com/how-i-stole-the-data-in-millions-of-peoples-google-accounts-aa1b72dcc075
+
+The Architecture of Open Source Applications: LLVM
+http://www.aosabook.org/en/llvm.html
+
+Build Your Own Text Editor
+https://viewsourcecode.org/snaptoken/kilo/
+
+Advanced Promise Patterns: Promise Memoization
+https://www.jonmellman.com/posts/promise-memoization
+
+VSCode Notion - View Notion documents directly in Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=frenco.vscode-notion
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

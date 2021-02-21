@@ -1,0 +1,32 @@
+TechPicks 28/01/2019 -
+
+Gal Schlezinger - fnm - 🚀 Fast and simple Node.js version manager, built in ReasonML
+https://github.com/Schniz/fnm
+
+Elad Shechter - CSS Position Sticky - How It Really Works
+https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46
+
+First look at Deno, the JavaScript/TypeScript run-time based on top of V8
+https://43081j.com/2019/01/first-look-at-deno
+
+Yarn V2 and beyond
+https://github.com/yarnpkg/yarn/issues/6953
+
+Future JavaScript: what is still missing?
+http://2ality.com/2019/01/future-js.html
+
+How to write a plugin for Prettier
+https://medium.com/@fvictorio/how-to-write-a-plugin-for-prettier-a0d98c845e70
+
+Data Structures with Iterable Protocol
+https://medium.com/smelly-code/data-structures-with-iterable-protocol-3f506c9547e4
+
+typescript-is: Run-Time Type Checks for TypeScript
+https://github.com/woutervh-/typescript-is
+
+Jen Simmons - Everything You Know About Web Design Just Changed
+https://www.youtube.com/watch?v=4O2FSuLkTSc
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

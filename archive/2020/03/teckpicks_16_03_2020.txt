@@ -1,0 +1,26 @@
+TechPicks 16/03/2020 -
+
+Reducing load time by converting .gif files to .mp4 (or .webm) and using them inside the <video> tag
+https://perf.reviews/blog/video-en-la-web/en/
+
+The Complete Guide to Status Codes for Meaningful ReST APIs
+https://dev.to/khaosdoctor/the-complete-guide-to-status-codes-for-meaningful-rest-apis-1-5c5
+
+Lessons learned from optimizing a uniquely challenging search UI
+https://levelup.gitconnected.com/secrets-of-javascript-a-tale-of-react-performance-optimization-and-multi-threading-9409332d349f
+
+The Evolution Of Version Control System (VCS) Internals
+https://initialcommit.io/blog/Technical-Guide-VCS-Internals
+
+The most surprising Unix programs
+https://minnie.tuhs.org/pipermail/tuhs/2020-March/020664.html
+
+A sneaky attempt to end encryption is worming its way through Congress
+https://www.theverge.com/interface/2020/3/12/21174815/earn-it-act-encryption-killer-lindsay-graham-match-group
+
+You can get my DevOps books free the rest of this month
+https://www.jeffgeerling.com/blog/2020/you-can-get-my-devops-books-free-rest-month
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

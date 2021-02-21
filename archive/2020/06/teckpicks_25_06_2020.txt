@@ -1,0 +1,29 @@
+TechPicks 25/06/2020 -
+
+Announcing Perl 7
+https://www.perl.com/article/announcing-perl-7/
+
+The Perl 7 tl;dr
+http://blogs.perl.org/users/brian_d_foy/2020/06/the-perl-7-tldr.html
+
+Slack's now using the Electron Sandbox
+https://slack.engineering/the-app-sandbox-94178f77e5e3
+
+An in-depth beginner's guide to testing React applications
+https://jkettmann.com/beginners-guide-to-testing-react/
+
+Client-Side Architecture Basics
+https://khalilstemmler.com/articles/client-side-architecture/introduction
+
+Staring Into the COM Abyss
+https://cmpct.info/~calvin/Articles/COMAbyss/
+
+Search 'n find fonts used by world brands
+https://www.fontinlogo.com/
+
+Elevator.js
+http://tholman.com/elevator.js/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

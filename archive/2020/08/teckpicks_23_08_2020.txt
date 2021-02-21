@@ -1,0 +1,23 @@
+TechPicks 23/08/2020 -
+
+Blockchain, the amazing solution for almost nothing
+https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/86649455475-f933fe63
+
+Debug Visualizer v2.0: Visual Watch Window For VS Code
+https://github.com/hediet/vscode-debug-visualizer/blob/master/extension/README.md
+
+The Anti-Capitalist Software License
+https://anticapitalist.software/
+
+A clean start for the web
+https://macwright.com/2020/08/22/clean-starts-for-the-web.html
+
+What's the Deal with Message Passing, Anyway
+https://buttondown.email/hillelwayne/archive/whats-the-deal-with-message-passing-anyway/
+
+SpaceVim release v1.5.0
+https://spacevim.org/SpaceVim-release-v1.5.0/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

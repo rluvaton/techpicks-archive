@@ -1,0 +1,41 @@
+TechPicks 15/05/2019 -
+
+It's 2019 and a WhatsApp call can hack a phone: Zero-day exploit infects mobes with spyware
+https://www.theregister.co.uk/2019/05/14/whatsapp_zero_day/
+
+Senior Developers are Getting Rejected for Jobs
+https://glenmccallum.com/2019/05/14/senior-developers-rejected-jobs/
+
+8 great reads for aspiring JavaScript devs
+https://dev.to/jerodsanto/8-great-reads-for-aspiring-javascript-devs-3bpa
+
+SJS — slowest JSON serializer in the galaxy
+https://github.com/lucagez/slow-json-stringify
+
+Blueprint - A React-based UI toolkit for the web
+https://blueprintjs.com/
+
+Ola.js, a library for smooth realtime number interpolation
+https://github.com/franciscop/ola/
+
+ReacType: Prototyping Tool for exporting React/Typescript Applications!
+https://github.com/team-reactype/ReacType
+
+Reakit, the accessible UI toolkit for React
+https://reakit.io
+
+Splash CLIi: Beautiful wallpapers from Unsplash
+https://github.com/splash-cli/splash-cli
+
+Firefox 68 will support -webkit-line-clamp
+https://bugzilla.mozilla.org/show_bug.cgi?id=866102
+
+A Pure CSS OnClick Context Menu
+https://www.simonewebdesign.it/pure-css-onclick-context-menu/
+
+Grids All The Way Down by Rachel Andrew
+https://noti.st/rachelandrew/18ISdU/grids-all-the-way-down
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

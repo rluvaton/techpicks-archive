@@ -1,0 +1,29 @@
+TechPicks 24/06/2020 -
+
+ESbuild JavaScript Bundler Claims 10-100x Faster Bundling Time
+https://www.infoq.com/news/2020/06/esbuild-faster-go-js-bundler/
+
+The physics behind spring animations
+https://blog.maximeheckel.com/posts/the-physics-behind-spring-animations
+
+Building a hexagonal grid using CSS grid
+https://ninjarockstar.dev/css-hex-grids/
+
+Software patents are another kind of disease
+https://www.fsf.org/blogs/licensing/software-patents-are-another-kind-of-disease
+
+Lighthouse Syndrome
+https://arunoda.me/blog/lighthouse-syndrome
+
+New Engineers: Start With Web Development
+https://medium.com/better-programming/new-engineers-start-with-web-development-c813862e243b
+
+Safari 14 adds WebP image support and no longer supports Flash
+https://developer.apple.com/documentation/safari-release-notes/safari-14-beta-release-notes
+
+List of tools you can use for checking vulnerabilities in Node.js
+https://www.freecodecamp.org/news/6-tools-you-can-use-to-check-for-vulnerabilities-in-node-js/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

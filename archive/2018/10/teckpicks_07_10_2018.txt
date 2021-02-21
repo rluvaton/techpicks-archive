@@ -1,0 +1,29 @@
+TechPicks 07/10/2018 -
+
+Idle Until Urgent: how to run code that can be delayed (like analytics) with the smallest performance penalties
+https://philipwalton.com/articles/idle-until-urgent/
+
+Color harmony generator
+https://codepen.io/meodai/full/RerqjG/
+
+Microsoft Open Sources Parts of Minecraft: Java Edition
+https://minecraft.net/en-us/article/programmers-play-minecrafts-inner-workings
+
+Fixing a bug in an 18 year old Shockwave game
+https://mattbruv.github.io/ccsr-bugfix/
+
+Advanced techniques to implement fast hash tables
+https://attractivechaos.wordpress.com/2018/10/01/advanced-techniques-to-implement-fast-hash-tables/
+
+StackExchange is moving to .NET Core
+https://meta.stackexchange.com/q/316278
+
+Announcing the new GitHub and Jira Software integration
+https://blog.github.com/2018-10-04-announcing-the-new-github-and-jira-software-cloud-integration/
+
+"Meet R3-14, My Personal Assistant"
+https://medium.com/@thesanjeetc/https-medium-com-thesanjeetc-meet-r3-14-my-personal-assistant-e22bee7fc47d
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

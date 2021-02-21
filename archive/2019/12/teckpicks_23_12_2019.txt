@@ -1,0 +1,41 @@
+TechPicks 23/12/2019 -
+
+Twelve Million Phones, One Dataset, Zero Privacy
+https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html
+
+7 insights from the State of JS 2019
+https://changelog.com/posts/7-insights-from-the-state-of-js-2019
+
+Understanding JavaScript Decorators
+https://www.simplethread.com/understanding-js-decorators/
+
+A case for using `void` in modern JavaScript
+https://gist.github.com/slikts/dee3702357765dda3d484d8888d3029e
+
+The modern web is becoming an unusable, user-hostile wasteland
+https://omarabid.com/the-modern-web
+
+What Is JavaScript Made Of?
+https://overreacted.io/what-is-javascript-made-of/
+
+Why npm lockfiles can be a security blindspot in GitHub PRs for injecting malicious modules
+https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/
+
+Structure and Interpretation of Computer Programs – JavaScript Adaptation
+https://sicp.comp.nus.edu.sg/
+
+Why you should remove Disqus from your site
+https://markosaric.com/remove-disqus/
+
+How to start a Node.js project
+https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/
+
+How to Architect a NodeJs Project from Ground Up
+https://blog.soshace.com/how-to-architect-a-node-js-project-from-ground-up/
+
+TSConf 2019 Videos
+https://www.youtube.com/playlist?list=PL2z7rCjEG2kumYQw0tl-afLYWUk-kKREB
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

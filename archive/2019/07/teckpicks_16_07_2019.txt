@@ -1,0 +1,38 @@
+TechPicks 16/07/2019 -
+
+Moveable! Draggable! Resizable! Scalable! Rotatable!
+https://github.com/daybrush/moveable
+
+Is postMessage slow?
+https://dassur.ma/things/is-postmessage-slow/
+
+The "Dont Be a Dick" Public License
+https://dbad-license.org/
+
+Efficient behavioral tracking in JavaScript
+https://enmascript.com/articles/2019/07/15/efficient-behavioral-tracking-in-javascript-applications
+
+The unreasonable difficulty of adding a feature to a Textarea
+https://swizec.com/blog/the-unreasonable-difficulty-of-adding-a-feature-to-a-textarea/swizec/9155
+
+What is HTTP 2 and should I care?
+https://roush.io/posts/http2/
+
+MDN (beta) is now built with React
+https://beta.developer.mozilla.org/en-US/
+
+Popup Trombone
+https://matthewrayfield.com/goodies/popup-trombone/
+
+Smashtest - New Node.js-based language for describing test cases
+https://smashtest.io
+
+The Complete Guide To SCSS/SASS
+https://medium.com/@js_tut/the-complete-guide-to-scss-sass-49ac053fcde5
+
+TIL: overflow: hidden only hides elements going over the padding-box
+https://www.stefanjudis.com/today-i-learned/overflow-hidden-hides-elements-going-over-the-padding-box/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

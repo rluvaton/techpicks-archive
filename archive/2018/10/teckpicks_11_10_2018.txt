@@ -1,0 +1,29 @@
+TechPicks 11/10/2018 -
+
+The Serverless Debugging Guide
+https://www.rookout.com/wp-content/uploads/2018/10/The-Serverless-Debugging-Guide.pdf
+
+Google Drive Electron - A cross-platform desktop app for Google Drive
+https://github.com/alexkim205/Google-Drive-Electron
+
+Lambdas as Lambdas: The magic of simple serverless Functions in JavaScript
+https://blog.pulumi.com/lambdas-as-lambdas-the-magic-of-simple-serverless-functions
+
+mLab is becoming a part of MongoDB, Inc.
+https://blog.mlab.com/2018/10/mlab-is-becoming-a-part-of-mongodb-inc/
+
+Amazon scraps secret AI recruiting tool that showed bias against women
+https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G
+
+Microsoft brings portfolio of over 60,000 issued patents to Open Invention Network to help protect Linux and open source
+https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/
+
+The hacker's guide to uncertainty estimates
+https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html
+
+Code of ethics doesn't influence decisions of software developers
+https://techxplore.com/news/2018-10-code-ethics-doesnt-decisions-software.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

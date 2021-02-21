@@ -1,0 +1,35 @@
+TechPicks 12/06/2019 -
+
+What is 'this'? The Inner Workings of JavaScript Objects
+https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a
+
+Private Browsing Undetectable in Chrome 76
+https://twitter.com/paul_irish/status/1138471166115368960
+
+The 80/20 Guide to JavaScript Arrays
+http://thecodebarbarian.com/the-80-20-guide-to-javascript-arrays.html
+
+Making Tables Responsive With Minimal CSS
+https://bradleytaunt.com/2019/06/11/responsive-tables/
+
+The perils of functional CSS (atomic CSS)
+https://www.browserlondon.com/blog/2019/06/10/functional-css-perils/
+
+Top 20 CSS Buttons (+ animations)
+https://dev.to/webdeasy/top-20-css-buttons-animations-f41
+
+A Practical Intro to Test Driven Development
+https://hackernoon.com/practical-tdd-test-driven-development-84a32044ed0b
+
+Feature Flags and Test-Driven Design: Some Practical Tips
+https://hackernoon.com/feature-flags-and-test-driven-design-practical-tips-ed7d76445a29
+
+I picked up React Native as a web developer and here's what I've learned
+https://dev.to/walaura/i-picked-up-react-native-as-a-web-developer-and-here-s-what-i-ve-learned-59h6
+
+The fine art of fast development
+https://hackernoon.com/the-fine-art-of-fast-development-f3b1abb509da
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

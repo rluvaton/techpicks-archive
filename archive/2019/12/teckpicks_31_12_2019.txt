@@ -1,0 +1,32 @@
+TechPicks 31/12/2019 -
+
+Complex SQL query builder
+https://github.com/olegnn/sql-template-builder
+
+React Remains Top UI Library - A Recap of Frontend Development in 2019
+https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2019-1e7d07966d6c
+
+Looking at All 13 JavaScript Proxy Traps ← Alligator.io
+https://alligator.io/js/proxy-traps/
+
+Programming Interviews Are Toxic
+https://medium.com/@TiltedListener/programming-interviews-are-toxic-582ceac5d93a
+
+Common Javascript Promise mistakes every beginner should know and avoid
+https://gosink.in/common-javascript-promise-mistakes-beginners/
+
+Mesh Spreadsheet
+http://mesh-spreadsheet.com/
+
+Generating a Color Schema as a Developer
+https://www.kevinpeters.net/generating-color-schemas-as-developer-a-simple-guide/
+
+Monitoring Node.js: Watch Your Event Loop Lag
+https://davidhettler.net/blog/event-loop-lag/
+
+An instructive how to on writing CSS media queries
+https://medium.com//an-instructive-how-to-on-writing-css-media-queries-ab7c3c44b02e
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

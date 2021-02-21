@@ -1,0 +1,32 @@
+TechPicks 19/07/2020 -
+
+Twitter: An update on our security incident
+https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html
+
+Tal Koren - A Window of Opportunity: How windowing saved our data table
+https://www.rookout.com/blog/a-window-of-opportunity-how-windowing-saved-our-data-table
+
+Puppeteer Recorder - a Chrome extension that records your browser interactions and generates a Puppeteer script
+https://github.com/checkly/puppeteer-recorder
+
+CSS Vocabulary
+http://apps.workflower.fi/vocabs/css/en
+
+Flexbox cheatsheet
+http://apps.workflower.fi/css-cheats/?name=flexbox
+
+On FOSS as a capitalism-like structure
+https://medium.com/@cassolotl/on-foss-as-a-capitalism-like-structure-baf89973c6a1
+
+WebRTC JavaScript Library for Audio+Video+Screen+Canvas Recording
+https://recordrtc.org/
+
+"Things I Wish I’d Known About CSS"
+https://cssfordesigners.com/articles/things-i-wish-id-known-about-css
+
+CSS Cheat Sheet
+https://i.redd.it/snyt55xr7jb51.jpg
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,23 @@
+TechPicks 30/01/2020 -
+
+Tal Wexler - CI and Testing: Should developers do their own QA?
+https://medium.com/@talweksler/ci-and-testing-7e7e3fd8c4d9
+
+CesiumJS - an open source JavaScript library for creating world-class 3D globes and maps with the best possible performance, precision, visual quality, and ease of use
+https://cesium.com/cesiumjs/
+
+JavaScript component-level CPU costs
+https://calendar.perfplanet.com/2019/javascript-component-level-cpu-costs/
+
+Vanilla Web Projects - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+https://github.com/bradtraversy/vanillawebprojects
+
+Leaked Documents Expose the Secretive Market for Your Web Browsing Data
+https://www.vice.com/en_us/article/qjdkq7/avast-antivirus-sells-user-browsing-data-investigation
+
+US court fully legalized website scraping and technically prohibited it
+https://parsers.me/us-court-fully-legalized-website-scraping-and-technically-prohibited-it/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

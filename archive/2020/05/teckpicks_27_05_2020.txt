@@ -1,0 +1,26 @@
+TechPicks 27/05/2020 -
+
+Sublime Merge 2 - Features and Flexibility - News - Sublime HQ
+https://www.sublimetext.com/blog/articles/sublime-merge-2-announcement
+
+AWS services explained in one line each
+https://adayinthelifeof.nl/2020/05/20/aws.html
+
+Improve your web typography with a few solid tips
+https://kartikn.me/writing/improve-web-typography
+
+How to secure your web applications (Part 1)
+https://medium.com/@geeostan8/how-to-secure-your-web-applications-part-1-cpas-3-715b72973623
+
+Effective TypeScript - Know How to Iterate Over Objects
+https://effectivetypescript.com/2020/05/26/iterate-objects/
+
+Kubernetes for Data Science: meet Kubeflow
+https://ubuntu.com/blog/kubernetes-for-data-science-meet-kubeflow
+
+Continuous GitOps, the way to do DevOps in Kubernetes
+https://medium.com/@imarunrk/continuous-gitops-the-way-to-do-devops-in-kubernetes-896b0ea1d0fb
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

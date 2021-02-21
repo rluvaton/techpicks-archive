@@ -1,0 +1,17 @@
+TechPicks 08/10/2019 -
+
+Lodash FP usage retrospective
+https://codingwithjs.rocks/blog/lodash-fp-usage-retrospective
+
+JavaScript & currying: why not
+https://thesquarewheel.netlify.com/javascript-currying-why-not/
+
+Supreme Court allows blind people to sue retailers if their websites are not accessible
+https://www.latimes.com/politics/story/2019-10-07/blind-person-dominos-ada-supreme-court-disabled
+
+The pointlessness of daily standups
+https://codethrasher.com/post/2019-10-06-the-pointlessness-of-daily-standups/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

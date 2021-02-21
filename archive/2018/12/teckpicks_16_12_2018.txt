@@ -1,0 +1,26 @@
+TechPicks 16/12/2018 -
+
+Best ways of documenting your JS code
+https://areknawo.com/lets-talk-js-documentation/
+
+Pampy.js: Pattern Matching for JavaScript
+https://github.com/santinic/pampy.js
+
+Writing JavaScript With Only Six Characters
+https://javascript.christmas/2018/14
+
+ECMAScript - A Taste from ES2019 (ES10)
+https://nitayneeman.com/posts/a-taste-from-ecmascript-2019/
+
+Use these Javascript features to make your code more readable
+https://medium.com/cleversonder/use-these-javascript-features-to-make-your-code-more-readable-ec3930827226
+
+Keep Math in the CSS
+https://css-tricks.com/keep-math-in-the-css/
+
+How does Shazam work
+http://coding-geek.com/how-shazam-works/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

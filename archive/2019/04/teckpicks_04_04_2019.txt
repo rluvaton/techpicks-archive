@@ -1,0 +1,32 @@
+TechPicks 04/04/2019 -
+
+Functional Programming with JavaScript in 3 Steps
+https://medium.com/@alexnault/functional-programming-with-javascript-in-3-steps-f282934947e5
+
+I Used The Web For A Day On Internet Explorer 8
+https://www.smashingmagazine.com/2019/03/web-on-internet-explorer-ie8/
+
+Gimli - a Visual Studio Code extension enabling smart visual tools for front-end developers
+https://gimli.app/
+
+I asked 14 developers how they got their first remote job
+https://remotecorgi.com/i-asked-developers-how-they-got-their-first-remote-job/
+
+Only ~50% of Bootcamp Grads With No Prior Industry Experience Find Work After Graduation
+https://insights.dice.com/2018/03/14/bootcamp-grads-trouble-finding-work/
+
+Google AMP lowered our page speed, and there's no choice but to use it
+https://unlikekinds.com/article/google-amp-page-speed
+
+NPM request package goes into maintenance mode. Time to migrate!
+https://github.com/request/request/issues/3142
+
+Peer-to-Peer Network Access Point Trough Tor
+https://github.com/z-ninja/p2pnap
+
+The Dark Side of the Grid
+https://noti.st/matuzo/1wroTC/the-dark-side-of-the-grid
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

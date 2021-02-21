@@ -1,0 +1,35 @@
+TechPicks 28/07/2019 -
+
+GitHub starts blocking developers in countries facing US trade sanctions
+https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions/
+
+Object Assignment vs. Primitive Assignment in JavaScript for Beginners
+https://nick.scialli.me/object-assignment-for-beginners/
+
+Unrevealed tips for unit testing with Jest
+https://goodguydaniel.com/blog/tips-jest-unit-testing/
+
+JavaScript Proxy with Storage
+https://davidwalsh.name/javascript-proxy-with-storage
+
+How I'm writing JavaScript Serverless services these days
+https://ewanvalentine.io/how-im-writing-lambda-services-these-days/
+
+Every time Donald Trump tweets, this thing dispenses an ibuprofen pill
+https://youtu.be/4CdQNXgSAhc
+
+Teach Yourself Programming in Ten Years
+https://norvig.com/21-days.html
+
+A chat. In the console. A console chat.
+https://console.chat/
+
+The Hidden Costs of Automated Thinking - Overreliance on AI may put us in intellectual debt
+https://www.newyorker.com/tech/annals-of-technology/the-hidden-costs-of-automated-thinking
+
+Dissecting A Dweet: Ring Weave ~ a 140 byte javascript animation
+http://frankforce.com/?p=6597
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

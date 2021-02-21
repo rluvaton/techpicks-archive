@@ -1,0 +1,32 @@
+TechPicks 07/01/2019 -
+
+"Why I'll be moving my JS blogs away from Medium"
+https://www.joshjahans.com/ditching-medium/
+
+JavaScript Context — this keyword
+https://medium.com/@ideepak.jsd/javascript-context-this-keyword-9a78a19d5786
+
+Public APIs - And interface to find APIs and add projects
+https://public-apis.xyz/
+
+Timeline showing who've been the biggest players on the web over last 2 decades
+https://www.visualcapitalist.com/20-internet-giants-rule-web/
+
+Learning to Code? Get Off the Tutorial Treadmill!
+https://medium.com/@aryanjabbari/learning-to-code-get-off-the-tutorial-treadmill-5a56a564bb04
+
+phin is the now most lightweight full-featured Node HTTP client
+https://twitter.com/ethanent/status/1082027257525198854
+
+10 Tools To Power Up Your Command Line
+https://dev.to/_darrenburns/10-tools-to-power-up-your-command-line-4id4
+
+Dependency-free TypeScript setup
+https://github.com/aleph-naught2tog/ts_without_dependencies/blob/master/README.md
+
+10ish Teeny-Tiny Resolutions To Become A Better Developer In 2019
+https://dev.to/antjanus/10ish-teeny-tiny-resolutions-to-become-a-better-developer-in-2019-54f5
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,26 @@
+TechPicks 28/01/2020 -
+
+Why Did You Render v4 - TypeScript support, tracking of custom hooks, tracking of all pure components
+https://medium.com/welldone-software/why-did-you-render-v4-released-48e0f0b99d4c
+
+Inversion of Control - A simple principle that can drastically improve your reusable code
+https://kentcdodds.com/blog/inversion-of-control/
+
+JavaScript libraries are almost never updated once installed
+https://blog.cloudflare.com/javascript-libraries-are-almost-never-updated/
+
+How to add tests on existing code when you have short deadlines
+https://understandlegacycode.com/blog/3-steps-to-add-tests-on-existing-code-when-you-have-short-deadlines
+
+Writing testable React components with hooks.
+https://medium.com/@Charles_Stover/writing-testable-react-components-with-hooks-23441ee582d5
+
+The Good, the Bad and the Ugly Standup
+https://kristoff.it/blog/good-bad-ugly-standup/
+
+Three Terms in Software That We Should Consider Retiring
+https://morethancoding.com/2020/01/27/three-terms-in-software-that-we-should-consider-retiring/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

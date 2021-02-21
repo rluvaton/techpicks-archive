@@ -1,0 +1,29 @@
+TechPicks 21/01/2019 -
+
+How Should You Start Learning Programming?
+https://deeplearningio.com/how-should-you-start-learning-programming/
+
+Free timesheet application for organizations
+https://github.com/harishanchu/workplace
+
+React Native's new architecture, new Hooks alpha, a React PWA & more
+https://reddit.com/r/reactjs/comments/ai2n5n/react_natives_new_architecture_new_hooks_alpha_a/
+
+Programming Fonts
+http://app.programmingfonts.org/
+
+Double exposure depth experiment, made by Cody Lindsay Gordon. CSS3 mix-blend-mode, mark-image, parallax, deviceorientation
+https://clg.name/dede/
+
+The Internals of PostgreSQL : Introduction
+http://www.interdb.jp/pg/index.html
+
+Troy Hunt: 10 Personal Finance Lessons for Technology Professionals
+https://www.troyhunt.com/10-personal-finance-lessons-for-technology-professionals/
+
+Designing Headers for HTTP Compression
+https://www.mnot.net/blog/2018/11/27/header_compression
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

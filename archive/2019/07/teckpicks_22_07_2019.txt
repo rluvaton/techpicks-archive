@@ -1,0 +1,32 @@
+TechPicks 22/07/2019 -
+
+Dan Abramov - Algebraic Effects for the Rest of Us
+https://overreacted.io/algebraic-effects-for-the-rest-of-us/
+
+React code splitting made simple. Easily reduce bundle.js
+https://blog.nicco.io/2019/07/21/react-code-splitting-made-simple-easily-reduce-bundle-js/
+
+"In hopes of a better understanding of how developers are dealing with their security responsibilities, we polled over 600 software developers to create this developers security report."
+https://www.whitesourcesoftware.com/developers-security-report/
+
+Git commit best practices
+https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99
+
+Browsers are pretty good at loading pages, it turns out
+https://carter.sande.duodecima.technology/javascript-page-navigation/
+
+Floyd: A GraphQL backend framework with first-class Typescript support.
+https://github.com/floyd-framework/cli
+
+How is it like to be a dev in Iran
+https://shahinsorkh.ir/2019/07/20/how-is-it-like-to-be-a-dev-in-iran
+
+Fsyncgate: errors on fsync are unrecovarable
+https://danluu.com/fsyncgate/
+
+Long Names Are Long
+http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

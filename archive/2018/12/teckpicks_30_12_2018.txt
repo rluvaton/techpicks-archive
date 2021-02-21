@@ -1,0 +1,26 @@
+TechPicks 30/12/2018 -
+
+Dan Abramov - Things I Don’t Know as of 2018
+https://overreacted.io/things-i-dont-know-as-of-2018/
+
+Dan Abramov - Preparing for a Tech Talk, Part 1: Motivation
+https://overreacted.io/preparing-for-tech-talk-part-1-motivation/
+
+GitHub - jonatasbaldin/awesome-awesome-awesome: Awesome list of repositories of awesome lists 🤷‍♀
+https://github.com/jonatasbaldin/awesome-awesome-awesome
+
+Happy New Year fireworks: 60 lines of pure JS code - easy tutorial
+http://slicker.me/javascript/fireworks.htm
+
+A complete beginner's guide to Redux
+https://medium.freecodecamp.org/a-beginners-guide-to-redux-9f652cbdc519
+
+Windows file access performance compared to Linux
+https://github.com/Microsoft/WSL/issues/873#issuecomment-425272829
+
+Introducing NodeSecurity - The easiest way to control what npm modules can access
+https://github.com/matthaywardwebdesign/node-security
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

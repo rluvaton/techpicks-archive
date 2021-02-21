@@ -1,0 +1,29 @@
+TechPicks 01/11/2018 -
+
+An alternative (declarative) Design for React Hooks
+https://paulgray.net/an-alternative-design-for-hooks/
+
+Ervy - Bring charts to terminal.
+https://github.com/chunqiuyiyu/ervy
+
+Migrating away from Google Maps and cutting costs by 99%
+https://www.eventsofa.de/campus/migrating-away-from-google-maps-and-cutting-costs-by-99/
+
+Create your own dysfunctional single-page app in five easy steps
+https://tinnedfruit.com/articles/create-your-own-dysfunctional-single-page-app.html
+
+Atom understands your code better than ever before
+https://blog.github.com/2018-10-31-atoms-new-parsing-system/
+
+JavaScript wrapper for the Chromecast SDK
+https://github.com/Fenny/ChromecastJS
+
+Three Sales Mistakes Software Engineers Make
+https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make
+
+"My somewhat complete salary history as a software engineer"
+https://humanwhocodes.com/blog/2018/10/my-somewhat-complete-salary-history-software-engineer/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,26 @@
+TechPicks 10/09/2020 -
+
+IdeasAI - GPT-3-powered business idea generator
+https://ideasai.net/
+
+An Introduction to Reusable Components and how to create a Typography Component
+https://dev.to/nghiemthu/an-introduction-about-reusable-components-and-creating-typography-component-4c6o
+
+Chrome DevTools engineering blog - Architecture refresh: Migrating to JavaScript modules
+https://developers.google.com/web/updates/2020/09/migrating-to-js-modules
+
+An Executable Data Structures Cheat Sheet for Interviews
+https://algodaily.com/lessons/an-executable-data-structures-cheat-sheet?view=article
+
+Decision table patterns
+https://www.hillelwayne.com/post/decision-table-patterns/
+
+Security by Obscurity is Underrated
+https://utkusen.com/blog/security-by-obscurity-is-underrated.html
+
+What No Fan Has Seen Before: Remastering Deep Space Nine to Maximum Quality
+https://www.extremetech.com/extreme/314653-remastering-deep-space-nine
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

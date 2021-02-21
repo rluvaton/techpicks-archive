@@ -1,0 +1,29 @@
+TechPicks 10/04/2019 -
+
+Ran Lottem - Generic type guard in Typescript
+https://dev.to/krumpet/generic-type-guard-in-typescript-258l
+
+Stack Overflow Developer Survey 2019
+https://insights.stackoverflow.com/survey/2019
+
+React-Redux v7 final released: faster, and built with hooks
+https://github.com/reduxjs/react-redux/releases/tag/v7.0.1
+
+[Talk] Deno, a new way to JavaScript (Ryan Dahl, JS Fest 2019 Spring)
+https://www.youtube.com/watch?v=z6JRlx5NC9E
+
+How to Stand Out in a Python Coding Interview
+https://realpython.com/python-coding-interview-tips/
+
+Power of SSH Tunneling
+https://medium.com/tarkalabs/power-of-ssh-tunneling-cf82bc56da67
+
+Monotype launches the first redesign in 35 years of the world's most ubiquitous font, Helvetica
+https://www.creativeboom.com/resources/monotype-launches-the-first-redesign-in-35-years-of-the-worlds-most-ubiquitous-font-helvetica/
+
+Simple Tips for PostgreSQL Query Optimization
+https://cube.dev/blog/postgresql-query-optimization/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

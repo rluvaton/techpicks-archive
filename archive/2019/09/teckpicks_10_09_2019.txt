@@ -1,0 +1,32 @@
+TechPicks 10/09/2019 -
+
+SOLID Front End: Less about frameworks, more about engineering patterns
+https://medium.com/@alshdavid/solid-front-end-less-frameworks-more-engineering-patterns-31b8f25135a
+
+Everything I googled in a week as a professional software engineer
+https://localghost.dev/2019/09/everything-i-googled-in-a-week-as-a-professional-software-engineer/
+
+The Art of Googling
+https://dev.to/lauragift21/the-art-of-googling-4c04
+
+Dumb Password Rules - Shaming sites with dumb password rules
+https://github.com/dumb-password-rules/dumb-password-rules
+
+The Ultimate Guide to handling JWTs on frontend clients (GraphQL)
+https://blog.hasura.io/best-practices-of-using-jwt-with-graphql
+
+Caniuse and MDN compatibility data collaboration
+https://hacks.mozilla.org/2019/09/caniuse-and-mdn-compat-data-collaboration/
+
+CSS3 3D library: css-camera
+https://woodneck.github.io/css-camera/
+
+img:not([alt])
+https://twitter.com/FrontEndFilip/status/1166776838875701248
+
+How to learn D3.js
+https://wattenberger.com/blog/d3
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

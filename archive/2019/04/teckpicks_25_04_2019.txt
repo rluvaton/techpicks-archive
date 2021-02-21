@@ -1,0 +1,35 @@
+TechPicks 25/04/2019 -
+
+JavaScript remains one of the most popular programming languages with a community of 11.7M active developers. Python has reached 8.2M active developers and has taken the number two spot, surpassing Java in terms of popularity.
+https://www.slashdata.co/free-resources/?id=developer-economics-state-of-the-developer-nation-16th-edition&section=showcases_details
+
+Disabling peek window in VS Code is finally possible!
+https://twitter.com/krzKaczor/status/1120631267781951488
+
+A JavaScript Package Registry funded, developed and maintained by the community, for the community
+https://open-registry.dev/
+
+$9Bn James Webb Telescope Relying on Outdated Nombas JavaScript Engine
+https://codesmithdev.com/9bn-james-webb-telescope-relying-on-outdated-nombas-javascript-engine/
+
+Client-Side - The Security Blindspot of your Website
+https://www.perimeterx.com/blog/client-side-security-blindspot/
+
+Webpack alias in TypeScript declarations
+https://medium.com/@joshuaavalon/webpack-alias-in-typescript-declarations-81d2b6c0dcd6
+
+Accenture sued over website redesign so bad it Hertz: Car hire biz demands $32m+ for 'defective' cyber-revamp
+https://www.theregister.co.uk/2019/04/23/hertz_accenture_lawsuit/
+
+I Sell Onions on the Internet
+https://www.deepsouthventures.com/i-sell-onions-on-the-internet/
+
+WebSockets - A Conceptual Deep-Dive
+https://www.ably.io/concepts/websockets
+
+Storeon: "Redux" in 173 bytes from the creator of PostCSS
+https://evilmartians.com/chronicles/storeon-redux-in-173-bytes
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

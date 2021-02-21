@@ -1,0 +1,32 @@
+TechPicks 17/12/2019 -
+
+Elad Shechter - Trimming Multi-Line Text in CSS
+https://medium.com/@elad/trimming-multi-lines-in-css-5ae59d5e6d84
+
+7 Uses for CSS Custom Properties
+https://css-irl.info/7-uses-for-css-custom-properties/
+
+Facebook is moving to Microsoft's Visual Studio Code for internal development
+https://www.techspot.com/news/82862-facebook-moving-microsoft-visual-studio-code-internal-development.html
+
+Starship: Cross-Shell Prompt
+https://starship.rs/
+
+"I tried to implement Google Stadia's negative latency"
+https://nolannicholson.com/latency.html
+
+World Wide Web Consortium (W3C) brings a new language to the Web as WebAssembly becomes a W3C Recommendation
+https://www.w3.org/2019/12/pressrelease-wasm-rec.html.en
+
+GitHub - byeokim/gmailpush: Gmail API push notification handler
+https://github.com/byeokim/gmailpush
+
+A Poor Developer Onboarding Experience Can Kill Your Startup
+https://medium.com/@shawn.webdev/a-poor-developer-onboarding-experience-can-kill-your-startup-bd5491131381
+
+Visualizing Every Pantone Color of the Year (22 Colors From 2000-2020 )
+https://adamfuhrer.com/visualizing-every-pantone-color-of-the-year
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

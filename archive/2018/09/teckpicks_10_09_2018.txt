@@ -1,0 +1,44 @@
+TechPicks 10/09/2018 -
+
+You don't really need moment.js
+https://github.com/you-dont-need/You-Dont-Need-Momentjs
+
+Introducing GitHub Pull Requests for Visual Studio Code
+https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
+
+First-Party Isolation in Firefox and what breaks if you enable it
+https://www.ctrl.blog/entry/firefox-fpi
+
+React virtual rendering
+https://medium.com/@gquiman/react-virtual-rendering-448f0f1b81ad
+
+State of Javascript 2018 survey is now out
+https://stateofjs.com
+
+jamiebuilds changes React-Loadable license Lerna-style
+https://github.com/jamiebuilds/react-loadable/commit/c3272b3132e4fe25937c3610b7cd0dd2da48c5e9
+
+Google has a monopoly on search rankings. Now they're trying to monopolize websites with AMP.
+https://sonniesedge.co.uk/posts/amp-urls/
+
+Breviare - Minimalist URL Shortener
+https://github.com/SillyArgie/Breviare
+
+REST API Test automation with YAML and no code. Every feedback appreciated!
+https://github.com/eykhagen/strest
+
+The definitive Node.js handbook
+https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e
+
+Announcing Azure Pipelines with unlimited CI/CD minutes for open source
+https://azure.microsoft.com/en-us/blog/announcing-azure-pipelines-with-unlimited-ci-cd-minutes-for-open-source/
+
+Tools of The Trade, from Hacker News.
+https://github.com/cjbarber/ToolsOfTheTrade
+
+Wi-Fi Gets More Secure: Everything You Need to Know About WPA3
+https://spectrum.ieee.org/tech-talk/telecom/security/everything-you-need-to-know-about-wpa3
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

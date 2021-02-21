@@ -1,0 +1,32 @@
+TechPicks 15/02/2021 -
+
+Github Web IDE - Open Github repositories in web online web IDE
+https://github.com/zvizvi/Github-Web-IDE
+
+Why Small Modules Matter - Big projects are what, if not the composition of small pieces
+https://fagnerbrack.medium.com/why-small-modules-matter-4e4d629321b8
+
+NanoNeuron - 7 simple JS functions that explain how machines learn
+https://trekhleb.dev/blog/2019/nano-neuron/
+
+The complexity that lives in the GUI
+https://blog.royalsloth.eu/posts/the-complexity-that-lives-in-the-gui/
+
+Learn Functional Programming Visually
+https://david-peter.de/cube-composer/
+
+Automatic dark mode for terminal applications
+https://arslan.io/2021/02/15/automatic-dark-mode-for-terminal-applications/
+
+The GitHub Action mining attack through Pull Request
+https://dev.to/thibaultduponchelle/the-github-action-mining-attack-through-pull-request-2lmc
+
+Database as a Queue
+https://isotopp.github.io/2021/01/20/database-as-a-queue.html
+
+Garuda Linux - a hassle-free Arch experience with a beautiful Neon look
+https://garudalinux.org/index.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

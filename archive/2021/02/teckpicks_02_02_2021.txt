@@ -1,0 +1,38 @@
+TechPicks 02/02/2021 -
+
+Run Mac in a Docker container - Run near native OSX-KVM in Docker with X11 Forwarding
+https://github.com/sickcodes/Docker-OSX
+
+Minimal implementations/tutorials of deep learning papers with side-by-side notes
+https://github.com/lab-ml/nn
+
+10 Design Patterns every Software Architect and Software Engineer must know
+https://ravindraelicherla.medium.com/10-design-patterns-every-software-architect-must-know-b33237bc01c2
+
+My Third Year as a Solo Developer
+https://mtlynch.io/solo-developer-year-3/
+
+The Unexpected Find That Freed 20GB of Unused Index Space
+https://hakibenita.com/postgresql-unused-index-size
+
+Algorithms and Data Structures built with JavaScript. Linked Lists, Heaps, Fenwick Trees, Bloom Filters, Hamiltonian Cycle, Kruskal's Algorithm, NanoNeuron, k-NN, Quicksort and many more (80+ Algorithms; 12 Data Structures; available in 15 languages)
+https://github.com/trekhleb/javascript-algorithms
+
+Explain Like I'm Junior - Universal Truths in Software Development
+http://filipolszew.blog/universal-truths-in-software-development/
+
+Back to Basics: Event Delegation
+https://christianheilmann.com/2020/11/01/back-to-basics-event-delegation/
+
+Text To Handwriting - Convert text to image that looks like handwriting
+https://github.com/saurabhdaware/text-to-handwriting
+
+The Complete Guide to Centering in CSS
+https://moderncss.dev/complete-guide-to-centering-in-css/
+
+z-index by examples
+https://juliu.is/z-index-by-examples
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

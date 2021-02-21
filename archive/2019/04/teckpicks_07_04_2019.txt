@@ -1,0 +1,26 @@
+TechPicks 07/04/2019 -
+
+JavaScript and React are in demand: The HackerRank Developer Skills Report 2019 is here
+https://frontnet.eu/javascript-and-react-are-in-demand-the-hackerrank-developer-skills-report-2019-is-here/
+
+Firebase: Import JSON To Firestore
+https://medium.com/@jeffrey.allen.lewis/firebase-import-json-to-firestore-ed6a4adc2b57
+
+Track Redundant Re-renders That Caused By React Hooks With “Why Did You Render” Version 3
+https://medium.com/welldone-software/track-redundant-re-renders-that-caused-by-hooks-with-why-did-you-render-version-3-504468deb653
+
+How To Align Things In CSS
+https://www.smashingmagazine.com/2019/03/css-alignment/
+
+How To Set Up ESLint, TypeScript, Prettier with Create React App
+https://dev.to/benweiser/how-to-set-up-eslint-typescript-prettier-with-create-react-app-3675
+
+A JSON based tree structure with drag and drop functionally to re-arrange the tree
+https://github.com/shoumma/organigram
+
+front end mindmap
+https://www.breakdown-notes.com/make/load/front_end/true
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

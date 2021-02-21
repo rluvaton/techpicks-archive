@@ -1,0 +1,29 @@
+TechPicks 13/11/2018 -
+
+Visual Studio Code October 2018
+https://code.visualstudio.com/updates/v1_29
+
+Why React Hooks, and how did we even get here?
+https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af
+
+Enthusiasts vs. Pragmatists: two types programmers and how they fail
+https://codewithoutrules.com/2018/11/12/enthusiasts-vs-pragmatists/
+
+15 Tools that help Learners Make Sense of Professional Source Code
+https://medium.com/@learningdollars/15-tools-that-help-learners-make-sense-of-professional-source-code-71767ac8036e
+
+Destructuring in JavaScript (The Basics)
+https://medium.com/poka-techblog/destructuring-in-javascript-f4f56d5cbd80
+
+web.dev by Google's web developer team
+http://web.dev
+
+Limitrr: Better Express Rate Limiting. 2.0 Released.
+https://www.npmjs.com/package/limitrr
+
+Why “Agile” and especially Scrum are terrible
+https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

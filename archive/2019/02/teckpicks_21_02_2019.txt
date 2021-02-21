@@ -1,0 +1,32 @@
+TechPicks 21/02/2019 -
+
+The Complete Guide to ES10 Features
+https://medium.com/@js_tut/the-complete-guide-to-es10-features-f09a8c7be1bd?source=friends_link&sk=390c12eea5806d715de68d751c2827c8
+
+NSFW JS - Detect Clientside Images
+https://shift.infinite.red/avoid-nightmares-nsfw-js-ab7b176978b1
+
+Untrusted - a user JavaScript adventure game
+https://alexnisnevich.github.io/untrusted/
+
+Experimenting with the canvas tag for a basic walk animation
+https://www.endyourif.com/experimenting-with-the-canvas-for-a-basic-walk-animation/
+
+The guys at CERN have made an emulator for the very first web browser
+https://worldwideweb.cern.ch/browser/
+
+for vs forEach() vs for/in vs for/of in JavaScript
+http://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript.html
+
+How to create overlapping images with CSS Grid
+https://www.youtube.com/watch?v=sZJrcOfBaNY
+
+Lessons from 6 software rewrite stories
+https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22
+
+Learn Internationalization in JavaScript. The Complete Guide
+https://medium.freecodecamp.org/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

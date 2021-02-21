@@ -1,0 +1,35 @@
+TechPicks 15/12/2019 -
+
+node-window-manager: Manage windows in Windows, macOS and Linux
+https://github.com/sentialx/node-window-manager
+
+Optional chaining helps to avoid "undefined is not a function" exceptions
+https://www.stefanjudis.com/today-i-learned/optional-chaining-helps-to-avoid-undefined-is-not-a-function-exceptions/
+
+Visual Studio Code November 2019
+https://code.visualstudio.com/updates/v1_41
+
+Useless Stuff I Still Know
+http://drlongghost.com/2019/12/12/Useless-Stuff-I-Still-Know/
+
+How to debug a Node.js application deployed with Jenkins X
+https://www.rookout.com/blog/how-to-debug-a-node-js-application-deployed-with-jenkins-x
+
+Google has abused Browser's User Agent header, forcing Vivaldi to change their UA header
+https://vivaldi.com/blog/user-agent-changes/
+
+How we 30x'd our Node.js parallelism
+https://blog.plaid.com/how-we-parallelized-our-node-service-by-30x/
+
+Why algebraic data types in typescript are called algebraic
+https://gist.github.com/kasperpeulen/b9ac0d3d53d751ccd2166cf3064c9e5c
+
+“Deep JavaScript” is now available online
+https://exploringjs.com/deep-js/
+
+Modeling State with TypeScript
+https://www.azavea.com/blog/2019/12/12/modeling-state-with-typescript/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

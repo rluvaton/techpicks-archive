@@ -1,0 +1,35 @@
+TechPicks 01/08/2019 -
+
+Long Live the Virtual DOM
+https://github.com/gactjs/gact/blob/master/docs/long-live-the-virtual-dom.md
+
+Confusables: turn "Ἢἕļľᦞ" to "Hello" and vice versa
+https://www.npmjs.com/package/confusables
+
+iO-808 - a fully recreated web-based TR-808 drum machine using React, Redux, and the Web Audio API
+https://io808.com/
+
+Writing a Simple MVC App in Plain JavaScript
+https://www.taniarascia.com/javascript-mvc-todo-app/
+
+New in Chrome 76: Better install experiences for PWAs
+https://www.youtube.com/watch?v=I1nosVzVbB4
+
+The Real Dark Web - We rarely acknowledge the vast majority of web developers
+https://www.sonniesedge.net/posts/real-dark-web/
+
+CSS prefers-reduced-motion Media Query
+https://davidwalsh.name/prefers-reduced-motion
+
+Gradient Magic - A Gallery of Fantastic and Unique CSS Gradients
+https://www.gradientmagic.com/
+
+Wonderland of TypeScript enums
+https://alex-klaus.com/typescript-enum/
+
+Easy event subscription with TypeScript
+https://github.com/vitaly-t/sub-events
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,32 @@
+TechPicks 31/03/2020 -
+
+Introducing Dark Mode (beta) for Stack Overflow
+https://stackoverflow.blog/2020/03/30/introducing-dark-mode-for-stack-overflow/
+
+Deno 1.0 will be released on May 13
+https://github.com/denoland/deno/issues/2473
+
+colors.lol - Overly descriptive color palettes
+https://colors.lol/
+
+Universal Resume Template v3 — minimal and formal résumé (CV) website template for print, mobile, and desktop
+https://github.com/WebPraktikos/universal-resume
+
+Replace axios with a simple custom fetch wrapper by Kent Dodds
+https://kentcdodds.com/blog/replace-axios-with-a-simple-custom-fetch-wrapper
+
+Chromium Blog: Updates to form controls and focus
+https://blog.chromium.org/2020/03/updates-to-form-controls-and-focus.html
+
+How to create an accordion hover effect with box-shadows
+https://fossheim.io/writing/posts/css-box-shadow-animation/
+
+Pointer Compression in V8
+https://v8.dev/blog/pointer-compression
+
+Some Useful Node.js Internal Modules
+https://christosploutarchou.com/some-useful-node-js-internal-modules/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

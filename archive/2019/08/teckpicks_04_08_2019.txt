@@ -1,0 +1,35 @@
+TechPicks 04/08/2019 -
+
+Elad Shechter - Naming things in CSS
+https://medium.com/@elad/naming-things-in-css-a7de9ad31cd9
+
+You will randomly bomb technical interviews. Everyone does. Here’s the data.
+https://www.freecodecamp.org/news/you-will-randomly-bomb-technical-interviews-everyone-does-heres-the-data-44475806e32/
+
+Brainfuck interpreter written in brainfuck
+https://github.com/maviek/bfbf
+
+Use React.memo() wisely
+https://dmitripavlutin.com/use-react-memo-wisely/
+
+Translingual - Multilingual transliteration - Phonetic translation using transcription
+https://github.com/freaker2k7/translingual
+
+A Simple Introduction to Web Workers in JavaScript
+https://medium.com/young-coder/a-simple-introduction-to-web-workers-in-javascript-b3504f9d9d1c
+
+Testing Microservices with Cypress, Docker & CircleCI
+https://medium.com/@QuintonAiken/testing-microservices-with-cypress-docker-circleci-ea904e07acc8
+
+Managing optimistic UI updates and clobbering
+https://blog.hasura.io/optimistic-ui-and-clobbering/
+
+AntdSite - A static docs generator based on Ant Design and GatsbyJs
+https://antdsite.yvescoding.org/
+
+This Ain’t Disney: A practical guide to CSS transitions and animations
+https://blog.prototypr.io/this-aint-disney-a-practical-guide-to-css-transitions-and-animations-a8b87e7c5531
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,44 @@
+TechPicks 22/08/2018 -
+
+Effectively supported in all browsers, JavaScript has its own form of media queries just like CSS.
+https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia
+
+Git tutor: Generate programming tutorials from your git history
+https://github.com/R1ZZU/git-tutor
+
+An OAuth 2.0 introduction for beginners
+https://medium.com/@spyna/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9
+
+Vuesax: Vue.js Framework Components
+https://lusaxweb.github.io/vuesax/
+
+The Web I Want
+https://dev.to/quii/the-web-i-want-43o
+
+Build a Secure ReST API in Node
+https://developer.okta.com/blog/2018/08/21/build-secure-rest-api-with-node
+
+WebAssembly vs. the world. Should you use WebAssembly?
+https://blog.sqreen.io/webassembly-performance/
+
+Solar System Explorer in CSS
+https://codepen.io/jcoulterdesign/full/ZxXbeP/
+
+CSS Snake & Ladders: a multiplayer game developed in HTML+CSS with no JS
+https://codepen.io/alvaromontoro/pen/gjWPNW
+
+Telling the Truth About Defects in Technology Should Never, Ever, Ever Be Illegal. EVER.
+https://www.eff.org/deeplinks/2018/08/telling-truth-about-defects-technology-should-never-ever-ever-be-illegal-ever
+
+Valve’s “Steam Play” uses Vulkan to bring more Windows games to Linux
+https://arstechnica.com/gaming/2018/08/valves-steam-play-uses-vulkan-to-bring-more-windows-games-to-linux
+
+Idempotence. What is it and why should I care?
+http://cloudingmine.com/idempotence-what-is-it-and-why-should-i-care/
+
+Creating a bash completion script
+https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

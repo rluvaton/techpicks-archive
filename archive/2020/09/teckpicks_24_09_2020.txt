@@ -1,0 +1,32 @@
+TechPicks 24/09/2020 -
+
+Algebra of Programming
+https://themattchan.com/docs/algprog.pdf
+
+Day.js - 2KB immutable date-time library alternative to Moment.js with the same modern API
+https://github.com/iamkun/dayjs
+
+Mono Icons - A simple, consistent open-source icon set
+https://icons.mono.company/
+
+Learning Rust: OMG WTF RS – resources to help you get started with Rust
+https://ferrous-systems.com/blog/omg-wtf-rs-resources-to-help-you-get-started-with-rust/
+
+Exploiting Tiny Tiny RSS
+https://www.digeex.de/blog/tinytinyrss/
+
+Amnesia: The Dark Descent and Amnesia: A Machine For Pigs source code released under GPL-3.0 license
+https://github.com/FrictionalGames/AmnesiaTheDarkDescent
+
+Introducing Strategic Communication, a programming language made out of buzzwords
+https://github.com/rotoclone/strategic-communication
+
+Unintended consequences of software: how I accidentally built a spying app
+https://medium.com/@italypaleale/that-time-i-accidentally-built-a-spying-app-79232f23f3c2
+
+In Defence of Half-Arsing
+https://drmaciver.substack.com/p/in-defence-of-half-arsing
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

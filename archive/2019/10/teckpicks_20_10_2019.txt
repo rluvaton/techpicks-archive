@@ -1,0 +1,26 @@
+TechPicks 20/10/2019 -
+
+Using npm link for local package development
+https://terodox.tech/using-npm-link-for-package-development/
+
+Hacking 20 high-profile dev accounts could compromise half of the npm ecosystem
+https://www.zdnet.com/google-amp/article/hacking-20-high-profile-dev-accounts-could-compromise-half-of-the-npm-ecosystem/
+
+azula, a lightweight GPU accelerated HTML GUI for native JavaScript applications
+https://github.com/maierfelix/azula
+
+Gridsome - a Vue.js framework that makes it easy for developers to build modern websites, apps & PWAs that are fast by default
+https://gridsome.org/
+
+TinaCMS - a site editing toolkit for modern React-based sites (Gatsby and Next.js)
+https://github.com/tinacms/tinacms
+
+List of software that have free tiers for developers
+https://free-for.dev/#/
+
+Weaving One Element Over and Under Another Element
+https://css-tricks.com/weaving-one-element-over-and-under-another-element/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

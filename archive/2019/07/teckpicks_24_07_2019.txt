@@ -1,0 +1,35 @@
+TechPicks 24/07/2019 -
+
+Yonatan Doron: Art of Code — Why you should write more Pseudo Code
+https://medium.com/@yonatandoron/why-you-should-write-more-pseudo-code-a3a27bcffbd4
+
+Design Patterns in Modern JS Frameworks
+https://storyforj.com/s/BXlOvY
+
+Functional Programming In JavaScript By Example
+https://www.codeproject.com/Articles/5163009/Functional-Programming-In-JavaScript-By-Example
+
+Artwork Personalization at Netflix
+https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76
+
+SelfVPN - A simple VPN client for creating and connecting DigitalOcean droplets
+https://github.com/BekirUzun/SelfVPN/blob/master/README.md
+
+Demystifying containers, Docker, and Kubernetes
+https://cloudblogs.microsoft.com/opensource/2019/07/15/how-to-get-started-containers-docker-kubernetes/
+
+Plot to steal cryptocurrency foiled by the npm security team
+https://blog.npmjs.org/post/185397814280/plot-to-steal-cryptocurrency-foiled-by-the-npm
+
+The CSS background-image property as an anti-pattern
+https://nystudio107.com/blog/the-css-background-image-property-as-an-anti-pattern
+
+Safe Units: Type safe units of measurement
+https://jscheiny.github.io/safe-units/
+
+Siemens contractor pleads guilty to planting logic bomb in company spreadsheets
+https://www.zdnet.com/article/siemens-contractor-pleads-guilty-to-planting-logic-bomb-in-company-spreadsheets/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

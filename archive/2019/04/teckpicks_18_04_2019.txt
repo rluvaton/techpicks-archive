@@ -1,0 +1,32 @@
+TechPicks 18/04/2019 -
+
+A new version of CKEditor 5 is out with mentions/autocomplete feature and more...
+https://ckeditor.com/blog/CKEditor-5-v12.1.0-with-mentions-font-color-and-remove-formatting-released/
+
+Animating URLs with JavaScript and Emojis
+http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/
+
+OnPush change detection for faster Angular apps
+https://itnext.io/onpush-change-detection-for-faster-angular-apps-f5d6dccea589
+
+Tracking your progress to improve your confidence
+https://dev.to/codeidoscope/tracking-your-progress-to-improve-your-confidence-12lh
+
+After three years of silence, a new jQuery prototype pollution vulnerability emerges once again
+https://snyk.io/blog/after-three-years-of-silence-a-new-jquery-prototype-pollution-vulnerability-emerges-once-again/
+
+This guy made a live equalizer in the url
+https://twitter.com/jake_albaugh/status/1118611365508337665?s=21
+
+Bulletproof Node.js project architecture
+https://softwareontheroad.com/ideal-nodejs-project-structure?utm_source=reddit&utm_medium=subreddit
+
+Handling API validation with OpenAPI (Swagger) documents in Node.js
+https://medium.com/@Scampiuk/handling-api-validation-with-openapi-swagger-documents-in-nodejs-1f09c133d4d2
+
+A very complete, strict ESLint config for Node.js with TypeScript, using Airbnb-base, Prettier, and most well known ESLint plugins
+https://gist.github.com/marcospgp/412019bd3a0f5a1931ecb8df9b209400
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

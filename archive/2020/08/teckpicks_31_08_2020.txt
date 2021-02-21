@@ -1,0 +1,26 @@
+TechPicks 31/08/2020 -
+
+ObjectModel - Strong Dynamically Typed Object Modeling for JavaScript
+https://objectmodel.js.org/
+
+My 9 favorite topics of "The Pragmatic Programmer"
+https://felixgerschau.com/pragmatic-programmer-20th-anniversary-favorite-topic-summary/
+
+Speed up your website by automatically removing unused CSS from Bootstrap or other frameworks
+https://lukelowrey.hashnode.dev/speed-up-your-website-by-automatically-removing-unused-css-from-bootstrap-or-other-frameworks-ckegkeuzh01fbp2s17jh71idg
+
+Don't get stuck
+https://stitcher.io/blog/dont-get-stuck
+
+Very short functions are a code smell – an overview of the science on function length
+https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/
+
+WebRTC for the Curious
+https://webrtcforthecurious.com/
+
+Typography in ten minutes
+https://practicaltypography.com/typography-in-ten-minutes.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

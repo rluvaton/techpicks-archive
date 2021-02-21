@@ -1,0 +1,23 @@
+TechPicks 10/11/2019 -
+
+Deploying a Scala.js app on GitHub Pages with Travis CI.
+https://warisradji.com/2019/11/08/deploying-scala-js-app-on-github-pages-with-travis-ci/
+
+𝓩𝔃𝓐𝓻𝓽 - Abstract Art Evolved - An Open Source Generative Art Tool
+https://github.com/KilledByAPixel/ZzArt
+
+On private fields proposal: Private fields, public worries
+https://medium.com/virtuslab/private-fields-public-worries-b8c34d16c372
+
+Visual Studio Code October 2019
+https://code.visualstudio.com/updates/v1_40
+
+Simplified Interface for consuming REST APIs
+https://github.com/baseprime/rest-resource
+
+Drum Machine in Excel
+https://www.youtube.com/watch?v=To2JIXGoYzA
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

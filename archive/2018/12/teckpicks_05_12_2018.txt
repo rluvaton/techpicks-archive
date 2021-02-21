@@ -1,0 +1,29 @@
+TechPicks 05/12/2018 -
+
+Modern JavaScript Explained For Dinosaurs
+https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
+
+CSS Grid — The Swiss Army Knife For Layouts
+https://medium.com/@js_tut/css-grid-the-swiss-army-knife-for-cutting-website-and-application-layouts-c1bd7a6b4e56
+
+A look at CSS Resets in 2018
+https://bitsofco.de/a-look-at-css-resets-in-2018/
+
+Google’s Flutter toolkit goes beyond mobile with Project Hummingbird
+https://techcrunch.com/2018/12/04/googles-flutter-toolkit-goes-beyond-mobile-with-project-hummingbird/
+
+Microsoft is building a Chromium-powered web browser that will replace Edge on Windows 10
+https://www.windowscentral.com/microsoft-building-chromium-powered-web-browser-windows-10
+
+While we Blink, we lose the Web
+https://andregarzia.com/2018/12/while-we-blink-we-loose-the-web.html
+
+React-Redux v6 released: uses createContext, StrictMode-compatible
+https://github.com/reduxjs/react-redux/releases/tag/v6.0.0
+
+​Kubernetes' first major security hole discovered | ZDNet
+https://www.zdnet.com/article/kubernetes-first-major-security-hole-discovered/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

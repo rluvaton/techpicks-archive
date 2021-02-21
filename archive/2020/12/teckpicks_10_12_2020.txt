@@ -1,0 +1,29 @@
+TechPicks 10/12/2020 -
+
+Cloudflare’s privacy-first Web Analytics is now available for everyone
+https://blog.cloudflare.com/privacy-first-web-analytics/
+
+Deno 1.6 released with new features like compiling to self-contained executable & LSP for better IDE integration
+https://deno.land/posts/v1.6
+
+What Can You Put in a CSS Variable?
+https://codersblock.com/blog/what-can-you-put-in-a-css-variable/
+
+Announcing Squoosh v2
+https://web.dev/squoosh-v2/
+
+The CentOS Project Just Committed Suicide
+https://fosspost.org/centos-project-suicide/
+
+Bebop: An Efficient, Schema-based Binary Serialization Format
+https://rainway.com/blog/2020/12/09/bebop-an-efficient-schema-based-binary-serialization-format/
+
+Recoil.js - State management for React
+https://react.christmas/2020/10
+
+The Rules of Margin Collapse
+https://www.joshwcomeau.com/css/rules-of-margin-collapse/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

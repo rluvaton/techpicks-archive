@@ -1,0 +1,29 @@
+TechPicks 19/11/2019 -
+
+Techniques for instantiating classes
+https://2ality.com/2019/11/creating-class-instances.html
+
+Differences between react and react native that newcomers should know about
+https://medium.com/javascript-in-plain-english/differences-between-react-and-react-native-that-newcomers-should-knows-about-4d2ccc3d1d94
+
+How to not be a dinosaur.
+https://dev.to/myonlinestore/how-to-not-be-a-dinosaur-3d55
+
+GitHub - yunabe/tslab: Interactive JavaScript and TypeScript programming with Jupyter
+https://github.com/yunabe/tslab
+
+10M pages analyzed, only 2% pass ADA requirements
+http://insight.accessibe.host/
+
+Chrome, Edge and Safari all fall to hackers in Chinese contest
+http://www.techradar.com/news/chrome-edge-and-safari-all-fall-to-hackers-in-chinese-contest
+
+Predicting the future of the web (2020 - 2025). A great talk by Richard Feldman
+https://youtu.be/24tQRwIRP_w
+
+@arrows/worker - simple, promise-based API for native worker threads
+https://github.com/caderek/arrows/blob/master/packages/worker/README.md
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

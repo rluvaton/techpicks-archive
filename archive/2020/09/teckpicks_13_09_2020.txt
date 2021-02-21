@@ -1,0 +1,20 @@
+TechPicks 13/09/2020 -
+
+Why senior engineers get nothing done
+https://swizec.com/blog/why-senior-engineers-get-nothing-done/
+
+Security by Obscurity is Underrated
+https://utkusen.com/blog/security-by-obscurity-is-underrated.html
+
+"But it works"
+https://ilya-sher.org/2020/09/12/but-it-works/
+
+Some Great Books For Programmers That StackOverflow Cannot Replace
+https://medium.com/@mickael.riga.79/some-great-books-for-programmers-that-stackoverflow-cannot-replace-514773b273a3
+
+From Rust to TypeScript
+https://valand.dev/blog/post/from-rust-to-typescript
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 09/08/2020 -
+
+Introducing Rome: A linter (and a lot more in the future) for JavaScript and TypeScript
+https://romefrontend.dev/blog/2020/08/08/introducing-rome.html
+
+microsoft/fast : The adaptive interface system for modern web experiences.
+https://github.com/microsoft/fast
+
+We Can Do Better Than SQL
+https://edgedb.com/blog/we-can-do-better-than-sql/
+
+Why Should You Learn Vim in 2020
+https://pragmaticpineapple.com/why-should-you-learn-vim-in-2020/
+
+Typing is Hard
+https://typing-is-hard.ch/
+
+React.useEffect hook explained in depth on a simple example
+https://dev.to/mpodlasin/react-useeffect-hook-explained-in-depth-on-a-simple-example-19ec
+
+content-visibility: the new CSS property that boosts your rendering performance
+https://web.dev/content-visibility/
+
+simdjson: Parsing gigabytes of JSON per second
+https://github.com/simdjson/simdjson
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

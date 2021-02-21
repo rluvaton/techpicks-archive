@@ -1,0 +1,41 @@
+TechPicks 02/09/2018 -
+
+React Fire: Modernizing React DOM
+https://github.com/facebook/react/issues/13525
+
+JavaScript idiosyncrasies with examples
+https://github.com/odykyi/javascript-idiosyncrasies
+
+Combining HOCs with the new React’s Context API
+https://medium.com/@franciscovarisco/9d3617dccf0b
+
+Julia Evans - How to teach yourself hard things
+https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/
+
+My Five Worst Bugs: Lessons Learned In System Design
+https://adamtornhill.com/articles/worstbugs/lessonssystemdesign.html
+
+Presentr - A Minimalistic, Hackable, Fast Presentation Library
+https://github.com/Simonwep/presentr
+
+A light-weight, type-safe, and reactive router service using MobX
+https://github.com/makeflow/boring-router
+
+To Grok a Mockingbird: Using recursive combinators to enhance functional composition
+http://raganwald.com/2018/08/30/to-grok-a-mockingbird.html
+
+WebRender - A framework for rendering user interfaces on GPU.
+https://pcwalton.github.io/slides/201808-webrender/
+
+A 12-year old wrote some JavaScript code that implements a generative art pattern
+https://twitter.com/vboykis/status/1034997350459232256
+
+module-timing - identify the heaviest and slowest modules within your app with a simple breakdown tree
+https://github.com/danielkalen/module-timing
+
+Techie to tech lead: My five biggest mistakes
+https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

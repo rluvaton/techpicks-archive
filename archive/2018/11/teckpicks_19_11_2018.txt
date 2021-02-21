@@ -1,0 +1,26 @@
+TechPicks 19/11/2018 -
+
+Nick Ribal - TypeScript for skeptics
+https://blogcodevalue.wordpress.com/2018/11/15/typescript-for-skeptics/
+
+Rashi Plus Plus - the new Hebrew scripting language
+https://github.com/daniel-shimon/rpp/blob/master/README.md
+
+React 101: Things every beginner should know -- Part 1
+https://contextneutral.com/story/react-101-things-every-beginner-should-know
+
+Learnings from 3,000 hours of creating a desktop app with PyQt
+https://blog.qt.io/blog/2018/11/15/python-qt-3000-hours-developer-insight/
+
+Descheduler for Kubernetes
+https://github.com/kubernetes-incubator/descheduler
+
+Instagram exposed some users' passwords (in plaintext) in their GDPR data export tool
+https://www.theverge.com/2018/11/17/18100235/instagram-security-bug-exposed-user-passwords-data-download-tool
+
+Many software communities do not value the need to reduce the mental load for developers
+https://dev.to/ben/many-software-communities-do-not-value-the-need-to-reduce-the-mental-load-for-developers-dcj
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

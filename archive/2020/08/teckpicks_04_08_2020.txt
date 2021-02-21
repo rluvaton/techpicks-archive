@@ -1,0 +1,29 @@
+TechPicks 04/08/2020 -
+
+You May Finally Use JSHint for Evil
+http://mikepennisi.com/blog/2020/you-may-finally-use-jshint-for-evil/
+
+Docker & WSL - The Future of Docker Desktop for Windows
+https://www.docker.com/blog/docker-hearts-wsl-2/
+
+A Better JavaScript symbol search and bookmarking extension for VSCode
+https://github.com/Raathigesh/waypoint
+
+JavaScript pedalboard - coded in vanilla JS with the Web Audio API & Web MIDI API
+https://pedalboard.netlify.app/
+
+Writing the same CLI application twice using Go and Rust: a personal experience
+https://cuchi.me/posts/go-vs-rust
+
+Incrementally Improving The DOM
+https://blog.functorial.com/posts/2018-04-08-Incrementally-Improving-The-DOM.html
+
+TikTok: Logs, Logs , Logs
+https://medium.com/@fs0c131y/tiktok-logs-logs-logs-e93e8162647a
+
+Tales of the Autistic Developer - Senior Developer
+https://dev.to/baweaver/tales-of-the-autistic-developer-senior-developer-3l0c
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

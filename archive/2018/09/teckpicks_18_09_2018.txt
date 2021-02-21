@@ -1,0 +1,44 @@
+TechPicks 18/09/2018 -
+
+The Techtopus: How Silicon Valley's most celebrated CEOs conspired to drive down 100,000 tech engineers' wages
+https://pando.com/2014/01/23/the-techtopus-how-silicon-valleys-most-celebrated-ceos-conspired-to-drive-down-100000-tech-engineers-wages/
+
+Making "Bellwoods" — a 13 kilobyte art game
+https://mattdesl.svbtle.com/bellwoods
+
+Why async: how JavaScript interacts with the real world
+https://frontarm.com/courses/async-javascript/promises/why-async/
+
+PicTheme - converting images into themes for VS Code and Sublime (Made with React, Redux, Typescript and Express)
+https://github.com/JoshuaScript/pictheme
+
+Bryntum Scheduler - A new JavaScript scheduler component for Angular, VueJS or React apps
+http://www.bryntum.com/blog/announcing-our-new-component-suite/
+
+JavaScript testing tutorial – part four. Mocking API calls and simulating React components interactions
+https://wanago.io/2018/09/17/javascript-testing-tutorial-part-four-mocking-api-calls-and-simulating-react-components-interactions/
+
+Cloudflare goes InterPlanetary - Introducing Cloudflare’s IPFS Gateway
+https://blog.cloudflare.com/distributed-web-gateway/
+
+Deploify is a NPM module that creates a temporary stage environment of your web app on Heroku for each of your pull requests.
+https://www.npmjs.com/package/deploify
+
+Software disenchantment
+http://tonsky.me/blog/disenchantment/
+
+RE: Software disenchantment
+https://rakhim.org/2018/09/re-software-disenchantment/
+
+In defense of not invented here syndrome
+https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/
+
+Matrix rain of your latest public GitHub contributions
+https://anderspitman.net/projects/redpill/
+
+The Rise and Demise of RSS
+https://twobithistory.org/2018/09/16/the-rise-and-demise-of-rss.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

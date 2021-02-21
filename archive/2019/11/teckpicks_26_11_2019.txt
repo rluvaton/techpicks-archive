@@ -1,0 +1,35 @@
+TechPicks 26/11/2019 -
+
+Elad Shechter - Storytelling CSS Class Names
+https://medium.com/@elad/storytelling-css-class-names-887a78798f07
+
+JavaScript doesn’t need to be replaced
+https://medium.com/javascript-in-plain-english/javascript-doesnt-need-to-be-replaced-bd01e2f12d51
+
+If you care about user privacy, do NOT use Facebook JS SDK
+https://simplelogin.io/blog/do-not-use-facebook-sdk/
+
+State of JavaScript 2019
+https://survey.stateofjs.com/
+
+Neat Rust Tricks: Passing Closures to C
+https://blog.seantheprogrammer.com/neat-rust-tricks-passing-rust-closures-to-c
+
+Kelonio: A general-purpose performance testing library with built-in reporters for Jest, Mocha, and Karma
+https://www.npmjs.com/package/kelonio
+
+Beam.js - Highly Expressive WebGL
+https://github.com/doodlewind/beam
+
+piBirth | Find any number and it’s position, if it is in the first billion digits of pi
+https://github.com/fndDev/piBirth
+
+How to Learn Software Design and Architecture - a Roadmap
+https://www.freecodecamp.org/news/software-design/
+
+Redux reducer/action builder (yes, another one) with some type safety
+https://www.npmjs.com/package/@xornot/redux-case
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

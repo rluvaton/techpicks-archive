@@ -1,0 +1,29 @@
+TechPicks 27/01/2019 -
+
+The “Bug-O” Notation
+https://overreacted.io/the-bug-o-notation/
+
+Why isn't X a hook?
+https://overreacted.io/why-isnt-x-a-hook/
+
+A Year (plus a little) on TC39 – from oblivious to co-chair in 14 months
+https://medium.com/braintree-product-technology/a-year-plus-a-little-on-tc39-a1acb87eb862
+
+Structurae: Data Structures for High Performance JavaScript
+https://medium.com/@zandaqo/structurae-data-structures-for-high-performance-javascript-9b7da4c73f8
+
+How to Stop Using Browser Dev Tools and Start Using Your Editor’s Debugger
+https://www.javascriptjanuary.com/blog/how-to-stop-using-browser-devtools-and-start-using-your-editors-debugger
+
+FromJS: An experimental data-flow analysis tool for front-end JavaScript. It shows you where each value in the DOM comes from.
+http://www.fromjs.com/
+
+Node.js 11.8 is here: news for the worker threads
+https://helpdev.eu/node-js-11-8-is-here-news-for-the-worker-threads/
+
+Vim Configuration Tutorial In 10 Minutes
+https://www.tutorialdocs.com/article/vim-configuration.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

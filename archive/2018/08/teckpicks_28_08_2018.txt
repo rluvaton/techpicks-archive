@@ -1,0 +1,53 @@
+TechPicks 28/08/2018 -
+
+Babel 7 Released
+https://babeljs.io/blog/2018/08/27/7.0.0
+
+TypeScript and Babel 7
+https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/
+
+What's Coming Up in JavaScript 2018: Async Generators, Better Regex
+https://thenewstack.io/whats-coming-up-in-javascript-2018-async-generators-better-regex/
+
+`export default` considered harmful
+https://basarat.gitbooks.io/typescript/docs/tips/defaultIsBad.html
+
+VueToolbox - Collection of the best Vue.js libraries
+http://www.vuetoolbox.com
+
+Owning the Role of the Front-End Developer
+https://alistapart.com/article/owning-the-role-of-the-front-end-developer
+
+Getting Started with Service Workers
+https://alligator.io/js/service-workers/
+
+GraphQL Server Tutorial with Apollo Server and Express
+https://www.robinwieruch.de/graphql-apollo-server-tutorial/
+
+Implement a Promise that is Promises/A+ compliant using vanilla JavaScript
+https://github.com/jeantimex/how-to-implement-promise
+
+The Carlton dance in pure CSS
+https://codepen.io/Wujek_Greg/pen/EpJwaj
+
+Recreating the Windows 10 calendar hover effect in a bit of JavaScript & CSS
+https://codepen.io/gubb/pen/PdZqKy
+
+Humble Bundle: Machine Learning by O'Reilly
+https://www.humblebundle.com/books/machine-learning-books
+
+“I need an estimate for this feature”
+https://heapsofthoughts.com/2018/08/22/69/
+
+The Binary Number System
+https://v.redd.it/38zdc0hsqqi11
+
+Staying sane as a solo developer
+https://www.volkermauel.de/staying-sane-as-a-solo-developer/
+
+Stop using "Action Plans" to fire programmers
+https://www.hpe.com/us/en/insights/articles/how-to-get-your-team-back-on-track-using-formal-feedback-1808.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

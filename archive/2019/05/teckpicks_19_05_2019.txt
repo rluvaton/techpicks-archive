@@ -1,0 +1,32 @@
+TechPicks 19/05/2019 -
+
+Chromium developers' eslint rules
+https://cs.chromium.org/chromium/src/.eslintrc.js?q=lang:%5Ejavascript$&sq=package:chromium&dr
+
+Tourguide.js - A simple, lightweight, clean and small library for creating guided product tours for your web app
+https://github.com/LikaloLLC/tourguide.js
+
+Faster loading of JavaScript with BinaryAST
+https://blog.cloudflare.com/binary-ast/
+
+ChegoJS - universal database API, MySQL style fluent interface
+https://github.com/chegojs
+
+Svelte 3: Rethinking reactivity
+https://svelte.dev/blog/svelte-3-rethinking-reactivity
+
+A Web Extension to save a complete web page as a HTML file which is in fact a ZIP file
+https://github.com/gildas-lormeau/SingleFileZ
+
+A continuously-evolving compendium of JavaScript tips based on common areas of confusion or misunderstanding
+https://github.com/nas5w/javascript-tips-and-tidbits
+
+The Dark Side of the Grid (Part 2)
+https://www.matuzo.at/blog/the-dark-side-of-the-grid-part-2/
+
+Debugging CSS Grid. Part 1: Understanding Implicit Tracks
+https://css-irl.info/debugging-css-grid-part-1-understanding-implicit-tracks/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

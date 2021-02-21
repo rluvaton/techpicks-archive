@@ -1,0 +1,29 @@
+TechPicks 11/12/2019 -
+
+Appwrite Backend Server Version 0.4 is Out
+https://medium.com/appwrite-io/appwrite-backend-server-version-0-4-is-out-learn-whats-new-e1516bf14ee
+
+Git from the inside out
+https://codewords.recurse.com/issues/two/git-from-the-inside-out
+
+Redux-Observable’s best-practice is an anti-pattern
+https://itnext.io/the-best-practice-anti-pattern-5e8bd873aadf
+
+single-spa: Microfrontends made easy
+https://github.com/CanopyTax/single-spa
+
+Should you choose npm or yarn?
+https://javascript.christmas/2019/10
+
+Boilerplate for Node.js apps / API server / Authentication from scratch - express, graphql
+https://github.com/watscho/express-graphql-mongodb-boilerplate
+
+REST Resource: a simplified interface for consuming REST APIs
+https://github.com/baseprime/rest-resource
+
+Efficient pub/sub with µWebSockets.js
+https://medium.com/@alexhultmano/efficient-pub-sub-with-%C2%B5websockets-js-e56d2202064
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

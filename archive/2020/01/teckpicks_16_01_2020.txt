@@ -1,0 +1,26 @@
+TechPicks 16/01/2020 -
+
+JetBrains Mono: A Typeface for Developers
+https://www.jetbrains.com/lp/mono/
+
+Next.js 9.2 released: Built-In CSS Imports and CSS Modules, Catch-All Dynamic Routes, Up to 70% Reduced Largest JavaScript Bundle, and Up to 87% Less JavaScript Loaded after Multiple Navigations
+https://nextjs.org/blog/next-9-2
+
+Practical Cryptography for Developers
+https://cryptobook.nakov.com/
+
+BEM Methodology In CSS: A Quick Start Guide
+https://medium.com/@scalablecss/bem-quickstart-guide-bb53d349bea1
+
+Firebase as a React Hook
+https://pragli.com/blog/firebase-as-a-react-hook/
+
+New year, new browser - The new Microsoft Edge is out of preview today
+https://blogs.windows.com/windowsexperience/2020/01/15/new-year-new-browser-the-new-microsoft-edge-is-out-of-preview-and-now-available-for-download/
+
+How Auto Margins Work in Flexbox
+https://css-tricks.com/how-auto-margins-work-in-flexbox/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

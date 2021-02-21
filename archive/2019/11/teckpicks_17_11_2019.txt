@@ -1,0 +1,32 @@
+TechPicks 17/11/2019 -
+
+New from Universe 2019: GitHub for mobile, GitHub Archive Program, and more
+https://github.blog/2019-11-13-universe-day-one/
+
+Build your own React
+https://pomb.us/build-your-own-react/
+
+htop explained
+https://peteris.rocks/blog/htop/
+
+How We Compiled a Golang Database in the Browser Using WebAssembly
+https://pingcap.com/blog/how-we-compiled-a-golang-database-in-the-browser-using-webassembly/
+
+repotools: Short names, big time savings – a collection of commands for the git operations you perform most often
+https://github.com/ctsrc/repotools
+
+Simplifying code with Maps in JavaScript
+https://claritydev.net/blog/simplifying-code-with-maps-in-javascript
+
+Bitspeak: converts hex strings to pronounceable words.
+https://github.com/MaiaVictor/Bitspeak
+
+"How I reduced the amount of code in my Redux app by using Redux Hooks"
+https://medium.com/javascript-in-plain-english/how-i-reduced-the-amount-of-code-in-my-redux-app-by-using-redux-hooks-b19c926419ea
+
+Next-generation web styling (Chrome Dev Summit 2019)
+https://youtu.be/-oyeaIirVC0
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

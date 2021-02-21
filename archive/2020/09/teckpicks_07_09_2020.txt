@@ -1,0 +1,23 @@
+TechPicks 07/09/2020 -
+
+Bash Pitfalls
+https://mywiki.wooledge.org/BashPitfalls
+
+Things I Learnt from a Senior Software Engineer
+https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html
+
+Hard to discover tips and apps for making macOS pleasant
+https://thume.ca/2020/09/04/macos-tips/
+
+Attention is your scarcest resource
+https://www.benkuhn.net/attention/
+
+My thoughts about editors in 2020
+https://phaazon.net/blog/editors-in-2020
+
+Database of Databases
+https://dbdb.io/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

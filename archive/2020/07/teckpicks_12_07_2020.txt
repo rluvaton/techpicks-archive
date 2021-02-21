@@ -1,0 +1,26 @@
+TechPicks 12/07/2020 -
+
+Visual Studio Code June 2020
+https://code.visualstudio.com/updates/v1_47
+
+The traversal order of object properties in ES6
+https://2ality.com/2015/10/property-traversal-order-es6.html
+
+Developer Handbook 2020 - An opinionated guide on how to become a professional Web/Mobile App Developer
+https://github.com/apptension/developer-handbook
+
+Yarn 2.1 - Git Workspaces, Focused Installs, Loose mode, Live Playground
+https://dev.to/arcanis/yarn-2-1-git-workspaces-focused-installs-loose-mode-live-playground-4kfc
+
+Microsoft announces that it will drop official support of PHP on Windows
+https://laravel-news.com/microsoft-dropping-php-support
+
+A New RegExp Engine in SpiderMonkey (Firefox 78+)
+https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/
+
+New in Chrome: CSS Overview
+https://css-tricks.com/new-in-chrome-css-overview/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

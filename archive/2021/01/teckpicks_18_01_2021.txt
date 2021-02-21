@@ -1,0 +1,32 @@
+TechPicks 18/01/2021 -
+
+A fresh new avenue for Google to kill your SaaS startup: Google Safe Browsing
+https://gomox.medium.com/google-safe-browsing-can-kill-your-startup-7d73c474b98d
+
+How apps are localized
+https://medium.com/@wkwok/how-apps-are-localized-6cce4619efb7
+
+GUI tool to generate React-Table code for your projects
+https://www.akashmittal.com/gui-utility-to-generate-react-table-code/
+
+CondensationDB: A general-purpose distributed database with inherent end-to-end security
+https://github.com/CondensationDB/Condensation
+
+Emoji Reactions for Comments - Building a Real-Time Commenting System in React [Part 3/3]
+https://dev.to/pandasekh/emoji-reactions-for-comments-building-a-real-time-commenting-system-in-react-part-3-3-4m6
+
+JavaScript primitives & variables in depth
+https://spdevuk.com/javascript-101-variables-and-primitives/
+
+Object Storage: Everything You Need to Know
+https://lakefs.io/object-storage/
+
+Node.js 14 released on Google Cloud Functions in public preview
+https://cloud.google.com/functions/docs/concepts/nodejs-runtime#nodejs_14_public_preview
+
+The problem with Gradle: really?
+https://melix.github.io/blog/2021/01/the-problem-with-gradle.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

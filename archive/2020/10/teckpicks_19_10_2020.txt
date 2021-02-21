@@ -1,0 +1,32 @@
+TechPicks 19/10/2020 -
+
+Cookie Store API Lands in Chrome 87
+https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f
+
+Project Loo: the best time-wasting, amazing, over-engineered project of my life
+https://dev.to/polakshahar/project-loo-the-best-time-wasting-amazing-over-engineered-project-of-my-life-37m7
+
+Say goodbye to resource-caching across sites and domains
+https://www.stefanjudis.com/notes/say-goodbye-to-resource-caching-across-sites-and-domains/
+
+Chrome exempts Google sites from user site data settings
+https://lapcatsoftware.com/articles/chrome-google.html
+
+How to Easily use GRPC and Protocol Buffers with NodeJS
+https://adityasridhar.com/posts/how-to-easily-use-grpc-and-protocol-buffers-with-nodejs
+
+Container networking is simple
+https://iximiuz.com/en/posts/container-networking-is-simple/
+
+Fun with Lambda Calculus
+https://stopa.io/post/263
+
+Discord Desktop app RCE
+https://mksben.l0.cm/2020/10/discord-desktop-rce.html
+
+BetterThanJson
+https://wiki.alopex.li/BetterThanJson
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

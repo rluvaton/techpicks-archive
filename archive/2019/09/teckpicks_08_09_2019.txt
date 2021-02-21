@@ -1,0 +1,32 @@
+TechPicks 08/09/2019 -
+
+Dropbox - Our journey to type checking 4 million lines of Python
+https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/
+
+"I never understood JavaScript closures"
+https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
+
+All you need to know about JavaScript Iterators and Generators
+https://dev.to/jfet97/javascript-iterators-and-generators-asynchronous-iterators-28b8
+
+Pathfinding Algorithm Visualizer
+https://clementmihailescu.github.io/Pathfinding-Visualizer/
+
+Hat.sh - A Free, Fast, Secure and Serverless File Encryption.
+https://hat.sh
+
+Server Rendered Components in Under 2kb
+https://medium.com/@t.saporito/server-rendered-components-in-under-2kb-9da8842d51a5
+
+"How me and a friend created a (shitty) load balancer, for the office toilets"
+https://medium.com/q42-engineering/shitty-load-balancer-ef1098be86c1
+
+"They Didn’t Teach Us This": A Crash Course for Your First Job in Software
+https://stackoverflow.blog/2019/09/05/they-didnt-teach-us-this-a-crash-course-for-your-first-job-in-software
+
+A large list of CSS questions and answers
+https://github.com/codypearce/css-questions
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

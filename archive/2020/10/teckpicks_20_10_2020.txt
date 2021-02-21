@@ -1,0 +1,26 @@
+TechPicks 20/10/2020 -
+
+Why Deep Learning Works Even Though It Shouldn’t
+https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/
+
+Celebrating 15 years of Git: An interview with Git maintainer Junio Hamano
+https://github.blog/2020-04-07-celebrating-15-years-of-git-an-interview-with-git-maintainer-junio-hamano/
+
+rdrview: Firefox Reader View as a Linux command line tool
+https://github.com/eafer/rdrview
+
+The good line-height
+https://www.thegoodlineheight.com/
+
+The case for a learned sorting algorithm
+https://blog.acolyer.org/2020/10/19/the-case-for-a-learned-sorting-algorithm/
+
+Fall in love with Neumorphism - New design trend
+https://glammingspace.blogspot.com/2020/03/fall-in-love-with-neumorphism-new.html
+
+The Tyranny of Metrics
+https://nemethgergely.com/blog/the-tyranny-of-metrics
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

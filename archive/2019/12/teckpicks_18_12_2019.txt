@@ -1,0 +1,23 @@
+TechPicks 18/12/2019 -
+
+The boring technology behind a one-person Internet company
+https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b
+
+Golang examples for Node.js developers
+https://github.com/miguelmota/golang-for-nodejs-developers
+
+How we accidentally launched a popular Gatsby plugin
+https://www.gatsbyjs.org/blog/2019-12-12-how-we-accidentally-launched-a-popular-gatsby-plugin/
+
+Getting to one 9 of correctness for our open-source SQL engine
+https://www.liquidata.co/blog/2019-12-17-one-nine-of-sql-correctness/
+
+Open ≠ Free ≠ Gratis: An introduction to licenses
+https://opensource.christmas/2019/18
+
+Preact 10.1.1 Released
+https://github.com/preactjs/preact/releases/tag/10.1.1
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,32 @@
+TechPicks 12/12/2018 -
+
+Elad Shechter - New CSS Logical Properties - The Next Step of CSS Evolution
+https://medium.com/@elad/new-css-logical-properties-bc6945311ce7
+
+Steve Schoger's design tips are off the chain - here they are in one big list
+https://twitter.com/i/moments/994601867987619840
+
+Async React using React Router & Suspense
+https://medium.com/p/a86ade1176dc
+
+A Recap of Frontend Development in 2018
+https://medium.com/gitconnected/a-recap-of-frontend-development-in-2018-715724c9441d
+
+Over 40 CSS Grid Diagrams For Visual Learners
+http://www.csstutorial.org/css-grid-tutorial.html
+
+CSS debugging tool with an unpronounceable name
+https://github.com/lucagez/Debucsser/blob/master/Readme.md
+
+Node.js Top 10 Articles for the Past Month (v.Dec 2018)
+https://medium.com/@Mybridge/node-js-top-10-articles-for-the-past-month-v-dec-2018-89be607bdc44
+
+Australia's new encryption laws ensures companies can't hire AU developers or tech solutions.
+https://www.zdnet.com/article/whats-actually-in-australias-encryption-laws-everything-you-need-to-know/
+
+How the Dreamcast copy protection was defeated
+http://fabiensanglard.net/dreamcast_hacking/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

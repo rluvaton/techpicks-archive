@@ -1,0 +1,35 @@
+TechPicks 06/10/2019 -
+
+Google's Engineering Practices documentation: How to do a code review
+https://google.github.io/eng-practices/review/reviewer/
+
+JavaScript Destructuring ES6: The Complete Guide
+https://buginit.com/javascript/javascript-destructuring-es6-the-complete-guide/
+
+NPM: An Old Bug
+https://blog.npmjs.org/post/186190819147/an-old-bug
+
+Possibly the Most Useful CSS Trick
+https://dev.to/xtrp/possibly-the-most-useful-css-trick-jl3
+
+16 Hours to launch — A breakdown of how I designed, built and launched a product over a weekend.
+https://dev.to/madebycrevans/16-hours-to-launch-a-breakdown-of-how-i-designed-built-and-launched-a-product-over-a-weekend-4c68
+
+The Differing Perspectives on CSS-in-JS
+https://css-tricks.com/the-differing-perspectives-on-css-in-js/
+
+Getting Started with NodeGUI
+https://hibbard.eu/node-gui/
+
+What is gRPC ? How to implement gRPC in Node.js
+https://cloudnweb.dev/2019/05/what-is-grpc-how-to-implement-grpc-in-node-js/
+
+How JSON.stringify killed my express server
+https://medium.com/@efishtain/how-json-stringify-killed-my-express-server-d8d0565a1a61
+
+Continuous Integration and Deployment (CI/CD Pipeline) with Github Package and Github Actions
+https://itnext.io/continuous-integration-and-deployment-ci-cd-pipeline-with-github-package-and-github-actions-24547f98c85c
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

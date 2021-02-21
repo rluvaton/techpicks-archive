@@ -1,0 +1,35 @@
+TechPicks 02/04/2019 -
+
+mpj: Dan Abramov teaches me React Hooks
+https://www.twitch.tv/videos/404530952
+
+Getting started with Docker #1: Anatomy of Docker
+https://itnext.io/getting-started-with-docker-1-b4dc83e64389
+
+Building a Reliable Serverless Application in a Weekend
+https://blog.quid.works/building-a-serverless-penny-jar-in-a-weekend/
+
+param.macro - partial application and lambda parameters - a babel macro
+https://github.com/citycide/param.macro
+
+Cloudflare's new VPN: Warp. "Fixing Mobile Internet Performance and Security"
+https://blog.cloudflare.com/1111-warp-better-vpn/
+
+Building a Swipeable List with React
+https://malcoded.com/posts/react-swipeable-list
+
+The US software job market needs 1.2 million engineers in the next few years, as 545K developers are expected to leave the tech workforce shortly
+https://www.daxx.com/blog/development-trends/software-engineer-shortage-us-2019
+
+Routing with TypeScript decorators for node applications
+https://nehalist.io/routing-with-typescript-decorators/
+
+How to create better themes with CSS variables
+https://blog.logrocket.com/how-to-create-better-themes-with-css-variables-5a3744105c74
+
+The higher order of types
+https://blog.softwaremill.com/the-higher-order-of-types-c89d4d0b534d
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

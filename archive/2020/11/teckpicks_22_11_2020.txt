@@ -1,0 +1,32 @@
+TechPicks 22/11/2020 -
+
+Announcing TypeScript 4.1
+https://devblogs.microsoft.com/typescript/announcing-typescript-4-1/
+
+txtai: AI-powered search engine in JavaScript
+https://github.com/neuml/txtai.js
+
+Monads simplified with Generators in TypeScript: Part 1
+https://medium.com/flock-community/monads-simplified-with-generators-in-typescript-part-1-33486bf9d887
+
+Super simple start to Firebase functions
+https://kentcdodds.com/blog/super-simple-start-to-firebase-functions
+
+Simulating color vision deficiencies in the Blink Renderer
+https://developers.google.com/web/updates/2020/11/cvd
+
+A Custom N-gram Filter for Material-UI Autocomplete
+https://www.userbugreport.com/blog/mui-autocomplete-with-ngram/
+
+From JavaScript to WebAssembly in three steps
+https://engineering.q42.nl/webassembly/
+
+I don't know how to name my function - Development tool
+https://namingmyfunction.vercel.app/
+
+The Ultimate Guide to Web Performance
+https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

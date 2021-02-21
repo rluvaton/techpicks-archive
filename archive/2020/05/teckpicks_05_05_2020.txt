@@ -1,0 +1,32 @@
+TechPicks 05/05/2020 -
+
+Roy Mor - GraphQL API or REST API? Why not have BOTH?
+https://medium.com/@roy.mor/graphql-api-or-rest-api-why-not-have-both-c4171e68900a
+
+Failed #SquadGoals - Spotify doesn’t use "the Spotify model" and neither should you
+https://www.jeremiahlee.com/posts/failed-squad-goals/
+
+Next.js Tips collection
+https://nextjstips.com
+
+An easy-to-compose functional validation system for JavaScript developers
+https://github.com/antonioru/deep-waters
+
+Debug anything: blog series about debugging JavaScript, Node.js, React, TypeScript in VS Code
+https://charlesagile.com/debug-series-nodejs-browser-javascript
+
+Interactive Blog Posts About Creating a Gauge in React
+https://wattenberger.com/blog/gauge
+
+Adobe will stop updating and distributing the Flash Player at the end of 2020, encourages using new open formats
+https://theblog.adobe.com/adobe-flash-update/
+
+Rich is a Python library for rendering rich text and beautiful formatting to the terminal.
+https://github.com/willmcgugan/rich
+
+'I love you': How a badly-coded computer virus caused billions in damage and exposed vulnerabilities which remain 20 years on
+https://edition.cnn.com/2020/05/01/tech/iloveyou-virus-computer-security-intl-hnk/index.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

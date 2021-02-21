@@ -1,0 +1,47 @@
+TechPicks 16/08/2018 -
+
+In-depth Step-by-Step Tutorial on How to Write Integration Tests for REST APIs with node.js
+https://maximilianschmitt.me/posts/tutorial-rest-api-integration-testing-node-js/
+
+SNES Party – Online Multiplayer SNES Emulator Using WebRTC
+https://snes.party/
+
+The easiest way to keep your web apps accessible: Just use text
+https://blog.logrocket.com/the-easiest-way-to-keep-your-web-apps-accessible-c2b57506cc2a
+
+New security vulnerability on Intel chips: L1 Terminal Fault, related to speculative execution
+https://newsroom.intel.com/editorials/protecting-our-customers-through-lifecycle-security-threats/
+
+Digital Ocean Responds to Intel’s L1TF Security Vulnerability
+https://blog.digitalocean.com/a-message-about-l1tf/
+
+A nice write up on making actual layouts with CSS grid
+https://medium.com/@js_tut/css-grid-layout-multiply-conquer-ca9c9c7c330d
+
+Everything You Need To Know About Alignment In Flexbox
+https://www.smashingmagazine.com/2018/08/flexbox-alignment/
+
+Windows Command-Line: Introducing the Windows Pseudo Console (ConPTY)
+https://blogs.msdn.microsoft.com/commandline/2018/08/02/windows-command-line-introducing-the-windows-pseudo-console-conpty/
+
+The cost of a database join
+https://www.brianlikespostgres.com/cost-of-a-join.html
+
+A proposal to deprecate long-lasting cookies over plain HTTP
+https://github.com/mikewest/cookies-over-http-bad
+
+Some functions may have negative complexity (and I may be worried for my crypto)
+https://medium.com/@maiavictor/some-functions-may-have-negative-complexity-im-worried-for-my-crypto-c53f6e7343d3
+
+Machine Learning Can Identify the Authors of Anonymous Code
+https://www.wired.com/story/machine-learning-identify-anonymous-code/
+
+Text Classification is Your New Secret Weapon
+https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788
+
+The Design is the Implementation
+https://danshumway.com/blog/design-is-implementation/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

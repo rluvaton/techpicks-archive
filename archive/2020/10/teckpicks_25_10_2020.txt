@@ -1,0 +1,26 @@
+TechPicks 25/10/2020 -
+
+Awesome Data Engineering
+https://awesomedataengineering.com/
+
+The Seven Stages of Expertise in Software Engineering
+http://www.wayland-informatics.com/The%20Seven%20Stages%20of%20Expertise%20in%20Software.htm
+
+tldrstory: AI-powered understanding of headlines and story text
+https://towardsdatascience.com/tldrstory-ai-powered-understanding-of-headlines-and-story-text-fc86abd702fc
+
+eloquent-ffmpeg - A Node.js media processing library based on FFmpeg command-line tools
+https://github.com/FedericoCarboni/eloquent-ffmpeg
+
+youtube-dl has received a DMCA takedown from RIAA
+https://news.ycombinator.com/item?id=24872911
+
+A source mirror of youtube-dl encoded as an image, posted with decode commands
+https://twitter.com/GalacticFurball/status/1319765986791157761
+
+What is the `toJSON()` Function in JavaScript?
+http://thecodebarbarian.com/what-is-the-tojson-function-in-javascript.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

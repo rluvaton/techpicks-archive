@@ -1,0 +1,32 @@
+TechPicks 27/04/2020 -
+
+Michal Porag - Hash function & Hash Table
+https://medium.com/@miporagi/hash-function-hash-table-cd7b05fec710
+
+xlskubectl — control your Kubernetes cluster with Google Spreadsheets
+https://github.com/learnk8s/xlskubectl
+
+Teleforking a Process onto a Different Computer
+https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/
+
+MERN stack user authentication: Part 1 | User accounts with JWT, Bcrypt, React Hooks, Context API
+https://www.youtube.com/watch?v=4_ZiJGY5F38
+
+Dana Woodman - How I Organize React Projects
+https://blog.danawoodman.com/articles/organizing-react-projects
+
+Middy, Node.js middleware framework for AWS Lambda, goes 1.0.0
+https://loige.co/middy-1-is-here
+
+Deploying code from GitHub to AWS EC2 with CodePipeline
+https://seanjziegler.com/deploying-code-from-github-to-aws-ec2-with-codepipeline/
+
+"Controlling my A/C with a Gameboy"
+http://jg.sn.sg/ir/
+
+ts-engine: Power TypeScript packages and reduce your config overhead
+https://ts-engine.dev/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

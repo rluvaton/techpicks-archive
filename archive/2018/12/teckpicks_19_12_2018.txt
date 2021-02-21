@@ -1,0 +1,29 @@
+TechPicks 19/12/2018 -
+
+Why on earth did we choose Jenkins for 2019?
+https://www.rookout.com/why-on-earth-did-we-choose-jenkins-for-2019/
+
+Elad Shechter - New CSS Logical Properties
+https://medium.com/@elad/new-css-logical-properties-bc6945311ce7
+
+WebAssembly Is Fast: A Real-World Benchmark of WebAssembly vs. Javascript
+https://medium.com/@torch2424/webassembly-is-fast-a-real-world-benchmark-of-webassembly-vs-es6-d85a23f8e193
+
+TC39 is looking to expand the JavaScript standard library
+https://twitter.com/littledan/status/1074719871475351559
+
+"𝙸 𝚖𝚊𝚍𝚎 𝚊 𝚠𝚎𝚋𝚜𝚒𝚝𝚎 𝚝𝚑𝚊𝚝 𝚕𝚎𝚝𝚜 𝚢𝚘𝚞 𝚞𝚜𝚎 𝕱𝖆𝖓𝖈𝖞 𝕱𝖔𝖓𝖙𝖘 𝕒𝕟𝕪𝕨𝕙𝕖𝕣𝕖 𝕠𝕟 𝕥𝕙𝕖 𝕚𝕟𝕥𝕖𝕣𝕟𝕖𝕥."
+https://www.reddit.com/r/SideProject/comments/a76nd8/%F0%9D%99%B8_%F0%9D%9A%96%F0%9D%9A%8A%F0%9D%9A%8D%F0%9D%9A%8E_%F0%9D%9A%8A_%F0%9D%9A%A0%F0%9D%9A%8E%F0%9D%9A%8B%F0%9D%9A%9C%F0%9D%9A%92%F0%9D%9A%9D%F0%9D%9A%8E_%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8A%F0%9D%9A%9D_%F0%9D%9A%95%F0%9D%9A%8E%F0%9D%9A%9D%F0%9D%9A%9C_%F0%9D%9A%A2%F0%9D%9A%98%F0%9D%9A%9E_%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%8E_%F0%9D%95%B1%F0%9D%96%86%F0%9D%96%93%F0%9D%96%88%F0%9D%96%9E_%F0%9D%95%B1%F0%9D%96%94%F0%9D%96%93%F0%9D%96%99%F0%9D%96%98/
+
+Google isn’t the company that we should have handed the Web over to
+https://arstechnica.com/gadgets/2018/12/the-web-now-belongs-to-google-and-that-should-worry-us-all/
+
+DRY Switching with CSS Variables: The Difference of One Declaration
+https://css-tricks.com/dry-switching-with-css-variables-the-difference-of-one-declaration/
+
+TypeScript and React: A primer covering all major topics
+https://fettblog.eu/typescript-react/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 06/02/2019 -
+
+GitHub Release Radar · January 2019
+https://github.blog/2019-02-05-release-radar-january-2019/
+
+Reminder: The world is essentially out of IPv4 addresses. Make sure your stuff works with IPv6!
+https://ipv4.potaroo.net/
+
+If Software Is Funded from a Public Source, Its Code Should Be Open Source
+https://www.linuxjournal.com/content/if-software-funded-public-source-its-code-should-be-open-source
+
+Notion - The Hassle-Free JavaScript Toolchain Manager
+https://www.notionjs.com/
+
+UI as an afterthought
+https://michel.codes/blogs/ui-as-an-afterthought/
+
+Using Artificial Intelligence to Generate Alt Text on Images
+https://css-tricks.com/using-artificial-intelligence-to-generate-alt-text-on-images/
+
+How promises actually work inside out?
+https://101node.io/blog/how-promises-actually-work-inside-out/
+
+Client did not pay?
+https://github.com/kleampa/not-paid
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

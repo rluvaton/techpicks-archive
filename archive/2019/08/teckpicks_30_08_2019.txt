@@ -1,0 +1,41 @@
+TechPicks 30/08/2019 -
+
+Introduction to Event-driven Architectures With RabbitMQ
+https://blog.theodo.com/2019/08/event-driven-architectures-rabbitmq/
+
+What we get wrong about meetings – and how to make them worth attending
+http://timharford.com/2019/08/what-we-get-wrong-about-meetings-and-how-to-make-them-worth-attending/
+
+In praise of developers who delete code
+https://www.techrepublic.com/article/in-praise-of-developers-who-delete-code/
+
+You don't have to code at home
+https://www.codecrush.dev/article/you-dont-have-to-code-at-home/
+
+Richard Stallman - Reasons not to use Google
+https://stallman.org/google.html
+
+A very deep dive into iOS Exploit chains found in the wild
+https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html
+
+The story of a V8 performance cliff in React
+https://v8.dev/blog/react-cliff
+
+"How I Created MailtoUI.js to Modernize Mailto Links"
+https://mariordev.com/articles/mailtoui
+
+3 Lessons Learnt After Taking 3 Years To Finish a 300 Hour Certification
+https://medium.com/quick-code/3-lessons-learnt-after-taking-3-years-to-finish-a-300-hours-certification-eb6ff486b594
+
+Lighthouse Keeper - Keep an eye on accessibility scores and more directly on GitHub
+https://github.com/codechecks/lighthouse-keeper
+
+Dynamically generating SQL queries using Node.js
+https://medium.com/@gajus/dynamically-generating-sql-queries-using-node-js-e89d69930fcb
+
+DropCSS - An exceptionally fast, thorough and tiny unused-CSS cleaner
+https://github.com/leeoniya/dropcss
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

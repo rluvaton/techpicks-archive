@@ -1,0 +1,29 @@
+TechPicks 03/11/2020 -
+
+New "Redux Fundamentals" core docs tutorial is released
+https://redux.js.org/tutorials/fundamentals/part-1-overview
+
+Cursed Code - Fast Inverse Square Root
+https://timmmm.github.io/fast-inverse-square-root/
+
+ARIA in CSS
+https://adactio.com/journal/17566
+
+Comparing static site generator build times
+https://css-tricks.com/comparing-static-site-generator-build-times/
+
+Comprehensive Python Cheatsheet
+https://gto76.github.io/python-cheatsheet/
+
+Supabase.js 1.0 - The open source Firebase alternative. Supabase adds realtime and restful APIs to Postgres without a single line of code
+https://supabase.io/
+
+Chasing the Pixel-Perfect Dream
+https://www.joshwcomeau.com/css/pixel-perfection/
+
+Comparing Various Ways to Hide Things in CSS
+https://css-tricks.com/comparing-various-ways-to-hide-things-in-css/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

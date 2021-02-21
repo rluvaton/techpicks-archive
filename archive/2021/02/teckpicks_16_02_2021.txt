@@ -1,0 +1,26 @@
+TechPicks 16/02/2021 -
+
+21 Bad Front-End Habits to Drop in 2021
+https://dev.to/sachagreif/21-bad-front-end-habits-to-drop-in-2021-1698
+
+Beep Boop! Announcing “use-sound”
+https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/
+
+Microsoft says it found 1,000-plus developers' fingerprints on the SolarWinds attack
+https://www.theregister.com/2021/02/15/solarwinds_microsoft_fireeye_analysis/
+
+re3 - the fully reversed source code for GTA III (master branch) and GTA VC (miami branch)
+https://github.com/GTAmodding/re3
+
+Screenflow: an unfinished attempt at a cross-platform server-driven UI at Uber
+https://artem-tyurin.medium.com/screenflow-an-unfinished-attempt-at-a-cross-platform-server-driven-ui-at-uber-749c1bc1d89
+
+What are Tuples and Records in JavaScript?
+https://www.webtips.dev/tuples-and-records-in-javascript
+
+Microservices are ruining my life
+https://www.youtube.com/watch?v=clagrT5BC7g
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

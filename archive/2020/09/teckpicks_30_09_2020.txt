@@ -1,0 +1,35 @@
+TechPicks 30/09/2020 -
+
+Headless Recorder - now supports Playwright next to Puppeteer
+https://github.com/checkly/headless-recorder
+
+Who needs JavaScript symbols?
+https://dev.to/shadowwarior5/who-needs-javascript-symbols-4g6l
+
+Free, Privacy-First Analytics for a Better Web
+https://blog.cloudflare.com/free-privacy-first-analytics-for-a-better-web/
+
+a11yresources - A growing list of accessibility tools and resources
+https://a11yresources.webflow.io/
+
+OkCupid Presents: Vespa vs. Elasticsearch for matching millions of people
+https://tech.okcupid.com/vespa-vs-elasticsearch/
+
+What's new in the Windows Subsystem for Linux - September 2020
+https://devblogs.microsoft.com/commandline/whats-new-in-the-windows-subsystem-for-linux-september-2020
+
+JavaScript Proxies: Real World Use Cases
+https://www.arbazsiddiqui.me/javascript-proxies-real-world-use-cases/
+
+Kubernetes - Simplified
+https://syntixi.io/post/2020-08-16-kubernetes-simplified/
+
+New features in the fish shell
+https://lwn.net/SubscriberLink/832429/5a786cc0fed26353/
+
+How to Fix PostgreSQL Performance Issues with PG Extras
+https://pawelurbanek.com/postgresql-fix-performance
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

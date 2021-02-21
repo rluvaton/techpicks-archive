@@ -1,0 +1,26 @@
+TechPicks 07/10/2020 -
+
+A foray into template literal types, a powerful feature that will ship as part of the upcoming TypeScript 4.1 release
+https://dev.to/phenomnominal/i-need-to-learn-about-typescript-template-literal-types-51po
+
+DigitalOcean launches App Platform, a fully managed PaaS to compete with Heroku, AppEngine, Beanstalk, etc
+https://www.digitalocean.com/blog/introducing-digitalocean-app-platform-reimagining-paas-to-make-it-simpler-for-you-to-build-deploy-and-scale-apps/
+
+Teenyicons — Tiny minimal 1px icons
+https://teenyicons.com/
+
+Hola SVG - Free SVG Icons
+https://holasvg.com/icons/
+
+plausible/analytics – Self-hosted and privacy-first Google Analytics alternative
+https://github.com/plausible/analytics
+
+TIME for a WTF MySQL moment
+https://gbl08ma.com/time-for-a-wtf-mysql-moment/
+
+The Database is on Fire
+http://acko.net/blog/the-database-is-on-fire/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

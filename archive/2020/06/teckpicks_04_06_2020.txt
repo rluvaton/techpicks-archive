@@ -1,0 +1,29 @@
+TechPicks 04/06/2020 -
+
+Track Your Smartphone in 2D With JavaScript
+https://medium.com/better-programming/track-your-smartphone-in-2d-with-javascript-1ba44603c0df
+
+Easy P2P file transfer powered by WebRTC
+https://github.com/cowbell/sharedrop
+
+Exploring Regular Expressions, Part II: Regular Languages and Finite-State Automata
+http://raganwald.com/2019/12/17/regular-expressions.html
+
+Google Sued for Secretly Amassing Vast Trove of User Data
+https://www.bloomberg.com/news/articles/2020-06-02/google-sued-for-secretly-amassing-vast-trove-of-user-web-data
+
+Keep up with the Tines: Rails frontend revamp [jQuery + CoffeeScript + Sprockets -> React + Webpacker + MobX]
+https://evilmartians.com/chronicles/keep-up-with-the-tines-a-rails-frontend-revamp
+
+A GitHub action that autofills your GitHub contribution graph
+https://github.com/marketplace/actions/autopopulate-your-contribution-graph
+
+A Look at Chapel, D, and Julia Using Kernel Matrix Calculations
+https://dlang.org/blog/2020/06/03/a-look-at-chapel-d-and-julia-using-kernel-matrix-calculations/
+
+So What's Up with Microsoft's (and Everyone Else's) Love of Rust?
+https://visualstudiomagazine.com/articles/2020/06/02/rust-love.aspx
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

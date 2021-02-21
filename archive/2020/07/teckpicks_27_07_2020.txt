@@ -1,0 +1,32 @@
+TechPicks 27/07/2020 -
+
+GitHub Profile README Showcase
+https://dev.to/manbir/github-profile-readme-showcase-2def
+
+Developers Should Abandon Agile
+https://ronjeffries.com/articles/018-01ff/abandon-1/
+
+Slowsort - a pessimal sorting algorithm
+https://arpitbhayani.me/blogs/slowsort
+
+6 Powerful CSS Techniques You Can Use Instead of Javascript
+https://www.diogorodrigues.dev/blog/6-powerful-css-techniques-you-can-use-instead-javascript
+
+The simplest CSS variable dark mode theme
+https://lukelowrey.com/css-variable-theme-switcher/
+
+A Quick Introduction to Register Allocation
+https://hassamuddin.com/blog/reg-alloc/
+
+A silly thing you can do with the Ruby parser
+https://penelope.zone/2019/12/22/a-silly-thing-you-can-do-with-the-ruby-parser.html
+
+Apple declined to implement 16 Web APIs in Safari due to privacy concerns
+https://css-tricks.com/apple-declined-to-implement-16-web-apis-in-safari-due-to-privacy-concerns/
+
+New ‘Meow’ attack has deleted almost 4,000 unsecured databases
+https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

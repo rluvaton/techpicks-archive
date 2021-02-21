@@ -1,0 +1,36 @@
+TechPicks 14/06/2018 -
+
+Why you don't need a bootcamp
+http://blog.technically.fun/2018/06/why-you-dont-need-bootcamp.html
+
+Introducing Vue Native
+https://blog.geekyants.com/introducing-vue-native-b66f71d50438
+
+Reflections on the importance of initiative, enthusiasm and constant retraining to be a good developer over a University Degree.
+https://medium.com/commite/what-path-would-you-follow-to-become-a-web-developer-e6f1d785b3c0
+
+You don’t need a CS degree to be a successful engineer, but it helps.
+https://medium.com/@swizec/you-dont-need-a-cs-degree-to-be-a-successful-engineer-but-it-helps-d001ce3c3b35
+
+8 CSS selectors DO’s and DON’Ts (part 1)
+https://medium.com/@aljullu/8-css-selectors-dos-and-don-ts-1e0d23fcf96c
+
+4 CSS tricks I’ve learnt the hard way
+https://medium.com/p/aab1e7e8ff44/
+
+The new (and old) CSS units you've never heard about
+https://dev.to/maxart2501/the-new-and-old-css-units-youve-never-heard-about-1mn1
+
+“Let’s broadcast the key over Bluetooth. Oh, and use HTTP, no one will know” — the creators of the Tapplock, probably.
+https://www.pentestpartners.com/security-blog/totally-pwning-the-tapplock-smart-lock/
+
+AT&T Archives: The UNIX Operating System [Video from 1982]
+https://www.youtube.com/watch?v=tc4ROCJYbm0
+
+Unit Test Success using Ports, Adapters, and Simulators
+https://blogs.msdn.microsoft.com/ericgu/2014/12/01/unit-test-success-using-ports-adapters-and-simulators/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

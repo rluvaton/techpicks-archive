@@ -1,0 +1,29 @@
+TechPicks 10/06/2020 -
+
+Appwrite 0.6 Comes with Full TypeScript Support
+https://medium.com//appwrite-0-6-comes-with-full-typescript-support-b207caa47a1a
+
+Not everything is UTF-8
+https://octobus.net/blog/2020-06-05-not-everything-is-utf8.html
+
+I was emailed after abandoning a registration form. I did not click Submit. This is not ok.
+https://dev.to/heshiebee/i-was-emailed-after-abandoning-a-registration-form-i-did-not-click-submit-this-is-not-ok-a63
+
+Rate Limiting an Express API: Reactive Backend Programming By Example
+https://eugene.coding.blog/rate-limiting-an-express-app
+
+A Tiny, Static, Full-Text Search Engine Using Rust and WebAssembly
+https://endler.dev/2019/tinysearch/
+
+Visual Studio Code Go extension joins the Go project
+https://code.visualstudio.com/blogs/2020/06/09/go-extension
+
+After 10 Years in Tech Isolation, I’m Now Outsider to Things I Once Had Mastered
+https://forklog.media/after-10-years-in-tech-isolation-im-now-outsider-to-things-i-once-had-mastered/
+
+Amazon sues former AWS marketing VP Brian Hall after he takes Google Cloud job
+https://www.geekwire.com/2020/amazon-sues-former-aws-marketing-vp-brian-hall-accepts-google-cloud-job/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

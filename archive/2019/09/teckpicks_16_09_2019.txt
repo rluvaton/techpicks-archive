@@ -1,0 +1,29 @@
+TechPicks 16/09/2019 -
+
+Generate mock data from mongoose schema with fakingoose
+https://www.npmjs.com/package/fakingoose
+
+Complete, in-depth overview of Sync and Async Iterators and Generators (4 part series)
+https://jfet97.github.io/JavaScript-Iterators-and-Generators/
+
+Bug-proofing our application with Error Boundaries and the Strict Mode
+https://wanago.io/2019/09/16/bug-proofing-our-application-with-error-boundaries-and-the-strict-mode/
+
+Cuckoo Hashing
+https://programming.guide/cuckoo-hashing.html
+
+Dependency injection in JavaScript
+https://medium.com/@viktor.kukurba/dependency-injection-and-inversion-of-control-in-javascript-303e07e7f43f
+
+Top 10 Books For Software Engineers
+https://waynecovell.co.uk/coding/top-10-books-for-software-engineers/
+
+Neural Modules (NeMo): A toolkit for conversational AI
+https://github.com/NVIDIA/NeMo
+
+The origin of complexity
+https://medium.com/@joakimtengstrand/the-origin-of-complexity-8ecb39130fc
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

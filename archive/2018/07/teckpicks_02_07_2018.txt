@@ -1,0 +1,30 @@
+TechPicks 02/07/2018 -
+
+Interesting video about Reddit’s early architecture from Reddit co-founder Steve Huffman.
+https://youtu.be/I0AaeotjVGU
+
+git bundle
+https://dev.to/gabeguz/git-bundle-2l5o
+
+Learn these JavaScript fundamentals and become a better developer
+https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf
+
+Very lightweight & robust custom-looking HTML scrollbar script
+https://github.com/yairEO/fakescroll
+
+"How I Made The NIKE Logo Using A Single HTML Element — Or How I Thought Inside The Box And Found Two More"
+https://medium.com/@js_tut/how-i-made-the-nike-logo-using-a-single-html-element-or-how-i-thought-inside-the-box-and-found-5964c3918849
+
+Proof of concept sudo for Windows - no UAC, inherits command line environment
+https://github.com/parkovski/stdo
+
+N64 VR with JavaScript
+https://medium.com/webmr/n64-vr-with-javascript-e188de42ced5
+
+SVG uploads in WordPress (the Inconvenient Truth)
+https://bjornjohansen.no/svg-in-wordpress
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

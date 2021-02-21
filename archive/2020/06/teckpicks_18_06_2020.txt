@@ -1,0 +1,26 @@
+TechPicks 18/06/2020 -
+
+Now free to read online: "Deep JavaScript: Theory and techniques"
+https://exploringjs.com/deep-js/
+
+Microsoft brings GPU compute support to Windows Subsystem for Linux
+https://blogs.windows.com/windowsdeveloper/2020/06/17/gpu-accelerated-ml-training-inside-the-windows-subsystem-for-linux/
+
+Protect yourself from Git identity theft
+https://medium.com/@bilalfazlani/protect-yourself-from-git-identity-theft-f6836f3249d5
+
+X.509: The Impending Doom of Expiring Root CAs and Legacy Clients
+https://scotthelme.co.uk/impending-doom-root-ca-expiring-legacy-clients/
+
+Tom's Data Onion - A Programming Puzzle In A Text File
+https://www.tomdalling.com/toms-data-onion/
+
+C++20: The Unspoken Features
+https://humanreadablemag.com/issues/3/articles/cpp20-the-unspoken-features
+
+Announcing swc v1.2.0: Yet another asset bundler
+https://swc-project.github.io/blog/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

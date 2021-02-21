@@ -1,0 +1,35 @@
+TechPicks 17/09/2018 -
+
+The basic architecture concepts I wish I knew when I was getting started as a web developer
+https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+
+How to restart any iOS device with just CSS
+https://twitter.com/pwnsdx/status/1040944750973595649
+
+DSS - Deterministic Style Sheets
+https://survivejs.com/blog/dss-interview/
+
+Vanilla is a simple extensible CSS framework, written in Sass, by the Ubuntu Web Team
+https://vanillaframework.io/
+
+Ikonate - Fully customisable & accessible vector icons
+https://www.ikonate.com/
+
+Ky is a tiny and elegant HTTP client based on the browser Fetch API
+https://github.com/sindresorhus/ky
+
+Introducing Trashy.css
+https://css-tricks.com/introducing-trashy-css/
+
+Linus Torvalds apologizes for his behavior, takes time off
+https://lore.kernel.org/lkml/CA+55aFy+Hv9O5citAawS+mVZO+ywCKd9NQ2wxUmGsz9ZJzqgJQ@mail.gmail.com/
+
+Raytracing a Black Hole
+http://rantonels.github.io/starless/
+
+Exercism - coding exercises
+https://exercism.io/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

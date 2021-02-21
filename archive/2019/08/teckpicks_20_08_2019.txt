@@ -1,0 +1,35 @@
+TechPicks 20/08/2019 -
+
+Airframe - Admin Panel/Dashboard as Open Source
+https://github.com/0wczar/airframe-react
+
+Memento - a development-only tool that caches HTTP calls once they have been executed
+https://github.com/antoinechalifour/memento/blob/master/README.md
+
+Getting started with React Hooks with step by step examples
+https://www.vtnetzwelt.com/web-development-blog/getting-started-with-react-hooks/
+
+chart.xkcd: xkcd styled chart lib
+https://github.com/timqian/chart.xkcd
+
+OpenDrop: An Open Source AirDrop Implementation
+https://github.com/seemoo-lab/opendrop
+
+TypeCov - Track missing type coverage in TypeScript projects to ensure type safety
+https://github.com/codechecks/typecov
+
+A Practical Introduction to Big O
+https://medium.com/better-programming/a-practical-introduction-to-big-o-a9f9c416aaaf
+
+How Rust optimizes async/await: Part 1
+https://tmandry.gitlab.io/blog/posts/optimizing-await-1/
+
+What we learned about PWAs and audio playback
+https://medium.com/prototyped/what-we-learned-about-pwas-and-audio-playback-10a01c6aecbd
+
+Glitter Effects CSS and JS
+http://glitter-effects-any-image.yudo.it
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

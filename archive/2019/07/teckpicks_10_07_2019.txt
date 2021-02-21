@@ -1,0 +1,32 @@
+TechPicks 10/07/2019 -
+
+IBM Closes Landmark Acquisition of Red Hat for $34 Billion; Defines Open, Hybrid Cloud Future
+https://www.redhat.com/en/about/press-releases/ibm-closes-landmark-acquisition-red-hat-34-billion-defines-open-hybrid-cloud-future
+
+Uber: H3, a Open Source Geospatial Indexing System
+https://eng.uber.com/visualizing-city-cores-with-h3/
+
+Next.js 9 released
+https://nextjs.org/blog/next-9
+
+Notable: Markdown-based note-taking app built for developers
+https://github.com/notable/notable#readme
+
+Angular & Headless CMS
+https://itnext.io/angular-headless-cms-6a8c7c77af54
+
+Handling Array Duplicates Can Be Tricky
+https://devinduct.com/blogpost/17/handling-array-duplicates-can-be-tricky
+
+SVG for Developers: Why You Should Be Using Them If You're Not Already
+https://deliciousbrains.com/svg-advantages-developers/
+
+Google to stop supporting noindex directive in robots.txt
+https://searchengineland.com/google-to-stop-supporting-noindex-directive-in-robots-txt-319003
+
+What's Deno, and how is it different from Node.js?
+https://blog.logrocket.com/what-is-deno/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

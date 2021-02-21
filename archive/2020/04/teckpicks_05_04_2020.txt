@@ -1,0 +1,32 @@
+TechPicks 05/04/2020 -
+
+Elad Shechter - Reverse Engineering WhatsApp Web’s CSS
+https://blog.animaapp.com/reverse-engineering-whatsapp-webs-css-9239293009f4
+
+Understanding the ECMAScript spec, part 1
+https://v8.dev/blog/understanding-ecmascript-part-1
+
+All Pluralsight videos are free for the month of April
+https://www.pluralsight.com/
+
+"Design Node.js Backend Architecture like a Pro"
+https://afteracademy.com/blog/design-node-js-backend-architecture-like-a-pro
+
+How to send large SQS/SNS messages with Node.js
+https://medium.com/aspecto/how-to-send-large-sqs-sns-messages-with-node-js-5fc0d85c07e7
+
+CSS Findings From The New Facebook Design
+https://ishadeed.com/article/new-facebook-css/
+
+Zoom meetings aren’t end-to-end encrypted, despite marketing
+https://theintercept.com/2020/03/31/zoom-meeting-encryption/
+
+10 Things I Hate About PostgreSQL
+https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791
+
+How to test Webhooks when you’re developing locally
+https://www.freecodecamp.org/news/testing-webhooks-while-using-vagrant-for-development-98b5f3bedb1d/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

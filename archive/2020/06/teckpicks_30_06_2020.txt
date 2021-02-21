@@ -1,0 +1,26 @@
+TechPicks 30/06/2020 -
+
+Why do so few people major in computer science?
+https://danwang.co/why-so-few-computer-science-majors/
+
+The Art Of Learning For Software Developers
+https://thevaluable.dev/learning-developer-efficiently-effectively/
+
+Service Workers Explained - Introduction to the JavaScript API
+https://felixgerschau.com/service-workers-explained-introduction-javascript-api/
+
+Worrying about the NPM ecosystem
+https://sambleckley.com/writing/npm.html
+
+Maths & trigonometry cheat sheet for 2D & 3D games
+https://gist.github.com/xem/99930986c5333125a13b0ea50600391f
+
+Write better tests with "Testing Hooks" pattern
+https://gregberge.com/blog/testing-hooks
+
+A gorgeous, simple, tiny JavaScript package to add keyboard bindings into your application.
+https://github.com/lukeraymonddowning/whenipress
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

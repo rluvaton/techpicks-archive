@@ -1,0 +1,32 @@
+TechPicks 01/05/2019 -
+
+Application State Management with React by Kent C. Dodds
+https://kentcdodds.com/blog/application-state-management-with-react
+
+Why and how I built my own GitHub
+http://krasimirtsonev.com/blog/article/why-and-how-i-built-my-own-github
+
+"Frontend Development is dead. Long live to Frontend Engineering!"
+https://medium.com/p/67760168cc0d
+
+5 ways to use OAuth2 in Firebase and Google Cloud Platform
+https://blog.quid.works/serverless-oauth2-flows/
+
+Web performance for a Frontend developer
+https://dev.to/mohandere/web-performance-for-a-frontend-developer-11li
+
+GraphQL Fragments and the benefits of using them
+https://blog.graphqleditor.com/GraphQL-fragments/
+
+The CSS Handbook: a handy guide to CSS for developers
+https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11
+
+Oh, the Many Ways to Make Triangular Breadcrumb Ribbons
+https://css-tricks.com/oh-the-many-ways-to-make-triangular-breadcrumb-ribbons/
+
+The Apache Software Foundation has moved all its projects to Microsoft GitHub
+https://mspoweruser.com/the-apache-software-foundation-has-moved-all-its-projects-to-microsoft-github/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

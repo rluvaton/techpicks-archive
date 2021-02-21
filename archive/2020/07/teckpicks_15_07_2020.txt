@@ -1,0 +1,32 @@
+TechPicks 15/07/2020 -
+
+Developers can't fix bad management
+https://iism.org/article/developers-can-t-fix-bad-management-57
+
+Data Structures & Algorithms I Actually Used Working at Tech Companies
+https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/
+
+WTF is a closure?
+https://whatthefuck.is/closure
+
+tinyhttp - a tiny web framework as a replacement of Express
+https://github.com/talentlessguy/tinyhttp
+
+Tech Sector Job Interviews Assess Anxiety, Not Software Skills
+https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/
+
+You can embed HTML inside an SVG file and still render as an img element
+https://twitter.com/ryanlanciaux/status/1283084593609007105
+
+I don't love programming
+https://dev.to/mrmonkeytech/i-don-t-love-programming-3aak
+
+Data Structures & Algorithms I Actually Used Working at Tech Companies
+https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/
+
+Modernising .NET projects for .NET Core and beyond!
+https://dwmkerr.com/modernising-dotnet-projects/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,26 @@
+TechPicks 12/11/2020 -
+
+Self-hosted offline Internet from your browsing history
+https://github.com/c9fe/22120
+
+Lighting fast search with Elasticsearch
+https://dev.to/webiny/lighting-fast-search-with-elasticsearch-n82
+
+On Choosing Boring Tech
+https://panelbear.com/blog/boring-tech/
+
+Dropping Support For IE11 Is Progressive Enhancement
+https://blog.carlmjohnson.net/post/2020/time-to-kill-ie11/
+
+Python Packages - check their popularity and how they're commonly used together
+https://package.wiki/
+
+Postgres Observability
+https://pgstats.dev/
+
+Reviving Yo: How to Patch an APK
+https://blog.wesleyac.com/posts/patching-apks
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

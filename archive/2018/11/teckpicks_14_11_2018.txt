@@ -1,0 +1,38 @@
+TechPicks 14/11/2018 -
+
+Benjamin Gruenbaum - The Open Source Development Surprise
+https://www.youtube.com/watch?v=Lckris5U5iw
+
+Faster async functions and promises in V8
+https://v8.dev/blog/fast-async
+
+Why Facebook's API starts with a for loop
+https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob
+
+Angular polyfill strategies
+https://izifortune.com/angular-polyfill-strategies/
+
+Should designers code?
+https://should.design/
+
+React for the Angular Dev
+https://medium.com/@amcdnl/react-for-the-angular-dev-be21a39a382
+
+The Source History of Cat
+https://twobithistory.org/2018/11/12/cat.html
+
+The next version of HTTP won’t be using TCP
+https://arstechnica.com/gadgets/2018/11/the-next-version-of-http-wont-be-using-tcp/
+
+Serving Millions of Users in Real-Time with Node.js & Microservices [Case Study]
+https://blog.risingstack.com/nodejs-microservices-scaling-case-study/
+
+HTTP-over-QUIC to be renamed HTTP/3
+https://www.zdnet.com/article/http-over-quic-to-be-renamed-http3/
+
+The source history of cat
+https://twobithistory.org/2018/11/12/cat.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

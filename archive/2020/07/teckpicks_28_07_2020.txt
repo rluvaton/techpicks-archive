@@ -1,0 +1,32 @@
+TechPicks 28/07/2020 -
+
+React Colorbook - a React component to view your colors file in a visual form
+https://github.com/JordanSh/react-colorbook
+
+Superfine 8 — Absolute bare minimum view layer for building web interfaces
+https://github.com/jorgebucaran/superfine/
+
+3 basics of TypeScript you probably do not know
+https://adamconrad.dev/blog/3-basics-of-typescript-you-probably-dont-know/
+
+Simulating Object Collisions With Canvas
+https://joshbradley.me/object-collisions-with-canvas/
+
+Introspecting CSS via the CSS OM: Getting supported properties, shorthands, longhands
+https://lea.verou.me/2020/07/introspecting-css-via-the-css-om-getting-supported-properties-shorthands-longhands/
+
+Some SQL Tricks of an Application DBA
+https://hakibenita.com/sql-tricks-application-dba
+
+Introducing GitHub's OpenAPI Description
+https://github.blog/2020-07-27-introducing-githubs-openapi-description/
+
+Monads and Mom
+http://twitchard.github.io/posts/2020-07-26-monads.html
+
+Cloudflare launches Workers Unbound, the next evolution of its Serverless platform
+https://techcrunch.com/2020/07/27/cloudflare-launches-workers-unbound-the-next-evolution-of-its-serverless-platform/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

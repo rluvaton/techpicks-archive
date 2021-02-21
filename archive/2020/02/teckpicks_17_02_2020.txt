@@ -1,0 +1,26 @@
+TechPicks 17/02/2020 -
+
+Math keeps changing
+https://macwright.org/2020/02/14/math-keeps-changing.html
+
+3 tribes of programming
+https://josephg.com/blog/3-tribes/
+
+ESBuild: An extremely fast JavaScript bundler and minifier written in Go
+https://github.com/evanw/esbuild/
+
+Creating a Monorepo with Lerna & Yarn Workspaces
+https://leerob.io/blog/monorepo-lerna-yarn-workspaces
+
+Git Command Explorer - a very handy tool if you can’t remember Git commands
+https://gitexplorer.com/
+
+Rotary cellphone
+http://justine-haupt.com/rotarycellphone/
+
+Typesafe replacement for the Node.js EventEmitter, embracing functional programming
+https://github.com/garronej/ts-evt
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

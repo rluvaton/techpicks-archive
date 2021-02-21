@@ -1,0 +1,29 @@
+TechPicks 26/09/2019 -
+
+Telling the Truth About Defects in Technology Should Never, Ever, Ever Be Illegal. EVER.
+https://www.eff.org/deeplinks/2018/08/telling-truth-about-defects-technology-should-never-ever-ever-be-illegal-ever
+
+How did MS-DOS decide that two seconds was the amount of time to keep the floppy disk cache valid?
+https://devblogs.microsoft.com/oldnewthing/20190924-00/?p=102915
+
+Let's Write a Brainfuck Compiler
+https://www.jsmonday.dev/articles/37/let-s-write-a-brainfuck-compiler
+
+Hacktoberfest Is Back for Year Six!
+https://blog.digitalocean.com/hacktoberfest-is-back-for-year-six/
+
+Elements to Include in Your Web Design Contract to Save You Time, Money, and Aggravation
+https://elementor.com/blog/web-design-contract
+
+A list of themes and starters for JAMstack sites
+https://jamstackthemes.dev/
+
+Start a New Union For Tech Workers. Please.
+https://splinternews.com/start-a-new-union-for-tech-workers-please-1838439464
+
+Introducing Cutestrap Two: A powerful 2.7KB pure CSS framework.
+https://www.cutestrap.com/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,20 @@
+TechPicks 17/03/2020 -
+
+GitHub acquires NPM
+https://github.blog/2020-03-16-npm-is-joining-github/
+
+Visualizing how viruses spread in a population
+https://reactfordataviz.com/articles/corona-simulation/
+
+How GitHub blocked me (and all my libraries)
+https://medium.com/@catamphetamine/how-github-blocked-me-and-all-my-libraries-c32c61f061d3
+
+"Hard CSS gradients" can be shortened to not include redundant values
+https://www.stefanjudis.com/today-i-learned/hard-css-gradients-can-be-shortened-to-not-include-redundant-values/
+
+Rolling your own encryption
+https://www.gkbrk.com/2020/03/encryption/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

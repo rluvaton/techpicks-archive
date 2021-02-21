@@ -1,0 +1,26 @@
+TechPicks 10/11/2020 -
+
+interviews.school – Complete interview preparation guide
+https://interviews.school
+
+The Tao of Programming
+https://www.mit.edu/~xela/tao.html
+
+Learn to use a debugger
+https://letterstoanewdeveloper.com/2019/04/08/learn-to-use-a-debugger/
+
+Understanding & Optimising the Critical Rendering Path
+https://blog.gyenabubakar.dev/understanding-and-optimising-the-critical-rendering-path-ckh9si3is00lsnns142q5hqgz
+
+How Netflix Scales its API with GraphQL Federation | Netflix TechBlog
+https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2
+
+A search engine for JS operators
+https://joshwcomeau.com/operator-lookup/
+
+This is how I git
+https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

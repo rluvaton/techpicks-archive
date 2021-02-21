@@ -1,0 +1,29 @@
+TechPicks 13/05/2019 -
+
+API design: Why you should use links, not keys, to represent relationships in APIs
+https://cloudblog.withgoogle.com/products/application-development/api-design-why-you-should-use-links-not-keys-to-represent-relationships-in-apis/amp/
+
+Star City Tycoon Open Source Online Monopoly Game with Three.js
+https://hidden-bastion-42143.herokuapp.com/
+
+Simple RegEx tricks for beginners
+https://medium.freecodecamp.org/simple-regex-tricks-for-beginners-3acb3fa257cb
+
+JavaScript data stream ETL engine
+https://github.com/Claviz/bellboy
+
+A Beginner's Roadmap to Becoming a Full-Stack Web Developer
+https://utkuufuk.github.io/2019/05/12/fullstack-roadmap/
+
+They Were Promised Coding Jobs in Appalachia. Now They Say It Was a Fraud.
+https://www.nytimes.com/2019/05/12/us/mined-minds-west-virginia-coding.html
+
+Sentiment Analysis with Node.js
+https://enlight.nyc/projects/sentiment-analysis
+
+A Basic Guide to the CSS Box Model
+https://medium.com/@kastor012/the-basic-guide-to-the-css-box-model-3f9526c1c383
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

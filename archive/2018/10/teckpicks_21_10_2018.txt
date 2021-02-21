@@ -1,0 +1,35 @@
+TechPicks 21/10/2018 -
+
+Introducing GitHub Actions (tutorial)
+https://css-tricks.com/introducing-github-actions/
+
+Graphpack – ☄ A minimalistic zero-config GraphQL server
+https://github.com/glennreyes/graphpack
+
+Pattern Matching and Recursion
+http://raganwald.com/2018/10/17/recursive-pattern-matching.html
+
+The Web, 2018
+https://twitter.com/burgervege/status/1053557632265527296
+
+Minimal & Modern boilerplate for building apps with React & styled-components
+https://github.com/xxczaki/styled-react-boilerplate
+
+As companies embrace AI, a shortage of Machine Learning and AI specialists opens up
+https://www.reuters.com/article/us-usa-economy-artificialintelligence/as-companies-embrace-ai-its-a-job-seekers-market-idUSKCN1MP10D
+
+Microservices Are Something You Grow Into, Not Begin With
+https://nickjanetakis.com/blog/microservices-are-something-you-grow-into-not-begin-with
+
+Let’s talk about PAKE
+https://blog.cryptographyengineering.com/2018/10/19/lets-talk-about-pake/
+
+Zero-day in popular jQuery plugin actively exploited for at least three years
+https://www.zdnet.com/article/zero-day-in-popular-jquery-plugin-actively-exploited-for-at-least-three-years/
+
+Time Series vs Logging vs Tracing
+https://kubedex.com/observability-time-series-vs-logging-vs-tracing/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

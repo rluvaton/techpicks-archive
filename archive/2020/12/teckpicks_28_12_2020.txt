@@ -1,0 +1,35 @@
+TechPicks 28/12/2020 -
+
+A Calendar in Three Lines of CSS
+https://calendartricks.com/a-calendar-in-three-lines-of-css
+
+React Performance Optimization Tips
+https://dev.to/harshdand/react-performance-optimization-tips-4238
+ 
+Stork Turns One: Building a search tool for static sites with Rust and WebAssembly
+https://jameslittle.me/blog/2020/one-year-of-stork/
+
+A Vim Guide for Intermediate Users
+https://thevaluable.dev/vim-intermediate/
+
+At least one Vim trick you might not know
+https://www.hillelwayne.com/post/intermediate-vim/
+
+Maybe You Don't Need Kubernetes
+https://endler.dev/2019/maybe-you-dont-need-kubernetes/
+
+How Complex Systems Fail
+https://how.complexsystems.fail/ 
+
+60+ useful ESLint rules
+https://github.com/sindresorhus/eslint-plugin-unicorn
+
+Upptime - an uptime monitor and status page powered by GitHub
+https://upptime.js.org/
+
+The Joy Of Typed Python
+https://www.balajeerc.info/The-Joy-of-Typed-Python/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

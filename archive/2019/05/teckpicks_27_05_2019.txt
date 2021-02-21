@@ -1,0 +1,32 @@
+TechPicks 27/05/2019 -
+
+Secrets of JavaScript: a tale of React, performance optimization and multi-threading
+https://medium.com/@leofabrikant/secrets-of-javascript-a-tale-of-react-performance-optimization-and-multi-threading-9409332d349f
+
+Managing Front-end JavaScript Environment Variables
+https://www.robertcooper.me/front-end-javascript-environment-variables
+
+Four patterns for global state with React hooks: Context or Redux
+https://medium.com/@dai_shi/cbc2dc787380
+
+10 Lessons Learned in Enterprise Angular Development
+https://blog.angularindepth.com/10-lessons-learned-in-enterprise-angular-development-cc4bd194fcb7
+
+Fake English-like word generator JavaScript/TypeScript
+https://github.com/nwtgck/fakelish-npm
+
+Single Dashboard built with JavaScript to identify cost savings on both AWS and GCP
+https://github.com/mlabouardy/komiser
+
+HTML Emails 101 For Web Developers
+https://medium.com/@andrewlaurentiu/html-emails-4de656a6b7ef
+
+Flexbox — The Animated Tutorial (gives a good grasp on Flex from just skimming through it)
+https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2
+
+JSON Type Validator for TypeScript - Safer JSON.parse()
+https://github.com/nwtgck/ts-json-validator
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

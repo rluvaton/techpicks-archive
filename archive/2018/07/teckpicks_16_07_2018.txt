@@ -1,0 +1,41 @@
+TechPicks 16/07/2018 -
+
+Tilde or the Floor? Practical use for JavaScript bitwise operators. (#1)
+http://rocha.la/JavaScript-bitwise-operators-in-practice
+
+The Guerrilla Guide to Interviewing (version 3.0)
+https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/
+
+Let’s build a customizable rich text editor with Slate and React
+https://medium.com/@wesharehoodies/lets-build-a-customizable-rich-text-editor-with-slate-and-react-beefd5d441f2
+
+The Extensive Guide to Creating Streams in RxJS
+https://blog.angularindepth.com/the-extensive-guide-to-creating-streams-in-rxjs-aaa02baaff9a
+
+Anatomy of a malicious script: how a website can take over your browser | CSS-Tricks
+https://css-tricks.com/anatomy-of-a-malicious-script-how-a-website-can-take-over-your-browser/
+
+7 Rules for Creating Gorgeous UI (Part 1)
+https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda
+
+Z: Pattern Matching for Javascript
+https://z-pattern-matching.github.io/
+
+Programmer's introduction to linear equations
+http://wordsandbuttons.online/programmers_introduction_to_linear_equations.html
+
+Lean Testing or why unit tests are worse than you think
+https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009
+
+router7 - a pure-Go implementation of a home internet router
+https://github.com/rtr7/router7
+
+Tired of typing `nvm use`? Here's a handy Bash alias!
+https://asciinema.org/a/191898
+
+Testing React application with Cypress
+https://medium.com/@ahmetkapusuz/testing-react-application-with-cypress-fce9e159fec
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

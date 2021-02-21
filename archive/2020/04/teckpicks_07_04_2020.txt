@@ -1,0 +1,26 @@
+TechPicks 07/04/2020 -
+
+Quickly Improve Your Docker and Node.js Containers
+https://medium.com/better-programming/quickly-improve-your-docker-and-node-js-containers-b841858a0b38
+
+Rclone – Sync files and directories to many cloud storage providers
+https://github.com/rclone/rclone
+
+How SEO Ruined the Internet
+https://www.superhighway98.com/seo
+
+This Video Has 2,648,455 Views (Tom Scott on web APIs)
+https://www.youtube.com/watch?v=BxV14h0kFs0
+
+What every front-end developer should know about change detection in Angular and React
+https://indepth.dev/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react/
+
+Microsoft Edge is now 2nd most popular desktop browser, beats Firefox
+https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-is-now-2nd-most-popular-desktop-browser-beats-firefox/
+
+Common JSON patterns in Haskell, Rust and TypeScript
+https://codetalk.io/posts/2020-04-05-common-json-patterns-in-haskell-rust-and-javascript.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

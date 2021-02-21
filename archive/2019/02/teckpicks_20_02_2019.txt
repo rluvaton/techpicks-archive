@@ -1,0 +1,32 @@
+TechPicks 20/02/2019 -
+
+I ruin developers’ lives with my code reviews and I'm sorry
+https://habr.com/en/post/440736/
+
+The convergence of TSLint and ESLint
+https://medium.com/palantir/tslint-in-2019-1a144c2317a9
+
+Funding ESLint's Future
+https://eslint.org/blog/2019/02/funding-eslint-future
+
+A (re)introduction to React
+https://hashnode.com/post/a-reintroduction-to-react-cjsbli2an02b7dys2y3ypng2z
+
+Introduction to CSS Grid: What You Should Know
+https://dev.to/karaluton/introduction-to-css-grid-what-you-should-know-52np
+
+The State of CSS Survey 2019
+https://stateofcss.com/
+
+Semantic layout with 'display: contents'
+https://codepen.io/vikas-parashar/pen/Zwwbox
+
+We migrated our home page from a basic React boilerplate to Next.js. It's now 7.5x faster
+https://www.manifold.co/blog/we-migrated-to-next-js-to-serve-our-home-page-7-5-faster-559443219c84
+
+How to teach Git
+https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

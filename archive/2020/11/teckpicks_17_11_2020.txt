@@ -1,0 +1,29 @@
+TechPicks 17/11/2020 -
+
+GitHub reinstates youtube-dl library after EFF intervention, and will also establish a $1 million "developer defense fund"
+https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/
+
+New Node v15/v14/v12 releases out with fixes for high priority denial of service vulnerability
+https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V15.md#15.2.1
+
+What Gödel Discovered
+https://stopa.io/post/269
+
+Git is simply too hard
+https://changelog.com/posts/git-is-simply-too-hard
+
+Python Pitfalls - Expecting The Unexpected
+https://towardsdatascience.com/python-pitfalls-expecting-the-unexpected-2e595dd1306c
+
+The 7 commandments of debugging
+https://medium.com/@samuelpouyt/the-7-commandments-of-debugging-4f79d0f5b356
+
+Great Code Reviews—The Superpower Your Team Needs
+https://shopify.engineering/great-code-reviews
+
+How to test Compound Components
+https://www.samdawson.dev/article/how-to-test-compound-components
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

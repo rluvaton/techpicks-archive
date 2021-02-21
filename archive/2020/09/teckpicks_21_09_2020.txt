@@ -1,0 +1,35 @@
+TechPicks 21/09/2020 -
+
+Omer Talmi - Benefit the Most Out of Cypress Reports
+https://medium.com/dev-genius/benefiting-the-most-of-cypress-report-10279fd9feb6
+
+A Syntax for Self-Tracking
+https://www.gibney.de/a_syntax_for_self-tracking
+
+TL;DR Rust
+https://christine.website/blog/TLDR-rust-2020-09-19
+
+Why Not Rust?
+https://matklad.github.io//2020/09/20/why-not-rust.html
+
+All Frontend Armory Articles are now free
+https://frontarm.com/james-k-nelson/demonetization/
+
+Keep your local git repositories organized by cloning them into a directory structure based on their URL
+https://gitlab.com/3point2/git-cu
+
+ugit: DIY Git in Python
+https://www.leshenko.net/p/ugit/
+
+Two specific CSS selector-isms which will bite you in the rear
+https://ecc-comp.blogspot.com/2020/08/blog-post.html
+
+Monitoring my home network
+https://mrkaran.dev/posts/isp-monitoring/
+
+From YAGNI to YDNIY
+https://codewithoutrules.com/2020/09/18/ydniy/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,32 @@
+TechPicks 25/09/2019 -
+
+50 ways to leak your data: an exploration of apps' circumvention of the Android permissions system
+https://blog.acolyer.org/2019/09/25/50-ways-to-leak-your-data/
+
+Why npm lockfiles can be a security blindspot for injecting malicious modules
+https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/
+
+Exploiting Tinder to get paid features for free
+https://softwareontheroad.com/reversing-tinder-api-with-nodejs/
+
+Voidcall – the making of 13kb javascript real-time strategy game
+https://phoboslab.org/log/2019/09/voidcall-making-of
+
+CSS Shapes
+https://dev.to/sharkcoder/css-shapes-244j
+
+6 ways minimalism can help you write clean code
+https://dev.to/paulasantamaria/6-ways-minimalism-can-help-you-write-clean-code-45kp
+
+GitHub - tensult/role-acl: Role based access control using actions, attributes and async conditions
+https://github.com/tensult/role-acl
+
+Rise, Fall and Rise Again of Static Websites
+https://worldofmatthew.com/technology/static-wordpress-rise-and-fall/
+
+A comprehensive list of new ES features, including ES2015 (ES6), ES2016, ES2017, ES2018, ES2019
+https://github.com/daumann/ECMAScript-new-features-list
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

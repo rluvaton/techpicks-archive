@@ -1,0 +1,32 @@
+TechPicks 12/11/2019 -
+
+Render React to Embedded LCD
+https://github.com/doodlewind/react-ssd1306/blob/master/docs/tutorial.md
+
+Paged.js - an open-source library to paginate content in the browser. Based on the W3C specifications
+https://www.pagedmedia.org/paged-js/
+
+New Stable Sort Array in Javascript: ES10
+https://buginit.com/javascript/stable-sort-array-javascript-es10/
+
+GSAP 3 Is Available Now!
+https://greensock.com/3
+
+Smoother & sharper shadows with layered box-shadows
+https://tobiasahlin.com/blog/layered-smooth-box-shadows/
+
+A Big List of 78 Node.js Interview Questions & Answers
+https://coderrocketfuel.com/article/node-js-interview-questions-and-answers
+
+Using Native JavaScript Modules in Production Today
+https://philipwalton.com/articles/using-native-javascript-modules-in-production-today/
+
+Learn MongoDB Aggregation with real world example
+https://cloudnweb.dev/2019/11/learn-mongodb-aggregation-with-real-world-example/
+
+npm has reopened issues on the npm/cli repo and archived the forums (npm.community)
+https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

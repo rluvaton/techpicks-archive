@@ -1,0 +1,23 @@
+TechPicks 26/02/2020 -
+
+Axel Rauschmayer - Asynchronous JavaScript in four chapters: foundations, Promises, async functions, async iteration
+https://exploringjs.com/impatient-js/ch_async-js.html
+
+React context vs Redux in 2020
+https://gist.github.com/slikts/57ff1acdb6f5b2ea075b701d1daf896d
+
+Temporal - a proposal that provides standard objects and functions for working with dates and times
+https://github.com/tc39/proposal-temporal
+
+When CSS Blocks
+https://timkadlec.com/remembers/2020-02-13-when-css-blocks/
+
+An Intuitive Guide to Linear Algebra
+https://betterexplained.com/articles/linear-algebra-guide/
+
+To Get Good, Go After The Metagame
+https://commoncog.com/blog/to-get-good-go-after-the-metagame/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

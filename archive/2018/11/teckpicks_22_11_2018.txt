@@ -1,0 +1,29 @@
+TechPicks 22/11/2018 -
+
+Slow Software
+https://www.inkandswitch.com/slow-software.html
+
+GDPR: Chat platform Knuddels must pay 20.000 Eur for storing plain-text passwords.
+http://www.tellerreport.com/tech/--knuddels--chat-platform-must-pay-after-hacker-attack-fine-.S1xs7l4Am.html
+
+ReX.js - Your RegEx companion.
+https://areknawo.github.io/Rex
+
+2018 Coding Black Friday/Cyber Monday Deals List
+https://pastebin.com/aLBfQT6H?
+
+Fundamentals of Web Application Security Architecture
+https://kruschecompany.com/blog/post/all_you_need_to_know_about_web_app_security
+
+Understanding Memoization in JavaScript to Improve Performance
+https://blog.bitsrc.io/understanding-memoization-in-javascript-to-improve-performance-2763ab107092
+
+Stop Fighting About JavaScript Frameworks
+https://dev.to/johnwoodruff91/stop-fighting-about-javascript-frameworks-2307
+
+Linux kernel word count
+https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

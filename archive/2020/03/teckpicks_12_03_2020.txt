@@ -1,0 +1,20 @@
+TechPicks 12/03/2020 -
+
+cra-template-redux-typescript - The official Redux+TS template for Create React App
+https://github.com/reduxjs/cra-template-redux-typescript/
+
+EARN IT is a direct attack on end-to-end encryption
+https://blog.cryptographyengineering.com/2020/03/06/earn-it-is-an-attack-on-encryption
+
+torch-js - a Node.js binding for PyTorch
+https://github.com/torch-js/torch-js
+
+AvastSvc.exe contains a full, unsandboxed JavaScript/DOM implementation
+https://github.com/taviso/avscript
+
+EOF is not a character
+https://ruslanspivak.com/eofnotchar/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

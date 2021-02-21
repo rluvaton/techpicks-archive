@@ -1,0 +1,35 @@
+TechPicks 15/07/2019 -
+
+SMOOSHCAST: React Fiber Deep Dive with Dan Abramov
+https://www.youtube.com/watch?v=aS41Y_eyNrU
+
+Australian programmers could be fired by their companies for implementing government backdoors
+https://tendaily.com.au/amp/news/australia/a181206zli/if-encryption-laws-go-through-australia-may-lose-apple-20181206
+
+Talk of tech innovation is bullsh*t. Shut up and get the work done – says Linus Torvalds
+http://www.theregister.co.uk/2017/02/15/think_different_shut_up_and_work_harder_says_linus_torvalds/
+
+Learn to Handcraft WebAssembly
+https://github.com/emilbayes/learnhandwasm
+
+furl: A functional React.js component library (beta release)
+https://furl.netlify.com/
+
+Create a Simple Cache System
+https://dev.to/romainlanz/create-a-simple-cache-system-47om
+
+Decouple Your Javascript Using Event Driven Programming Tiny-Pubsub
+https://lukewood.dev/posts/refactor_bulletz/
+
+Angu: A small, zero-dependency library for implementing mini-languages in the browser or Node.js
+https://github.com/jsdw/angu
+
+RedditTube – An SPA made for watching endless YouTube videos from any subreddit. Uses Vanilla JS, hosted on Netlify
+https://github.com/bcmdr/reddit-tube
+
+CSS Grid Is Not a Replacement for Flexbox (Quick demo of where flexbox shines over CSS grid)
+https://www.robertcooper.me/grid-does-not-replace-flexbox
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

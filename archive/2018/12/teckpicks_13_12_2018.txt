@@ -1,0 +1,26 @@
+TechPicks 13/12/2018 -
+
+Dan Abramov - Why Do React Hooks Rely on Call Order?
+https://overreacted.io/why-do-hooks-rely-on-call-order/
+
+NPM Blog: Details about the event-stream incident
+https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident
+
+Netflix - Our learnings from adopting GraphQL
+https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f
+
+Visual Studio Code (Version 1.30) Released
+https://code.visualstudio.com/updates/v1_30
+
+The pipeline operator (todays post at javascript.christmas)
+https://javascript.christmas/2018/12
+
+"A look at CSS Resets in 2018" by Ire Aderinokun
+https://bitsofco.de/a-look-at-css-resets-in-2018/
+
+Everything you should know about certificates and PKI but are to embarrassed to ask
+https://smallstep.com/blog/everything-pki.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

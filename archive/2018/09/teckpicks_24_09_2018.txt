@@ -1,0 +1,38 @@
+TechPicks 24/09/2018 -
+
+Introduction to WebSockets. Creating a Node.js server and using WebSocket API in the browser
+https://wanago.io/2018/09/24/introduction-to-websockets-creating-a-node-js-server-and-using-websocket-api-in-the-browser/
+
+VS Code plugin for automating imports (Plus a Seinfeld reference ;) )
+https://marketplace.visualstudio.com/items?itemName=edb.vandelay
+
+yubaba, an element to element animation orchestrator for React.js
+https://github.com/madou/yubaba
+
+10 Steps to Setup and Containerize an Express Server
+http://www.pogsdotnet.com/2018/08/10-steps-to-setup-and-containerize.html
+
+Hawth: A free, public, temporary key-value store. Anyone can write, everyone can read.
+https://hawth.org
+
+The hacking of British Airways with 21 lines of JavaScript code.
+https://medium.com/asecuritysite-when-bob-met-alice/the-british-airways-hack-javascript-weakness-pin-pointed-through-time-lining-dd0c2dbc7b50
+
+How we used AI to translate sign language in real time
+https://blog.coviu.com/2018/09/21/how-we-used-ai-to-translate-sign-language-in-real-time/
+
+Linux developers threaten to pull “kill switch”
+https://lulz.com/linux-devs-threaten-killswitch-coc-controversy-1252/
+
+Don’t be the Alpha Geek: Your team deserves better
+https://ketanbhatt.com/2018/08/12/dont-be-the-alpha-geek-your-team-deserves-better/
+
+Put your happiness over your career
+https://firedevblog.com/changing-jobs-in-a-short-period-of-time/
+
+"My Story as a Homeless Developer"
+https://blog.usejournal.com/my-story-as-a-homeless-developer-5874731c42ed
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

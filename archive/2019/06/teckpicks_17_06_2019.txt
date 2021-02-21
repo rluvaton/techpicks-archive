@@ -1,0 +1,31 @@
+TechPicks 17/06/2019 -
+
+The Rise and Fall of Visual Basic (for all the retro feels)
+https://medium.com/young-coder/the-rise-and-fall-of-visual-basic-f422252349a6
+
+Multrin - Organize apps in tabs (now with MacOS support)
+https://github.com/sentialx/multrin
+
+What Happened When I Peeked Into My node_modules Directory
+https://medium.com/s/silicon-satire/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558
+
+A glitch effect by using clip-path and mix-blend-mode CSS properties
+https://cdpn.io/yWzKgG
+
+Comparing the Same Project in Rust, Haskell, C++, Python, Scala and OCaml
+http://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/
+
+Monsters in the Middleboxes: Introducing Two New Tools for Detecting HTTPS Interception
+https://blog.cloudflare.com/monsters-in-the-middleboxes/
+
+rga: grep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/
+
+Redux-less context-based useSelector hook that has same performance as React-Redux
+https://medium.com/@dai_shi/redux-less-context-based-useselector-hook-that-has-same-performance-as-react-redux-450b1853f744
+
+Starting programming when you are +30 years old
+https://blog.klimczyk.pl/posts/2019/06/starting-programming-after-30
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

@@ -1,0 +1,29 @@
+TechPicks 07/10/2019 -
+
+Why coding your own makes you a better developer
+https://medium.com/@dannymoerkerke/why-coding-your-own-makes-you-a-better-developer-5c53439c5e4a
+
+SICP In JavaScript
+https://sicp.comp.nus.edu.sg/
+
+Category theory for programmers and how our mind works
+https://corecursive.com/category-theory-is-how-our-minds-work-with-bartosz-milewski/
+
+"What a very bad day at work taught me about building Stack Overflow’s community"
+https://stackoverflow.blog/2019/07/18/building-community-inclusivity-stack-overflow/
+
+Generating text automatically for social networks with algorithms and Markov chains
+https://medium.com/@EsteveSegura/generating-text-automatically-for-social-networks-with-algorithms-and-markov-chains-36eb1ef287e8
+
+Why I am going to therapy - MPJ talks about procrastination, mental obstacles, how to overcome them and create new habits
+https://www.youtube.com/watch?v=hyPvip7xHks
+
+A super-fast C++ hash table with Node.js wrapper, tested up to 1 billion keys.
+https://github.com/jhuckaby/megahash
+
+Diagonal Containers in CSS
+https://codyhouse.co/blog/post/css-diagonal-containers
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

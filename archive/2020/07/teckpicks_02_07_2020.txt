@@ -1,0 +1,29 @@
+TechPicks 02/07/2020 -
+
+'It's really hard to find maintainers' - Linus Torvalds ponders the future of Linux
+https://www.theregister.com/2020/06/30/hard_to_find_linux_maintainers_says_torvalds/
+
+Apple Lightning
+https://nyansatan.github.io/lightning/
+
+An Alternative to "Clean Code": A Philosophy of Software Design
+https://johz.bearblog.dev/book-review-philosophy-software-design/
+
+Laws, Theories, Principles and Patterns that developers will find useful.
+https://github.com/dwmkerr/hacker-laws
+
+How to Create Your Own SSL Certificate Authority for Local HTTPS Development
+https://deliciousbrains.com/ssl-certificate-authority-for-local-https-development/
+
+Writing great software isn't all about the software you write
+https://letterstoanewdeveloper.com/2020/06/29/writing-great-software-isnt-all-about-the-software-you-write/
+
+Watcher - all web development blogs in one place
+https://watcherapp.online/
+
+Cassie Evans - How to get values from mouse movement and plug them into an animation
+https://www.cassie.codes/posts/making-a-lil-me-part-1/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

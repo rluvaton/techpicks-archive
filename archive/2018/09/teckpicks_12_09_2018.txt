@@ -1,0 +1,41 @@
+TechPicks 12/09/2018 -
+
+Strongly-typed finite-state machines with Redux and TypeScript
+https://medium.com/unsplash/strongly-typed-finite-state-machines-with-redux-and-typescript-3aac2b0332f5
+
+A game that pits your sanity against the logic behind JavaScript's == operator
+https://slikts.github.io/js-equality-game/
+
+When you think you found a new bug in Firefox, but it was already reported 17 years ago
+https://bugzilla.mozilla.org/show_bug.cgi?id=92060
+
+Twitch controlled dog treat dispenser using Node.js
+https://www.tylerpearce.ca/twitch-dog-treat-dispenser-bot/
+
+An Overview of BigInt in Node.js
+http://thecodebarbarian.com/an-overview-of-bigint-in-node-js.html
+
+Functional SQL Query Builder on Node.js
+https://github.com/marpple/MQL
+
+After 4 long years typescript has it: call, apply, bind are statically typed!
+https://github.com/Microsoft/TypeScript/pull/27028
+
+Serious bug causing infinite loop in some queries has been fixed in SQLite
+http://www.sqlite.org/cgi/src/info/9936b2fa443fec03ff25
+
+PostgreSQL 11 and Just In Time Compilation of Queries
+https://www.citusdata.com/blog/2018/09/11/postgresql-11-just-in-time/
+
+MS Paint IDE
+https://ms-paint-i.de/
+
+A Plea for Lean Software
+https://www.lvguowei.me/post/a-plea-for-lean-software/
+
+PostgreSQL Configuration Cheat Sheet
+https://pgdash.io/blog/postgres-configuration-cheatsheet.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,38 @@
+TechPicks 12/08/2018 -
+
+Electron Fiddle: Build, run, package, and share experiments with Electron
+https://github.com/electron/fiddle
+
+JavaScript - Understanding delete
+http://perfectionkills.com/understanding-delete/
+
+Vue CLI 3.0 is here!
+https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb
+
+I created the exact same app in React and Vue. Here are the differences.
+https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd
+
+GRID: A simple visual cheatsheet for CSS Grid Layout
+http://grid.malven.co/
+
+CSS Conical Gradients is finally gaining momentum among browser landscape
+http://hangaroundtheweb.com/2018/08/css-conical-gradients-is-finally-gaining-momentum-among-browser-landscape/
+
+The JPEG Committee is “exploring Blockchain” — to put DRM into JPEG
+https://davidgerard.co.uk/blockchain/2018/08/10/the-jpeg-committee-is-exploring-blockchain-to-put-drm-into-jpeg/
+
+Physically gain admin access on a voting machine that is used in 18 states. Requires no tools and takes under 2 minutes
+http://twitter.com/RachelTobac/status/1028437783050776576
+
+Caching strategies
+https://zubialevich.blogspot.com/2018/08/caching-strategies.html
+
+The shell scripting trap
+https://arp242.net/weblog/shell-scripting-trap.html
+
+"How I scaled a Fortnite website for a sudden peak every day, on a low budget"
+https://probablywrong.org/how-i-scaled-a-fortnite-website-for-a-sudden-peak-every-day-on-a-low-budget
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

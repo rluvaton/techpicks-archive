@@ -1,0 +1,32 @@
+TechPicks 22/07/2020 -
+
+WTF is memoization?
+https://whatthefuck.is/memoization
+
+Systems design for advanced beginners
+https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/
+
+‘Strong Opinions, Weakly Held’ Doesn't Work That Well
+https://commoncog.com/blog/strong-opinions-weakly-held-is-bad/
+
+TC39: Along with replaceAll, Promise.any, WeakRefs, and Logical Assignment Operators are now at stage 4
+https://github.com/tc39/proposals/blob/master/finished-proposals.md
+
+Microsoft Power BI Blog: Announcing React Power BI
+https://powerbi.microsoft.com/en-us/blog/announcing-react-power-bi/
+
+Svelte now officially supports TypeScript
+https://svelte.dev/blog/svelte-and-typescript
+
+Resetting Passwords - What Could Possibly Go Wrong?
+https://maxwelldulin.com/BlogPost?post=3702041600
+
+oao - a Yarn-based, opinionated monorepo management tool.
+https://github.com/guigrpa/oao
+
+LinkedIn to cut 960 jobs worldwide as recruitment falls
+https://www.bbc.com/news/business-53484764
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

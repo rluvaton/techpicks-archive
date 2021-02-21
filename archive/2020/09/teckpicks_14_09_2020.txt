@@ -1,0 +1,23 @@
+TechPicks 14/09/2020 -
+
+Docker best practices with Node.js
+https://dev.to/nodepractices/docker-best-practices-with-node-js-4ln4
+
+Old, Good Database Design
+https://relinx.io/2020/09/14/old-good-database-design/
+
+Did You Know Fonts Could Do All This?
+https://venam.nixers.net/blog/unix/2020/09/14/playing_with_fonts.html
+
+Functional Programming in JS, part I - Composition (Currying, Lodash and Ramda)
+https://dev.to/mpodlasin/functional-programming-in-js-part-i-composition-currying-lodash-and-ramda-1ohb
+
+How to tell browsers that your site supports color-schemes
+https://www.stefanjudis.com/today-i-learned/how-to-tell-browsers-that-your-site-supports-color-schemes/
+
+Why governments should adopt and invest in FOSS
+http://jamesmcm.github.io/blog/2020/09/12/foss-government/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

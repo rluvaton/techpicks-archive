@@ -1,0 +1,54 @@
+TechPicks 21/06/2018 - 
+
+Code.xyz adds GitHub Gist import and export for easily building Node.js APIs from your browser
+https://stdlib.com/blog/code-xyz-updates-06-20-2018-import-export-github-gist/
+
+JavaScript library for relational operations on GPU
+https://github.com/stormcolor/grel
+
+WaveNet: A Generative Model for Raw Audio
+https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+
+Hola JS Challenge Summer 2018: Haggling
+https://github.com/hola/challenge_haggling/blob/master/README.md
+
+'Disastrous' copyright bill vote approved
+https://www.bbc.com/news/technology-44546620
+
+Welp, looks like I need to start serving 451 codes to EU IPs :(
+https://thenextweb.com/eu/2018/06/20/eu-votes-for-censorship-machines-and-link-tax-what-now/
+
+stylelint-a11y: CSS linter plugin to check and spread accessibility best practices
+https://github.com/YozhikM/stylelint-a11y
+
+Vue.js: the good, the meh, and the ugly
+https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684
+
+A Comprehensive Guide to Flexbox Alignment
+https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-flexbox-alignment--cms-30183
+
+Specificity in :not(), :has(), and :matches()
+https://meyerweb.com/eric/thoughts/2018/06/05/specificity-in-not-has-and-matches/
+
+YAML: probably not so great after all
+https://arp242.net/weblog/yaml_probably_not_so_great_after_all.html
+
+Tools & Craft: An interview with Andy Hertzfeld, architect of the original Mac OS
+https://www.youtube.com/watch?v=RLF7yfXFmUk
+
+Functional Data Structures online book
+https://cs.uwaterloo.ca/~plragde/flaneries/FDS/
+
+MySQL High Availability at GitHub
+https://githubengineering.com/mysql-high-availability-at-github/
+
+Why Women Don't Code
+https://quillette.com/2018/06/19/why-women-dont-code/
+
+Technical details about Intel's LazyFP vulnerability have been released
+https://blog.cyberus-technology.de/posts/2018-06-06-intel-lazyfp-vulnerability.html
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

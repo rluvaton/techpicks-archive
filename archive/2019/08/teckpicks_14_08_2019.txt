@@ -1,0 +1,29 @@
+TechPicks 14/08/2019 -
+
+Tavis Ormandy: Down the Rabbit-Hole of ancient Windows inter-window communication protocol
+https://googleprojectzero.blogspot.com/2019/08/down-rabbit-hole.html
+
+About rel=noopener
+https://mathiasbynens.github.io/rel-noopener/
+
+What is GraphQL: History, Components, and Ecosystem
+https://medium.com/@brenda.clark/what-is-graphql-87fc7687b042
+
+The Best Way To Lazy Load Angular Elements
+https://medium.com/@tomastrajan/the-best-way-to-lazy-load-angular-elements-97a51a5c2007
+
+The 3 Major Divides In Web Programming
+https://medium.com/@fagnerbrack/3-major-divides-in-programming-b07aa10a0d93
+
+How to Use Google Sheets as a Stunning Data Visualization Tool
+https://www.mojotech.com/blog/data-visualization-google-sheets/
+
+Building Custom React Hooks
+https://medium.com/prototyped/building-custom-react-hooks-f6aad8567825
+
+Creating Scalable UIs for React: Theming & Configuration
+https://medium.com/valtech-design/creating-scalable-uis-theming-configuration-d49d6c22654c
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

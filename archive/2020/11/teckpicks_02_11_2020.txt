@@ -1,0 +1,23 @@
+TechPicks 02/11/2020 -
+
+Light Arrow, composable and type safe asynchronous programming in Typescript
+https://medium.com/@lenewman05/light-arrow-composable-and-type-safe-asynchronous-programming-for-typescript-6d6b3380b8d0
+
+7 Reasons you SHOULD write CSS
+https://georgenance.com/write-more-css
+
+The story behind Markdown
+https://capiche.com/e/markdown-history
+
+How does Firefox's Reader View work?
+https://videoinu.com/blog/firefox-reader-view-heuristics/
+
+What Does It Take To Resolve A Hostname
+https://venam.nixers.net/blog/unix/2020/11/01/resolving-a-hostname.html
+
+Kubernetes Failure Stories
+https://k8s.af/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

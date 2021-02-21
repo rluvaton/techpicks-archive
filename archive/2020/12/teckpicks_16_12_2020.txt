@@ -1,0 +1,29 @@
+TechPicks 16/12/2020 -
+
+To the brain, reading computer code is not the same as reading language
+https://news.mit.edu/2020/brain-reading-computer-code-1215
+
+Vimeo Engineering: It’s not legacy code — it’s PHP
+https://medium.com/vimeo-engineering-blog/its-not-legacy-code-it-s-php-1f0ee0462580
+
+Growing the .NET ecosystem
+https://github.com/microsoft/dotnet/blob/214c8c343587461f161198cdf5e9084abddde179/docs/ecosystem-issues.md
+
+Things I learned while implementing Bubble sort animation using CSS and JavaScript
+https://gosink.in/bubble-sort-css-javascript-animation/
+
+The Zen of index.html
+https://hugodaniel.com/posts/using-just-an-index-to-develop-a-web-app/
+
+Apple’s anti-tracking plans for iPhone
+https://foundation.mozilla.org/en/campaigns/apples-anti-tracking-plans-iphone/
+
+Being good at programming competitions correlates negatively with being good on the job
+https://catonmat.net/programming-competitions-work-performance
+
+Facebook to move UK users to California terms, avoiding EU privacy rules
+https://www.reuters.com/article/britain-eu-facebook-exclusive-idUSKBN28P2HH
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

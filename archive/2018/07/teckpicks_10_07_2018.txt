@@ -1,0 +1,65 @@
+TechPicks 10/07/2018 - 
+
+npm Joins ECMA International and TC39
+https://blog.npmjs.org/post/175722319045/npm-joins-ecma-international-and-tc39
+
+A/B Testing for Engineers w/JavaScript
+https://medium.com/cacher-app/a-b-testing-for-engineers-w-javascript-9f6a1774507e
+
+A simple guide to JavaScript Dates
+https://flaviocopes.com/javascript-dates/
+
+web-riimote: Turn your smartphone into a 3D controller (think Wii remote) with just a web app
+https://github.com/konaraddio/web-riimote
+
+12 Helpful Typography Tools
+https://uxplanet.org/12-helpful-typography-tools-ea0d808eb70b
+
+faker.js - generate massive amounts of fake data in the browser and node.js
+https://www.npmjs.com/package/faker
+
+Managing Complex Waiting Experiences on Web UIs
+https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8
+
+JavaScript does not have String#matchAll but you can abuse String#replace to achieve the desired result.
+https://twitter.com/kuizinas/status/1016290573047693312
+
+Turn On Time-Travelling for MobX
+https://medium.com/@kuitos/turn-on-time-travelling-for-mobx-c3f267a46f10
+
+statcode - like 'man' pages, but for http status codes
+https://github.com/shobrook/teen
+
+Browser Clipboard Attacks: Image Bombs, Zero-width Characters, and Remote Code Execution
+https://securing-the-stack.teachable.com/p/browser-clipboard-attacks
+
+Browsh: the modern, text-based browser
+https://www.brow.sh
+
+Deploy your bare minimum chrome extension
+https://medium.freecodecamp.org/how-to-create-and-publish-a-chrome-extension-in-20-minutes-6dc8395d7153
+
+Which hashing algorithm is best for uniqueness and speed? Ian Boyd's answer (top voted) is one of the best comments I've seen on Stackexchange.
+https://softwareengineering.stackexchange.com/questions/49550/which-hashing-algorithm-is-best-for-uniqueness-and-speed
+
+No, I have no side code projects to show you
+https://www.linkedin.com/pulse/i-have-side-code-projects-show-you-ezekiel-buchheit/
+
+Exploiting freely accessible WhatsApp data or “Why does WhatsApp web know my phone’s battery level?”
+https://medium.com/@juan_cortes/exploiting-freely-accessible-whatsapp-data-or-why-does-whatsapp-know-my-battery-level-ddac224041b4
+
+A Pure PostgreSQL Document Database API
+https://rob.conery.io/2018/07/05/a-pure-postgresql-document-database-api/
+
+Impostor Syndrome and Expert Beginners
+https://dzone.com/articles/impostor-syndrome-and-expert-beginners
+
+Security Aware Programming Language — Why, How and Ballerina!
+https://medium.com/@ayoma/security-aware-programming-language-why-how-and-ballerina-fef03eadca42
+
+The Dart Language and its peculiarities
+https://medium.com/@dev.n/the-dart-language-and-its-peculiarities-e46c27def825
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

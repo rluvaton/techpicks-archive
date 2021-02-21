@@ -1,0 +1,32 @@
+TechPicks 06/08/2019 -
+
+An open source mind map core -- Mind elixir
+https://github.com/ssshooter/mind-elixir-core
+
+Frontend Design, React, and a Bridge over the Great Divide
+http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/
+
+Interesting flame effect, created with canvas, particles and a CSS blur filter (note the sliders)
+https://codepen.io/2Mogs/pen/PMPByE
+
+Domino’s takes its case for non-accessible design to the Supreme Court - The ADA is almost 30 years old, but the company says websites don't count
+https://arstechnica.com/tech-policy/2019/08/dominos-takes-its-case-for-non-accessible-design-to-the-supreme-court/
+
+A Guide to Docker Multi-Stage Builds
+https://blog.bitsrc.io/a-guide-to-docker-multi-stage-builds-206e8f31aeb8
+
+Simple Site Containers with CSS Grid
+https://compiledsuccessfully.dev/simple-site-containers-with-css-grid/
+
+Avoiding any in TypeScript — advanced types and their usage
+https://itnext.io/avoiding-any-in-typescript-advanced-types-and-their-usage-691b02ac345a
+
+5 TypeScript tips to improve your architecture
+https://nehalist.io/5-typescript-tips-to-improve-your-architecture
+
+The TypeScript Playground now supports pulling down types for your code
+https://twitter.com/orta/status/1158453010852433922
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

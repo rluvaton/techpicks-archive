@@ -1,0 +1,26 @@
+TechPicks 24/08/2020 -
+
+What is the Small Web?
+https://ar.al/2020/08/07/what-is-the-small-web/
+
+Why Do We Interface? The Past, Present, & Future of Interfaces
+https://whydoweinterface.com/
+
+JavaScript Generators, Meet XPath
+https://jack.wrenn.fyi/blog/xpath-for-2020/
+
+Modern approach to Low Quality Image Placeholders (LQIP) using webp and sharp.
+https://github.com/transitive-bullshit/lqip-modern
+
+Transduction in JavaScript
+https://medium.com/weekly-webtips/transduction-in-javascript-fbe482cdac4d
+
+The Kubernetes Handbook
+https://www.freecodecamp.org/news/the-kubernetes-handbook/
+
+Handcrafting your own SVG
+https://blog.frankel.ch/handcrafting-own-svg/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

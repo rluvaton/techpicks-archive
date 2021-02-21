@@ -1,0 +1,26 @@
+TechPicks 12/02/2020 -
+
+How we scaled AI Dungeon 2 to support over 1,000,000 users
+https://medium.com/@aidungeon/how-we-scaled-ai-dungeon-2-to-support-over-1-000-000-users-d207d5623de9
+
+Understanding Modern Cloud Architecture on AWS: Docker and Containers
+https://start.jcolemorrison.com/understanding-modern-cloud-architecture-on-aws-docker-and-containers/
+
+Web MIDI API — sending notes from JavaScript to your synth
+https://medium.com/@kulak/web-midi-api-sending-notes-from-javascript-to-your-synth-1dfee9c57645
+
+Pushing Buttons
+https://michaelspellacy.com/pushing-buttons/
+
+A GraphQL-based Web App written with React, Go and MongoDB. Could serve as an example for those who are learning these technologies
+https://github.com/Shpota/skmz/
+
+Mythical man month : "10 lines per developer day" vs - Real NDepend stats after 14+ years of development
+https://blog.ndepend.com/mythical-man-month-10-lines-per-developer-day/
+
+Let's Be Real About Dependencies
+https://wiki.alopex.li/LetsBeRealAboutDependencies
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

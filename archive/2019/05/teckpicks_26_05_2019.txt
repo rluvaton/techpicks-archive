@@ -1,0 +1,32 @@
+TechPicks 26/05/2019 -
+
+Your language isn't broken, it's doing floating point math
+https://0.30000000000000004.com/
+
+JavaScript's for loop is surprisingly fast
+https://itch.io/t/470048/javascripts-for-loop-is-surprisingly-fast#post-769285
+
+Webpack From Zero to Hero - Chapter 3: Everything is a Module
+https://tech.olx.com/webpack-from-zero-to-hero-cf1b77b852c9
+
+Vue.js And SEO: How To Optimize Reactive Websites For Search Engines And Bots
+https://www.smashingmagazine.com/2019/05/vue-js-seo-reactive-websites-search-engines-bots/
+
+Testing with Jest and Vue.js: Pocket guide
+https://medium.com/@luis_sserrano/testing-with-jest-and-vue-js-pocket-guide-7be290d20954
+
+RegExp and Unicode in JavaScript
+https://speakerdeck.com/brn/regexp-and-unicode-in-javascript
+
+pm2 caused thousands of CI builds to fail because of an "optionalDependency"
+https://mobile.twitter.com/lukejacksonn/status/1131506699356037121
+
+Meet the Flexbox Inspector
+https://gedd.ski/post/flexbox-inspector/
+
+Typing Next.js components using TypeScript
+https://medium.com/@koss_lebedev/typing-next-js-components-using-typescript-2f1d0dc30c4c
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

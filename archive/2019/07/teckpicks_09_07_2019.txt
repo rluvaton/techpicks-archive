@@ -1,0 +1,38 @@
+TechPicks 09/07/2019 -
+
+The Little JavaScript Book
+https://github.com/valentinogagliardi/Little-JavaScript-Book
+
+Manage your dev.to blog posts from a GIT repo and use continuous deployment to auto publish/update them
+https://dev.to/maxime1992/manage-your-dev-to-blog-posts-from-a-git-repo-and-use-continuous-deployment-to-auto-publish-update-them-143j
+
+Amazon to Uber: From the lens of a software engineer
+https://medium.com/@divijvaidya/amazon-to-uber-from-the-lens-of-a-software-engineer-e5bd1c38caba
+
+Writing a Simple Programming Language from Scratch - Part 1
+https://dev.to/evantypanski/writing-a-simple-programming-language-from-scratch-part-1-54a2
+
+Become the junior developer that companies want to hire
+https://charlesstover.com/become-the-junior-developer-that-companies-want-to-hire/
+
+How removing Node.js dependency makes you go faster
+https://blog.cribl.io/2019/07/08/going-native/
+
+I developed - 1000+ vector icons as React Components
+https://github.com/Iconscout/react-unicons
+
+Webpack not working if it's Monday
+https://github.com/webpack/webpack-cli/issues/962
+
+An intro to advanced react hooks
+https://medium.com/in-the-weeds/an-intro-to-advanced-react-hooks-a8af6397fe28
+
+Dave Cheney: Clear is better than clever
+https://dave.cheney.net/2019/07/09/clear-is-better-than-clever
+
+Game Source Code Collection (Internet Archive)
+https://archive.org/details/gamesourcecode
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

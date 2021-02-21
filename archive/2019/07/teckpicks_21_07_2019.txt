@@ -1,0 +1,41 @@
+TechPicks 21/07/2019 -
+
+npm uninstall co-founder --global - Co-founder and chief data officer at NPM Inc, moves on
+https://www.theregister.co.uk/2019/07/18/npm_uninstall_cofounder_global/
+
+"I Was A 10x Engineer. And I’m Sorry."
+https://networkingnerd.net/2019/07/18/i-was-a-10x-engineer-and-im-sorry/
+
+Dissecting A Dweet: How to make a Mini Black Hole in 140 bytes of JavaScript
+http://frankforce.com/?p=6378
+
+backpropaganda - a neural network Node.js framework for educational purposes
+https://github.com/wpmed92/backpropaganda
+
+What Web Can Do Today
+https://whatwebcando.today/
+
+Introducing a new Twitter.com
+https://blog.twitter.com/en_us/topics/product/2019/introducing-a-new-Twitter-dot-com.html
+
+“href” vs. “src” in HTML
+https://dev.to/dance2die/href-vs-src-in-html-10l7
+
+Browser polyfill madness, Mozilla and Internet Explorer
+https://goodguydaniel.com/blog/browser-polyfill-madness-mozilla-internet-explorer/
+
+Retyped: Access JavaScript libraries from C#
+https://retyped.com/
+
+Understand the JavaScript SEO basics - This guide describes how Google Search processes JavaScript and best practices for improving JavaScript web apps for Google Search
+https://developers.google.com/search/docs/guides/javascript-seo-basics
+
+"I added oozing animations to Conway's Game of Life"
+https://www.mixingmetaphors.dev/conways-game-of-life/
+
+You Might Not Need a Library - I curated a list of things that no longer require a library these days
+https://ymnnl.glaive.pro
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

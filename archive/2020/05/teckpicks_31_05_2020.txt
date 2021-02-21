@@ -1,0 +1,29 @@
+TechPicks 31/05/2020 -
+
+Using Git to run ESLint on changed files in a feature branch
+https://jdauriemma.com/programming/eslint-changed-files
+
+ECMAscript 4: The missing version
+https://evertpot.com/ecmascript-4-the-missing-version/
+
+Zero-day in Sign in with Apple
+https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/
+
+Ebay is port scanning visitors to their website - and they aren't the only ones
+https://blog.nem.ec/2020/05/24/ebay-port-scanning/
+
+CSS: Here’s what I didn’t know about "content"
+https://www.matuzo.at/blog/heres-what-i-didnt-know-about-content/
+
+AutoPilot - a simple cross-platform desktop automation library for Deno
+http://github.com/divy-work/autopilot-deno
+
+TypeScript Expect Plugin - Be lazy, write simple tests in comments
+https://github.com/Idered/typescript-expect-plugin
+
+Awesome-list of tools for Amazon EKS
+https://github.com/realvz/awesome-eks
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

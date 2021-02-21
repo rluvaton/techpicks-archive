@@ -1,0 +1,38 @@
+TechPicks 25/08/2019 -
+
+Why Naked Promises Are Not Safe For Work - and What to Do Instead
+https://www.freecodecamp.org/news/naked-promises-are-not-safe-for-work/
+
+Should you be using Web Workers? (hint: probably not)
+https://medium.com/@david.gilbertson/should-you-should-be-using-web-workers-hint-probably-not-9b6d26dc8c6a
+
+Regex Tutorial: Beginners Guide to Regular Expressions using JavaScript
+https://medium.com/@mwarfa/regex-tutorial-beginners-guide-to-regular-expressions-using-javascript-1593babb4bf8
+
+How JavaScript Grew Up and Became a Real Language
+https://medium.com/young-coder/how-javascript-grew-up-and-became-a-real-language-17a0b948b77f
+
+Are we really ok with starting to put ads in a user's terminal?
+https://github.com/standard/standard/issues/1381
+
+VCSlack - VSCode Extension that sends code snippets to Slack
+https://github.com/verydanny/vcslack
+
+A website with a lot of resources to help you with designing
+http://designtarget.org
+
+How the Node.js Event Loop Polls
+https://www.alexhwoods.com/event-loop-polling
+
+Announcing NodeGUI and React NodeGUI - Build native desktop apps with JavaScript and CSS
+https://blog.atulr.com/nodegui-intro/
+
+CSS Units Explained
+https://alligator.io/css/css-units-explained/
+
+Setup a Lerna monorepo with TypeScript incremental builds
+https://pathof.dev/blog/lerna-typescript-monorepo
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

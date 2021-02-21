@@ -1,0 +1,29 @@
+TechPicks 02/09/2019 -
+
+TypeScript vs ReasonML – A Comparison
+https://blog.dubenko.dev/typescript-vs-reason/
+
+Is COBOL holding you hostage with math?
+https://medium.com/@bellmar/is-cobol-holding-you-hostage-with-math-5498c0eb428b
+
+A complete guide to OAuth2 protocol
+https://milapneupane.com.np/2019/09/02/a-complete-guide-to-oauth2-protocol/
+
+10 Ways to Tweak Slow PostgeSQL Queries
+http://www.helenanderson.co.nz/sql-query-tweaks/
+
+Learning to read code is more important than learning to write it
+https://letterstoanewdeveloper.com/2018/09/24/learning-to-read-code-is-more-important-than-learning-to-write-it/
+
+Lessons from Design School for Software Engineers
+https://iheanyi.com/journal/2019/02/03/lessons-from-design-school-for-software-engineers/
+
+10 Simple But Costly Math Errors In History
+https://listverse.com/2019/08/30/10-simple-but-costly-math-errors-in-history/
+
+Windows NT and VMS: The Rest of the Story (1998)
+https://www.itprotoday.com/compute-engines/windows-nt-and-vms-rest-story
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,23 @@
+TechPicks 18/02/2019 -
+
+An alternative approach to switch statements in Javascript
+https://enmascript.com/articles/2018/10/22/why-I-prefer-objects-over-switch-statements
+
+How ESLint Makes Me a Better React Developer
+https://medium.com/@paigen11/237fb14c00ae
+
+Google backtracks on Chrome modifications that would have crippled ad blockers
+https://www.zdnet.com/article/google-backtracks-on-chrome-modifications-that-would-have-crippled-ad-blockers/
+
+You probably don’t need a single-page application
+https://journal.plausible.io/you-probably-dont-need-a-single-page-app
+
+ReactN is a extension of React that includes global state management
+https://github.com/CharlesStover/reactn#readme
+
+Learn C and its lower level interactively, in your browser
+https://vasyop.github.io/miniC-hosting/?1
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

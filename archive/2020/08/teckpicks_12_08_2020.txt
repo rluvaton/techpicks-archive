@@ -1,0 +1,32 @@
+TechPicks 12/08/2020 -
+
+Notes on RSI for Developers Who Don't Have It (Yet)
+https://www.swyx.io/writing/rsi-tips/
+
+Using ESLint to improve your app’s performance
+https://allegro.tech/2020/08/using-eslint.html
+
+Time take some notes of the Vue 3 new features
+https://pitayan.com/posts/vue-next-features/
+
+Elder.js: A Svelte Framework and Static Site Generator
+https://elderguide.com/tech/elderjs/
+
+12 Principles for a Diverging Desktop Future
+https://www.divergent-desktop.org/blog/2020/08/10/principles-overview/
+
+probe-rs - a modern, embedded debugging toolkit, written in Rust
+http://probe.rs/
+
+Mozilla lays off 250 employees
+https://twitter.com/jensimmons/status/1293194527168233472?s=09
+
+Adobe - Today, we are announcing the end of development for PhoneGap and PhoneGap Build and the end of our investment in Apache Cordova
+https://blog.phonegap.com/update-for-customers-using-phonegap-and-phonegap-build-cc701c77502c
+
+The Ultimate Guide To CSS Grid (for visual speed learners)
+https://medium.com/@js_tut/the-ultimate-guide-to-css-grid-ac05c236a2ad
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

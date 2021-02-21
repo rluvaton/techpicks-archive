@@ -1,0 +1,32 @@
+TechPicks 29/05/2019 -
+
+W3C and the WHATWG signed an agreement to collaborate on a single version of HTML and DOM
+https://www.w3.org/blog/news/archives/7753
+
+Error handling with Async/Await in JavaScript
+https://medium.com/p/26c3f20bc06a
+
+Why we prefer CSS Custom Properties to SASS variables
+https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables
+
+Fundamental Object Design Patterns in JavaScript
+https://medium.com/@severinperez/javascript-weekly-fundamental-object-design-patterns-31453f68427f
+
+Zdog · Round, flat, designer-friendly pseudo-3D engine for canvas and SVG
+https://zzz.dog/
+
+What does react-beautiful-dnd cost to maintain?
+https://dev.to/alexandereardon/what-does-react-beautiful-dnd-cost-to-maintain-52e8
+
+FixAnyBug - The last tool you need to fix a bug 
+https://github.com/KartSriv/FixAnyBug
+
+7 mistakes you are making in the programming career
+https://frontnet.eu/7-mistakes-you-are-making-in-the-programming-career/
+
+The Tech Career Guide
+https://dev.to/laurieontech/the-tech-career-guide-57a6
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

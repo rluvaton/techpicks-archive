@@ -1,0 +1,36 @@
+TechPicks 28/06/2018 - 
+
+ECMAScript 2018 Language Specification Approved and Posted
+http://www.ecma-international.org/publications/standards/Ecma-262.htm
+
+Creating Games with JavaScript
+https://able.bio/SamDev14/creating-games-with-javascript-part-1--359jxld
+
+ES6 Journey Through Design Patterns
+https://notes.devlabs.bg/es6-journey-through-design-patterns-1970f5eaa9d6
+
+The simpleton’s guide to CSS Grid
+https://blog.logrocket.com/the-simpletons-guide-to-css-grid-1767565b3cf7
+
+Supercharging the Git Commit Graph
+https://blogs.msdn.microsoft.com/devops/2018/06/25/supercharging-the-git-commit-graph/
+
+Focus Doesn’t Share – how and why the obsession for efficiency is killing our productivity
+https://medium.com/@florianbrondel/focus-doesnt-share-fbac047d8e62
+
+How we use Clojure at King to write a game engine editor
+https://techblog.king.com/how-we-use-clojure-at-king-to-write-a-game-engine-editor/
+
+What I Learned Making My Own JIT Language
+http://www.mikedrivendevelopment.com/2018/06/what-i-learned-making-my-own-jit.html
+
+WTF? The data behind Microsoft's surprising open source track record
+https://blog.tidelift.com/wtf-the-data-behind-microsofts-surprising-open-source-track-record
+
+Lab Notes: How We Made Joins 23 Thousand Times Faster, Part One
+https://crate.io/a/lab-notes-how-we-made-joins-23-thousand-times-faster-part-one/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

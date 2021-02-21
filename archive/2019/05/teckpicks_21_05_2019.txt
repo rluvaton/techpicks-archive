@@ -1,0 +1,32 @@
+TechPicks 21/05/2019 -
+
+The lies and lack of self respect that lead to burnout
+https://dev.to/ronsoak/the-lies-and-lack-of-self-respect-that-lead-to-burnout-5007
+
+Microsoft's SPM David Rousset: Driving an Open Source Project Is Not Only About Writing Code But Making It Attractive
+https://medium.com/@amsterdamjs/microsofts-spm-david-rousset-driving-an-open-source-project-is-not-only-about-writing-code-but-94d40702f938
+
+WebGL Fluid Simulation
+https://paveldogreat.github.io/WebGL-Fluid-Simulation/
+
+Cutting our webpack build times in half
+https://www.cargurus.dev/Cutting-our-webpack-build-time-in-half/
+
+SOLID Principles: The Software Developer's Framework to Robust & Maintainable Code
+https://khalilstemmler.com/articles/solid-principles/solid-typescript/
+
+CSS can do that?
+https://dev.to/ananyaneogi/css-can-do-that-18g7
+
+Can we all please stop using Medium now?
+https://www.webdistortion.com/2019/05/16/can-we-all-please-stop-using-medium-now/
+
+Everything You Ever Wanted to Know About inputmode
+https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/
+
+SVG Properties and CSS
+https://css-tricks.com/svg-properties-and-css/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

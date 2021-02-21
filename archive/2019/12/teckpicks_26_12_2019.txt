@@ -1,0 +1,26 @@
+TechPicks 26/12/2019 -
+
+You’re Not That Productive (And That’s Okay)
+https://www.7pace.com/blog/workplace-productivity
+
+Just JavaScript - an online course that could better prepare you to understand JavaScript by Dan Abramov
+https://justjavascript.com/
+
+Why Brave isn't bad
+https://theprivacyguide1.github.io/why_brave_isnt_bad.html
+
+Stuff I read and learnt in 2019: code, papers, and math
+http://bollu.github.io/#stuff-i-learnt-in-2019
+
+Grumpy Website – a blog about everything wrong with modern web & tech
+https://grumpy.website/
+
+Hippy: React Native Alternative by Tencent
+https://github.com/Tencent/Hippy
+
+Functional programming design patterns (2015)
+https://www.youtube.com/watch?v=E8I19uA-wGY
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

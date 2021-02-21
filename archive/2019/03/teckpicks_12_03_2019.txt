@@ -1,0 +1,32 @@
+TechPicks 12/03/2019 -
+
+The Fault in Our Tolerance: Accounting for Failures in React
+https://aweary.dev/fault-tolerance-react/
+
+Reddit trends of a subreddit in a day; # of posts, score and gildings
+https://butttons.github.io/reddit-trends/
+
+iro.js - Featured by Codrops, an HSV color picker widget for JavaScript with zero dependencies and a modern SVG-based UI
+https://iro.js.org/
+
+Someone created this simple page to never have to google 'Vertical center in CSS' again
+http://css-vertical-center.com
+
+The Definitive Guide to Web Scraping with Puppeteer
+https://learnscraping.com/nodejs-web-scraping-with-puppeteer/
+
+CSS-only game: The Curse of the General Sibling Combinator
+https://ondras.zarovi.cz/games/7drl-2019/
+
+Beautiful interactions: Crafting elegant and robust drag and drop animations
+https://medium.com/@alexandereardon/beautiful-interactions-8f67502ccf73
+
+Internet Explorer Had Trouble Supporting CSS Since 1998
+https://codesmithdev.com/internet-explorer-had-trouble-supporting-css-since-1998/
+
+Japanese police charge 13-year-old girl for infinite JavaScript popup prank
+https://arstechnica.com/tech-policy/2019/03/japanese-police-charge-13-year-old-girl-for-infinite-javascript-popup-prank/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

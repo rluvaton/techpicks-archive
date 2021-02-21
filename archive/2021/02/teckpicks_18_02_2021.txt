@@ -1,0 +1,38 @@
+TechPicks 18/02/2021 -
+
+Interview with Ryan Dahl, Node.js & Deno creator
+https://evrone.com/ryan-dahl-interview
+
+Building a High Performance Text Editor
+https://wbond.net/thoughts/building_a_high_performance_text_editor
+
+Advanced Git Features You Didn’t Know You Needed
+https://martinheinz.dev/blog/43
+
+How Materialize and other databases optimize SQL subqueries
+https://scattered-thoughts.net/writing/materialize-decorrelation
+
+Announcing Vite 2.0, Next generation frontend tooling
+https://dev.to/yyx990803/announcing-vite-2-0-2f0a
+
+Front-of-the-front-end and back-of-the-front-end web development
+https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/
+
+Remote Heart Rate Detection using Webcam and 50 Lines of Code
+https://medium.com/dev-genius/remote-heart-rate-detection-using-webcam-and-50-lines-of-code-2326f6431149
+
+Why you really need to upgrade pip
+https://pythonspeed.com/articles/upgrade-pip/
+
+What's new in Python 3.10
+https://docs.python.org/3.10/whatsnew/3.10.html
+
+Citibank just got a $500 million lesson in the importance of UI design
+https://arstechnica.com/?post_type=post&p=1743040
+
+Teach Yourself Programming in Ten Years
+http://norvig.com/21-days.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

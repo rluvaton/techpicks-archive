@@ -1,0 +1,32 @@
+TechPicks 21/10/2020 -
+
+Node.js v15.0.0 is here
+https://medium.com/@nodejs/node-js-v15-0-0-is-here-deb00750f278
+
+How Do Regular Expressions Really Work?
+https://www.youtube.com/watch?v=u01jb8YN2Lw
+
+React v17.0.0 released
+https://github.com/facebook/react/blob/46ed2684718d160b06cf6e4f5f5ecf70c7b8974c/CHANGELOG.md#1700-october-20-2020
+
+Link hover animation
+https://codepen.io/aaroniker/pen/VwjexVy
+
+Sass vars, CSS vars, and semantic theme vars
+https://daverupert.com/2020/10/variable-layers/
+
+Ridiculously fast unicode (UTF-8) validation
+https://lemire.me/blog/2020/10/20/ridiculously-fast-unicode-utf-8-validation/
+
+Julia GPU - How the Julia language is making it easy for programmers to use GPU capabilities
+https://notamonadtutorial.com/julia-gpu-98a461d33e21
+
+The Surprising Impact of Medium-Size Texts on PostgreSQL Performance
+https://hakibenita.com/sql-medium-text-performance
+
+Choose your browser carefully
+https://unixsheikh.com/articles/choose-your-browser-carefully.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

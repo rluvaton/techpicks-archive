@@ -1,0 +1,41 @@
+TechPicks 26/07/2019 -
+
+TC39 advances Optional Chaining proposal to stage 3
+https://github.com/tc39/proposal-optional-chaining/pull/107
+
+“My GitHub account has been restricted due to US sanctions as I live in Crimea.”
+https://github.com/tkashkin/GameHub/issues/289
+
+Iterators and generators work great together
+https://medium.com//iterators-and-generators-work-great-together-80b196aaee2d
+
+Decades-Old "Sensitivity Conjecture" Solved in Two Pages
+https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/
+
+Four Better Rules for Software Design
+https://naildrivin5.com/blog/2019/07/25/four-better-rules-for-software-design.html
+
+Practical Ways to Write Better JavaScript
+https://dev.to/taillogs/practical-ways-to-write-better-javascript-26d4
+
+A basic introduction to JavaScript debugging using Chrome and DevTools
+https://42coders.com/javascript-debugging-with-chrome-devtools/
+
+Do React Hooks Replace Redux?: TL;DR: Hooks are Great, but No.
+https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672
+
+The State of Web Components
+https://medium.com/swlh/the-state-of-web-components-e3f746a22d75
+
+CSS Theme Organization Best Practices
+https://medium.com/welldone-software/css-theme-organization-best-practices-a8e375d92c7c
+
+Learning by Implementing: Observables -- Reactive Programming in TypeScript
+https://blog.eyas.sh/2019/07/learning-by-implementing-observables/
+
+How to Design & Persist Aggregates - Domain-Driven Design w/ TypeScript
+https://khalilstemmler.com/articles/typescript-domain-driven-design/aggregate-design-persistence/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

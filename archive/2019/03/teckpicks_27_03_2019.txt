@@ -1,0 +1,29 @@
+TechPicks 27/03/2019 -
+
+How to create a JavaScript based port scanner
+https://www.shift8web.ca/2019/03/how-to-build-a-port-scanner-with-javascript-using-react-native/
+
+Opinion: Architect VS Engineer VS Developer
+https://dev.to/david_j_eddy/opinion-architect-vs-engineer-vs-developer-5n0
+
+Stop using so many divs! An intro to semantic HTML
+https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i
+
+How, in general, does Node.js handle 10,000 concurrent requests?
+https://stackoverflow.com/questions/34855352/how-in-general-does-node-js-handle-10-000-concurrent-requests
+
+What if Node.js was able to enforce an integrity policy for third-party modules when they are required?
+https://snyk.io/blog/introducing-experimental-integrity-policies-to-node-js
+
+Request Id Tracing in Node.js Applications
+https://medium.com/p/c517c7dab62d
+
+Observables, Side-effects, and Subscriptions
+https://blog.eyas.sh/2018/12/observables-side-effects-and-subscriptions/
+
+33 of the best 404 pages
+https://www.creativebloq.com/web-design/best-404-pages-812505
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

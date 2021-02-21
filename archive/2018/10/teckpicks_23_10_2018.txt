@@ -1,0 +1,23 @@
+TechPicks 23/10/2018 -
+
+Money Needs Design and Patience
+https://medium.com/@nirbenita/money-needs-design-and-patience-d108f40cd42f
+
+GitHub October 21 Incident Report
+https://blog.github.com/2018-10-21-october21-incident-report/
+
+Finally, a React Refactoring Tool - Introducing Glean
+https://www.wix.engineering/blog/finally-a-react-refactoring-tool-introducing-glean
+
+On Creative Coding
+https://dry.ly/on-creative-coding
+
+WebAssembly’s post-MVP future: A cartoon skill tree
+https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/
+
+What does Stack Overflow want to be when it grows up?
+https://blog.codinghorror.com/what-does-stack-overflow-want-to-be-when-it-grows-up/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

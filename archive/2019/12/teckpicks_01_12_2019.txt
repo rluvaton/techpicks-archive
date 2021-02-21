@@ -1,0 +1,29 @@
+TechPicks 01/12/2019 -
+
+A JavaScript implementation of the NEAT Algorithm
+https://gabrieltavernini.github.io/NeatJS/
+
+Calculus Explained with pics and gifs
+https://0a.io/chapter1/calculus-explained.html
+
+An Easy Way to Build a Tree in JavaScript Using Object References
+https://typeofnan.dev/an-easy-way-to-build-a-tree-with-object-references/
+
+Understanding client side routing by implementing a router in Vanilla JS
+http://willtaylor.blog/client-side-routing-in-vanilla-js/
+
+swc: super-fast alternative for babel - with a custom plugin support
+https://swc-project.github.io/blog/2019/11/30/announcing-swc-1.1.0
+
+Firefox Replay - time-travel debugging
+https://firefox-replay.com/
+
+Yes! And... how to be effective in the theatre of work
+https://tomcritchlow.com/2019/11/18/yes-and/
+
+The Internet Society (ISOC) has just sold the ".org" TLD for USD 1.35 Billion, to Ethos Capital, a brand new private equity company, after the price caps for the domain were removed.
+https://domainnamewire.com/2019/11/29/ethos-paid-1-135-billion-for-org/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

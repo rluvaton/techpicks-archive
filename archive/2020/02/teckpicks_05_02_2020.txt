@@ -1,0 +1,26 @@
+TechPicks 05/02/2020 -
+
+Why Discord is switching from Go to Rust
+https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f
+
+Some Google Photos videos in ‘Takeout’ backups were sent to strangers last November
+https://ww.9to5google.com/2020/02/03/google-photos-video-strangers/
+
+Critical Security Flaw Found in WhatsApp Desktop Platform Allowing Cybercriminals Read From The File System Access
+https://www.perimeterx.com/tech-blog/2020/whatsapp-fs-read-vuln-disclosure/
+
+You May Not Need Moment.js
+https://github.com/you-dont-need/You-Dont-Need-Momentjs
+
+You May Not Need JavaScript
+https://github.com/you-dont-need/You-Dont-Need-JavaScript
+
+Learn CSS Positioning
+https://ishadeed.com/article/learn-css-positioning/
+
+Demystifying a TypeScript quirk
+https://matthewmiller.dev/blog/demystifying-typescript-quirk/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

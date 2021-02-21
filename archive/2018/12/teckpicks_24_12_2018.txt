@@ -1,0 +1,26 @@
+TechPicks 24/12/2018 -
+
+The Virtual DOM is slow. Meet the Memoized DOM.
+https://medium.freecodecamp.org/the-virtual-dom-is-slow-meet-the-memoized-dom-bb19f546cc52
+
+Generic First CSS: New Thinking On Mobile First
+https://www.smashingmagazine.com/2018/12/generic-css-mobile-first/
+
+19 Tips For Software Engineers In 2019
+https://dev.to/emmawedekind/19-tips-for-software-engineers-in-2019-4okm
+
+Magic Grid - A simple, lightweight Javascript library for dynamic grid layouts.
+https://github.com/e-oj/Magic-Grid
+
+Neural networks in JavaScript – free 19-part course
+https://scrimba.com/g/gneuralnetworks
+
+Node.js Fundamentals: Web Server Without Dependencies
+https://blog.bloomca.me/2018/12/22/writing-a-web-server-node.html
+
+"No money for a Nintendo Switch for Christmas. So I made one instead."
+https://codepen.io/k750i/pen/REpEWQ
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

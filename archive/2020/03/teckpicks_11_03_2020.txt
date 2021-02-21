@@ -1,0 +1,29 @@
+TechPicks 11/03/2020 -
+
+Why Svelte is our choice for a large web project in 2020
+https://github.com/feltcoop/why-svelte
+
+Jsonbox.io – A free HTTP-based JSON storage
+https://jsonbox.io/
+
+Microsoft Edge has more privacy-invading telemetry than other browsers
+https://betanews.com/2020/03/09/microsoft-edge-privacy-telemetry/
+
+HTML: The Inaccessible Parts
+https://daverupert.com/2020/02/html-the-inaccessible-parts/
+
+PostgreSQL For Those Who Can’t Even
+https://rob.conery.io/2020/01/24/postgresql-for-those-who-cant-even-part-1/
+
+React + TypeScript Cheatsheets
+https://github.com/typescript-cheatsheets/react-typescript-cheatsheet
+
+Highlights from Node.TLV
+https://nodesource.com/blog/highlights-of-Node.TLV/
+
+Cilium - Cluster Mesh - Cross-Cluster Connectivity and Cluster level Network Policy
+https://medium.com/@gokulchandrapr/kubernetes-multi-cluster-networking-cilium-cluster-mesh-bca0f5367d84
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

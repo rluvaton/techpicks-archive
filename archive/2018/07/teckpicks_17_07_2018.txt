@@ -1,0 +1,44 @@
+TechPicks 17/07/2018 -
+
+The Best Explanation of JavaScript Reactivity
+https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d
+
+Docker compose for zeit now
+https://github.com/dannav/now-compose
+
+An npm package that prints todos to the terminal
+https://www.npmjs.com/package/todo-viewer
+
+'5 interesting technical challenges I faced when building FilePond'
+https://itnext.io/filepond-frontend-trickery-a3073c934c77
+
+Pushbar.js - a tiny javascript plugin for creating sliding drawers in web apps
+https://oncebot.github.io/pushbar.js/
+
+40+ Online Tools & Resources for Web Designers & Developers
+https://www.youtube.com/watch?v=4JC8ahZneYU
+
+Why JSON isn't a Good Configuration Language
+https://www.lucidchart.com/techblog/2018/07/16/why-json-isnt-a-good-configuration-language/
+
+How to take 7 years to ship a beta
+https://medium.com/@eigenbom/how-to-take-7-years-to-ship-a-beta-4fcfc2428d88
+
+Communicating in technical terms with non-technical people
+https://writingfordevelopers.substack.com/p/communicating-in-technical-terms-with-non-technical-people
+
+Supercharging the Git Commit Graph IV: Bloom Filters
+https://blogs.msdn.microsoft.com/devops/2018/07/16/super-charging-the-git-commit-graph-iv-bloom-filters/
+
+Rogue.js - a nearly invisible framework for creating server-rendered React applications
+https://github.com/alidcastano/rogue.js/
+
+Creating Node Addons with C++ and Bazel
+http://www.syntaxsuccess.com/viewarticle/creating-node-addons-with-c-plus-plus-and-bazel
+
+All-in-one AWS Serverless Platform - Functional Fleet
+https://ffleet.io
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

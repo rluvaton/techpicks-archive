@@ -1,0 +1,32 @@
+TechPicks 23/01/2019 -
+
+It's possible to access private GitHub repos after you have been kicked out
+https://gist.github.com/sarazasasa/9450d63f96e7ff799824fc98fc7f3b43
+
+React Fragments in Practice: 4 real-world examples
+https://frontarm.com/articles/react-fragments-in-practice/
+
+The Complete Guide to SCSS/SASS
+https://medium.freecodecamp.org/the-complete-guide-to-scss-sass-30053c266b23
+
+Bob Ross Doing the Floss, Like a Boss (Pure CSS)
+https://codepen.io/ste-vg/pen/jXogqd
+
+What's New in JavaScript for 2019
+https://developer.okta.com/blog/2019/01/22/whats-new-in-es2019
+
+Convert a String to a Number in JavaScript
+http://thecodebarbarian.com/convert-a-string-to-a-number-in-javascript.html
+
+Linting TypeScript
+https://pawelgrzybek.com/linting-typescript/
+
+The future of TypeScript on ESLint
+https://eslint.org/blog/2019/01/future-typescript-eslint
+
+TypeScript Tricks: Type Guards
+https://www.matthewgerstman.com/ts-tricks-type-guards/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,32 @@
+TechPicks 30/09/2018 -
+
+Fun fact. CSS Flexbox is now used by ~82% of web pages. Grid...1%. Your turn Grid.
+https://twitter.com/ebidel/status/1034874571747291136
+
+DependencySpy: Find known vulnerabilities in your dependencies
+https://github.com/rtfpessoa/dependency_spy
+
+Git is already federated & decentralized
+https://drewdevault.com/2018/07/23/Git-is-already-distributed.html
+
+Introducing Cloudflare KV: A Fast Distributed Key-Value Store
+https://blog.cloudflare.com/building-with-workers-kv/
+
+Facebook says nearly 50m users compromised in huge security breach | Technology | The Guardian
+https://www.theguardian.com/technology/2018/sep/28/facebook-50-million-user-accounts-security-berach
+
+Overtime Hurts Your Software & Your Team, and it is a sign of problems that should never receive praise
+https://medium.com/@plainprogrammer/overtime-hurts-your-software-your-team-1c16c99e28aa
+
+16 Hand-Picked JavaScript Podcasts Still Running in 2018
+https://snipcart.com/blog/javascript-podcasts
+
+The 5 best use cases for the serverless beginner
+http://blog.epsagon.com/the-best-5-use-cases-for-the-serverless-beginner
+
+Atlassian's new software terms forbid benchmarking and publishing information about performance
+https://community.developer.atlassian.com/t/about-the-new-software-terms-scent-of-intel-re-performance/24041
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

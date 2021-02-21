@@ -1,0 +1,29 @@
+TechPicks 30/08/2018 -
+
+Lerna to revert previous changes and restore unmodified MIT license
+https://github.com/lerna/lerna/pull/1633
+
+kontra - a lightweight JavaScript gaming micro-library, optimized for js13kGames
+https://github.com/straker/kontra
+
+Lufthansa data leak: What a single URL can reveal about you
+https://cliqz.com/en/magazine/lufthansa-data-leak-what-a-single-url-can-reveal-about-you
+
+What’s New in PHP 7.3 (Coming Soon)
+https://kinsta.com/blog/php-7-3/
+
+TensorFlow.js Crash Course - Machine Learning For The Web - Getting Started
+https://codingthesmartway.com/tensorflow-js-crash-course-machine-learning-for-the-web-getting-started/
+
+Time-saving CSS techniques to create responsive images
+https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5
+
+Bye bye BetterSlack
+https://g3rv4.com/2018/08/bye-bye-betterslack
+
+Developers Need to Start Paying Attention to Licenses [2017]
+https://www.remotesynthesis.com/blog/developers-and-licenses
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

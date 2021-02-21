@@ -1,0 +1,59 @@
+TechPicks 05/08/2018 -
+
+Inspired by Oh Shit Git... Oh Shit Vim!
+https://ohshitvim.com/
+
+Bursting particle effect buttons for React 🎉
+https://github.com/transitive-bullshit/react-particle-effect-button
+
+"Modern JavaScript Explained For Dinosaurs"
+https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
+
+"Why you should stop using Git rebase"
+https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1
+
+Making an interactive password validator
+http://ederdiaz.com/blog/2018/07/31/making-an-interactive-password-validator-wotw/
+
+The three faces of JavaScript `this`
+http://jamesknelson.com/demystifying-javascript-the-many-faces-of-this/
+
+Flexbox — The Animated Tutorial
+https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2
+
+A Skeptics Guide To Functional JavaScript
+https://www.youtube.com/watch?v=X_rxRMUGScA
+
+What Happens When You Create A Flexbox Flex Container?
+https://www.smashingmagazine.com/2018/08/flexbox-display-flex-container/
+
+How to get better at writing CSS
+https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f
+
+New attack on WPA/WPA using PMKID
+https://hashcat.net/forum/thread-7717.html
+
+Fast JavaScript by Default
+https://www.youtube.com/watch?v=8vPzDQNukqc&t=126s
+
+TextQL - SQL for CSV
+https://github.com/dinedal/textql/blob/master/Readme.md
+
+New Spectre Variant Hits the Network: "A new proof of concept is a reminder that complex systems can be vulnerable at the most basic level."
+https://www.darkreading.com/attacks-breaches/new-spectre-variant-hits-the-network/d/d-id/1332431
+
+Google just open sourced Filament - a physically based rendering engine for Android, Windows, Linux and macOS
+https://github.com/google/filament
+
+System Design Interview Concepts – Eventual Consistency
+http://www.acodersjourney.com/2018/08/eventual-consistency/
+
+Generating Random Points in a Sphere
+https://karthikkaranth.me/blog/generating-random-points-in-a-sphere/
+
+Growing Object-Oriented Software, Guided by Tests Without Mocks
+https://enterprisecraftsmanship.com/2016/07/05/growing-object-oriented-software-guided-by-tests-without-mocks/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

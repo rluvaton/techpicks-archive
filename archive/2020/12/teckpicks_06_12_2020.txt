@@ -1,0 +1,32 @@
+TechPicks 06/12/2020 -
+
+State Of CSS results are published
+https://2020.stateofcss.com/
+
+25 Years of JavaScript History
+https://www.jetbrains.com/lp/javascript-25/
+
+The Subtle Hazards of Real-World Cryptography
+https://soatok.blog/2020/11/27/the-subtle-hazards-of-real-world-cryptography/
+
+How does Brown University know where you are?
+https://jack.wrenn.fyi/blog/brown-location-surveillance/
+
+PHP8, from a security point of view
+https://dustri.org/b/php8-from-a-security-point-of-view.html
+
+CLI Guidelines
+https://clig.dev/
+
+The Hitchhiker’s Guide to Online Anonymity
+https://anonymousplanet.github.io/thgtoa/guide.html
+
+From Callback Hell to Callback Heaven
+https://dev.to/loreanvictor/from-callback-hell-to-callback-heaven-4i0c
+
+No One Ever Got Fired for Choosing React
+https://jake.nyc/words/no-one-ever-got-fired-for-choosing-react/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

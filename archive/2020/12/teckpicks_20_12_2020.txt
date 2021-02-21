@@ -1,0 +1,35 @@
+TechPicks 20/12/2020 -
+
+Back to the '70s with Serverless
+http://evrl.com/devops/cloud/2020/12/18/serverless.html
+
+Filter Google Search result by URLs with regular expression
+https://greasyfork.org/en/scripts/418765-google-search-url-filter
+
+npm now shows which packages include bundled TypeScript declarations
+https://github.blog/changelog/2020-12-16-npm-displays-packages-with-bundled-typescript-declarations/
+
+The Power of Pure HTTP – screen share, real-time messaging, SSH and VNC
+https://dev.to/nwtgck/the-power-of-pure-http-screen-share-real-time-messaging-ssh-and-vnc-5ghc
+
+The Shadow Request: Troubleshooting OkCupid’s First GraphQL Release
+https://tech.okcupid.com/the-shadow-request/
+
+Ryzen 5800X vs Apple M1: Programming-focused benchmarks (with Java Renaissance, DaCapo and SciMark 2.0)
+https://github.com/tuhdo/tuhdo.github.io/blob/8a26ccfea91c1e5fea7b18c110bf11746a37ee5a/emacs-tutor/zen3_vs_m1.org
+
+Python Decorators Explained
+https://medium.com/swlh/python-decorators-explained-ddb82cc51fc5
+
+Python at Scale: Strict Modules
+https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834
+
+Python 3 Patterns, Recipes and Idioms — Python 3 Patterns, Recipes and Idioms
+https://python-3-patterns-idioms-test.readthedocs.io/en/latest/
+
+Gist: Unfollow everyone on twitter.com
+https://gist.github.com/JamieMason/7580315
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

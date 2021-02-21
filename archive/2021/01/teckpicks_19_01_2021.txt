@@ -1,0 +1,44 @@
+TechPicks 19/01/2021 -
+
+Elad Shechter - How Does CSS Work?
+https://elad.medium.com/how-does-css-work-92fe7116916d
+
+The case of extra 40 ms - Netflix engineering
+https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513
+
+Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux)
+https://blog.isquaredsoftware.com/2021/01/blogged-answers-why-react-context-is-not-a-state-management-tool-and-why-it-doesnt-replace-redux/
+
+Writing good Git commit messages matters
+https://twitter.com/dmokafa/status/1351152452179996682?s=08
+
+That XOR Trick
+https://florian.github.io/xor-trick
+
+Tao of React - a collection of rules and guidelines about building React applications
+https://alexkondov.com/tao-of-react/
+
+That’s not how 2FA works
+https://shkspr.mobi/blog/2021/01/thats-not-how-2fa-works/
+
+I wasted 40k
+https://tjcx.me/p/i-wasted-40k-on-a-fantastic-startup-idea
+
+Are We Really Engineers? (Part 1 of 3)
+https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/
+
+Tailwind isn't for me
+https://dev.to/jaredcwhite/why-tailwind-isn-t-for-me-5c90
+
+Forgo.JS is a 4KB React alternative which encourages using plain JS and DOM APIs
+https://forgojs.org/
+
+Traps to Avoid When Reviewing Code Changes
+https://blog.sulami.xyz/posts/code-reviews/
+
+We can do better than Signal
+https://icyphox.sh/blog/signal/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

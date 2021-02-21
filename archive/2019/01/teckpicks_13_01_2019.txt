@@ -1,0 +1,32 @@
+TechPicks 13/01/2019 -
+
+The State of Web Browsers
+https://ferdychristant.com/the-state-of-web-browsers-f5a83a41c1cb
+
+CSS doesn’t suck
+https://andy-bell.design/wrote/css-doesnt-suck/
+
+Fancy Function Parameters
+https://www.javascriptjanuary.com/blog/fancy-function-parameters
+
+Make all new commits verified at GitHub
+https://aross.se/2019/01/12/make-all-new-commits-verified-at-github.html
+
+GoDaddy is sneakily injecting JavaScript into your website and how to stop it
+https://www.igorkromin.net/index.php/2019/01/13/godaddy-is-sneakily-injecting-javascript-into-your-website-and-how-to-stop-it/
+
+Meet Pixel Mob - An aggregator for royalty-free images
+https://v.redd.it/356mikvlv0a21
+
+What Mr. Meeseeks can teach us about Single Responsibility
+https://github.com/nominalaeon/guides/blob/develop/javascript/single-responsibility.md
+
+Netflix Software Engineers earn a salary of more than $300,000
+https://blog.salaryproject.com/netflix-software-engineers-earn-a-salary-of-more-than-300000/
+
+The internet, but not as we know it: life online in China, Russia, Cuba and India
+https://www.theguardian.com/technology/ng-interactive/2019/jan/11/the-internet-but-not-as-we-know-it-life-online-in-china-russia-cuba-and-india
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

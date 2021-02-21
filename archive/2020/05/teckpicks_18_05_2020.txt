@@ -1,0 +1,29 @@
+TechPicks 18/05/2020 -
+
+From Node.js to Deno
+https://dev.to/aralroca/from-node-to-deno-5gpn
+
+A full, summarized, interactive WebGL tutorial
+https://xem.github.io/articles/webgl-guide.html
+
+It’s OK for your open source library to be a bit shitty
+https://www.drmaciver.com/2015/04/its-ok-for-your-open-source-library-to-be-a-bit-shitty/
+
+Ask HN: What is your learning strategy?
+https://news.ycombinator.com/item?id=23211184
+
+You don't need an image to run a container
+https://iximiuz.com/en/posts/you-dont-need-an-image-to-run-a-container/
+
+Software Burnout Is for Real
+https://medium.com/swlh/software-burnout-is-for-real-66092705e2f7
+
+How and why to sign your Git commits
+https://withblue.ink/2020/05/17/how-and-why-to-sign-git-commits.html
+
+Do repeat yourself
+https://gtramontina.com/posts/do-repeat-yourself.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

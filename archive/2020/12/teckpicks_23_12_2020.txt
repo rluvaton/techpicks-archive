@@ -1,0 +1,29 @@
+TechPicks 23/12/2020 -
+
+Hotwire - an alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire
+https://hotwire.dev/
+
+Turbo - The speed of a single-page web application without having to write any JavaScript. Open sourced by Basecamp
+https://github.com/hotwired/turbo
+
+CSS Protips - a collection of tips to help take your CSS skills pro
+https://github.com/AllThingsSmitty/css-protips
+
+Mackup - Keep your application settings in sync
+https://github.com/lra/mackup
+
+Xanny - Fast and low HTTP router and URL matcher for building Deno servers
+https://deno.land/x/xanny
+
+Advanced TypeScript Type Tricks
+https://casualdeveloper.net/post/2020-12-21-advanced-typescript-type-tricks/
+
+NumPy Illustrated: The Visual Guide to NumPy
+https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d
+
+Coding as a tool of thought
+https://surfingcomplexity.blog/2020/12/21/coding-as-a-tool-of-thought/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,23 @@
+TechPicks 21/01/2021 -
+
+Pipeline Operator and Partial Application - Functional Programming in JavaScript
+https://lachlan-miller.me/articles/esnext-pipelines
+
+The Usual Path: a decision-making anti-pattern.
+https://dev.to/francescostrazzullo/the-usual-path-a-decision-making-anti-pattern-8np
+
+Amplication – Instantly Generate Node.js Apps with GraphQL and REST API
+https://github.com/amplication/amplication
+
+Porting Firefox to Apple Silicon
+https://hacks.mozilla.org/2021/01/porting-firefox-to-apple-silicon/
+
+Kids find a security flaw in Linux Mint by mashing keys
+https://github.com/linuxmint/cinnamon-screensaver/issues/354
+
+New in Chrome 88: aspect-ratio
+https://css-tricks.com/new-in-chrome-88-aspect-ratio/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

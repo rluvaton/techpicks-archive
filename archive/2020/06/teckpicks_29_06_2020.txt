@@ -1,0 +1,23 @@
+TechPicks 29/06/2020 -
+
+"It's probably time to stop recommending Clean Code"
+https://qntm.org/clean
+
+Textures.js is a JavaScript library for creating SVG patterns
+https://riccardoscalco.it/textures/
+
+On Opportunistic Refactoring
+https://www.jonmellman.com/posts/on-opportunistic-refactoring
+
+The 25 greatest Java apps ever written
+https://blogs.oracle.com/javamagazine/the-top-25-greatest-java-apps-ever-written
+
+Considerations in designing distributed systems
+https://www.kislayverma.com/post/design-review-checklist-for-distributed-systems
+
+Blood Lines is a tool for visualizing family tree data in an interactive, 3D space
+https://github.com/mister-blanket/blood-lines
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

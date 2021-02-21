@@ -1,0 +1,26 @@
+TechPicks 04/12/2018 -
+
+Dan Abramov - Why Do React Elements Have a $$typeof Property?
+https://overreacted.io/why-do-react-elements-have-typeof-property/
+
+Microsoft is building a Chromium-powered web browser that will replace Edge on Windows 10
+https://www.windowscentral.com/microsoft-building-chromium-powered-web-browser-windows-10
+
+Microsoft allows you to use FREE Windows Virtual Machines to test your website on Microsoft's browsers
+https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+
+Securing Your Site like It’s 1999
+https://24ways.org/2018/securing-your-site-like-its-1999/
+
+New Autoprefixer 9.4 with Grid Layout autoplacement for IE
+https://github.com/postcss/autoprefixer#grid-autoplacement-support-in-ie
+
+TypeScript – was it worth it?
+https://ecom.software/after-two-years-with-typescript-was-it-worth-it/
+
+Is Deep Learning Already Hitting Its Limitations?
+https://tomstechnicalblog.blogspot.com/2018/12/is-deep-learning-already-hitting-its.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

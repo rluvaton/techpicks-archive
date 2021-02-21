@@ -1,0 +1,26 @@
+TechPicks 19/02/2020 -
+
+Don't touch my clipboard
+https://alexanderell.is/posts/taking-over-my-clipboard/
+
+The official Redux template for Create-React-App is now available
+https://github.com/reduxjs/cra-template-redux/releases/tag/v1.0.0
+
+Docker for Windows won't run if Razer Synapse driver management tool is running
+https://twitter.com/Foone/status/1229641258370355200
+
+Module federation and code sharing between bundles. Huge changes coming to frontend with webpack@5
+https://github.com/webpack/webpack/issues/10352
+
+Goxygen: A generator of full stack web projects with React and Go
+https://github.com/Shpota/goxygen
+
+Maintaining a zero-maintenance website
+https://www.ajnisbet.com/blog/maintaining-a-zero-maintenance-website
+
+How does your code sound? This app creates a melody from the JS or TS code you enter
+https://soundcode.now.sh/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

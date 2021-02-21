@@ -1,0 +1,29 @@
+TechPicks 20/03/2019 -
+
+Free daily coding challenges in JS
+https://algodaily.com/
+
+Why are we creating a JavaScript-only World Wide Web?
+https://itnext.io/why-are-we-creating-a-javascript-only-world-wide-web-db8c3a340b9?source=friends_link&sk=d9c49853fd7f50335cb3adb88245b3fc
+
+A Future Without Webpack
+https://www.pikapkg.com/blog/pika-web-a-future-without-webpack/
+
+Who has the fastest F1 website? A deep-dive into real-world web performance tips & gotchas
+https://jakearchibald.com/2019/f1-perf/
+
+Firefox now blocks auto playing video and audio
+https://techcrunch.com/2019/03/19/firefox-now-automatically-blocks-autoplaying-audio-and-video/
+
+Announcing NestJS 6: What’s New?
+https://medium.com/@kammysliwiec/announcing-nestjs-6-whats-new-38959d94221f
+
+CSS Grid: Floor Plan
+https://codepen.io/oliviale/full/moLrBq
+
+A Conservative Backend
+https://dev.to/winduptoy/a-conservative-backend-4252
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

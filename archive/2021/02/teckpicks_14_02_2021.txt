@@ -1,0 +1,38 @@
+TechPicks 14/02/2021 -
+
+Debug your tests in TypeScript with Visual Studio Code | Blog
+https://bromix.medium.com/debug-your-tests-in-typescript-with-visual-studio-code-911a4cada9cd
+
+Alternative Shells
+https://github.com/oilshell/oil/wiki/Alternative-Shells
+
+ratfactor/ziglings - Learn zig by fixing little broken programs
+https://github.com/ratfactor/ziglings
+
+A 2020 Vision of Linear Algebra
+https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/
+
+SVG: The Good, the Bad and the Ugly
+https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
+
+Managing focus in the shadow DOM
+https://nolanlawson.com/2021/02/13/managing-focus-in-the-shadow-dom/
+
+Python “tricks” I can not live without
+https://levelup.gitconnected.com/python-tricks-i-can-not-live-without-87ae6aff3af8
+
+The Database Inside Your Codebase
+https://feifan.blog/posts/the-database-inside-your-codebase
+
+I have no name, and I must recurse
+https://blog.astrosnail.pt.eu.org/2021-02-11-snake.html
+
+Domain-Driven Hexagon - architecture and best practices
+https://github.com/Sairyss/domain-driven-hexagon
+
+eBay Launches Marko 5
+https://medium.com/ebaytech/ebay-launches-marko-5-2e0fe06280c
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

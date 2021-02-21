@@ -1,0 +1,38 @@
+TechPicks 24/11/2019 -
+
+Announcing core Node.js support for ECMAScript modules
+https://medium.com/@nodejs/announcing-core-node-js-support-for-ecmascript-modules-c5d6dc29b663
+
+A Resilience Library for JavaScript - Retries, Circuit Breakers, Backoffs, + More
+https://github.com/connor4312/cockatiel
+
+The care and feeding of software engineers (or, why engineers are grumpy)
+https://humanwhocodes.com/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/
+
+30 Tips & Tricks with the Firefox DevTools
+https://medium.com/@lakatos/30-tips-tricks-with-the-firefox-developer-tools-2e3f2ca5bc61
+
+Manipulating AST with JavaScript
+https://lihautan.com/manipulating-ast-with-javascript/
+
+Bruno Simon — Portfolio (case study)
+https://medium.com/@bruno_simon/bruno-simon-portfolio-case-study-960402cc259b
+
+BodyPix: Real-time Person Segmentation in the Browser with TensorFlow.js
+https://blog.tensorflow.org/2019/11/updated-bodypix-2.html
+
+Client Side PDF Generation with image from URL using PDFMake
+https://www.ngdevelop.tech/insert-image-from-url-in-pdf-using-pdfmake/
+
+If your job ends after merging a pull request, you’re probably getting continuous delivery wrong
+https://blog.loadmill.com/if-your-job-ends-after-merging-a-pull-request-youre-probably-getting-continues-delivery-wrong-da849886ceed/#article
+
+Design patterns in Node.js
+https://medium.com/@alonso.oliverio/design-patterns-in-nodejs-990fed17c49c
+
+TypeScript Generics for People Who Gave Up on Understanding Generics
+https://ts.chibicode.com/generics
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

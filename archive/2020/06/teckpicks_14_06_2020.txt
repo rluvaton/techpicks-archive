@@ -1,0 +1,23 @@
+TechPicks 14/06/2020 -
+
+The State of Developer Ecosystem 2020 by Jetbrains
+https://www.jetbrains.com/lp/devecosystem-2020/
+
+MyDrive - Open Source Google Drive Clone (Node.js, Docker, Amazon S3, React, MongoDB)
+https://github.com/subnub/myDrive
+
+Introducing the MDN Web Docs Front-end developer learning pathway
+https://hacks.mozilla.org/2020/06/introducing-the-mdn-web-docs-front-end-developer-learning-pathway/
+
+Math as Code - a cheat-sheet for mathematical notation in code form
+https://github.com/Jam3/math-as-code
+
+Web platform's hidden gems - Gamepad API
+https://arunmichaeldsouza.com/blog/web-platform's-hidden-gems---gamepad-api
+
+HSBC moves from 65 relational databases into one global MongoDB database
+https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

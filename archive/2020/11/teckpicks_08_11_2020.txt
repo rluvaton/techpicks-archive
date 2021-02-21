@@ -1,0 +1,23 @@
+TechPicks 08/11/2020 -
+
+(t,i,x,y) => "creative code golfing"
+https://tixy.land/
+
+A Practical Analysis of the Ledger Phishing Email
+https://serhack.me/articles/practical-analysis-ledger-phishing-email/
+
+Why not use GraphQL?
+https://wundergraph.com/blog/why_not_use_graphql
+ 
+A guide to setting up zsh in Windows 10
+https://github.com/DigitalMachinist/win-zsh
+
+How to store data forever
+https://drewdevault.com/2020/04/22/How-to-store-data-forever.html
+
+Managing my personal server in 2020
+https://github.com/erebe/personal-server/blob/master/README.md
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

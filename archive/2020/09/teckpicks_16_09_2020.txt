@@ -1,0 +1,29 @@
+TechPicks 16/09/2020 -
+
+Rewriting the Technical Interview
+https://aphyr.com/posts/353-rewriting-the-technical-interview
+
+PostCSS 8.0 release: new plugin API and CSS parser changes
+https://github.com/postcss/postcss/releases/tag/8.0.0
+
+Chrome Dev Tools now detects large JS libs and recommends alternatives
+https://twitter.com/addyosmani/status/1304676118822174721
+
+Announcing Tribuo, a Java Machine Learning library
+https://blogs.oracle.com/datascience/tribuo-java-machine-learning-library
+
+Python 3.9: All You need to know
+https://ayushi7rawat.hashnode.dev/python-39-all-you-need-to-know
+
+My journey making QuestDB
+https://questdb.io/blog/2020/08/06/my-journey-writing-questdb/
+
+Why are we so bad at software engineering?
+https://www.bitlog.com/2020/02/12/why-are-we-so-bad-at-software-engineering/
+
+The Myth of Architect as Chess Master
+http://www.bennorthrop.com/Essays/2020/myth-of-software-architect-as-chess-master.php
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

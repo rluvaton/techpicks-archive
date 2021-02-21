@@ -1,0 +1,44 @@
+TechPicks 13/09/2018 -
+
+Happy Programmers’ Day!
+http://blog.ntrlab.com/international-programmers-day/
+
+Python replaces 'offensive' code wording as per recent trends
+https://github.com/python/cpython/pull/9101
+
+23 guidelines for writing readable code
+https://alemil.com/guidelines-for-writing-readable-code
+
+Why I can't recommend Clean Architecture by Robert C Martin
+https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd
+
+How Your Company Can Support Junior Engineers
+https://www.eventbrite.com/engineering/how-to-support-junior-engineers/
+
+Microsoft intercepting Firefox and Chrome installation on Windows 10
+https://www.ghacks.net/2018/09/12/microsoft-intercepting-firefox-chrome-installation-on-windows-10/
+
+EU link tax has been approved
+https://www.theverge.com/2018/9/12/17849868/eu-internet-copyright-reform-article-11-13-approved
+
+Not the CSS specificity guide you deserve, but the one you need right now.
+http://batificity.com/
+
+LOLWUT: a piece of art inside a database command
+http://antirez.com/news/123
+
+What many people don't understand is that You can have peer to peer systems without using blockchain
+https://twitter.com/rimproverato/status/1039903101728301056
+
+LogDevice, Facebook's distributed sequential data store, just went open source
+https://logdevice.io/
+
+Practical Web Cache Poisoning: Redefining 'Unexploitable'
+https://youtu.be/j2RrmNxJZ5c
+
+How to deal with dirty side effects in your pure functional JavaScript
+https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

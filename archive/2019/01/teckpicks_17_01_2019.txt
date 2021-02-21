@@ -1,0 +1,35 @@
+TechPicks 17/01/2019 -
+
+How to teach Git
+https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html
+
+React Best Practices - A comprehensive reference guide to kickstart your React architecting career
+https://github.com/kudos-dude/react-best-practices
+
+Jest migrating (from Flow) to TypeScript
+https://github.com/facebook/jest/pull/7554#issuecomment-454358729
+
+Whats some things in Google Chrome Devtools you use that are not obvious?
+https://reddit.com/r/javascript/comments/agn4zs/whats_some_things_in_google_chrome_devtools_you/
+
+Sick of writing a ton of console.log statements? Make life easier with this must-have VS Code extension.
+https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log
+
+Shiny.js - Simulating Reflections for Mobile Websites
+https://github.com/rikschennink/shiny
+
+The 8 most important UI animations of all time
+https://www.invisionapp.com/inside-design/the-8-most-important-ui-animations-of-all-time/
+
+Chris Coyier - The All Powerful Front End Developer
+https://www.youtube.com/watch?v=grSxHfGoaeg
+
+BitVision - Bitcoin forecasting, trading, and charting software that works entirely in the terminal
+https://github.com/shobrook/BitVision/
+
+Tech Choices I Regret at Spectrum
+https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

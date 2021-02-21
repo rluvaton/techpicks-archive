@@ -1,0 +1,32 @@
+TechPicks 22/01/2019 -
+
+The Great Divide - Two front-end developers are sitting at a bar. They have nothing to talk about.
+https://css-tricks.com/the-great-divide/
+
+A Better Way to Develop Node.js with Docker
+https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093
+
+Why every new web app at PayPal starts with TypeScript
+https://medium.com/paypal-engineering/why-every-new-web-app-at-paypal-starts-with-typescript-9d1acc07c839
+
+Portable Node.js guide
+https://github.com/ehmicky/portable-node-guide
+
+Node.js multithreading: What are Worker Threads and why do they matter?
+https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10
+
+The future of TypeScript on ESLint
+https://eslint.org/blog/2019/01/future-typescript-eslint
+
+react-wasm - Declarative WebAssembly instantiation for React
+https://github.com/mbasso/react-wasm
+
+How to debug Node.js in a Docker container
+https://dev.to/alex_barashkov/how-to-debug-nodejs-in-a-docker-container-bhi
+
+Stepping away from Sass
+https://cathydutton.co.uk/posts/why-i-stopped-using-sass/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

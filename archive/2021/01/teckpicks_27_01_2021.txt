@@ -1,0 +1,32 @@
+TechPicks 27/01/2021 -
+
+Proposal for syntax to import ES modules with assertions
+https://github.com/tc39/proposal-import-assertions
+
+Google Pressed in Lawsuit to Dump Telegram Just Like Parler
+https://www.bloomberg.com/news/articles/2021-01-25/telegram-deserves-same-fate-as-parler-suit-against-google-says
+
+Google, Microsoft pitch in some spare change to keep Mozilla's Web Docs online bible alive
+https://www.theregister.com/2021/01/26/mozilla_web_docs/
+
+How to Migrate an App From Webpack to Snowpack
+https://primalskill.blog/how-to-migrate-an-app-from-webpack-to-snowpack
+
+array.sort() Does Not Simply Sort Numbers in JavaScript
+https://dmitripavlutin.com/javascript-array-sort-numbers/
+
+Firefox 85 cracks down on supercookies
+https://blog.mozilla.org/security/2021/01/26/supercookie-protections/
+
+How to Create Configurations for Different Environments in Your Node Applications
+https://jrdev.hashnode.dev/how-to-create-configurations-for-different-environments-in-your-node-applications-ckkd4gmm4000u81s18e8u3bvs
+
+How to avoid layout shifts caused by web fonts
+https://simonhearne.com/2021/layout-shifts-webfonts/
+
+You want minmax(10px, 1fr) not 1fr
+https://css-tricks.com/you-want-minmax10px-1fr-not-1fr/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

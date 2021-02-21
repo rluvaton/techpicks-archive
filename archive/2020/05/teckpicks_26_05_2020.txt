@@ -1,0 +1,26 @@
+TechPicks 26/05/2020 -
+
+Case study: Analyzing Notion app performance (or how to make a React app load 30% faster by tuning some configs)
+https://3perf.com/blog/notion/
+
+Today’s JavaScript, from an outsider’s perspective
+http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/
+
+eBay port scans visitors' computers for remote access programs
+https://www.bleepingcomputer.com/news/security/ebay-port-scans-visitors-computers-for-remote-access-programs/
+
+A Guide to Threat Modelling for Developers
+https://martinfowler.com/articles/agile-threat-modelling.html
+
+Deno won’t replace Node.js
+https://medium.com/variant-as/deno-wont-replace-node-64fa46e66941
+
+A pure CSS library that provides you with a variety of nice-looking toggles
+https://github.com/JNKKKK/MoreToggles.css
+
+kubeletctl v1.5 has been released - CLI client for kubelet with an option to scan for vulnerable containers
+https://github.com/cyberark/kubeletctl?v1.5
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

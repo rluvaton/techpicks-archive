@@ -1,0 +1,26 @@
+TechPicks 20/05/2020 -
+
+How to Ruin Your Career in 8 Easy Steps
+https://dev.to/rinaarts/how-to-ruin-your-career-in-8-easy-steps-71
+
+Node.js 14.3.0 is out - with top-level Await support
+https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V14.md#2020-05-19-version-1430-current-codebytere
+
+A picture is worth a thousand words; a prototype is worth a thousand meetings.
+https://slack.engineering/prototyping-at-slack-b1ec3a298226
+
+Azure Static Web Apps, Microsoft’s competitor to Netlify
+https://azure.microsoft.com/en-us/services/app-service/static/
+
+"we will also start blocking third-party cookies by default within each Incognito session" - More intuitive privacy and security controls in Chrome
+https://blog.google/products/chrome/more-intuitive-privacy-and-security-controls-chrome/
+
+A Single Div
+https://a.singlediv.com/
+
+How to Tame Line Height in CSS
+https://css-tricks.com/how-to-tame-line-height-in-css/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

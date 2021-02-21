@@ -1,0 +1,38 @@
+TechPicks 24/10/2019 -
+
+Wait, you’re not using <React.StrictMode>?!
+https://medium.com/nmc-techblog/wait-youre-not-using-react-strictmode-a9713927a33b
+
+Dramatically reduced power usage in Firefox 70 on MacOS with Core Animation
+https://mozillagfx.wordpress.com/2019/10/22/dramatically-reduced-power-usage-in-firefox-70-on-macos-with-core-animation/
+
+Open Sourcing Mantis: A Platform For Building Cost-Effective, Realtime, Operations-Focused Applications
+https://medium.com/netflix-techblog/open-sourcing-mantis-a-platform-for-building-cost-effective-realtime-operations-focused-5b8ff387813a
+
+talktech.io - a search engine for tech talks
+https://talktech.io
+
+RegexGuide - Online Tool for Future Regex Users
+https://regex.guide
+
+W3C compliant Keyboard events with TypeScript
+https://github.com/ashubham/w3c-keys
+
+Create, Read, Update, & Delete Cookies in JavaScript
+https://coderrocketfuel.com/article/how-to-create-read-update-and-delete-cookies-in-javascript
+
+How to simply deploy an Express.js Server to Kubernetes
+https://medium.com/@jerlam06/deploy-an-express-js-server-to-kubernetes-9e9f09c13a85
+
+Official TypeScript GitHub board on updating the specification
+https://github.com/microsoft/TypeScript/projects/7
+
+Firefox 70 now shows inactive CSS and how to fix it
+https://www.coywolf.news/webmaster/firefox-dev-tools-css/
+
+NordVPN Breached - Encryption Keys Stolen
+https://www.schneier.com/blog/archives/2019/10/nordvpn_breache.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

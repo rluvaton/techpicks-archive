@@ -1,0 +1,32 @@
+TechPicks 24/02/2019 -
+
+Nitay Neeman - Puppeteer Snippets for VS Code
+https://marketplace.visualstudio.com/items?itemName=nitayneeman.puppeteer-snippets
+
+5 surprising lessons about marketing to developers
+https://www.rookout.com/5-surprising-lessons-about-marketing-to-developers/
+
+Multrin - Organize windows in tabs
+https://github.com/sentialx/multrin
+
+Cleave.js - format your <input/> content when you are typing
+https://nosir.github.io/cleave.js/
+
+Trust is Good, Observation is Better — Intersection Observer v2
+https://developers.google.com/web/updates/2019/02/intersectionobserver-v2
+
+ECMAScript 2019: the final feature set
+http://2ality.com/2018/02/ecmascript-2019.html
+
+JavaScript Loading Priorities in Chrome
+https://addyosmani.com/blog/script-priorities/
+
+Good working example of Vue/React lifecycles
+https://ash.ms/2019-02-19/vue-react-lifecycle-method-comparison/
+
+500-byte script that makes a text with Google Fonts render faster (up to 3 seconds in slow networks)
+https://googlefonts.3perf.com/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

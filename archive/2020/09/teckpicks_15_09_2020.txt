@@ -1,0 +1,23 @@
+TechPicks 15/09/2020 -
+
+Moment.js Throws in the Towel: "It is not dead, but it is indeed done."
+https://momentjs.com/docs/#/-project-status/
+
+Effective limited parallel execution in JavaScript
+https://medium.com/@arsenyyankovsky/effective-limited-parallel-execution-in-javascript-ea2a1fb9a632
+
+Buttons That Spark Joy
+https://frontend.horse/articles/buttons-that-spark-joy/
+
+Your Language Sucks, It Doesn’t Matter
+https://matklad.github.io//2020/09/13/your-language-sucks.html
+
+Launching the 2020 State of Rust Survey
+https://blog.rust-lang.org/2020/09/10/survey-launch.html
+
+yarr: yet another rss reader
+https://github.com/nkanaev/yarr
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

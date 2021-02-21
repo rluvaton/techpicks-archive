@@ -1,0 +1,41 @@
+TechPicks 28/05/2019 -
+
+Why I'm still using jQuery in 2019
+https://arp242.net/jquery.html
+
+Unlearning toxic behaviors in a code review culture
+https://www.freecodecamp.org/news/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c/
+
+Introducing xstyled: Consistent theme based CSS for styled-components (implements the styled-system/system UI spec)
+https://github.com/smooth-code/xstyled
+
+Why We're Switching to gRPC
+https://eng.fromatob.com/post/2019/05/why-were-switching-to-grpc/
+
+Introducing inNative: Run WebAssembly Outside The Sandbox at 95% Native Speed
+https://innative.dev/news/introducing-innative/
+
+Fundamental Object Design Patterns in JavaScript
+https://medium.com/@severinperez/javascript-weekly-fundamental-object-design-patterns-31453f68427f
+
+Git - How to validate commit messages?
+https://howtosurviveasaprogrammer.blogspot.com/2019/05/git-how-to-validate-commit-messages.html
+
+Multi Threading in Python (Part 1)
+https://medium.com/@mishraneel99/multi-threading-in-python-part-1-c7ae39347dd0
+
+React Simple Animate v3 (2.2kb) - make UI animation simple
+https://github.com/bluebill1049/react-simple-animate
+
+My "Whoa, I didn't know that!" moments with Jest
+https://dev.to/briwa/my-whoa-i-didn-t-know-that-moments-with-jest-3a3h
+
+CapRover - Build your own PaaS in a few minutes
+https://caprover.com/
+
+Subgrid is here
+https://css-irl.info/subgrid-is-here/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

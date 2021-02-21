@@ -1,0 +1,26 @@
+TechPicks 25/12/2019 -
+
+Kobi Kadosh - Write Less Code, Read More: Career Advice For Programmers (And Everyone Else)
+https://medium.com/ni-tech-talk/write-less-code-read-more-career-advice-for-programmers-and-everyone-else-64502bccba53
+
+What Are the React Team Principles?
+https://overreacted.io/what-are-the-react-team-principles/
+
+Learning hardware programming as a Software Engineer
+https://blog.athrunen.dev/learning-hardware-programming-as-a-software-engineer/
+
+Introduction to IoT with Raspberry Pi and Node.js using RGB LED lights
+https://medium.com/@thatisuday/introduction-to-iot-with-raspberry-pi-and-node-js-using-rgb-led-lights-77f4750a5ea9
+
+My Business Card Runs Linux
+https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/
+
+WebAssembly 2019 - a year in review
+https://blog.scottlogic.com/2019/12/24/webassembly-2019.html
+
+Everything I learned and built in 2019 (keeping track of your accumulated learning is a habit I recommend)
+https://www.taniarascia.com/2019-into-2020/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

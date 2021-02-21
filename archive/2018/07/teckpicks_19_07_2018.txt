@@ -1,0 +1,44 @@
+TechPicks 19/07/2018 -
+
+Make Your PWA Work Offline Part 1 - Static Files
+https://www.monterail.com/blog/pwa-working-offline
+
+Former valve employee tweets his experience at valve
+https://www.reddit.com/r/valve/comments/8zmp07/former_valve_employee_tweets_his_experience_at/e2kbsg6/
+
+How Fast Can You Learn React?
+https://hackernoon.com/how-fast-can-you-learn-react-49c4bdabc0df
+
+"My Approach to do Unit Test in React"
+https://jquintanab.com/react-unit-test
+
+Vue.js hunt for perfect modal
+https://medium.com/epicmaxco/vue-js-hunt-for-perfect-modal-5879f7d34c25
+
+Unsupervised Machine Learning with JavaScript
+https://fullstack-developer.academy/unsupervised-machine-learning-with-javascript/
+
+30 Day Vanilla JS Challenge
+https://github.com/Employbl/JavaScript30
+
+It Costs $50k to Hire a Software Engineer
+https://medium.com/@cgroom/it-costs-50k-to-hire-a-software-engineer-d06a0d051abf
+
+Former Software Engineer at Spotify on their revolutionary (and kind of insane) solution of using self-contained iframes to increase team autonomy. (excerpt in comments)
+https://www.quora.com/How-is-JavaScript-used-within-the-Spotify-desktop-application-Is-it-packaged-up-and-run-locally-only-retrieving-the-assets-as-and-when-needed-What-JavaScript-VM-is-used
+
+Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+https://github.com/chrislgarry/Apollo-11/
+
+Evolutionary algorithm outperforms deep-learning machines at video games
+https://www.technologyreview.com/s/611568/evolutionary-algorithm-outperforms-deep-learning-machines-at-video-games
+
+Natural Language Processing is Fun: How computers understand Human Language
+https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e
+
+Google Flogger Logging API - Free Logging at disabled levels
+https://google.github.io/flogger
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,42 @@
+TechPicks 05/07/2018 -
+
+Axax - Async Iterator Extensions for JavaScript e.g. map, reduce, filter, flatMap, etc.
+https://github.com/jamiemccrindle/axax
+
+Boxicons : High quality open source icon font
+https://boxicons.com
+
+Lazy-loading images with React and Semantic UI
+https://medium.com/@cmichel/lazy-loading-images-with-react-and-semantic-ui-28a780bb3b3a
+
+A bubble generator with JS/CSS
+https://codepen.io/mr21/full/yEWaQg/
+
+CSS Grid in IE: Debunking Common IE Grid Misconceptions
+https://css-tricks.com/css-grid-in-ie-debunking-common-ie-grid-misconceptions/
+
+A Bloatless Web
+https://itnext.io/a-bloatless-web-d4f811c7991b
+
+No, you don't need ML/AI. You need SQL
+https://cyberomin.github.io/startup/2018/07/01/sql-ml-ai.html
+
+Chrome and Firefox Pull Stylish Add-On After Report It Logged Browser History
+https://www.bleepingcomputer.com/news/software/chrome-and-firefox-pull-stylish-add-on-after-report-it-logged-browser-history/
+
+15 Interesting JavaScript and CSS Libraries for July 2018
+https://tutorialzine.com/2018/07/15-interesting-javascript-and-css-libraries-for-july-2018
+
+pnpm · Fast, disk space efficient package manager
+https://pnpm.js.org/
+
+HTTP 2 Server Push
+https://pogsdotnet.blogspot.com/2018/06/http-2-server-push.html
+
+Is a 'live Google Earth' coming?
+https://www.techradar.com/news/is-a-live-google-earth-coming
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 17/06/2020 -
+
+Are 14 people currently looking at this product? Blatant lies revealed in the source code for an online shop
+https://medium.com/dev-genius/are-14-people-currently-looking-at-this-product-e7fe8412f16b
+
+Getting Started with React Testing Library
+https://www.robinwieruch.de/react-testing-library
+
+Do Not Follow JavaScript Trends
+https://pragmaticpineapple.com/do-not-follow-javascript-trends/
+
+What JavaScript Developers Should Know About Curl
+http://thecodebarbarian.com/what-javascript-developers-should-know-about-curl.html
+
+Our experience with micro-frontends
+https://medium.com/hacking-talent/two-years-of-micro-frontends-a-retrospective-522526f76df4
+
+Navim: navigate files on the terminal with the minimal amount of keystrokes
+https://github.com/MaiaVictor/Navim
+
+Splitting Event Streams: How RxJS groupBy() Works
+https://eugene.coding.blog/rxjs-group-by
+
+When type inference goes wrong, use an identity function to set it right
+https://effectivetypescript.com/2020/06/16/typed-identity-functions/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 03/02/2020 -
+
+CI and Testing Part 2 — Fieldin CI and Development Cycle
+https://medium.com/@talweksler/ci-and-testing-part-2-fieldin-ci-and-development-cycle-c603ea771949
+
+Dan Shappir - Breaking Chains with Pipelines in Modern JavaScript
+https://www.wix.engineering/post/breaking-chains-with-pipelines-in-modern-javascript
+
+NPM releases NPM Pro
+https://blog.npmjs.org/post/189591811407/new-products-and-a-glimpse-ahead
+
+New ES2020 Features — Strings, Numbers, and This
+https://dev.to/aumayeung/new-es2020-features-strings-numbers-and-this-1ag8
+
+Tracking DOM element visibility
+https://h3manth.com/new/blog/2020/tracking-dom-element-visibility/
+
+Breaking Chains with Pipelines in Modern JavaScript
+https://www.wix.engineering/post/breaking-chains-with-pipelines-in-modern-javascript
+
+Error propagation patterns in API backends
+https://www.fourzerofour.pw/posts/error-propagation/
+
+Old CSS, new CSS
+https://eev.ee/blog/2020/02/01/old-css-new-css/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

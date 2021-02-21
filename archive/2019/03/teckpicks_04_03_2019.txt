@@ -1,0 +1,23 @@
+TechPicks 04/03/2019 -
+
+Dan Abramov - How Are Function Components Different From Classes?
+https://overreacted.io/how-are-function-components-different-from-classes/
+
+An introduction to the basic principles of Functional Programming
+https://medium.freecodecamp.org/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84
+
+Common Accessibility Pitfalls for Single Page Apps — and How to Avoid Them
+https://medium.com/scribd-data-science-engineering/common-accessibility-pitfalls-for-single-page-apps-and-how-to-avoid-them-16ecb19dcb71
+
+Easy Modals with React Hooks and Portals
+https://wecodetheweb.com/2019/03/02/easy-modals-with-react-hooks/
+
+A Friendly Guide to Big O
+https://medium.com/@daily_javascript/a-friendly-guide-to-big-o-ea781c5f68f0
+
+Beware the user-defined type guards
+https://brainlessdeveloper.com/typescript/2019/02/27/typescript-series-2-beware-the-type-guards/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

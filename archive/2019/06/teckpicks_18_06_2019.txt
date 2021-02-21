@@ -1,0 +1,31 @@
+TechPicks 18/06/2019 -
+
+A CSS based web framework – JS (and HTML) in CSS
+https://github.com/scottkellum/CJSS
+
+Visualization of react-scripts dependency tree. This is downloaded 800K times per week.
+https://npm.anvaka.com/#/view/2d/react-scripts
+
+Redux Now Has Hooks. A Before and After Comparison
+https://glennstovall.com/react-hooks-before-and-after/
+
+What happens when software developers are (un)happy
+https://www.sciencedirect.com/science/article/pii/S0164121218300323
+
+You’re Going Through Software Engineer Puberty
+https://medium.com/@tindleaj/youre-going-through-software-engineer-puberty-330a0a464a46
+
+When should you be using Web Workers?
+https://dassur.ma/things/when-workers/
+
+Relearn CSS layout: Every Layout
+https://every-layout.dev/
+
+Improve your Jest test code with Typescript ADTs
+https://dev.to/krumpet/improve-your-jest-test-code-with-typescript-adts-2kb1
+
+There's a new "Typescript Playground" on js.org that defaults to --strict mode and has shorter, more compatible URLs for sharing
+https://typescript-play.js.org/#code/DYUwLgBAtiDOsEMDmIBcFZgE4EsB2SEAvBAOQASIwwA9hFiACaM5gCEpA3AFDcKhYwAChjxkIAJQ9uAehkQA6iAgIGEfBmw4AxpCg1GINrPkBRLFhpZ0AFQCeAB2Wk8AV2ql1sCHhqQE8DhIeAgARqAQYHRgjs6YuASkAHTcoogoxD7uwJxAA
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

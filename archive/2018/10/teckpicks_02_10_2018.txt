@@ -1,0 +1,32 @@
+TechPicks 02/10/2018 -
+
+Create React App 2.0: Babel 7, Sass, and More
+https://reactjs.org/blog/2018/10/01/create-react-app-v2.html
+
+Accessibility Cheat Sheet
+https://moritzgiessmann.de/accessibility-cheatsheet/
+
+One Small Step for the Web… – Tim Berners-Lee
+https://medium.com/@timberners_lee/one-small-step-for-the-web-87f92217d085
+
+A Useful React Cheatsheet
+http://www.developer-cheatsheets.com/react
+
+Sourcegraph is now open source
+https://about.sourcegraph.com/blog/sourcegraph-is-now-open-source/
+
+Visual Programming - Why it’s a Bad Idea
+http://mikehadlow.blogspot.com/2018/10/visual-programming-why-its-bad-idea.html
+
+Scientists: developers deserve a better search engine
+http://blog.jexia.com/developers-deserve-better-search-engine/
+
+Hacktoberfest 2018 just started! Earn a T-shirt while contributing to open source projects.
+https://hacktoberfest.digitalocean.com/
+
+What the heck is going on with measures of programming language popularity?
+https://techcrunch.com/2018/09/30/what-the-heck-is-going-on-with-measures-of-programming-language-popularity
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

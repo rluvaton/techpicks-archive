@@ -1,0 +1,35 @@
+TechPicks 04/06/2019 -
+
+Elad Shechter - CSS Architecture — Folders & Files Structure
+https://medium.com/@elad/css-architecture-folders-files-structure-f92b40c78d0b
+
+Medium Was Never Meant to Be a Part of the Developer Ecosystem
+https://dev.to/devteam/medium-was-never-meant-to-be-a-part-of-the-developer-ecosystem-25a0
+
+The Algebra of Programming
+https://medium.com/techspiration-ideas-making-it-happen/the-algebra-of-programming-e0bdbc59dc65
+
+Compiling C to WebAssembly without Emscripten
+https://dassur.ma/things/c-to-webassembly/
+
+Apple announces 'Sign in With Apple' for signing into websites using your Apple ID
+https://www.apple.com/newsroom/2019/06/apple-previews-ios-13/
+
+JSConf EU 2019 - The economics of open source by C J Silverio
+https://www.youtube.com/watch?v=MO8hZlgK5zc
+
+Node.js file streams explained
+https://areknawo.com/node-js-file-streams-explained/
+
+Understanding grid placement through building a HTML periodical table
+https://www.chenhuijing.com/blog/understanding-grid-placement/
+
+Old-fashioned CSS without dependencies
+https://medium.com/p/a78852b2553a
+
+Strict function types in TypeScript: covariance, contravariance and bivariance
+https://codewithstyle.info/Strict-function-types-in-TypeScript-covariance-contravariance-and-bivariance/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

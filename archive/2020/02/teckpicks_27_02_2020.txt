@@ -1,0 +1,26 @@
+TechPicks 27/02/2020 -
+
+Rome: an experimental JavaScript toolchain from Facebook. Includes a compiler, linter, formatter, bundler, testing framework and more
+https://github.com/facebookexperimental/rome
+
+People talk about SQL injections but a lot of devs have never seen one in practice. These are a few simple ones.
+https://youtu.be/ePETNd2911o
+
+How to de-Google-ify your website
+https://markosaric.com/degoogleify/
+
+Selectors Explained: A CSS selector to plain English translator
+https://hugogiraudel.github.io/selectors-explained/
+
+Curveball - a modern TypeScript microframework, with built-in support for AWS Lambda
+https://evertpot.com/curveball-typescript-framework-update/
+
+The Mouseless Window Manager i3
+https://thevaluable.dev/window-manager-mouseless-i3/
+
+Don’t try to sanitize input. Escape output.
+https://benhoyt.com/writings/dont-sanitize-do-escape/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

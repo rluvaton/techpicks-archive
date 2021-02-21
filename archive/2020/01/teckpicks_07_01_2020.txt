@@ -1,0 +1,26 @@
+TechPicks 07/01/2020 -
+
+Cutting Google out of your life
+https://github.com/tycrek/degoogle
+
+Algorithms interviews: theory vs. practice
+https://danluu.com/algorithms-interviews/
+
+Robert Martin ("Uncle Bob") - The Three Laws of TDD
+https://www.youtube.com/watch?v=AoIfc5NwRks
+
+A list of coding bootcamp scams
+https://twitter.com/lzsthw/status/1212284566431576069
+
+GDPR Fines and Lessons for Startups - Total GDPR fines in 2019 reached a mind-boggling €417.5 million, almost 1,000 times higher than 2018
+https://www.cledara.com/blog/gdpr-fines-and-lessons-for-startups
+
+Using easing for more than just CSS transitions
+https://kilianvalkhof.com/2020/css-html/using-easing-for-more-than-just-css-transitions/
+
+Min and Max Width/Height in CSS
+https://ishadeed.com/article/min-max-css/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

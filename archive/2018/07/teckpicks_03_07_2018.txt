@@ -1,0 +1,42 @@
+TechPicks 03/07/2018 -
+
+GraphQL & Jest: snapshot testing
+https://medium.com/p/7f7345ee2be/
+
+Getting Started with TensorFlow.js: Linear Regression
+https://medium.com/@tristansokol/basic-tutorial-with-tensorflow-js-linear-regression-aa68b16e5b8e
+
+CSS grid will soon be the shortest way to center elements
+https://www.stefanjudis.com/today-i-learned/css-grid-will-soon-be-the-shortest-way-to-center-elements/
+
+"Stylish" browser extension steals all your internet history
+https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/
+
+Hacking in Android headset button support for Windows
+http://www.roligheten.no/blog/programming/2018/07/02/media-controls-windows.html
+
+Digg's v4 launch: an optimism born of necessity
+https://lethain.com/digg-v4/
+
+Cloudflare Workers Is 441% Faster Than Amazon Lambda
+https://blog.cloudflare.com/serverless-performance-comparison-workers-lambda/
+
+Rules of optimization
+http://www.humus.name/index.php?page=News&ID=383
+
+Updated Inspections and Intentions in IntelliJ IDEA 2018.2
+https://blog.jetbrains.com/idea/2018/06/updated-inspections-in-intellij-idea-2018-2/
+
+Supercharging the Git Commit Graph II: File Format
+https://blogs.msdn.microsoft.com/devops/2018/07/02/supercharging-the-git-commit-graph-ii-file-format/
+
+Getting back into development at 50 after 15 years on the outside
+https://hackernoon.com/how-to-be-an-awesome-50-year-old-developer-a5b888060cba
+
+Microsoft Releases v0.13 of their new Distributed ML library
+https://mmlspark.blob.core.windows.net/website/index.html
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

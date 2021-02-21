@@ -1,0 +1,38 @@
+TechPicks 13/02/2019 -
+
+Fathom Analytics - a simpler and more privacy-focused alternative to Google Analytics
+https://github.com/usefathom/fathom/blob/master/README.md
+
+VS Code extension that makes JSX code refactoring easier, also supports new hooks api
+https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor
+
+Don’t learn a programming language, solve a problem instead
+https://medium.com/datadriveninvestor/dont-learn-a-programming-language-solve-a-problem-instead-654f6bbfb573
+
+deploy-to-kube: Deploy your Node.js app to Kubernetes with a single command. No config required.
+https://github.com/kubesail/deploy-to-kube
+
+Role-based access control using conditions and wild-cards
+https://github.com/tensult/role-acl
+
+No, the problem isn't "bad coders"
+https://medium.com/@sgrif/no-the-problem-isnt-bad-coders-ed4347810270
+
+A proof that Unix utility "sed" is Turing complete
+https://catonmat.net/proof-that-sed-is-turing-complete
+
+Performance vs readability in ES6
+https://medium.com/@riccardopolacci/performance-vs-readability-2e9332730790
+
+Bootstrap 5 will remove jQuery as a dependency
+https://github.com/twbs/bootstrap/pull/23586
+
+Linaria - a zero-runtime CSS in JS library. What’s special about Linaria is that it extracts all of the styles you write in your JavaScript code to real CSS files
+https://blog.callstack.io/announcing-linaria-1-0-d5c7756ff511
+
+Why GraphQL is the Future of APIs 👨‍💻
+https://hashnode.com/post/why-graphql-is-the-future-of-apis-cjs1r2hhe000rn9s23v9bydoq
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

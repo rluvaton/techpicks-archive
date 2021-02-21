@@ -1,0 +1,32 @@
+TechPicks 16/06/2020 -
+
+A collection of free books from Springer (due to COVID19), including Mathematics, Computer Science and more
+https://hnarayanan.github.io/springer-books/
+
+Adobe to remove Flash from their website after December 2020, yielding to "open standards such as HTML5, WebGL, and WebAssembly"
+https://www.adobe.com/products/flashplayer/end-of-life.html
+
+Germany completely open sourced their decentralized Corona Tracing App for anyone to analyze and improve
+https://github.com/corona-warn-app/cwa-documentation
+
+JavaScript creator Eich: My take on 20 years of the world's top programming language
+https://www.zdnet.com/article/javascript-creator-eich-my-take-on-20-years-of-the-worlds-top-programming-language/
+
+A React Hooks Cheatsheet with live editable examples
+https://react-hooks-cheatsheet.com/useeffect
+
+Instant search of 200K+ SVG logos from 100 sources
+https://logosear.ch/search.html
+
+CSS Custom Properties Fail Without Fallback
+https://matthiasott.com/notes/css-custom-properties-fail-without-fallback
+
+Finding secrets by decompiling Python bytecode in public repositories
+https://blog.jse.li/posts/pyc/
+
+Lens (The Kubernetes IDE) v3.5 released
+https://github.com/lensapp/lens/releases/tag/v3.5.0
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

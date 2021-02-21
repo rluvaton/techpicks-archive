@@ -1,0 +1,47 @@
+TechPicks 16/10/2018 -
+
+First URL active once more
+https://first-website.web.cern.ch/blog/first-url-active-once-more
+
+3 Min Hack for Locally building a Native Extension
+https://hackernoon.com/3-min-hack-for-locally-building-a-native-extension-serverless-technologies-5f86d613bef1
+
+33 concepts every JavaScript developer should know
+https://github.com/leonardomso/33-js-concepts
+
+styled-components v4.0.0 release is out!
+https://medium.com/styled-components/styled-components-v4-new-final-finalest-for-real-final-final-psd-fa4d83398a77
+
+Microsoft co-founder Paul Allen dies of cancer at age 65
+https://www.cnbc.com/2018/10/15/microsoft-co-founder-paul-allen-dies-of-cancer-at-age-65.html
+
+Hey, can you ‘do the UX’ for us?
+https://uxdesign.cc/hey-can-you-do-the-ux-for-us-432a38eac295
+
+Demystifying Vuex — The state container for Vue
+https://medium.com/@wesharehoodies/demystifying-vuex-the-state-container-for-vue-fde82662ca8c
+
+Twilio acquires email API platform SendGrid for $2 billion in stock
+https://techcrunch.com/2018/10/15/twilio-acquires-email-api-platform-sendgrid-for-2-billion-in-stock/
+
+"How I hacked modern Vending Machines"
+https://hackernoon.com/how-i-hacked-modern-vending-machines-43f4ae8decec
+
+Firefox to disable TLS 1.0 and 1.1 March 2020
+https://blog.mozilla.org/security/2018/10/15/removing-old-versions-of-tls/
+
+Lessons learned from creating a real-time collaborative rich-text editor
+https://ckeditor.com/blog/Lessons-learned-from-creating-a-rich-text-editor-with-real-time-collaboration/
+
+TheArtOfHttpScripting - a tutorial into HTTP scripting with curl
+https://raw.githubusercontent.com/curl/curl/master/docs/TheArtOfHttpScripting
+
+The true power of regular expressions
+https://nikic.github.io/2012/06/15/The-true-power-of-regular-expressions.html
+
+Oldschool demo effects in typescript
+http://seancode.com/demofx/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

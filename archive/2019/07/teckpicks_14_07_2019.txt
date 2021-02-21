@@ -1,0 +1,38 @@
+TechPicks 14/07/2019 -
+
+An Insight into Facebook Real-time Chat Architecture Scaling With Over Multi-Billion Messages Daily
+https://www.8bitmen.com/facebook-real-time-chat-architecture-scaling-with-over-multi-billion-messages-daily/
+
+Hermes: An open source JavaScript engine optimized for mobile apps, starting with React Native
+https://code.fb.com/android/hermes/
+
+JavaScript from the inside out!
+https://areknawo.com/javascript-from-the-inside-out/
+
+Tetris Turns 35. To celebrate, this guy wrote his own version and posted it on GitHub. No libraries. No frameworks. Just JavaScript
+https://medium.com/@js_tut/tetris-turns-35-cfcf04c4f2bb
+
+react-world: a different web experience in 8 bit React.js World
+https://github.com/sfatihk/react-world
+
+abcjs - javascript for rendering abc music notation
+https://abcjs.net/
+
+Announcing Quark — A Software sketchbook for your projects
+https://quarkjs.io
+
+How we scaled Node.js services containing scheduled tasks
+https://medium.com/casaone-engineering/how-we-scaled-services-containing-scheduled-tasks-468f12e0b145
+
+CSS Lists, Markers, And Counters
+https://www.smashingmagazine.com/2019/07/css-lists-markers-counters/
+
+A guide for beginners to TypeScript
+https://medium.com/@ChristopherShaffer/get-started-with-typescript-part-1-440d2ec9e59
+
+6 Common Misconceptions about Angular
+https://dev.to/mappmechanic/6-common-misconceptions-about-angular-4nbc
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,32 @@
+TechPicks 04/11/2018 -
+
+Detect which iOS devices are used on your site (based on their GPU)
+https://dieulot.fr/idevice
+
+Make any map like SimCity with JS
+https://github.com/noncomputable/AgentMaps
+
+A Deep Learning based project for colorizing and restoring old images
+https://github.com/jantic/DeOldify
+
+Is your software ready for localization?
+https://medium.com/@adrai/is-your-software-ready-for-localization-74691697fa05
+
+Python is becoming the world’s most popular coding language
+https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language
+
+Intel CPUs impacted by new PortSmash side-channel vulnerability
+https://github.com/bbbrumley/portsmash
+
+Introducing Zink: OpenGL on Vulkan
+https://www.kusma.xyz/blog/2018/10/31/introducing-zink.html
+
+How to Build a Low-tech Website
+https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/
+
+Creating a QR Code step by step
+https://www.nayuki.io/page/creating-a-qr-code-step-by-step
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

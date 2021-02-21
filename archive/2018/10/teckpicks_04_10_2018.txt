@@ -1,0 +1,20 @@
+TechPicks 04/10/2018 -
+
+imgToAscii - a JavaScript implementation of a image to ASCII code
+https://github.com/victorqribeiro/imgToAscii
+
+Techniques for animating on the canvas in React
+https://philna.sh/blog/2018/09/27/techniques-for-animating-on-the-canvas-in-react/
+
+Brute-forcing a seemingly simple number puzzle
+https://www.nurkiewicz.com/2018/09/brute-forcing-seemingly-simple-number.html
+
+dbxfs: Open source macOS/Linux file system for Dropbox
+https://github.com/rianhunter/dbxfs
+
+Inside Real-Time Linux
+https://www.linux.com/news/event/elce/2017/2/inside-real-time-linux
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

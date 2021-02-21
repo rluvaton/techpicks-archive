@@ -1,0 +1,29 @@
+TechPicks 31/12/2018 -
+
+React Kawaii - Cute React SVG Components
+https://react-kawaii.now.sh/
+
+Script to unclap medium posts by Jane Manchun Wong
+https://twitter.com/wongmjane/status/1079013834021425154
+
+Gradient Borders in CSS
+https://css-tricks.com/gradient-borders-in-css/
+
+The Elements of UI Engineering
+https://overreacted.io/the-elements-of-ui-engineering/
+
+Bitwise operators and tricks!
+https://www.hyfr.life/bitwise-operators-tricks/
+
+The Art of Writing Documentation
+https://www.zeroequalsfalse.press/2018/12/30/documentation/
+
+How the Valley treats its experienced people
+http://rachelbythebay.com/w/2018/12/29/age/
+
+Microsoft totally changed how it interviews software developers to make sure candidates have the actual skills to do the job
+https://www.businessinsider.fr/us/microsoft-new-developer-interview-process-2018-12
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

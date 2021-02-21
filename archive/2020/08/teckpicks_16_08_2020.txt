@@ -1,0 +1,29 @@
+TechPicks 16/08/2020 -
+
+Don't design for mobile
+https://mattanddesign.com/dont-design-for-mobile/
+
+What every developer should know about database consistency
+https://robertovitillo.com/what-every-developer-should-know-about-database-consistency/
+
+Types as axioms, or: playing god with static types
+https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/
+
+Taking my home work setup seriously - Ergonomics & settling in for the long haul
+https://ahelwer.ca/post/2020-08-09-home-ergonomics/
+
+Hello "Hello world!"
+https://blog.jfo.click/hello-hello-world/
+
+Dear Google Cloud: Your Deprecation Policy is Killing You
+https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc
+
+Guide on recovering data in MySQL
+https://www.pixelstech.net/article/1597472992-Guide-on-recovering-data-in-MySQL
+
+Frustrated? It's not you, it's Rust
+https://fasterthanli.me/articles/frustrated-its-not-you-its-rust
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

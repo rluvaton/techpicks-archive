@@ -1,0 +1,26 @@
+TechPicks 06/12/2018 -
+
+IntelliCode for TypeScript/JavaScript
+https://blogs.msdn.microsoft.com/typescript/2018/12/05/intellicode-for-typescript-javascript/
+
+Introducing Visual GraphQL Editor - draw your graphql schema
+https://github.com/slothking-online/graphql-editor
+
+You may not need Axios
+https://danlevy.net/you-may-not-need-axios/
+
+Australian programmers could be fired by their companies for implementing government backdoors
+https://tendaily.com.au/amp/news/australia/a181206zli/if-encryption-laws-go-through-australia-may-lose-apple-20181206
+
+Smart pipeline proposal is now live in Babel
+https://github.com/babel/babel/pull/8289
+
+You may not need Axios
+https://danlevy.net/you-may-not-need-axios/
+
+5 analogies that explain what Gatsby can do for you
+https://www.gatsbyjs.org/blog/2018-12-04-gatsby-analogy/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

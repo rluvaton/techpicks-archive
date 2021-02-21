@@ -1,0 +1,62 @@
+TechPicks 18/07/2018 -
+
+Love letter to Vue
+http://www.evaristesys.com/blog/love-letter-to-vue/
+
+Designing a GraphQL API
+https://gist.github.com/swalkinshaw/3a33e2d292b60e68fcebe12b62bbb3e2
+
+Nuxt & PM2: Zero Downtime Deployment for SSR Vue sites
+https://medium.com/@vipercodegames/nuxt-deploy-809eda0168fc
+
+fkill: A nice way to kill processes
+https://github.com/sindresorhus/fkill-cli
+
+The Ultimate 2018 Webpack 4 and Babel Setup Guide: NPM/Yarn Dependencies Compared, Entry Points Output, Loaders, and Plugins (ES6 +)
+https://medium.com/@jeffrey.allen.lewis/the-ultimate-2018-webpack-4-and-babel-setup-guide-npm-yarn-dependencies-compared-entry-points-866b577da6a
+
+Standing up for CodeGolf, abusing the language you love, to learn more about it
+https://medium.com/@juan_cortes/43c3c0ea5f12
+
+Realtime JavaScript Face Tracking and Face Recognition using face-api.js’ MTCNN Face Detector
+https://medium.com/@muehler.v/realtime-javascript-face-tracking-and-face-recognition-using-face-api-js-mtcnn-face-detector-d924dd8b5740
+
+FIFA 2018 World Cup Live Tweet Map Using LeafletJS
+https://www.scaledrone.com/blog/fifa-2018-world-cup-live-map-using-twitter-and-scaledrone/
+
+Declarative Dependencies in HTML
+https://medium.com/@ibowankenobi/es6-modules-and-declarative-dependencies-in-html-f25cfc796365
+
+Nano ID (random ID generator in 143 bytes) now supports React Native and Edge’s Web Workers
+https://github.com/ai/nanoid#react-native-and-web-workers
+
+Scrolling Gradient
+https://codepen.io/MadeByMike/pen/eKPZZz
+
+9 Biggest Mistakes with CSS Grid
+https://www.youtube.com/watch?v=0Gr1XSyxZy0
+
+How Tinder keeps your exact location (a bit) private
+https://robertheaton.com/2018/07/09/how-tinder-keeps-your-location-a-bit-private/
+
+How Riot Games mitigates cheating through binary protection
+https://engineering.riotgames.com/news/riots-approach-anti-cheat
+
+Windows Command-Line: Inside the Windows Console
+https://blogs.msdn.microsoft.com/commandline/2018/07/10/windows-command-line-inside-the-windows-console/
+
+Getting to Go: The Journey of Go's Garbage Collector
+https://blog.golang.org/ismmkeynote
+
+Microsoft is making the Windows command line a lot better
+https://arstechnica.com/gadgets/2018/07/microsoft-is-making-the-windows-command-line-a-lot-better/
+
+Visual Studio IntelliCode now infers coding conventions for consistent code
+https://blogs.msdn.microsoft.com/visualstudio/2018/07/17/visual-studio-intellicode-inferring-coding-conventions-for-consistent-code/
+
+Keeping a did.txt file
+https://theptrk.com/2018/07/11/did-txt-file/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

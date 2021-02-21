@@ -1,0 +1,29 @@
+TechPicks 14/07/2020 -
+
+Adam Klein - How knowledgable you are about React? See common mistakes people make
+https://dev.to/adamklein/how-knowledgable-you-are-about-react-see-common-mistakes-people-make-5ha4
+
+12factor - A methodology for building software-as-a-service apps
+https://12factor.net/
+
+I Know What You Download on BitTorrent
+https://iknowwhatyoudownload.com/en/peer/
+
+New "Redux Essentials" core docs tutorial is live, teaches how to use Redux the right way, using the latest recommended APIs and practices
+https://redux.js.org/tutorials/essentials/part-1-overview-concepts
+
+You Might Not Need Vuex with Vue 3
+https://dev.to/blacksonic/you-might-not-need-vuex-with-vue-3-52e4
+
+Modern CSS grid solutions to common layout problems
+https://vycke.dev/blog/css-layout-patterns/
+
+Zero downtime database migration and replication to and from Cloud Spanner
+https://medium.com/@chbussler/zero-downtime-database-migration-and-replication-to-and-from-cloud-spanner-99ad0c654d12
+
+kubectl tool reinvented to be more reactive and interactive
+https://github.com/ameerthehacker/kubelive
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

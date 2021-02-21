@@ -1,0 +1,23 @@
+TechPicks 06/02/2020 -
+
+Vendure: An open source Magento alternative
+https://github.com/vendure-ecommerce/vendure
+
+Octomments - using GitHub as a comment plugin
+https://ocs.now.sh/
+
+Informed - since multistep forms in React shouldn't be so hard
+https://joepuzzo.github.io/informed
+
+Babel Proposal - F# pipeline operator
+http://codereform.com/blog/post/babel-fsharp-pipeline-operator/
+
+Coding the Impossible: Palindrome Detector with a Regular Expressions
+https://medium.com/@tonytonev/coding-the-impossible-palindrome-detector-with-a-regular-expressions-cd76bc23b89b
+
+Get Ready for Chrome User-Agent String Phase Out
+https://medium.com/@galmeiri/get-ready-for-chrome-user-agent-string-phase-out-c6840da1c31e
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

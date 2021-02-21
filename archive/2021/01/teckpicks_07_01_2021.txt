@@ -1,0 +1,32 @@
+TechPicks 07/01/2021 -
+
+JetBrains might be the entry point for a huge U.S. hack
+https://www.nytimes.com/2021/01/06/us/politics/russia-cyber-hack.html
+
+Nissan source code leaked online after Git repo misconfiguration
+https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/
+
+WhatsApp will share your data with Facebook whether you like it or not
+https://9to5mac.com/2021/01/06/whatsapp-share-your-data-with-facebook/
+
+Introducing the <deno> tag
+https://hugodaniel.com/posts/introducing-deno-tag/
+
+timetoherd.com - tracking Covid-19 vaccination rates & time to herd immunity
+https://github.com/pgriggs/timetoherd.com
+
+Selective Unit Testing – Costs and Benefits
+http://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-benefits/
+
+ws-monitoring - A simple & lightweight realtime monitoring web UI + server in Node.js 
+https://github.com/elestio/ws-monitoring
+
+Open AI introduces DALL·E (like GPT-3), a model that creates images from text
+https://openai.com/blog/dall-e/
+
+Hackers and Painters
+http://paulgraham.com/hp.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

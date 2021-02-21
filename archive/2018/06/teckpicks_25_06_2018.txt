@@ -1,0 +1,48 @@
+TechPicks 25/06/2018 -
+
+Threads in Node 10.5.0: a practical intro
+https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953
+
+awesome-ai-services: An overview of the AI-as-a-service landscape with JavaScript code samples
+https://github.com/sekwiatkowski/awesome-ai-services
+
+Javascript: Does it mutate?
+https://doesitmutate.xyz/
+
+Introduction to Haskell ( Why you should learn it if you are a Javascript developer )
+https://medium.com/@manojsinghnegi/introduction-to-haskell-why-you-should-learn-it-if-you-are-a-javascript-developer-a7f7410c16c4
+
+Coloring white Images with CSS filter
+http://www.domysee.com/blogposts/blogpost%2021%20-%20coloring%20white%20images%20with%20css%20filter/
+
+Blockchain 2018 == NoSQL 2009
+https://blog.beerriot.com/2018/06/05/blockchain-2018-nosql-2009/
+
+Radio AdBlock
+http://blog.rekawek.eu/2016/02/24/radio-adblock/
+
+6 Git Aha Moments
+https://henrikwarne.com/2018/06/25/6-git-aha-moments/
+
+Why we all choose to not pay back tech debt - the economy of software maintenance
+https://uselessdevblog.wordpress.com/2018/06/24/why-we-all-choose-to-not-pay-back-tech-debt/
+
+DevTube - The best developer videos in one place
+https://dev.tube/
+
+Changes in WebAssembly Could Render Meltdown and Spectre Browser Patches Useless
+https://www.bleepingcomputer.com/news/security/changes-in-webassembly-could-render-meltdown-and-spectre-browser-patches-useless/
+
+A Software Principles cheat-sheet
+https://adamosloizou.github.io/software/2018/06/18/software-engineering-principles.html
+
+Regular Expression Derivatives
+http://benlynn.blogspot.com/2018/06/regex-derivatives.html
+
+Open source sustainability
+https://techcrunch.com/2018/06/23/open-source-sustainability/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

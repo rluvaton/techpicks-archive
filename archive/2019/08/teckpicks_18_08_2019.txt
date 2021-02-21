@@ -1,0 +1,35 @@
+TechPicks 18/08/2019 -
+
+Organizing HTTP requests using the API module pattern
+http://www.sheshbabu.com/posts/organizing-http-requests-using-api-module-pattern/
+
+Building a non-breaking breakpoint for Python debugging
+https://opensource.com/article/19/8/debug-python
+
+Introducing the New React DevTools
+https://reactjs.org/blog/2019/08/15/new-react-devtools.html
+
+JavaScript Closures - The only concept to define Private Data in JavaScript
+https://data-flair.training/blogs/javascript-closures/
+
+The Anatomy of a JSON Web Token
+https://scotch.io/tutorials/the-anatomy-of-a-json-web-token
+
+How the Hasura GraphQL engine saved us $50k
+https://medium.com/cresta-engineering/how-hasura-saved-us-50-000-7cfe8e7909e9
+
+An Introduction to Memoization in JavaScript
+https://nick.scialli.me/an-introduction-to-memoization-in-javascript/
+
+Apple will soon treat online web tracking the same as a security vulnerability
+https://thenextweb.com/privacy/2019/08/16/apple-will-soon-treat-online-web-tracking-the-same-as-a-security-vulnerability/
+
+Do you need React Hooks?
+https://decembersoft.com/posts/do-you-need-react-hooks/
+
+TypeScript: The constructor interface pattern
+https://fettblog.eu/typescript-interface-constructor-pattern/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

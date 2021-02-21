@@ -1,0 +1,35 @@
+TechPicks 27/12/2020 -
+
+Zoom session: Benjamin Gruenbaum - How I helped add an API to the DOM specification
+https://docs.google.com/forms/d/e/1FAIpQLScaAUEP_Ivfstt78ILP-kaJTog_vOV8JoHfdCKLZcll-YiJpg/viewform
+
+Chen Feldman of "Osim Tochna" has a new weekly newsletter, and this is its first submission
+https://mailchi.mp/3420a3ae665a/chen-feldmans-newsletter-1
+
+Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine
+https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/
+
+Functional programming: Enemy of the state
+https://onurgumus.github.io/2022/12/26/Functional-Programming.html
+
+Baremetrics requiring exit phone call to cancel subscription
+https://twitter.com/cmdkhalilov/status/1341462579680587778
+
+How much math you need for programming (2014)
+https://lispmachine.wordpress.com/2014/12/05/how-much-math-you-need-for-programming/
+
+Fun with IP address parsing
+https://blog.dave.tf/post/ip-addr-parsing/
+
+Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows
+https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows
+
+Ask HN: Best Talks of 2020?
+https://news.ycombinator.com/item?id=25537230
+
+Kubernetes is a container orchestration system, but *that's not the point*
+https://nikhiljha.com/posts/kubernetes-intro/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

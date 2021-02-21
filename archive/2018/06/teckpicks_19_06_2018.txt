@@ -1,0 +1,42 @@
+TechPicks 19/06/2018 - 
+
+anime.js - a lightweight JavaScript animation library. It works with any CSS Properties, individual CSS transforms, SVG or any DOM attributes, and JavaScript Objects
+https://github.com/juliangarnier/anime/
+
+D3 & React: the simple, functional way
+https://dpren.github.io/posts/2018-06-12-d3-react-the-simple-functional-way.html
+
+Part 1: GraphQL with Node and Express
+https://able.bio/dhavaln/part-1-graphql-with-node-and-express--95ueseg
+
+Data Structures in JS. Part 2: Double Linked Lists
+https://medium.com/@alonso.oliverio/150facd7a90d
+
+Understanding the Almighty Reducer By Sarah Drasner
+https://css-tricks.com/understanding-the-almighty-reducer/
+
+'No, we are not rewriting Office in JavaScript' and other Microsoft tales
+https://www.theregister.co.uk/2018/06/18/microsoft_roundup/
+
+Using 64bit counter in loops drops the performance by 50% on intel processors
+https://stackoverflow.com/questions/25078285/replacing-a-32-bit-loop-count-variable-with-64-bit-introduces-crazy-performance?rq=1
+
+The "Boring Software" manifesto
+https://tqdev.com/2018-the-boring-software-manifesto
+
+Generating Minecraft Trees by adapting a Procedural Tree Mesh Generator - OpenGL/C++ Minecraft Clone
+https://youtu.be/16mFLQUAh3Q
+
+A visual introduction to machine learning, Part II
+http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
+
+Railway Oriented Programming.
+https://fsharpforfunandprofit.com/rop/
+
+React Fragments – the end of the wrapper div
+https://getstream.io/blog/react-fragments/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,39 @@
+TechPicks 18/06/2018 - 
+
+A-LITTLE-BETTER-THAN-YESTERDAY😇 awesome developer stuff of day-to-day usecases and everything in between 😎
+https://github.com/makaravind/ALBTY
+
+The Looming Abstraction Crisis
+https://bbessemer.github.io/blog/2018/06/18/looming-abstraction-crisis/
+
+Why We Moved From NoSQL MongoDB to PostgreSQL
+https://dzone.com/articles/why-we-moved-from-nosql-mongodb-to-postgresql
+
+A list of awesome online development environments
+https://github.com/styfle/awesome-online-ide
+
+New Lazy FP State Restore Vulnerability Affects All Intel Core CPUs
+https://www.bleepingcomputer.com/news/security/new-lazy-fp-state-restore-vulnerability-affects-all-intel-core-cpus/
+
+"Only a few vendor-paid developers do almost all open-source work"
+https://www.infoworld.com/article/3268001/open-source-tools/open-source-isnt-the-community-you-think-it-is.html
+
+ServiceFabric: a distributed platform for building microservices in the cloud
+https://blog.acolyer.org/2018/06/05/servicefabric-a-distributed-platform-for-building-microservices-in-the-cloud/
+
+GitHub Contribution Chart Generator: Generates an image of all your GitHub contributions since you have signed up
+https://github.com/sallar/github-contributions-chart/blob/master/README.md
+
+Strings Are Evil
+https://dev.to/indy_singh_uk/strings-are-evil-9f9
+
+How To Get Your Teammates To Follow Your Lead
+https://www.workaguide.com/blog/2018/6/15/how-to-get-your-teammates-to-follow-your-lead
+
+Lessons from building observability tools at Netflix
+https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

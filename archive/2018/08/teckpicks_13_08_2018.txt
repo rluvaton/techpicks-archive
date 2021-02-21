@@ -1,0 +1,50 @@
+TechPicks 13/08/2018 -
+
+Engineers Say 'No Thanks' to Silicon Valley Recruiters, Citing Ethical Concerns
+https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/engineers-say-no-thanks-to-silicon-valley-recruiters-citing-ethical-concerns
+
+"How I built a browser extension with Vue (Part 2)"
+https://medium.com/javascript-in-plain-english/how-i-built-a-browser-extension-with-vue-part-2-2c4ab2dd752d
+
+Apollo Client Link: GraphQL state management
+https://medium.com/@steven.myers/apollo-client-link-a-kick-of-the-tires-3edd518ed440
+
+Computer, build me an app - Rich Harris - JSConf EU 2018
+https://youtu.be/qqt6YxAZoOc
+
+Pprogramming tips from ‘Can’t pay? We’ll take it away’.
+https://medium.com/p/one-big-programming-hack-that-i-learnt-from-cant-pay-we-ll-take-it-away-6332c9f5f1ee
+
+Mocking ExpressJS Request and Response objects
+https://medium.com/@davesag/mocking-expressjs-request-and-response-objects-63405e9c58ff
+
+Working with timezones
+https://davecturner.github.io/2018/08/12/working-with-timezones.html
+
+The Total Beginner's Guide to Game AI
+https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/
+
+Why writing objects to disk is called “serialization”: a guide for those too scared to ask
+http://tim.mcnamara.nz/post/176906903912/serialization
+
+Programming: A short history of computer languages
+https://ricardodsanchez.com/2015/08/31/programming-a-short-history-of-computer-languages/
+
+GitHub - sourcerer-io/hall-of-fame: Recognize contributors to your repo from a README.
+https://github.com/sourcerer-io/hall-of-fame
+
+Solve Less General Problems
+http://hacksoflife.blogspot.com/2018/08/solve-less-general-problems.html
+
+Primality testing formula -- a single Python expression using only basic operators that returns whether a number is prime
+https://codegolf.stackexchange.com/q/170398/3808
+
+Practical Web Cache Poisoning
+https://portswigger.net/blog/practical-web-cache-poisoning
+
+Coherence Penalty for Humans
+http://www.michaelnygard.com/blog/2018/01/coherence-penalty-for-humans/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

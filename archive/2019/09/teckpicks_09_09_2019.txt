@@ -1,0 +1,32 @@
+TechPicks 09/09/2019 -
+
+Google feedback on TypeScript 3.5
+https://github.com/microsoft/TypeScript/issues/33272
+
+How React prevents Infinite Loops with a Babel plugin
+https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html
+
+It’s not wrong that "🤦🏼‍".length == 7
+https://hsivonen.fi/string-length/
+
+Things I learned while implementing Bubble sort animation using CSS and JavaScript
+https://gosink.in/bubble-sort-css-javascript-animation/
+
+A Playground and Visualizer for RxJS
+https://blog.hediet.de/post/a_typescript_playground_for_rx_js
+
+Sonic webpage in Three.js
+https://codepen.io/b29/pen/yQXQrg
+
+Xnap - Components that snap
+https://github.com/mobooru/xnap
+
+js-fire is a library for automatically generating command line interfaces (CLIs) from most js objects
+https://github.com/hobochild/js-fire
+
+Five lessons I’ve learned as a developer
+https://medium.com/sylo-io/5-things-ive-learned-as-a-developer-76ff8845bae
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

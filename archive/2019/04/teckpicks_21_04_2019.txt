@@ -1,0 +1,32 @@
+TechPicks 21/04/2019 -
+
+GitHub - dsa.js: Data Structures and Algorithms explained and implemented in JavaScript
+https://github.com/amejiarosario/dsa.js
+
+Pragmatic Front-End Testing Strategies (3)
+https://medium.com/@toastui/pragmatic-front-end-testing-strategies-3-969469349043
+
+Chromium-based Microsoft Edge pretends to be different browsers by switching user agent
+https://betanews.com/2019/04/20/microsoft-edge-user-agent-switching/
+
+Microsoft debuts Bosque – a new programming language with no loops, inspired by TypeScript
+https://www.theregister.co.uk/2019/04/18/microsoft_bosque_programming_language/
+
+The Weirdest JavaScript syntax
+https://timr.co/the-weirdest-javascript-syntax
+
+From 62,783 lines of Sass to CSS-in-JS
+https://www.theguardian.com/info/2019/apr/04/revisiting-the-rendering-tier
+
+The basics of circular layouts
+https://www.miavy.com/articles/circular_layouts/
+
+Common CSS Flexbox Layout Patterns with Example Code
+https://tobiasahlin.com/blog/common-flexbox-patterns/
+
+Interfaces in TypeScript: What are they and how do we use them
+https://blog.logrocket.com/interfaces-in-typescript-what-are-they-and-how-do-we-use-them-befbc69b38b3
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 12/02/2019 -
+
+Dan Abramov - This benchmark is indeed flawed
+https://medium.com/@dan_abramov/this-benchmark-is-indeed-flawed-c3d6b5b6f97f
+
+CircleCI Blog - Debug your CircleCI environments using the Rookout orb
+https://circleci.com/blog/debug-your-circleci-environments-using-the-rookout-orb/
+
+Microsoft: 70 percent of all security bugs are memory safety issues
+https://www.zdnet.com/article/microsoft-70-percent-of-all-security-bugs-are-memory-safety-issues/
+
+What is the longest keyword sequence in Javascript?
+https://gist.github.com/lhorie/c0d9fd9b2aa215f4984f3ce1c8fd01bf
+
+Muster - A universal data layer for components and services
+https://dwstech.github.io/muster/blog/2019/02/08/introducing-muster
+
+Next.js 8 released
+https://nextjs.org/blog/next-8
+
+Website accessibility standards should be higher to help disabled people
+https://www.vox.com/the-goods/2019/2/5/18210912/websites-ada-compliance-lawsuits
+
+Processing large volumes of data safely and fast using Node.js and PostgreSQL
+https://medium.com/@gajus/processing-large-volumes-of-data-safely-and-fast-using-node-js-and-postgresql-6aa62392cadb
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

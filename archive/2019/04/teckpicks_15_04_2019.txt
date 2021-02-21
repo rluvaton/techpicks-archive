@@ -1,0 +1,29 @@
+TechPicks 15/04/2019 -
+
+Async Generators in the Wild
+https://qwtel.com/posts/software/async-generators-in-the-wild/
+
+Adding numbers using Boolean operations in JavaScript
+https://www.slightedgecoder.com/2019/04/14/adding-numbers-using-boolean-operations-in-javascript/
+
+AssemblyScript: TypeScript to WebAssembly compiler
+https://github.com/AssemblyScript/assemblyscript
+
+"My experience using micro frontends"
+https://medium.com/@daviddentoom/my-experience-using-micro-frontends-e99a1ad6ed32
+
+Eran Hammer - HTTP frameworks must die
+https://hueniverse.com/http-frameworks-must-die-717a37b6b164
+
+JavaScript (ES2015+) Enlightenment
+https://frontendmasters.com/books/javascript-enlightenment/
+
+Using "box shadows" and clip-path together
+https://css-tricks.com/using-box-shadows-and-clip-path-together/
+
+Interpreting TypeScript
+http://notes.eatonphil.com/interpreting-typescript.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

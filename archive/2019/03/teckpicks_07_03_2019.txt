@@ -1,0 +1,32 @@
+TechPicks 07/03/2019 -
+
+Ghidra, NSA's reverse engineering tool, is now available to the public
+https://www.nsa.gov/resources/everyone/ghidra/
+
+Announcing the Open Sourcing of Windows Calculator
+https://blogs.windows.com/buildingapps/2019/03/06/announcing-the-open-sourcing-of-windows-calculator/
+
+Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code
+https://medium.com/@victor.dibia/handtrackjs-677c29c1d585
+
+Computer science in JavaScript: Linked list
+https://humanwhocodes.com/blog/2019/01/computer-science-in-javascript-linked-list/
+
+Migrating to TypeScript: Five Practical Tips
+https://build.affinity.co/migrating-to-typescript-five-practical-tips-7a57149034d8
+
+JavaScript Performance Pitfalls in V8
+https://ponyfoo.com/articles/javascript-performance-pitfalls-v8
+
+femtoJS - Really small JavaScript (ES6) library for DOM manipulation
+https://vladocar.github.io/femtoJS/
+
+async_hooks theory and real world usage with per-request context
+https://blog.besson.co/nodejs_async_hooks_to_get_per_request_context/
+
+A TypeScript REPL in the browser with VSCode Intellisense
+https://repl.it/talk/announcements/Introducing-TypeScript-Support-and-JavaScript-Intellisense/11426
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

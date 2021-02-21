@@ -1,0 +1,32 @@
+TechPicks 17/05/2020 -
+
+A (Mostly) Complete Guide to React Rendering Behavior
+https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/
+
+cruzbit: A simple decentralized peer-to-peer ledger
+https://medium.com/@asdvxgxasjab/cruzbit-a-simple-decentralized-peer-to-peer-ledger-2944495b6129
+
+Norde Source - An SVG Icon manager and editor
+https://norde.io/
+
+Treact - A set of Free UI Templates & Components for creating Beautiful Landing Pages easily using React
+https://treact.owaiskhan.me/
+
+Common *nix commands written in Rust
+https://gcollazo.com/common-nix-commands-written-in-rust/
+
+A GitHub template featuring automation that makes it easy to publish and maintain high-standard NPM modules
+https://github.com/garronej/ts_ci
+
+A case study of complex table design
+https://jlongster.com/case-study-complex-table-design
+
+Fetch API wrapper that fixes most of Fetch's annoyances and makes uploading and error handling simpler
+https://github.com/WebsiteBeaver/far-fetch
+
+Redesigning uBlock Origin
+https://github.com/uBlockOrigin/uBlock-issues/issues/1027
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

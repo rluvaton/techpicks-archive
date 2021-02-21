@@ -1,0 +1,23 @@
+TechPicks 22/10/2020 -
+
+Getting Big Things Done
+http://brooker.co.za/blog/2020/10/19/big-changes.html
+
+What happens when you type kubectl run
+https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md
+
+What you can do when code is really hard to review
+https://understandlegacycode.com/blog/what-you-can-do-when-code-is-hard-to-review
+
+Hands-Free Coding: How I develop software using dictation and eye-tracking
+https://joshwcomeau.com/accessibility/hands-free-coding/
+
+Manipulating Colors With CSS Variables and HSL
+https://codesalad.dev/blog/manipulating-colors-with-css-variables-and-hsl-16
+
+min(), max(), and clamp(): three logical CSS functions to use today
+https://web.dev/min-max-clamp/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

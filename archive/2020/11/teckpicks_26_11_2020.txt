@@ -1,0 +1,29 @@
+TechPicks 26/11/2020 -
+
+pg-mem: An in memory postgres DB instance for your unit tests
+https://github.com/oguimbal/pg-mem
+
+uvu - an extremely fast and lightweight test runner for Node.js and the browser
+https://github.com/lukeed/uvu
+
+Thinking Like a Front-end Developer
+https://ishadeed.com/article/thinking-like-a-front-end-developer/
+
+Marko: Designing a UI Language
+https://dev.to/ryansolid/marko-designing-a-ui-language-2hni
+
+Introducing react-tensorflow v1.0.0! Helpful hooks for tensorflow/tfjs
+https://github.com/joshuaellis/react-tensorflow
+
+Modern storage is plenty fast. It is the APIs that are bad.
+https://glaubercosta-11125.medium.com/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a
+
+We Rewrote Everything in $HOTLANG, and our Startup Still Failed
+https://docs.google.com/document/d/1hKdqwFOfqPDgon-USFzZYsKWMgbHpAyJiFnjYQ7gVdA/edit
+
+Filesystem and Database are not cutting the problem space right
+https://boomla.com/blog/filesystem-and-database-are-not-cutting-the-problem-space-right
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

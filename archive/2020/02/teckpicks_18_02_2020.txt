@@ -1,0 +1,26 @@
+TechPicks 18/02/2020 -
+
+Your balance is $0.30000000004 - common problems found in money-handling software
+https://medium.com/selency-tech-product/your-balance-is-0-30000000004-b6f7870bd32e
+
+While You Weren’t Looking, CSS Gradients Got Better
+https://css-tricks.com/while-you-werent-looking-css-gradients-got-better/
+
+Google Interviewing Process for Software Developer Role in 2020
+https://ipirozhenko.com/blog/google-interview-2020/
+
+Why talk about compensation?
+https://blog.wesleyac.com/posts/wages
+
+Avoid rewriting a legacy system from scratch, by strangling it
+https://understandlegacycode.com/blog/avoid-rewriting-a-legacy-system-from-scratch-by-strangling-it/
+
+UI Refactoring: Labels are a last resort
+https://refactoringui.com/previews/labels-are-a-last-resort/
+
+What 8 years of side projects has taught me
+https://www.junglecoder.com/blog/idea-chain-themes
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,26 @@
+TechPicks 28/10/2020 -
+
+RIAA’s youtube-dl Takedown Ticks Off Developers and GitHub’s CEO
+https://torrentfreak.com/riaas-youtube-dl-takedown-ticks-of-developers-and-githubs-ceo-201027/
+
+The Grand Unified Theory of Software Architecture
+https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html
+
+Why you should understand (a little) about TCP
+https://jvns.ca/blog/2015/11/21/why-you-should-understand-a-little-about-tcp/
+
+Next.js v10.0.0 - automatic Image optimization and more
+https://github.com/vercel/next.js/releases/tag/v10.0.0
+
+Firefox: The Jewel^WEmbarassment of Open Source
+https://drewdevault.com/2020/10/22/Firefox-the-embarassment-of-FOSS.html
+
+Layout projection: A method for animating browser layouts at 60fps
+https://mattperry.is/writing-code/layout-projection-animate-browser-layout-60fps
+
+Fixture-based test runner by Microsoft: Folio
+https://github.com/microsoft/folio
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

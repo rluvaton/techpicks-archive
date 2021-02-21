@@ -1,0 +1,20 @@
+TechPicks 23/03/2020 -
+
+A Real-World Comparison of Front-End Frameworks 2020
+https://medium.com/dailyjs/a-realworld-comparison-of-front-end-frameworks-2020-4e50655fe4c1
+
+Everything About 'auto' in CSS
+https://ishadeed.com/article/auto-css/
+
+YAGNI, Cargo Cult and Overengineering - The planes won’t land just because you built a runway in your backyard
+https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/
+
+Common tasks of managing DOM with native APIs
+https://htmldom.dev
+
+Creating a Proximity Graph Animation: An Introduction to 2D HTML5 Canvas and the animation loop
+https://medium.com/@vdeantoni/creating-a-proximity-graph-animation-an-introduction-to-html5-canvas-and-the-animation-loop-45719d82d1a3
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

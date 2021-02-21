@@ -1,0 +1,23 @@
+TechPicks 11/11/2020 -
+
+How to get root on Ubuntu 20.04 by pretending nobody’s /home
+https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE
+
+.NET 5 Released
+https://devblogs.microsoft.com/dotnet/announcing-net-5-0/
+
+Fake Discord NPM Package Malware
+https://www.zdnet.com/article/npm-package-caught-stealing-sensitive-discord-and-browser-files/
+
+JS/TS development with Sublime Text in 2020
+https://dev.to/tobiastimm/js-ts-development-with-sublime-text-in-2020-4452
+
+Puppetaria: accessibility-first Puppeteer scripts | Web
+https://developers.google.com/web/updates/2020/11/puppetaria
+
+Concise guide to efficient Python tooling (VSCode oriented)
+https://keramitas.io/2020/11/09/concise-guide-to-efficient-python-tooling.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

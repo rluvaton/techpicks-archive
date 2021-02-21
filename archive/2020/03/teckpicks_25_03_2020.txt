@@ -1,0 +1,26 @@
+TechPicks 25/03/2020 -
+
+MVP.css - Minimalist stylesheet for HTML elements
+https://andybrewer.github.io/mvp/
+
+The how and why on React’s usage of linked list in Fiber to walk the component’s tree
+https://indepth.dev/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-to-walk-the-components-tree/
+
+zig cc: a Powerful Drop-In Replacement for GCC/Clang
+https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html
+
+JavaScript Symbols: Everything you need to know about
+https://medium.com/@narghev/everything-you-need-to-know-about-javascript-symbols-9fe1147457b9
+
+Setting Up Git Identities
+https://www.micah.soy/posts/setting-up-git-identities/
+
+Coronavirus Is a Preview of Our Self-Isolating Future
+https://onezero.medium.com/coronavirus-is-a-preview-of-our-self-isolating-future-f5e73b046104
+
+How I became a better programmer
+https://jlongster.com/How-I-Became-Better-Programmer
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

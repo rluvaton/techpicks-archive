@@ -1,0 +1,26 @@
+TechPicks 14/11/2019 -
+
+Greta Van 10bis - A simple extension that opts out from ordering Plastic cutlery on 10bis.co.il 
+https://github.com/tkore/Greta-Van-10bis
+
+Pure functions, immutability and other software superpowers
+https://medium.com/dailyjs/pure-functions-immutability-and-other-software-superpowers-dfe6039af8f6
+
+GitHub faces more resignations in light of ICE contract
+https://techcrunch.com/2019/11/13/github-faces-more-resignations-in-light-of-ice-contract/
+
+How The New York Times is Experimenting with Recommendation Algorithms (details on the technical architecture + high-level overview)
+https://open.nytimes.com/how-the-new-york-times-is-experimenting-with-recommendation-algorithms-562f78624d26
+
+Links vs. Buttons in Modern Web Applications
+https://marcysutton.com/links-vs-buttons-in-modern-web-applications
+
+OmitTypes: a generic for filtering object keys based on the type of its values
+https://timhwang21.gitbook.io/index/programming/typescript/omit-types
+
+"My name causes an issue with any booking! (names end with MR and MRS)"
+https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

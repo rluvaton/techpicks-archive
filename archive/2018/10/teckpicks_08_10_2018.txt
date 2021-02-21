@@ -1,0 +1,26 @@
+TechPicks 08/10/2018 -
+
+Voice control engine running fully in the browser
+https://picovoice.ai/#voice-control-demo
+
+50+ Data Structure and Algorithms Interview Questions for Programmers
+https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
+
+Transition/Easing inspiration sandbox
+https://codepen.io/meodai/full/bBVYBb/
+
+How to Recreate the Banksy Artwork Shredder Using CSS Grid
+https://medium.com/@leemartin/how-to-recreate-the-banksy-artwork-shredder-using-css-grid-ff20c0f5a19
+
+Dijkstra's in Disguise: 3 known algorithms independently discovered the principle of relaxation used in shortest-path
+https://blog.evjang.com/2018/08/dijkstras.html
+
+Data-Oriented Design 2018
+http://www.dataorienteddesign.com/dodbook/
+
+Koka - a simple statically-typed language with built-in algebraic effects - from Microsoft
+https://koka-lang.github.io/koka/doc/kokaspec.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,35 @@
+TechPicks 02/06/2019 -
+
+Gal Schlezinger - httyped - Type-safe HTTP client/server communications with awesome autocompletion
+https://github.com/Schniz/httyped
+
+Easily generate banners for your articles on dev.to
+https://github.com/christopherkade/banner-generator
+
+CSS Resources Recommended by the Tech Community
+https://dev.to/coffeecraftcode/css-resources-recommended-by-the-tech-community-1jkm
+
+We just moved off of Medium and onto freeCodeCamp News. Here’s how you can use it
+https://www.freecodecamp.org/forum/t/we-just-moved-off-of-medium-and-onto-freecodecamp-news-heres-how-you-can-use-it/279929
+
+RandomLoopComposer: Allows you to discover loops in a song with a consistent BPM and arrange a new random song with your selections
+https://github.com/mouseonew/RandomLoopComposer
+
+The powerful ES6 proxy object
+https://blog.nicco.io/2019/05/31/the-powerful-es6-proxy-object/
+
+"How DigitalOcean just killed our company. A long thread for a very sad story."
+https://twitter.com/w3Nicolas/status/1134529316904153089
+
+Sol Journal: A simple, open-source personal journaling platform
+https://github.com/gillkyle/sol-journal
+
+You don't need Passport.js - Guide to Node.js authentication
+https://softwareontheroad.com/nodejs-jwt-authentication-oauth
+
+GitHub - tsapis: Various cloud services API response types documented and written in TypeScript
+https://github.com/joonhocho/tsapis
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

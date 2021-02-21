@@ -1,0 +1,35 @@
+TechPicks 28/01/2021 -
+
+Tesla accuses engineer of stealing crucial company software
+https://www.engadget.com/tesla-sues-engineer-for-warp-drive-software-theft-220756569.html
+
+WhatsApp and the domestication of users
+https://seirdy.one/2021/01/27/whatsapp-and-the-domestication-of-users.html
+
+Create generative social images using SVG
+https://dev.to/georgedoescode/tutorial-create-generative-social-images-using-svg-2c47
+
+A Quest to Find a Highly Compressed Emoji :shortcode: Lookup Function
+https://prilik.com/blog/post/emoji-shortcodes/
+
+Gitlab changed its pricing model. It has greatly reduced the CI quota from 2000 CI minutes to 400 CI minutes in Free tier and removed the $4 per month option.
+https://about.gitlab.com/blog/2021/01/26/new-gitlab-product-subscription-model/
+
+WebRTC is now a W3C and IETF standard
+https://web.dev/webrtc-standard-announcement/
+
+A dependency-free chess engine that has implementations for the terminal, a desktop GUI, and the web!
+https://github.com/adam-mcdaniel/chess-engine
+
+Data Fetching on the Web Still Sucks
+https://performancejs.com/post/hde6a90/Data-Fetching-on-the-Web-Still-Sucks
+
+What am I running inside my bash?
+https://www.thanassis.space/bashheimer.html
+
+How to Read Rust Functions, Part 1
+https://www.possiblerust.com/guide/how-to-read-rust-functions-part-1
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

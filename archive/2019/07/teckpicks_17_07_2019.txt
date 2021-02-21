@@ -1,0 +1,32 @@
+TechPicks 17/07/2019 -
+
+Ember 3.11 Released
+https://blog.emberjs.com/2019/07/15/ember-3-11-released.html
+
+jiahaog/nativefier: Make any web page a desktop application
+https://github.com/jiahaog/nativefier
+
+TypeScript without TypeScript: A ton of features available with JSDoc annotations
+https://fettblog.eu/typescript-jsdoc-superpowers/
+
+This website open sources unused logo designs, for free
+https://www.logodust.com/
+
+A good introduction to why render props and higher order components are used
+https://www.robinwieruch.de/react-render-props-pattern/
+
+Finland University of Helsinki's "Full Stack Open" course now available in English
+https://www.i-programmer.info/news/105-artificial-intelligence/12932-finlands-qfull-stack-openq-now-available-in-english.html
+
+Comparing the Stream API and (async) generators in Node.js v10
+https://blog.logrocket.com/comparing-the-stream-api-and-async-generators-in-node-js-v10/
+
+Everything You Need To Know About CSS Margins
+https://www.smashingmagazine.com/2019/07/margins-in-css/
+
+Cracking my windshield and earning $10,000 on the Tesla Bug Bounty Program
+https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

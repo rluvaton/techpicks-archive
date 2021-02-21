@@ -1,0 +1,38 @@
+TechPicks 20/01/2021 -
+
+Lightweight and Performance Dockerfile for Node.js
+https://oleh-zaporozhets.medium.com/lightweight-and-performance-dockerfile-for-node-js-ec9eed3c5aef
+
+Amazon: Not OK – why we had to change Elastic licensing
+https://www.elastic.co/blog/why-license-change-AWS
+
+Elasticsearch does not belong to Elastic
+https://drewdevault.com/2021/01/19/Elasticsearch-does-not-belong-to-Elastic.html
+
+AWS is creating a 'new open source design system' with React
+https://www.theregister.com/AMP/2021/01/18/aws_creating_new_open_source
+
+The Project Management Institute needs to Get Out of Scrum, Get Out of Agile and Get Out of Software Development
+https://medium.com/serious-scrum/pmi-please-get-out-of-the-agile-space-9056b0a555df
+
+Storybook's addon ecosystem 2.0
+https://storybook.js.org/blog/addon-ecosystem-2-0/
+
+The embedded YouTube player told me what you were watching
+https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/
+
+Security in Node.JS and Express: The Bare Minimum — Part 3
+https://medium.com/codestory/security-in-node-js-and-express-the-bare-minimum-part-3-2fb14ebf8163
+
+My Favourite DevTool Features
+https://emergent.systems/posts/devtools/
+
+What's New In DevTools (Chrome 89) | Web | Google Developers
+https://developers.google.com/web/updates/2021/01/devtools
+
+User power, not power users: htop and its design philosophy
+https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

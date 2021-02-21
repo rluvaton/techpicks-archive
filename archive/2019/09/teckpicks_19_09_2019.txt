@@ -1,0 +1,32 @@
+TechPicks 19/09/2019 -
+
+Microsoft released the "Cascadia Code" font
+https://devblogs.microsoft.com/commandline/cascadia-code/
+
+GitHub acquires one of the best static analysis tools, Semmle QL, and plans to make it generally available
+https://venturebeat.com/2019/09/18/github-acquires-semmle-to-help-developers-spot-code-exploits/
+
+Designing SolidJS: Reactivity
+https://medium.com/@ryansolid/designing-solidjs-reactivity-75180a4c74b4
+
+The 80/20 Guide to Maps in JavaScript
+http://thecodebarbarian.com/the-80-20-guide-to-maps-in-javascript.html
+
+Everything You Need to Know About Array#reduce
+https://www.danielworsnup.com/blog/everything-you-need-to-know-about-array-reduce/
+
+What is a 1x Engineer?
+https://1x.engineer/
+
+Research shows that global demand for JavaScript is outpacing student expertise
+https://research.hackerrank.com/student-developer/2018
+
+100 million dollars to reshape the economics of the web
+https://foundation.mozilla.org/en/blog/100-million-investment-reshape-economics-web/
+
+Headroom.js - Hide your header until you need it
+http://wicky.nillia.ms/headroom.js/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

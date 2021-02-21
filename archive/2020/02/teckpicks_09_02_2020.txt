@@ -1,0 +1,29 @@
+TechPicks 09/02/2020 -
+
+Visual Studio Code January 2020
+https://code.visualstudio.com/updates/v1_42
+
+Version 9 of Angular Now Available — Project Ivy has arrived
+https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3
+
+Use JavaScript Array Methods Efficiently
+https://medium.com/@emreloper/use-javascript-array-methods-efficiently-e993528ef4bc
+
+Formatting dates in JavaScript with Intl.DateTimeFormat
+https://www.valentinog.com/blog/datetime/
+
+What's new in ECMAScript 2020 (ES2020)
+https://alligator.io/js/es2020/
+
+Designing SolidJS: Abstraction
+https://medium.com/@ryansolid/designing-solidjs-abstraction-66d8c63fa7d1
+
+Advanced Functional Programming concepts made easy
+https://medium.com/nmc-techblog/advanced-functional-programming-concepts-made-easy-2108d227b5ab
+
+Setting up a full CI/CD pipeline for a Node.js project with Docker
+https://www.taniarascia.com/continuous-integration-pipeline-docker/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

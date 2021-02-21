@@ -1,0 +1,39 @@
+TechPicks 26/06/2018 -
+
+face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js
+https://medium.com/@muehler.v/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07
+
+Concurrent marking in V8
+https://v8project.blogspot.com/2018/06/concurrent-marking.html
+
+Using Prettier to format your JavaScript code
+https://medium.com/@saranshk/using-prettier-to-format-your-javascript-code-8dad6636f963
+
+Understanding memory management and the garbage collector.
+https://wanago.io/2018/06/25/understanding-memory-management-and-the-garbage-collector/
+
+How SQL Database Engines Work, by the Creator of SQLite (2008) [video]
+https://www.youtube.com/watch?v=Z_cX3bzkExE
+
+Write Better CSS: From Hell to Heaven
+http://blog.theodo.fr/2018/06/write-better-css-part-1/
+
+​GitLab moves from Azure to Google Cloud Platform
+https://www.zdnet.com/article/gitlab-moves-from-azure-to-google-cloud-platform/
+
+The ISPs sharing your DNS query data
+https://blog.benjojo.co.uk/post/ISPs-sharing-DNS-query-data
+
+A Primer on Bézier Curves
+https://pomax.github.io/bezierinfo/
+
+The Architecture of Mailinator
+http://mailinator.blogspot.com/2007/01/architecture-of-mailinator.html
+
+Programming for personal growth – The Polymath Project – Medium
+https://medium.com/the-polymath-project/programming-for-personal-growth-64052e407894
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

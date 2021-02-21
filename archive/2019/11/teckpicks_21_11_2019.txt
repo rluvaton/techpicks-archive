@@ -1,0 +1,29 @@
+TechPicks 21/11/2019 -
+
+Getting Started with React (2019 Edition)
+https://scotch.io/starters/react/getting-started-with-react-2019-edition
+
+New Redux docs "Style Guide" page: recommended patterns and best practices for using Redux
+https://redux.js.org/style-guide/style-guide
+
+The Firefox UI is now built with Web Components
+https://briangrinstead.com/blog/firefox-webcomponents/
+
+LegraJS - draw using LEGO like brick shapes
+https://legrajs.com/
+
+Curated library of colors and fonts for Web Developers & Digital Designers
+https://www.colorsandfonts.com
+
+How Do You Remove Unused CSS From a Site?
+https://css-tricks.com/how-do-you-remove-unused-css-from-a-site/
+
+Building a hexagonal grid using CSS grid
+https://ninjarockstar.dev/css-hex-grids/
+
+backdrop-filter lets you apply visual effects to the area behind an element
+https://www.stefanjudis.com/today-i-learned/backdrop-filter-lets-you-apply-visual-effects-to-the-area-behind-an-element/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

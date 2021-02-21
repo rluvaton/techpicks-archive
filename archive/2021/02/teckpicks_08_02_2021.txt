@@ -1,0 +1,35 @@
+TechPicks 08/02/2021 -
+
+Uri Shaked and Michal Porag - Exploring the Complexities of Width and Height in CSS
+https://css-tricks.com/exploring-the-complexities-of-width-and-height-in-css/
+
+A short history of ReScript (BuckleScript)
+https://discuss.ocaml.org/t/a-short-history-of-rescript-bucklescript/7222
+
+How to Communicate Architecture
+http://beza1e1.tuxen.de/communicate_architecture.html
+
+The Path Traversal attack
+https://owasp.org/www-community/attacks/Path_Traversal
+
+Migrating Puppeteer to TypeScript
+https://developers.google.com/web/updates/2021/01/puppeteer-typescript
+
+Data Science Python: Courses Sheet
+https://docs.google.com/spreadsheets/d/1YANkzfZgR2TWnGC2FctljqttIybJl8kdQTYxQnhaPS8/edit?usp=drive_open&ouid=118148540815621522303
+
+Pixel Shaders in Windows Terminal
+https://github.com/microsoft/terminal/tree/main/samples/PixelShaders
+
+Easiest guide to .bashrc - The "how" and the "why" instead of the "what"
+https://olafur-palsson.medium.com/easiest-guide-to-bashrc-7ad0063d37eb
+
+Visual guide to SSH tunnels
+https://robotmoon.com/ssh-tunnels/
+
+Notes from "Extreme Programming Explained"
+https://denvaar.github.io/articles/xp_notes.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

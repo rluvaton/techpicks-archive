@@ -1,0 +1,32 @@
+TechPicks 29/12/2019 -
+
+"Raw WebGL" by Alain Galvan
+https://alain.xyz/blog/raw-webgl
+
+Unintuitive JSON Parsing
+https://nullprogram.com/blog/2019/12/28/
+
+RosettaGit: Same projects in many programming languages
+https://rosettagit.org/
+
+Bayes vs Frequentists – An Empirical Test In Code
+https://software.rajivprab.com/2019/12/29/bayes-vs-frequentists-an-empirical-test-in-code/
+
+Computer Science from the bottom up
+https://www.bottomupcs.com/intro.xhtml
+
+Indexing your offline-capable pages with the Content Indexing API
+https://web.dev/content-indexing-api/
+
+CSS Diner
+https://flukeout.github.io/
+
+Free domains for deploying your Node.js Apps
+https://freedomains.dev/
+
+Behind the scenes: GitHub vulnerability alerts
+https://github.blog/2019-12-11-behind-the-scenes-github-vulnerability-alerts/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

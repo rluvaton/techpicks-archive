@@ -1,0 +1,26 @@
+TechPicks 08/04/2019 -
+
+When To Use TypeScript - A Detailed Guide Through Common Scenarios
+https://khalilstemmler.com/articles/when-to-use-typescript-guide/
+
+Majestic - Zero config GUI for Jest
+https://github.com/Raathigesh/majestic
+
+Image lazy loading is coming
+https://twitter.com/addyosmani/status/1114777583302799360?s=21
+
+A Socket.io tutorial that ISN'T a chat app (with React.js)
+https://dev.to/captainpandaz/a-socket-io-tutorial-that-isn-t-a-chat-app-with-react-js-58jh
+
+Web server basics (1): HTTP and sockets
+http://notes.eatonphil.com/web-server-basics-http-and-sockets.html
+
+What Are Design Tokens?
+https://css-tricks.com/what-are-design-tokens/
+
+A just-add-css collection of styles to make simple websites just a little nicer
+https://github.com/kognise/water.css/blob/master/README.md
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

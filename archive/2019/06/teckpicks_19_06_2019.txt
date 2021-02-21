@@ -1,0 +1,40 @@
+TechPicks 19/06/2019 -
+
+The Complete Guide to React Refs
+https://rafaelquintanilha.com/the-complete-guide-to-react-refs/
+
+The reduce ({...spread}) anti-pattern
+https://www.richsnapp.com/blog/2019/06-09-reduce-spread-anti-pattern
+
+Git summary on your terminal
+http://github.com/o2sh/onefetch
+
+Developing Web Apps Using Flutter
+https://medium.com/flutterdevs/developing-web-apps-using-flutter-flutter-for-web-65d0fec5f588
+
+Things I Learnt The Hard Way (in 30 Years of Software Development)
+https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/
+
+Demystifying Containers - Part II: Container Runtimes
+https://medium.com/p/2c53d6979504
+
+Turn a Web Browser into a Web Server with WebRTC
+https://github.com/sinclairzx81/smoke
+
+You Might Not Need Redux (But You Can't Replace It With Hooks)
+https://www.simplethread.com/cant-replace-redux-with-hooks/
+
+Optimizing Your JavaScript for Speed
+https://dev.to/agronick/benchmarking-common-javascript-tasks-5cmp
+
+Turn a Web Browser into a Web Server with WebRTC
+https://github.com/sinclairzx81/smoke
+
+Why are fervid Googlers making ad-blocker-breaking changes to Chrome? Because they created a monster – and are fighting to secure it
+https://www.theregister.co.uk/2019/06/17/chrome_extensions_security/
+
+An alternative to Google Geocoder API (in Node.js)
+https://medium.com/@armando.mag95/78728c7b9faa
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

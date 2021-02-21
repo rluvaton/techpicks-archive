@@ -1,0 +1,38 @@
+TechPicks 06/11/2019 -
+
+React Query ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+https://github.com/tannerlinsley/react-query
+
+Test-Driven Development is Fundamentally Wrong
+https://hackernoon.com/test-driven-development-is-fundamentally-wrong-hor3z4d
+
+Announcing TypeScript 3.7
+https://devblogs.microsoft.com/typescript/announcing-typescript-3-7/
+
+How to Fully Optimize Webpack 4 Tree Shaking
+https://medium.com/@craigmiller160/how-to-fully-optimize-webpack-4-tree-shaking-405e1c76038
+
+Object preventExtension vs seal vs freeze
+https://til.cybertec-postgresql.com/post/2019-10-11-Object-preventExtension-vs-seal-vs-freeze/
+
+Chromium-based Edge will be coming out on Jan 15, 2020
+https://blogs.windows.com/windowsexperience/2019/11/04/introducing-the-new-microsoft-edge-and-bing
+
+HTMHell - Markup from hell
+https://www.htmhell.dev/
+
+Building a native add-on for Node.js in 2019
+https://blog.sqreen.com/building-a-native-add-on-for-node-js-in-2019/
+
+Dart can now produce self-contained, native executables for MacOS, Windows and Linux
+https://medium.com/dartlang/dart2native-a76c815e6baf
+
+Facebook Libra is Architecturally Unsound
+http://www.stephendiehl.com/posts/libra.html
+
+Factual inaccuracies of “Facebook Libra is Architecturally Unsound”
+https://tonyarcieri.com/factual-inaccuracies-of-facebook-libra-is-architecturally-unsound
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

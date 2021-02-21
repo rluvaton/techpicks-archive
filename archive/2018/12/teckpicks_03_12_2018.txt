@@ -1,0 +1,23 @@
+TechPicks 03/12/2018 -
+
+Dan Abramov - How Does React Tell a Class from a Function?
+https://overreacted.io/how-does-react-tell-a-class-from-a-function/
+
+Mhysa - A dependency-free stream library for Node.js
+https://www.npmjs.com/package/mhysa
+
+A Very SLEEPY MySQL Attack
+https://blog.cotten.io/a-very-sleepy-mysql-attack-bff80975fda7
+
+A JavaScript implentation of the farmer, wolf, goat and cabbage problem.
+https://github.com/victorqribeiro/bridge
+
+Securing the JS Ecosystem
+https://medium.com/@nickheiner/securing-the-js-ecosystem-55f87a4a2ceb
+
+Draw Your Galaxy- Made Using CSS and JavaScript
+https://codecab.blogspot.com/2018/12/draw-your-galaxy-made-of-htmlcss-and.html?m=1
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

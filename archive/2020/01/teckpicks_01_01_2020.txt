@@ -1,0 +1,29 @@
+TechPicks 01/01/2020 -
+
+Second edition of Automate the Boring Stuff with Python is now free online
+https://inventwithpython.com/blog/2019/12/31/reading-guide-to-automate-the-boring-stuff-second-edition-for-readers-of-the-first-edition/
+
+Dan Abramoc: My Decade in Review
+https://overreacted.io/my-decade-in-review/
+
+C++ at the end of 2019 - Growing? Falling Down? Getting Better?
+https://www.bfilipek.com/2019/12/cpp-status-2019.html
+
+A Year of React - 2019 in Review
+https://dev.to/selbekk/a-year-of-react-2019-in-review-2pal
+
+2019 in Review: 10 AI Papers That Made an Impact
+https://medium.com/syncedreview/2019-in-review-10-ai-papers-that-made-an-impact-6f607c9c6035
+
+A tiny isometric city builder in JavaScript
+https://github.com/victorqribeiro/isocity
+
+Rhubarb is released: A WebSocket library for multiplayer HTML5 games, relies on binary data and web workers
+https://github.com/oguzeroglu/Rhubarb
+
+Ever wondered how to write a TypeScript Transformer?
+https://github.com/madou/typescript-transformer-handbook/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

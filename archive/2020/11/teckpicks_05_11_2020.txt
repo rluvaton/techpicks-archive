@@ -1,0 +1,29 @@
+TechPicks 05/11/2020 -
+
+Github Source Code Leaked Online
+https://resynth1943.net/articles/github-source-code-leak/
+
+COBOL and $2,020,202.02
+https://bigdanzblog.wordpress.com/2020/11/03/cobol-and-2020202-02/
+
+Cargo Cult Software Engineering
+https://stevemcconnell.com/articles/cargo-cult-software-engineering/
+
+Signed git pushes
+https://people.kernel.org/monsieuricon/signed-git-pushes
+
+ES Modules in Depth
+https://ui.dev/esmodules/
+
+Intro to Bayes’ theorem for intermediate developers
+https://selfimproving.dev/bayes-theorem.html
+
+Is it morally wrong to write inefficient code?
+https://tomgamon.com/posts/is-it-morally-wrong-to-write-inefficient-code/
+
+A Brief Introduction to Deniability
+https://soatok.blog/2020/11/04/a-brief-introduction-to-deniability/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

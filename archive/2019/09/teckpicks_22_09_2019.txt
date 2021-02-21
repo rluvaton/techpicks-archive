@@ -1,0 +1,26 @@
+TechPicks 22/09/2019 -
+
+Robot, a 1kB library for finite state machines
+https://matthewphillips.info/programming/announcing-robot.html
+
+npm, Inc. Announces Leadership Change - CEO Bryan Bogensberger departing; Board of Directors opens a search for candidates
+https://www.prnewswire.com/news-releases/npm-inc-announces-leadership-change-300922517.html
+
+npm blog - Avoiding the Tragedy of the Commons: Acceptable Use of the Public Registry
+https://blog.npmjs.org/post/187698412060/acceptible-use
+
+Why 0.1 + 0.2 === 0.30000000000000004: Implementing IEEE 754 in JS
+https://www.youtube.com/watch?v=wPBjd-vb9eI
+
+Two exceptional use cases for the spread operator you may not know of
+https://enmascript.com/articles/2019/09/20/two-exceptional-use-cases-for-the-spread-operator-you-may-not-know-of
+
+Moving beyond console.log() — 8 Console Methods for Debugging
+https://medium.com/gitconnected/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada
+
+An HTML attribute potentially worth $4.4M to Chipotle
+https://cloudfour.com/thinks/an-html-attribute-potentially-worth-4-4m-to-chipotle/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

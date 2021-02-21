@@ -1,0 +1,35 @@
+TechPicks 25/11/2019 -
+
+Tim Berners-Lee: I Invented the World Wide Web. Here’s How We Can Fix It. - The New York Times
+https://www.nytimes.com/2019/11/24/opinion/world-wide-web.html
+
+JavaScript Visualized: Event Loop
+https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif
+
+makesite.py - Simple, lightweight, and magic-free static site/blog generator for Python coders
+https://github.com/sunainapai/makesite
+
+SQL and Java - still the most demanded tech skills
+https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/sql-java-top-list-of-most-indemand-tech-skills
+
+In Defense of Class Components
+https://reddit.com/r/reactjs/comments/e12ma4/in_defense_of_class_components/
+
+The team that powers VLC - How a group of university students transformed a school project into a media-player mainstay
+https://increment.com/teams/the-team-that-powers-vlc/
+
+Git Tag: Sort tags by semantic version / natural order
+https://ayesh.me/Git-Tag-Version-Sort
+
+The engineering behind Figma's Vector Networks
+https://medium.com/@alexharri/the-engineering-behind-figmas-vector-networks-688568e37110
+
+Tech Notes: Interfaces generally belong with users
+http://neugierig.org/software/blog/2019/11/interface-pattern.html
+
+A simple declarative tool for testing APIs
+https://www.getapid.com/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

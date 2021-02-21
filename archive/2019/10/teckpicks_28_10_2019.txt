@@ -1,0 +1,26 @@
+TechPicks 28/10/2019 -
+
+Yoni Goldberg - ‘Should I make it a Microservice?’
+https://medium.com/@me_37286/should-i-make-it-a-microservice-11f4ae44f937
+
+19 Takeaways From React Conf 2019
+https://blog.anthonymorris.dev/19-takeaways-from-react-conf-2019
+
+A Comprehensive Guide to Fixing Node-Gyp Issues on Windows
+https://spin.atomicobject.com/2019/03/27/node-gyp-windows/
+
+The Pitfalls of Async/Await in Array Loops
+https://medium.com/dailyjs/the-pitfalls-of-async-await-in-array-loops-cf9cf713bfeb
+
+React hooks in service to forms (react-hook-form)
+https://react-hook-form.com/
+
+ROYGBIV - A 3D game engine for the Web
+https://github.com/oguzeroglu/ROYGBIV
+
+Building A Node.js Express API To Convert Markdown To HTML
+https://www.smashingmagazine.com/2019/04/nodejs-express-api-markdown-html/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

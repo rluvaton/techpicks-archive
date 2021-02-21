@@ -1,0 +1,35 @@
+TechPicks 06/06/2019 -
+
+Imperative vs Declarative Programming, in 60 Seconds
+https://twitter.com/tylermcginnis/status/1136358106751889409
+
+Keep your Ego away from coding
+https://dev.to/dvddpl/keep-ego-away-from-coding-4gi5
+
+Visual Studio Code May 2019
+https://code.visualstudio.com/updates/v1_35
+
+The economics of package management
+https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md
+
+KeyQL: Node.js Package + Language to Query Datasets using Key-Value Pairs
+https://github.com/FunctionScript/KeyQL
+
+University of Helsinki's free Full Stack MOOC now in English
+https://fullstackopen.com/en/
+
+Openprofiling-node: Profile the CPU or Memory usage of your applications directly in production with low performance impact
+https://github.com/vmarchaud/openprofiling-node
+
+This page is a truly naked, brutalist html quine
+https://secretgeek.github.io/html_wysiwyg/html.html
+
+Typing the useReducer React hook in TypeScript
+https://www.sumologic.com/blog/usereducer-react-hook-typescript/
+
+The clever cryptography behind Apple's 'Find My' feature
+https://www.wired.com/story/apple-find-my-cryptography-bluetooth/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

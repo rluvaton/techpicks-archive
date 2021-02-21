@@ -1,0 +1,35 @@
+TechPicks 27/08/2018 -
+
+“Users Don’t Want Filters, They Want Better Content”
+https://medium.com/@hopper_travel/users-dont-want-filters-they-want-better-content-3146f650b8f6
+
+What really happens when your AWS Lambda is running
+https://blog.epsagon.com/lambda-internals-exploring-aws-lambda
+
+API Gateway in a Nutshell
+https://pogsdotnet.blogspot.com/2018/08/api-gateway-in-nutshell.html
+
+How to build complicated grids using CSS grid
+https://medium.com/@danwebb/how-to-build-complicated-grids-using-css-grid-609b1197cf75
+
+Debugging an evil Go runtime bug
+https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/
+
+Solving Spectre and Meltdown may ultimately require an entirely new type of processor
+https://www.pcworld.com/article/3299477/components-processors/solving-spectre-and-meltdown-may-ultimately-require-an-entirely-new-type-of-processor.html
+
+Globalsign will revoke your codesign certificate no questions asked
+https://medium.com/@airflow.matt/globalsign-will-revoke-your-codesign-certificate-no-questions-asked-f6ac2bca02c5
+
+What's in a Production Web Application?
+https://stephenmann.io/post/whats-in-a-production-web-application/
+
+Announcing the Arduino Command Line Interface (CLI)
+https://blog.arduino.cc/2018/08/24/announcing-the-arduino-command-line-interface-cli/
+
+Beyond the pixel plane: sensing and learning in 3D
+https://thegradient.pub/beyond-the-pixel-plane-sensing-and-learning-in-3d/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

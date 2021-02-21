@@ -1,0 +1,26 @@
+TechPicks 08/07/2020 -
+
+Screenplay - A free tool to help troubleshoot Puppeteer tests
+https://www.testim.io/screenplay/
+
+Understand JavaScript Generators in 3 minutes
+https://medium.com/@Dylan.Kerler/understand-javascripts-generators-in-3-minutes-8af75c9c4f5f
+
+Ten modern layouts in one line of CSS
+https://web.dev/one-line-layouts/
+
+Help Message for Shell Scripts
+https://samizdat.dev/help-message-for-shell-scripts/
+
+A Terrible, Horrible, No-Good, Very Bad Day at Slack
+https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82
+
+Emulating commercial anti-cheats on Linux for Wine gaming
+https://secret.club/2020/07/06/bottleye.html
+
+How a DevTools Extension is Made
+https://goshi.dev/blog/how-a-devtools-extension-is-made
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

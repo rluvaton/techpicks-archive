@@ -1,0 +1,32 @@
+TechPicks 21/11/2018 -
+
+How browsers work - Behind the scenes of modern web browsers
+http://taligarsiel.com/Projects/howbrowserswork1.htm
+
+React Conf 2018 - 90% Cleaner React With Hooks
+https://www.youtube.com/watch?v=dpw9EHDh2bM&t=3695
+
+BFG Repo-Cleaner - Removes large or troublesome blobs like git-filter-branch does, but faster
+https://rtyley.github.io/bfg-repo-cleaner/
+
+Rewriting Your Git History and JS Source for Fun and Profit
+https://blog.isquaredsoftware.com/2018/11/git-js-history-rewriting/
+
+Best command line utilities
+https://dev.to/dipeshwagle/best-command-line-utilities-557d
+
+Bill Gates - If you want to understand Silicon Valley, watch Silicon Valley
+https://www.gatesnotes.com/About-Bill-Gates/Silicon-Valley
+
+Code Shelter: A community of maintainers for abandoned FOSS projects
+https://www.codeshelter.co/
+
+Importing Data from MongoDB to MySQL using JavaScript
+https://mysqlserverteam.com/importing-data-from-mongodb-to-mysql-using-javascript/
+
+For a brief period, the Windows kernel tried to deal with gamma rays corrupting the processor cache
+https://blogs.msdn.microsoft.com/oldnewthing/20181120-00/?p=100275
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,37 @@
+TechPicks 11/06/2019 -
+
+RxDB - a realtime database for JavaScript applications
+https://github.com/pubkey/rxdb
+
+A JavaScript library that lets you connect and use various gaming controllers with browsers that support the Gamepad API
+https://github.com/ArunMichaelDsouza/joypad.js
+
+The reduce ({...spread}) anti-pattern
+https://www.richsnapp.com/blog/2019/06-09-reduce-spread-anti-pattern
+
+react-redux 7.1.0 (the one with hooks!) released
+https://github.com/reduxjs/react-redux/releases/tag/v7.1.0
+
+Unloved Patches: When somebody comes to your project with a well-thought-out, unit-tested fix, and is met by radio silence.
+https://bitsplitting.org/2019/05/24/unloved-patches/
+
+The state of GraphQL by Reddit
+https://blog.graphqleditor.com/the-state-of-graphql-by-reddit/
+
+a bug in Chrome/FF on macOS that allows websites to play sounds at dangerously loud volumes, bypassing the OS volume setting.
+https://jsfiddle.net/wgwine/rvn0e2uk/
+
+Using multiple threads and web workers to increase speed of a dead link checker
+https://javascriptwebscrapingguy.com/jordan-is-speed-speeding-up-scraping-with-multiple-threads/
+
+Incomplete List of Mistakes in the Design of CSS
+https://wiki.csswg.org/ideas/mistakes
+
+Mediumship - Medium minus the paywalls
+https://github.com/swapagarwal/mediumship/blob/master/README.md
+
+Microsoft has created a biology computing platform, in which scientists can virtually run biological experiments thus bypassing the physical step of growing cells, synthesizing drugs, etc.
+https://www.microsoft.com/en-us/research/project/stationb/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

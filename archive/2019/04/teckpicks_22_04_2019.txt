@@ -1,0 +1,35 @@
+TechPicks 22/04/2019 -
+
+NPM "request" module is entering maintenance mode
+https://github.com/request/request/issues/3142
+
+Svelte 3 released
+https://svelte.dev/blog/svelte-3-rethinking-reactivity
+
+ReasonML by example
+https://blog.dubenko.dev/reasonml-by-example/
+
+10 HTML Elements You Didn't Know You Needed
+https://dev.to/emmawedekind/10-html-element-you-didnt-know-you-needed-3jo4
+
+How to create better themes with CSS variables
+https://blog.logrocket.com/how-to-create-better-themes-with-css-variables-5a3744105c74
+
+Mozilla tries to do Java as it should have been – with a WASI spec for all devices, computers, operating systems
+https://www.theregister.co.uk/2019/03/29/mozilla_wasi_spec/
+
+If you don't use TypeScript, tell me why
+https://reddit.com/r/javascript/comments/bfsdxl/if_you_dont_use_typescript_tell_me_why/
+
+Implementing Redux Architecture using React-Hooks
+https://medium.com/@akshayjpatil11/implementing-redux-architecture-using-react-hooks-39b47762a2fb
+
+Programming in Rust: the good, the bad, the ugly
+https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738
+
+qgrep internals: beating ripgrep by cheating
+https://zeux.io/2019/04/20/qgrep-internals/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

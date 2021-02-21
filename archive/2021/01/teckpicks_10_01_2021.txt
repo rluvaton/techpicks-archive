@@ -1,0 +1,35 @@
+TechPicks 10/01/2021 -
+
+A few web console tricks
+https://patrickbrosset.com/articles/2020-12-22-a-few-web-console-tricks/
+
+No Meetings, No Deadlines, No Full-Time Employees
+https://sahillavingia.com/work
+
+Building On-Call Culture at GitHub
+https://github.blog/2021-01-06-building-on-call-culture-at-github/
+
+VS Code Day 2021 official live event announced for Jan 27 �
+https://code.visualstudio.com/vscode-day
+
+Falsehoods programmers believe about... Biometrics
+https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/
+
+Science confirms it: Websites really do all look the same
+https://www.fastcompany.com/90501691/science-confirms-it-web-sites-really-do-all-look-the-same
+
+Why are Reusable Components so Difficult?
+https://danielbmarkham.com/why-are-reusable-components-so-difficult/
+
+Archivy - Self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal extensible wiki
+https://archivy.github.io
+
+Get Started With TypeScript the Easy Way
+https://austingil.com/typescript-the-easy-way/
+
+Exception Handling middleware in .NET Core: A Simple Tip For Cleaner Web APIs
+https://youtu.be/4UdAhl6gWdM
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

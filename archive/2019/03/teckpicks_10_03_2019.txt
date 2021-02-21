@@ -1,0 +1,32 @@
+TechPicks 10/03/2019 -
+
+OpJerusalem FlashInstaller Ransomware
+https://www.cyberark.com/threat-research-blog/opjerusalem-flashinstaller-ransomware/
+
+Bastian Gruber - Moving from NodeJS to Rust in 2019
+https://medium.com/@gruberbastian/moving-from-nodejs-to-rust-in-2019-62c0b85d2fa7
+
+Diving into the great observer pattern in JavaScript
+https://enmascript.com/articles/2019/03/09/diving-into-the-great-observer-pattern-in-javascript
+
+Boa: a JavaScript interpreter and JIT compiler written in Rust
+https://github.com/jasonwilliams/boa
+
+How I ruined my JavaScript code and still won the Coding Challenge
+https://tsh.io/blog/how-i-ruined-my-javascript-code-still-won-coding-challenge/
+
+React state management patterns in 2019
+https://medium.com/incremental-engineer/react-state-management-patterns-in-2019-847d24bd173
+
+Using CSS Grid the right way
+https://vgpena.github.io/using-css-grid-the-right-way/
+
+AWS Lambda and Express - Getting Started Guide
+https://epsagon.com/blog/aws-lambda-and-express-getting-started-guide/
+
+Concise Media Queries with CSS Grid
+https://thoughtbot.com/blog/concise-media-queries-with-css-grid
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

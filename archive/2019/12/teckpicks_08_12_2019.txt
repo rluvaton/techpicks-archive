@@ -1,0 +1,35 @@
+TechPicks 08/12/2019 -
+
+"Off The Main Thread" | CSS-Tricks
+https://css-tricks.com/off-the-main-thread/
+
+NanoNeuron - 7 simple JavaScript functions that will give you a feeling of how machines can actually "learn"
+https://github.com/trekhleb/nano-neuron
+
+To celebrate optional chaining making it to stage 4, here's a regex expression to find places you can use it in your codebase
+https://regex101.com/r/DiaDQr/3/
+
+Why is modern web development so complicated? A long yet hasty explanation: Part 1
+https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/
+
+Introducing ProjectLearn - Project Based Learning
+https://projectlearn.io
+
+Node.js Clean Architecture - Deep Dive
+https://roystack.home.blog/2019/10/22/node-clean-architecture-deep-dive/
+
+Understand Elasticsearch query body builder in Node.js
+https://blog.logrocket.com/elasticsearch-query-body-builder-node-js/
+
+Writing tests without using any external library or framework
+https://www.sohamkamani.com/blog/javascript/making-a-node-js-test-runner/
+
+How to Use New CSS “:is()” for Easy Element Targeting
+https://webdesign.tutsplus.com/articles/new-css-is-for-easy-element-targeting--cms-34223
+
+The Thought Process Behind a Flexbox Layout
+https://css-tricks.com/the-thought-process-behind-a-flexbox-layout/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,32 @@
+TechPicks 25/11/2018 -
+
+The Bash Academy
+https://www.bash.academy/
+
+Easy patterns: Facade
+https://medium.com/@ruslanmalogulko/8cb185f4f44f
+
+Major garbage producers in JS
+http://thoughtspile.github.io/2018/11/24/garbage-producing-js/
+
+The 14 biggest product flops in Google history
+https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f
+
+GraphQL newbie tutorial - Schema definition
+https://blog.graphqleditor.com/GraphQL-newbie-tutorial-Schema-Definition-SDL
+
+How to be confident in your code
+https://medium.com/@kid.bytes/how-to-be-confident-in-your-code-688a63adac33
+
+Polyfill to JavaScript BigInt Proposal
+https://github.com/GoogleChromeLabs/jsbi/blob/master/README.md
+
+The Forgotten History of OOP
+https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f
+
+How to understand CSS Position Absolute once and for all
+https://medium.freecodecamp.org/how-to-understand-css-position-absolute-once-and-for-all-b71ca10cd3fd
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 20/04/2020 -
+
+Awesome Falsehood - A curated list of falsehoods programmers believe in
+https://github.com/kdeldycke/awesome-falsehood
+
+10 less known Angular features you've probably never used - W3Radar
+https://blog.w3radar.com/less-known-angular-features-probably-never-used/
+
+Understanding (all) JavaScript module formats and tools
+https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools
+
+safer: a safer file writer for Python
+https://medium.com/@TomSwirly/%EF%B8%8F-safer-a-safer-file-writer-%EF%B8%8F-5fe267dbe3f5
+
+How it's made: Memories – a 256 byte DOS intro with 8 effects and music
+http://www.sizecoding.org/wiki/Memories
+
+500 Free Computer Science Courses from the World’s Top CS Universities
+https://www.freecodecamp.org/news/free-courses-top-cs-universities/
+
+100 days - 100 CSS properties in a tweet
+https://justmarkup.com/articles/2020-04-15-css-property-in-a-tweet/
+
+The Decline of Usability
+https://datagubbe.se/decusab/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

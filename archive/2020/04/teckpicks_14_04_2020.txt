@@ -1,0 +1,35 @@
+TechPicks 14/04/2020 -
+
+John Conway, inventor of the Game of Life, has died of COVID-19
+https://arstechnica.com/science/2020/04/john-conway-inventor-of-the-game-of-life-has-died-of-covid-19/
+
+GitHub is now free for teams
+https://github.blog/2020-04-14-github-is-now-free-for-teams/
+
+Your statement is 100% correct but misses the entire point
+http://nibblestew.blogspot.com/2020/04/your-statement-is-100-correct-but.html
+
+Event-Reduce - An algorithm to optimize database queries that run multiple times
+https://github.com/pubkey/event-reduce
+
+dvws-node - A vulnerable web service/API/application that can be used to learn webservices/API related vulnerabilities
+https://github.com/snoopysecurity/dvws-node
+
+Cypress now supports TypeScript for test files without using special preprocessors plugins
+https://github.com/cypress-io/cypress/issues/1859
+
+jQuery 3.5.0 Released
+http://blog.jquery.com/2020/04/10/jquery-3-5-0-released/
+
+The Algebraic Structure of Functions, illustrated using React components
+https://jrsinclair.com/articles/2020/algebraic-structure-of-functions-illustrated-with-react-components/
+
+web.dev engineering blog #1: How we build the site and use Web Components
+https://web.dev/how-we-build-webdev-and-use-web-components/
+
+A very short introduction to COBOL
+https://flaviocopes.com/cobol/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

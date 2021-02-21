@@ -1,0 +1,66 @@
+TechPicks 17/06/2018 -
+
+Here's Why Calling .map() on a Constructed Array Doesn't Work
+https://itnext.io/heres-why-mapping-a-constructed-array-doesn-t-work-in-javascript-f1195138615a
+
+Spice up your JavaScript with currying
+https://medium.com/@riccardoodone/spice-up-your-javascript-5314bf28f3e5
+
+Meet the GitLab Web IDE
+https://about.gitlab.com/2018/06/15/introducing-gitlab-s-integrated-development-environment/
+
+Lets build express from scratch
+https://github.com/antoaravinth/lets-build-express
+
+Building a syntax theme recommendation engine with brain.js
+https://www.youtube.com/watch?v=lvzekeBQsSo
+
+JavaScript engine fundamentals: Shapes and Inline Caches
+https://mathiasbynens.be/notes/shapes-ics
+
+sand.js: A falling sand game as a cellular automaton, powered by WebGL.
+https://github.com/ericleong/sand.js
+
+How to set up drag and drop for mobile
+https://medium.com/outsystems-engineering/drag-and-drop-it-like-its-hot-setting-up-the-ultimate-gestures-glamour-5b2a12503bb5
+
+The epitome of 404 pages.
+https://acm.illinois.edu/404
+
+Vue just passed React in Github starts
+https://i.redd.it/dshl53i834411.png
+
+Vue.js 3.0 will use TypeScript for internal implementation, does NOT affect ES users, but should improve TS integration for TS users
+https://github.com/vuejs/roadmap
+
+Titus, the Netflix container management platform, is now open source
+https://medium.com/netflix-techblog/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436
+
+Fibonacci Hashing: The Optimization that the World Forgot (or: a Better Alternative to Integer Modulo)
+https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/
+
+OpenStreetMap Should Be a Priority for the Open Source Community
+https://www.linuxjournal.com/content/openstreetmap-should-be-priority-open-source-community
+
+How Blizzard is making WoW Classic
+https://worldofwarcraft.com/en-us/news/21881587/dev-watercooler-world-of-warcraft-classic
+
+Ted Nelson on What Modern Programmers Can Learn From the Past
+https://www.youtube.com/watch?v=edZgkNoLdAM
+
+17 Backdoored Docker Images Removed From Docker Hub
+https://www.bleepingcomputer.com/news/security/17-backdoored-docker-images-removed-from-docker-hub/
+
+The "mass exodus" from GitHub to GitLab: 10 days later
+https://monitor.gitlab.net/dashboard/db/github-importer?orgId=1&amp;from=1527506761853&amp;to=now
+
+Avoiding hour creep: how to stop coding and go home at 5PM
+https://codewithoutrules.com/2018/06/15/avoid-hour-creep/
+
+Pure Bash Bible – A collection of pure bash alternatives to external processes
+https://github.com/dylanaraps/pure-bash-bible
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

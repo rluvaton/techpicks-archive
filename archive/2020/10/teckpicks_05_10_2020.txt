@@ -1,0 +1,32 @@
+TechPicks 05/10/2020 -
+
+RSLint - An extremely fast JavaScript linter written from scratch in Rust
+https://github.com/RDambrosio016/RSLint
+
+Darling is a translation layer that lets you run macOS software on Linux
+https://www.darlinghq.org/
+
+Ego is released: A lightweight JS library for Decision Making & State Machines
+https://github.com/oguzeroglu/Ego
+
+A Complete Guide To CSS Media Queries
+https://css-tricks.com/a-complete-guide-to-css-media-queries/
+
+FastCGI — The Forgotten Treasure
+http://www.nongnu.org/fastcgi/
+
+Eight Falsehoods Programmers Believe About Map Coordinates
+https://engineering.kablamo.com.au/posts/2020/falsehoods-about-map-coordinates
+
+Motivation and why finishing a personal project is hard
+https://ciaranonuallainblog.wordpress.com/2020/10/04/motivation-and-why-finishing-a-personal-project-is-hard/
+
+Kevin Mahoney: Applying "Make Invalid States Unrepresentable"
+https://kevinmahoney.co.uk/articles/applying-misu/
+
+Rust meets the web - a clash of programming paradigms
+https://www.jakobmeier.ch/blogging/Rust_on_the_Web.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

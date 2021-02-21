@@ -1,0 +1,26 @@
+TechPicks 10/12/2018 -
+
+Daniel Sternlicht - The Ultimate Guide for Implementing a Simple Modal Component in Vanilla JavaScript, React, Angular, and Vue
+https://hackernoon.com/the-ultimate-guide-for-creating-a-simple-modal-component-in-vanilla-javascript-react-angular-8733e2859b42
+
+AI-assisted development, now for JavaScript/TypeScript
+https://blogs.msdn.microsoft.com/typescript/2018/12/05/intellicode-for-typescript-javascript/
+
+Understanding UNIX permissions and chmod
+http://www.perlfect.com/articles/chmod.shtml
+
+npm package permissions — an idea
+https://hackernoon.com/npm-package-permissions-an-idea-441a02902d9b
+
+Associate File Types in VS Code
+https://medium.com/@John_Papa/associate-file-types-in-vs-code-14b19dbbacd0
+
+Memoization in React
+https://react.christmas/2018/9
+
+Accessibility in React
+https://react.christmas/2018/8
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

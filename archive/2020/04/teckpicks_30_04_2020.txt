@@ -1,0 +1,32 @@
+TechPicks 30/04/2020 -
+
+Battletest - An Express.js testing suite autogenerator
+https://github.com/oslabs-beta/battletest
+
+"The title ‘Front-End Developer’ is obsolete."
+https://css-tricks.com/the-title-front-end-developer-is-obsolete/
+
+Insomnia Designer – Open-source collaborative editor for API design
+https://insomnia.rest/blog/introducing-designer
+
+6 Free Options To Host Your Node.js App In 2020
+https://amitbend.com/node.js/2020/04/28/6-free-options-to-host-your-node.js-app-in-2020
+
+Using BEM in components: a thing of the past?
+https://www.codegram.com/blog/using-bem-in-components/
+
+Performance monitoring in CSS animations
+https://medium.com/chegg/performance-monitoring-in-css-animations-f11a21d0054f
+
+How to use React Ref
+https://www.robinwieruch.de/react-ref
+
+How we migrated our test suite for 10x performance improvements and how you can achieve the same
+https://medium.com/dazn-tech/jest-our-journey-into-performant-unit-tests-a6efcb4bd9b
+
+Introducing Consistent Hashing
+https://medium.com/@teivah/introducing-consistent-hashing-9a289769052e
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

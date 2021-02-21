@@ -1,0 +1,32 @@
+TechPicks 23/04/2019 -
+
+NPM layoffs followed attempt to unionize, according to complaints
+https://www.theregister.co.uk/2019/04/22/npm_fired_staff_union_complaints/
+
+Create React App 3 has been released
+https://github.com/facebook/create-react-app/releases/tag/v3.0.0
+
+reattempt - 🙏Give your functions another chance
+https://github.com/wsmd/reattempt
+
+You should never ever run directly against Node.js in production. Maybe.
+https://medium.freecodecamp.org/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6
+
+Avoid recomputing heavy tasks by leveraging memoization in JavaScript
+https://enmascript.com/articles/2019/04/22/avoid-recomputing-heavy-tasks-by-leveraging-memoization-in-javascript
+
+My Misconceptions about the Universal Selector in CSS
+https://dev.to/claireparker/my-misconceptions-about-the-universal-selector-in-css-4ngm
+
+What is a reducer in JavaScript?
+https://www.robinwieruch.de/javascript-reducer/
+
+Facebook makes its first browser (Chrome) API contribution - Facebook’s engineers created the isInputPending API
+https://techcrunch.com/2019/04/22/facebook-makes-its-first-browser-api-contribution/
+
+A Brief History of Web Development: Part Zero
+https://www.natevolker.com/writing/a-brief-history-of-web-development-part-one/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

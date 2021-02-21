@@ -1,0 +1,29 @@
+TechPicks 09/01/2020 -
+
+Snowpack: Build web applications with less tooling and 10x faster iteration
+https://www.snowpack.dev
+
+We’re killing the mobile web
+https://medium.com/@dannymoerkerke/were-killing-the-mobile-web-be5c5662c807
+
+The End of Indie Web Browsers: You Can (Not) Compete
+https://blog.samuelmaddock.com/posts/the-end-of-indie-web-browsers/
+
+Memory Leaks Demystified
+https://nodesource.com/blog/memory-leaks-demystified
+
+From 15,000 database connections to under 100: DigitalOcean's tech debt tale
+https://blog.digitalocean.com/from-15-000-database-connections-to-under-100-digitaloceans-tale-of-tech-debt/
+
+Why we’re writing machine learning infrastructure in Go, not Python
+https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76
+
+Jordan Walke – ReasonML: React to the Future
+https://www.youtube.com/watch?v=5fG_lyNuEAw
+
+How Auto Margins Work in Flexbox
+https://css-tricks.com/how-auto-margins-work-in-flexbox/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

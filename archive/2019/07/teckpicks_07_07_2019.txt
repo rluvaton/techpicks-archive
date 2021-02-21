@@ -1,0 +1,34 @@
+TechPicks 07/07/2019 -
+
+OxJS: Rethinking Reactivity without limits
+https://github.com/jfet97/oxjs
+
+Assholes: A Probing Examination
+https://www.nomachetejuggling.com/2019/06/03/dont-hire-assholes/
+
+Dissecting A Dweet
+http://frankforce.com/?p=6232
+
+Access Jira on all OSes (MacOS, Linux, Windows10) using command line
+https://github.com/junipdewan/jirax
+
+Plot to steal cryptocurrency foiled by the npm security team
+https://blog.npmjs.org/post/185397814280/plot-to-steal-cryptocurrency-foiled-by-the-npm
+
+Frontend Evolution (1995-2019)
+https://i.redd.it/oxfhb9umhr831.png
+
+UK ISP group names Mozilla 'Internet Villain' for supporting 'DNS-over-HTTPS'
+https://www.zdnet.com/article/uk-isp-group-names-mozilla-internet-villain-for-supporting-dns-over-https/
+
+Snyk research team discovers severe prototype pollution security vulnerabilities affecting all versions of lodash
+https://snyk.io/blog/snyk-research-team-discovers-severe-prototype-pollution-security-vulnerabilities-affecting-all-versions-of-lodash/
+
+Bringing new CSS techniques to production
+https://sidigital.co/blog/bringing-new-css-techniques-to-production
+
+Five Methods for Five-Star Ratings
+https://css-tricks.com/five-methods-for-five-star-ratings/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

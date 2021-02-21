@@ -1,0 +1,32 @@
+TechPicks 31/10/2018 -
+
+Dan Abramov - Making Sense of React Hooks
+https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889
+
+GitHub Post-Mortem on the Recent 24hr Outage
+https://blog.github.com/2018-10-30-oct21-post-incident-analysis/
+
+git standup - Recall what you did on the last working day. Or be nosy and find what someone else in your team did ;)
+https://github.com/kamranahmedse/git-standup
+
+invaderz - Space invaders, but the invaders evolve with genetic algorithm
+https://github.com/victorqribeiro/invaderz
+
+yarn-deduplicate - Deduplication tool for yarn.lock files
+https://github.com/atlassian/yarn-deduplicate
+
+Profiling: The Case of the Missing Milliseconds
+https://engineering.riotgames.com/news/profiling-case-missing-milliseconds
+
+nnn - a feature-packed tiny terminal file manager in C
+https://github.com/jarun/nnn
+
+Impostor syndrome strikes men just as hard as women, and other findings from thousands of technical interviews
+http://blog.interviewing.io/impostor-syndrome-strikes-men-just-as-hard-as-women-and-other-findings-from-thousands-of-technical-interviews/
+
+How Side Projects Can Make You a Better Software Developer
+https://www.7pace.com/blog/the-scientific-guide-how-side-projects-will-make-you-a-better-software-developer
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,20 @@
+TechPicks 01/11/2020 -
+
+Strategy Pattern for Efficient Software Design
+https://youtu.be/9uDFHTWCKkQ
+
+Making Sense of the JS Framework Benchmark
+https://dev.to/ryansolid/making-sense-of-the-js-framework-benchmark-25hl
+
+Protocore - The versatile alternative to Protocol Buffers and gRPC
+https://github.com/ethanent/protocore
+
+Content Security Policy - protect your website from XSS attacks
+https://itsopensource.com/content-security-policy/
+
+How to Build HTML Forms Right: Styling
+https://stegosource.com/build-html-forms-right-styling/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

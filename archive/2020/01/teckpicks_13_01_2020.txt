@@ -1,0 +1,26 @@
+TechPicks 13/01/2020 -
+
+The JavaScript framework for visual programming
+https://github.com/retejs/rete
+
+What You Need To Know About Testing in Production
+https://blog.loadmill.com/testing-in-production-2ab74d4a3c54
+
+Programming podcast with Minko Gechev - a programming podcast for learning practical computer science concepts in a brief and accessible way
+https://podcast.mgechev.com/
+
+Handling null and undefined in JavaScript
+https://medium.com/javascript-scene/handling-null-and-undefined-in-javascript-1500c65d51ae
+
+Exploring the Symmetric Difference Interview Question in JavaScript
+https://typeofnan.dev/exploring-the-symmetric-difference-interview-question-in-javascript/
+
+Deploy your side-projects at scale for basically nothing - Google Cloud Run
+https://alexolivier.me/posts/deploy-container-stateless-cheap-google-cloud-run-serverless
+
+Ask HN: What were your most impactful podcast episodes from 2019?
+https://news.ycombinator.com/item?id=22027315
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

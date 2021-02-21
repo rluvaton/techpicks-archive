@@ -1,0 +1,32 @@
+TechPicks 05/08/2019 -
+
+Dan Abramov - How Does the Development Mode Work?
+https://overreacted.io/how-does-the-development-mode-work/
+
+Detecting incognito mode by timing the Chrome FileSystem API
+https://blog.jse.li/posts/chrome-76-incognito-filesystem-timing/
+
+TensorFlow or Keras? Which one should I learn?
+https://medium.com/implodinggradients/tensorflow-or-keras-which-one-should-i-learn-5dd7fa3f9ca0
+
+Dissecting A Dweet: Strange Attractor (3D Lorenz system animation in 140 chars)
+http://frankforce.com/?p=6584
+
+Using TypeScript Like A Pro
+https://corecursive.com/034-chris-krycho-typescript/
+
+Build Your Own Text Editor
+https://viewsourcecode.org/snaptoken/kilo/index.html
+
+Modern text rendering with Linux: Overview
+https://mrandri19.github.io/2019/07/24/modern-text-rendering-linux-overview.html
+
+Kash: A shell powered by Kotlin
+https://github.com/cbeust/kash
+
+Gradient Magic
+https://www.gradientmagic.com/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

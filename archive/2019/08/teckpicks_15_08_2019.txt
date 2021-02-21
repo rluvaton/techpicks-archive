@@ -1,0 +1,35 @@
+TechPicks 15/08/2019 -
+
+How to build and deploy a React App using Github Actions
+https://lukeboyle.com/blog-posts/2019/08/github-actions-for-web-apps/
+
+Hacking the Google Map JS API for free usage
+https://dev.to/vince_tblt/hacking-the-google-map-embedded-api-for-free-usage-2ph1
+
+It’s time to say thank you to the Angular CLI Team
+https://juristr.com/blog/2019/08/thank-you-angular-cli-team/
+
+Addressing the "WebAssembly vs. JavaScript" debate
+https://blog.soshace.com/en/javascript/introduction-to-webassembly-the-magic-of-native-code-in-web-apps/
+
+The Component State Chimera
+https://github.com/gactjs/gact/blob/master/docs/the-component-state-chimera.md
+
+Logging in Browser: Using a structured logger in your frontend project
+https://medium.com/@gajus/logging-in-browser-2f053dbe69df
+
+const value types: Record & Tuple (a stage 0 proposal)
+https://github.com/rricard/proposal-const-value-types
+
+UpdateYourPass.com - A directory of direct links to Update your passwords on web services
+https://updateyourpass.com
+
+3 Kinds of Good Tech Debt
+https://engineering.squarespace.com/blog/2019/three-kinds-of-good-tech-debt
+
+Go Goroutines vs Node.js Cluster & Worker Threads — Part 1
+https://medium.com/@cazanator/go-goroutines-vs-node-cluster-worker-threads-part-1-26933b44f5ee
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

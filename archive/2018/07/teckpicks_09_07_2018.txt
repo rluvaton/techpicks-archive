@@ -1,0 +1,50 @@
+TechPicks 09/07/2018 -
+
+Create your own JavaScript Blockchain implementation in 6 Steps with this in-browser tutorial
+https://www.chainshot.com/challenges/5b3afd70d9f99763e5c4b4fe/
+
+Signale: Highly Configurable NodeJS Logging Solution
+https://github.com/klauscfhq/signale
+
+Computerphile - The Problem with Time & Timezones
+https://www.youtube.com/watch?v=-5wpm-gesOY
+
+'How I scaled a website to 10 million users (web-servers & databases, high load, and performance)'
+https://youtu.be/yPF94QiI2qk
+
+Guidelines for Brutalist Web Design
+https://brutalist-web.design/
+
+The Bulk of Software Engineering in 2018 is Just Plumbing
+https://www.karllhughes.com/posts/plumbing
+
+The div that looks different in every browser
+https://codepen.io/MartijnCuppens/pen/MXojmw
+
+Version Control Before Git with CVS
+https://twobithistory.org/2018/07/07/cvs.html
+
+The Federalist Papers: Author Identification Through K-Means Clustering
+https://blog.jonlu.ca/posts/the-federalist-papers-author-identification-through-k-means-clustering
+
+GitHub - never-lang/never: Never: statically typed, embedded functional programming language
+https://github.com/never-lang/never
+
+Why Mastercard Doesn't Use OAuth 2
+https://developer.mastercard.com/blog/why-mastercard-doesnt-use-oauth-20
+
+An interview with Andy Hertzfeld, architect of the original Macintosh
+https://www.notion.so/tools-and-craft/01-andy-hertzfeld
+
+Overscripted! Digging into JavaScript execution at scale
+https://hacks.mozilla.org/2018/06/overscripted-digging-into-javascript-execution-at-scale/
+
+Improved Seam Carving Using Forward Energy
+https://github.com/axu2/improved-seam-carving
+
+Google acknowledges complaint
+http://www.businessinsider.com/google-cloud-responds-viral-customer-complaint-2018-7
+
+Follow TechPicks on your favorite platform -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

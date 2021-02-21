@@ -1,0 +1,33 @@
+TechPicks 04/07/2018 - 
+
+A 2018 Overview of the JavaScript Ecosystem
+https://medium.com/@Imaginary_Cloud/javascript-ecosystem-overview-2018-fa9f776ddf74
+
+Design Patterns in JavaScript Explained with Examples
+https://itnext.io/design-patterns-in-javascript-f533632556c1
+
+Build an E-Commerce Progressive Web App with GatsbyJS
+https://snipcart.com/blog/pwa-example-ecommerce-gatsby
+
+Reason Town Podcast - Jordan W. (Creator of React) on why ReasonML got started
+https://reason.town/jordan-interview
+
+CSS Pseudo Classes Playground
+https://i.redd.it/4cewjyac0r711.gif
+
+termtosvg - Record terminal sessions as SVG animations
+https://github.com/nbedos/termtosvg
+
+Rete.js - JavaScript framework for visual programming
+https://github.com/retejs/rete
+
+Manual Work is a Bug
+https://queue.acm.org/detail.cfm?id=3197520
+
+Solving Pokemon Blue With a Single, Huge Regular Expression
+https://www.youtube.com/watch?v=Q2g9d29UIzk
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,29 @@
+TechPicks 19/11/2020 -
+
+How I created my own programming language based on JavaScript
+https://dev.to/sergeyshpadyrev/why-i-wrote-my-own-programming-language-based-on-javascript-435g
+
+Hacktoberfest 2020: insights and statistics
+https://hacktoberfest.cube.dev/
+
+Tailwind CSS v2.0 is now out
+https://blog.tailwindcss.com/tailwindcss-v2
+
+Six months of launching tiny projects
+https://tinyprojects.dev/posts/six_months_of_tiny_projects
+
+Coding Fonts — A microsite that shows off fonts specifically designed for writing code.
+https://coding-fonts.css-tricks.com/fonts/anonymous-pro/
+
+A Complete Guide to CSS Gradients
+https://css-tricks.com/a-complete-guide-to-css-gradients/
+
+Hacktoberfest 2020: insights and statistics
+https://hacktoberfest.cube.dev/
+
+A Primer on Bézier Curves - A free, online book for when you really need to know how to do Bézier things.
+https://pomax.github.io/bezierinfo/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

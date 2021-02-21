@@ -1,0 +1,26 @@
+TechPicks 20/02/2020 -
+
+Larry Tesler, the computer scientist behind cut, copy and paste dies aged 74
+https://www.bbc.com/news/world-us-canada-51567695
+
+Upcoming DevTools release will include a feature to view what caused each element to render.
+https://twitter.com/brian_d_vaughn/status/1230209358979448832?s=21
+
+I’m Sorry, I Won’t Do Your Take Home Coding Exercise
+https://medium.com/@jakob/i-m-sorry-i-won-t-do-your-take-home-coding-exercise-3b74ba34928a
+
+Explorable Explanations, a hub for learning through play
+https://explorabl.es/
+
+"Stop Using Encrypted Email"
+https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html
+
+Fixing memory leaks in web applications
+https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/
+
+JWT (JSON Web Token) is Awesome: Here's Why
+https://thehftguy.com/2020/02/18/jwt-is-awesome-heres-why/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

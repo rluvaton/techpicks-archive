@@ -1,0 +1,26 @@
+TechPicks 23/04/2020 -
+
+98.css – design system for building faithful recreations of Windows 98 UIs
+https://jdan.github.io/98.css/
+
+Working with schemas in a schemaless-ish world
+https://levelup.gitconnected.com/working-with-schemas-in-a-schemaless-ish-world-d8e878d2ed94
+
+Codedoc: Easily create beautiful and modern docs/wiki for your software projects
+https://codedoc.cc
+
+Remix: a React framework from the creators of React Router - Project announcement
+https://twitter.com/mjackson/status/1253046309025529862
+
+Spacing in CSS
+https://ishadeed.com/article/spacing-in-css/
+
+bashtop - a linux resource monitor TUI written in bash
+https://github.com/aristocratos/bashtop
+
+The Misunderstood Roots of FRP Can Save Programming
+https://futureofcoding.org/essays/dctp
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

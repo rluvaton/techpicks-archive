@@ -1,0 +1,47 @@
+TechPicks 14/08/2018 -
+
+Visual Studio Code July 2018
+https://code.visualstudio.com/updates/v1_26
+
+Building a Video Player for Seven Dave Grohls
+https://medium.com/@leemartin/building-a-video-player-for-seven-dave-grohls-1afdc7243987
+
+Webpack 4 course - part seven. Decreasing the bundle size with tree shaking
+http://wanago.io/2018/08/13/webpack-4-course-part-seven-decreasing-the-bundle-size-with-tree-shaking/
+
+A developer’s guide to web design for non-designers
+https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d
+
+Fairytale about performance in web application
+https://itnext.io/fairytale-about-performance-in-web-application-ed2bf12627fc
+
+res.json vs res.send vs res.end in Express
+https://fullstack-developer.academy/res-json-vs-res-send-vs-res-end-in-express/
+
+Switch font color for different backgrounds with CSS
+https://css-tricks.com/switch-font-color-for-different-backgrounds-with-css/
+
+Matt Godbolt - Memory and Caches
+https://www.youtube.com/watch?v=vDns3Um39l0
+
+Types of Values · Crafting Interpreters
+http://www.craftinginterpreters.com/types-of-values.html
+
+I thought I found a browser security bug
+https://djhworld.github.io/post/2018/08/12/i-thought-i-found-a-browser-security-bug/
+
+Achieve more with less code, Elm vs React-Redux-Flow
+https://www.smoothterminal.com/articles/achieve-more-with-less-code-elm-vs-react-redux-flow
+
+Using Entropy to Measure Software Maturity
+http://www.methodsandtools.com/archive/softwareentropy.php
+
+The 10:1 rule of writing and programming
+https://www.ybrikman.com/writing/2018/08/12/the-10-to-1-rule-of-writing-and-programming/
+
+Spread Love: A Look into JavaScript’s Rest and Spread Syntax
+https://americanexpress.io/spread-love/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

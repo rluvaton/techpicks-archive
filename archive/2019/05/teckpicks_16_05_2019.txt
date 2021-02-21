@@ -1,0 +1,35 @@
+TechPicks 16/05/2019 -
+
+Learn In Public
+https://www.swyx.io/writing/learn-in-public/
+
+Functional-ish JavaScript
+https://medium.com/@bluepnume/writing-functional-ish-javascript-205c05d0ed08
+
+JavaScript Engines: How Do They Even Work? From Call Stack to Promise, (almost ) Everything You Need to Know
+https://www.valentinog.com/blog/engines/
+
+Ant Design - The world's second most popular React UI framework
+https://ant.design/
+
+PHP isn't the same old crappy language it was ten years ago
+https://stitcher.io/blog/php-in-2019
+
+xlstream - memory-efficient XLSX (Excel) file streaming
+https://github.com/Claviz/xlstream
+
+GraphQL vs REST: putting REST to rest
+https://www.imaginarycloud.com/blog/graphql-vs-rest/
+
+How to Use Computer Vision to Automatically Filter Images
+https://dev.to/heroku/how-to-use-computer-vision-to-automatically-filter-images-3g7k
+
+Algorithm to find the minimum characters to delete to make string anagram
+https://learnersbucket.com/examples/algorithms/minimum-characters-to-delete-to-make-strings-anagram/
+
+Fading out siblings on hover in CSS
+https://www.trysmudford.com/blog/fade-out-siblings-css-trick/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

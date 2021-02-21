@@ -1,0 +1,29 @@
+TechPicks 15/10/2018 -
+
+13 Games in ≤ 13kB of JavaScript
+https://blog.github.com/2018-10-05-js13kgames-highlights-2018/
+
+Around 62% of all Internet sites will run an unsupported PHP version in 10 weeks
+https://www.zdnet.com/article/around-62-of-all-internet-sites-will-run-an-unsupported-php-version-in-10-weeks/
+
+"I made a programming language with Spotify playlists"
+http://h313.info/spet/
+
+The inner workings of Google+ from someone who worked on the project
+https://threader.app/thread/1049523067506966529
+
+A trading bot which exploits price-spreads between Bitcoin exchanges
+https://github.com/mammuth/bitcoin-arbitrage-trading-bot
+
+CSS Border-Radius Can Do That?
+https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae
+
+👻 How to create a spooky ghost in HTML & CSS | Special for Halloween
+https://www.youtube.com/watch?v=ea69CKqsVMg
+
+"I see your Spooky Ghost, and raise you a Spooky Pumpkin!"
+https://codepen.io/mixolydian251/pen/ReLqeR
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

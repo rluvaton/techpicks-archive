@@ -1,0 +1,29 @@
+TechPicks 03/09/2020 -
+
+Inventar - A Framework to Keep Your Styles Tidy
+https://dev.to/mimafogeus2/inventar-a-framework-to-keep-your-styles-tidy-258k
+
+Scissors Congruence - An interactive demonstration of the Wallace–Bolyai–Gerwien theorem
+http://dmsm.github.io/scissors-congruence/
+
+My PR was denied by Iranian Law
+https://blog.yiddishe-kop.com/posts/my-pr-was-denied-by-iranian-law
+
+Why IRC is Still Good in $CURRENT_YEAR
+https://www.paritybit.ca/blog/why-irc-is-still-good
+
+My thoughts on endless battle of React state management libraries (setState/useState vs Redux vs Mobx)
+https://dev.to/mpodlasin/my-thoughts-on-endless-battle-of-react-state-management-libraries-setstate-usestate-vs-redux-vs-mobx-2kal
+
+How components are taking over the world
+http://componentdriven.org
+
+Giving users and developers more control over focus
+https://blog.chromium.org/2020/09/giving-users-and-developers-more.html
+
+12 Useful Packages Every Node.js Developer Should Know
+https://medium.com/better-programming/12-useful-packages-every-node-js-developer-should-know-2746db760e
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

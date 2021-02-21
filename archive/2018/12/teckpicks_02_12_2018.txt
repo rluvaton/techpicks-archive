@@ -1,0 +1,32 @@
+TechPicks 02/12/2018 -
+
+A curated list of awesome Open Source Software made in Israel, and by Israelis
+https://github.com/lirantal/awesome-opensource-israel
+
+Aviad Moreshet - DRY Helm Charts for Micro-Services
+https://medium.com/@aviad10m/dry-helm-charts-for-micro-services-db3a1d6ecb80
+
+Dan Abramov - Why Do We Write super(props)?
+https://overreacted.io/why-do-we-write-super-props/
+
+UTF-7: a ghost from the time before UTF-8
+https://crawshaw.io/blog/utf7
+
+try - Quickly try out npm packages inside a Docker container
+https://github.com/BrunnerLivio/try
+
+NES.css: 8-bit style CSS framework
+https://bcrikko.github.io/NES.css
+
+CSS Animation 101
+https://github.com/cssanimation/css-animation-101
+
+NP-hard does not mean hard
+https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/
+
+Storybook, some progress after recent open-letter, next steps
+https://medium.com/@timhaines/storybook-some-progress-next-steps-6f412232507c
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

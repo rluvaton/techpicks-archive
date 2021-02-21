@@ -1,0 +1,32 @@
+TechPicks 20/12/2018 -
+
+React v16.7: No, This Is Not The One With Hooks
+https://reactjs.org/blog/2018/12/19/react-v-16-7.html
+
+Intro to Data Structures in JavaScript — Part 1
+https://blog.bitsrc.io/data-structures-in-javascript-part-1-8231c9a4bc8b
+
+Serverless framework's CLI tracks all commands and sends it home by default
+https://twitter.com/JiriPospisil/status/1075050470186631175
+
+An Intro to Node.js That You May Have Missed
+https://medium.com/@apechkurov/b175ef4277f7
+
+"I challenged myself to animate fire in CSS without reaching for the SVG"
+https://codepen.io/kylewetton/pen/NeRbvz
+
+The non-technical skills you need to be a great startup engineer
+https://medium.com/@tindleaj/the-non-technical-skills-you-need-to-be-a-great-startup-engineer-3b7e4d871c94
+
+Stop trying to be so DRY, instead Write Everything Twice (WET)
+https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33
+
+Windows 10 will soon include ¯\_(ツ)_/¯ kaomoji
+https://www.theverge.com/2018/12/19/18148812/microsoft-windows-10-kaomoji-support
+
+Some notes about HTTP/3
+https://blog.erratasec.com/2018/11/some-notes-about-http3.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

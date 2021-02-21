@@ -1,0 +1,35 @@
+TechPicks 05/11/2019 -
+
+Upcoming new JavaScript features You should know if you use JavaScript everyday
+https://medium.com/javascript-in-plain-english/upcoming-new-javascript-features-you-should-know-if-you-use-javascript-everyday-8208b477b7a2
+
+A regular expression lookahead/lookbehind cheat sheet
+https://www.stefanjudis.com/blog/a-regular-expression-lookahead-lookbehind-cheat-sheet/
+
+Data Fetching Best Practices
+https://www.reddit.com/r/reactjs/comments/dro2ud/data_fetching_best_practices/
+
+Announcing Visual Studio Online Public Preview | Visual Studio Blog
+https://devblogs.microsoft.com/visualstudio/announcing-visual-studio-online-public-preview/
+
+Dan Abramov's Suspense Demo for Library Authors
+https://github.com/gaearon/suspense-experimental-github-demo
+
+Speed, Speed, Speed: JavaScript vs C++ vs WebAssembly (iJS 2019)
+https://www.youtube.com/watch?v=aC_QLLilwso
+
+Understand JavaScript sequencing and asynchronous behaviors to leverage code parallelism.
+https://medium.com/javascript-in-plain-english/understand-javascript-sequencing-and-asynchronous-behaviors-to-leverage-code-parallelism-1e381fa8d33c
+
+A guide to implemen­ting dark modes on websites
+https://www.kooslooijesteijn.net/blog/add-dark-mode-to-website
+
+iOS vs. Android App UI Design: The Complete Guide
+https://learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html
+
+HTML/CSS drawing inspired by Flemish baroque oil portraits. Hand-coded entirely in HTML and CSS.
+https://github.com/cyanharlow/purecss-lace
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

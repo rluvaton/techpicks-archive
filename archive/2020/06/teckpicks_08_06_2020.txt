@@ -1,0 +1,26 @@
+TechPicks 08/06/2020 -
+
+Most tech content is bullshit
+https://www.aleksandra.codes/tech-content-consumer
+
+Go has removed all uses of blacklist/whitelist and master/slave
+https://go-review.googlesource.com/c/go/+/236857/
+
+When is a package a dependency or devDependency
+https://withblue.ink/2020/06/07/is-this-a-dependency-or-devdependency.html
+
+Analyzing early 1990s video game code: Command & Conquer
+http://www.hydrogen18.com/blog/peeking-under-the-hood-of-command-conquer.html
+
+Symlinks and hardlinks, move over, make room for reflinks!
+https://blog.ram.rachum.com/post/620335081764077568/symlinks-and-hardlinks-move-over-make-room-for
+
+“I Hate Pull Requests”
+https://medium.com/@pia.fak.sunnanbo/i-hate-pull-requests-17836dd3cc38
+
+Brain scans reveal coding uses same regions as speech
+https://medicalxpress.com/news/2020-06-language-brain-scans-reveal-coding.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

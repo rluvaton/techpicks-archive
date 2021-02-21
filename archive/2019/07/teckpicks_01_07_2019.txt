@@ -1,0 +1,25 @@
+TechPicks 01/07/2019 -
+
+Asynchronous Boundary Detection
+https://github.com/ChrisCavs/bounds.js
+
+ICANN removes price caps on .org domains despite thousands of comments (98.1%) against
+https://reviewsignal.com/blog/2019/06/24/the-case-for-regulatory-capture-at-icann/
+
+How to make Prettier work with ESLint
+https://www.robinwieruch.de/prettier-eslint/
+
+C# and WebAssembly (Wasm)
+https://christianfindlay.com/2019/06/29/c-and-webassembly-wasm/
+
+Analysis of an Exploited NPM Package || Jarrod Overson
+https://www.youtube.com/watch?v=2cyib2MgvdM&feature=youtu.be
+
+Handle Word documents within your web app
+https://nativedocuments.com/
+
+A collection of (mostly) technical things every software developer should know.
+https://github.com/mtdvio/every-programmer-should-know/blob/master/README.md
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks

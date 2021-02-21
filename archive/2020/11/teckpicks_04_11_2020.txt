@@ -1,0 +1,38 @@
+TechPicks 04/11/2020 -
+
+Malicious npm package twilio-npm opens backdoors on programmers' computers
+https://www.zdnet.com/article/malicious-npm-package-opens-backdoors-on-programmers-computers/
+
+Guidelines for choosing React Libraries
+https://maxrozen.com/guidelines-for-choosing-react-libraries/
+
+ffmpeg.wasm - a pure WebAssembly / Javascript port of FFmpeg
+https://ffmpegwasm.github.io/
+
+7 Things Every React Project Should Start With To Make Developers Life Easier
+https://ludwiguer.medium.com/7-things-every-react-project-should-start-with-21f7570a7a4b
+
+Why products should be “slick”, not just viable
+https://herman.bearblog.dev/mvp-vs-slc/
+
+Flutter Web: A Fractal of Bad Design
+https://hugotunius.se/2020/10/31/flutter-web-a-fractal-of-bad-design.html
+
+Two workers are quadratically better than one
+https://www.hillelwayne.com/post/queueing-prism/
+
+Technical debt as a lack of understanding
+http://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/
+
+Vim Tips for the Intermediate Vim User
+https://jemma.dev/blog/intermediate-vim-tips
+
+The Two Cultures of Mathematics
+https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf
+
+Continuous Deployment explained in code
+https://www.youtube.com/watch?v=0nBIDMGVIQg
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

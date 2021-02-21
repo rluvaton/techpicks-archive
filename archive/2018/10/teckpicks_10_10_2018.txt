@@ -1,0 +1,32 @@
+TechPicks 10/10/2018 -
+
+Sans Forgetica is a downloadable font that is scientifically designed to help you remember your study notes
+http://sansforgetica.rmit/
+
+JavaScript Visualizer - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript
+https://tylermcginnis.com/javascript-visualizer
+
+A complete guide to image optimisation in the Web
+https://youtu.be/JFgzCkAw5a0
+
+Making Money When all the Industry Wants is Free Beer
+https://business.jooq.org/making-money-when-all-the-industry-wants-is-free-beer/
+
+Best practices for a clean and performant Angular application
+https://medium.freecodecamp.org/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f
+
+low.js, the port of Node.js for embedded devices
+http://www.lowjs.org/
+
+ChucK: Strongly-timed, Concurrent, and On-the-fly Music Programming Language
+http://chuck.cs.princeton.edu
+
+Programming as interaction: A new perspective for programming language research
+http://tomasp.net/blog/2018/programming-interaction/
+
+12 Factor CLI Apps
+https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

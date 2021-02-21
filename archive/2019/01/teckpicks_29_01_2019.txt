@@ -1,0 +1,23 @@
+TechPicks 29/01/2019 -
+
+Let’s make this game with JavaScript
+https://medium.com/@davisonpro/lets-make-this-game-with-javascript-5e2b18da076c
+
+graphql-typed-client: A tool which automatically generates TypeScript interfaces and a client library for any GraphQL endpoint
+https://www.npmjs.com/package/graphql-typed-client
+
+Microsoft project manager says Mozilla should get down from its “philosophical ivory tower” and cease Firefox development
+https://www.zdnet.com/article/microsoft-guy-mozilla-should-give-up-on-firefox-and-go-with-chromium-too/
+
+Color Tool for UI palette generation by Cloudflare Design
+https://cloudflare.design/color/
+
+Git Beginner Cheatsheet - with diagrams and animated code gifs explaining fundamentals
+https://mukul-rathi.github.io/git-beginner-cheatsheet/
+
+Learning design as a developer
+https://journal.plausible.io/learning-design-as-a-developer
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

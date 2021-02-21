@@ -1,0 +1,29 @@
+TechPicks 02/04/2020 -
+
+Zoom uses pre-installation script to install without user clicking “Install” button
+https://twitter.com/c1truz_/status/1244737672930824193
+
+Prisma 2.0 is Now in Beta: Type-safe Database Access with Prisma Client
+https://www.prisma.io/blog/prisma-2-beta-b7bcl0gd8d8e
+
+How commercial Anti Cheats spy on reverse engineers
+https://secret.club/2020/03/31/battleye-developer-tracking.html
+
+Structural Patterns in ES6+ using Game of Thrones
+https://www.hackdoor.io/articles/0XN65AJd/structural-patterns-in-es6-using-game-of-thrones
+
+Opinionated: Don't make Clean Code harder to maintain, use the Rule of Three
+https://understandlegacycode.com/blog/refactoring-rule-of-three/
+
+5 reasons you should abandon default exports
+https://mintel.me/why-i-abandoned-default-exports/
+
+Kpt: Packaging up your Kubernetes configuration with git and YAML since 2014
+https://opensource.googleblog.com/2020/03/kpt-packaging-up-your-kubernetes.html
+
+Minecraft on Raspberry Pi Kubernetes Cluster with Prometheus metrics
+https://gist.github.com/gabrielsson/2d110bb3f43b46597831f4a0e4065265
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,26 @@
+TechPicks 03/01/2019 -
+
+How to use React Context effectively
+https://swizec.com/blog/react-context-effectively/swizec/8844
+
+NonEuclidean - a NonEuclidean rendering engine for Windows, written in C++ OpenGL
+https://github.com/HackerPoet/NonEuclidean
+
+An interesting book about Algorithms: Algorithms by Jeff Erickson
+http://jeffe.cs.illinois.edu/teaching/algorithms/#book
+
+Infinite Data Structures In JavaScript
+https://medium.com/@FrancisStokes/infinite-data-structures-in-javascript-eb67ecbccdb
+
+Using deviceorientation, geolocation, and Mapbox to recreate the Red Dead Redemption 2 game compass IRL
+https://medium.com/@leemartin/recreating-the-red-dead-redemption-2-compass-using-mapbox-4bc670b141cd
+
+Github splash-cli/splash-cli: Let's start the new year with a stunning wallpaper!
+https://github.com/splash-cli/splash-cli
+
+wpk: a friendly, intuitive, intelligent, and unofficial CLI for webpack
+https://github.com/wpk-cli/wpk
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
