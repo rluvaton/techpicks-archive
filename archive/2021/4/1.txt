@@ -1,0 +1,35 @@
+TechPicks 01/04/2021 -
+
+Auto-updated TechPicks archive by Raz Luvaton
+https://github.com/rluvaton/techpicks-archive
+
+The Dark Side of the MongoDB
+https://medium.com/nerd-for-tech/the-dark-side-of-the-mongodb-f66f198a566b
+
+Visual Studio Code March 2021
+https://code.visualstudio.com/updates/v1_55
+
+Storybook 6.2 just shipped
+https://storybook.js.org/blog/storybook-6-2/
+
+DIV and Backend again. A TypeScript Tale: Part 1
+https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript
+
+Bad managers are a huge problem in tech
+https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/
+
+Turing Award to Aho and Ullman for work on compilers
+https://www.nytimes.com/2021/03/31/technology/turing-award-aho-ullman.html
+
+dotenv-flow extends dotenv, adding the ability to have multiple .env* files like .env.development, .env.test and .env.production
+https://www.npmjs.com/package/dotenv-flow
+
+Learning to Appreciate React Server Components
+https://dev.to/this-is-learning/learning-to-appreciate-react-server-components-49ka
+
+Command Line Fu - The best UNIX commands on the Web
+https://www.commandlinefu.com/commands/browse/sort-by-votes
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
