@@ -1,0 +1,38 @@
+TechPicks 04/04/2021 -
+
+On Git Commit Messages
+https://github.com/michaeljones/on-commit-messages
+
+Free April on pluralsight
+https://www.pluralsight.com/offer/2021/free-april-individual
+
+DIV and Backend again. A TypeScript Tale: Part 2 - Type-GraphQL
+https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-69f
+
+DIV and Backend again. A TypeScript Tale: Part 3 - TypeORM
+https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-551
+
+DIV and Backend again. A TypeScript Tale: Part 4 - GraphQL Code Gen
+https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d
+
+Announcing TypeScript 4.3 Beta
+https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/
+
+The story of WebGPU — The successor to WebGL
+https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a
+
+ES1995 – The Missing JS Polyfill
+https://github.com/mlajtos/es1995
+
+:where() has a cool specificity trick, too
+https://css-tricks.com/where-has-a-cool-specificity-trick-too/
+
+Lip Gloss - a CSS-like layout library for your Go terminal apps
+https://github.com/charmbracelet/lipgloss/
+
+grit: A multitree-based personal task manager
+https://github.com/climech/grit#grit
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
