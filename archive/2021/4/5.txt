@@ -1,0 +1,35 @@
+TechPicks 05/04/2021 -
+
+533 million Facebook users' phone numbers and personal data have been leaked online
+https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4
+
+Replacing let with const – Even when it feels impossible
+https://charles-stover.medium.com/replacing-let-with-const-86797b790775
+
+How Runescape catches botters, and why they didn’t catch me
+https://secret.club/2021/04/03/runescape-heuristics.html
+
+Software engineers make excellent CEOs, but few of them think they could do it
+https://www.tlt21.com/why-software-engineers-should-become-ceos/
+
+Ubiquiti All But Confirms Breach Response Iniquity
+https://krebsonsecurity.com/2021/04/ubiquiti-all-but-confirms-breach-response-iniquity/
+
+DIV and Backend again. A TypeScript Tale: Part 5
+https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-bdd
+
+How Going Back to Coding After 10 Years Almost Crushed Me
+https://link.medium.com/RTk01wXccfb
+
+How I've used linear regression for building a personalized diet
+https://bogdanandreig.medium.com/how-i-have-used-machine-learning-to-build-muscles-a8aa12334c34
+
+Learning a new codebase: hacking on nginx
+https://notes.eatonphil.com/learning-a-new-codebase-hacking-nginx.html
+
+Space Jam
+https://mxb.dev/blog/space-jam/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
