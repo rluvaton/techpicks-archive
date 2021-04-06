@@ -1,0 +1,29 @@
+TechPicks 06/04/2021 -
+
+observer-spy - This library makes RxJS Observables testing easy!
+https://github.com/hirezio/observer-spy
+
+Creating a modern JavaScript library
+https://dev.to/101arrowz/creating-a-modern-js-library-introduction-1a0c
+
+Sending tuples from Node to Rust and back
+https://nightly.fluvio.io/blog/2021/04/node-bindgen-tuples
+
+Google Is Testing Its Controversial New Ad Targeting Tech in Millions of Browsers. Here’s What We Know
+https://www.eff.org/deeplinks/2021/03/google-testing-its-controversial-new-ad-targeting-tech-millions-browsers-heres
+
+Supreme Court sides with Google in Oracle copyright case
+https://www.businessinsider.com/supreme-court-overturns-oracle-win-google-java-android-copyright-case-2021-4?amp&__twitter_impression=true
+
+Breaking GitHub Private Pages for $35k
+https://robertchen.cc/blog/2021/04/03/github-pages-xss
+
+PostgREST - Serve a RESTful API from any Postgres database
+https://postgrest.org/
+
+10 Things I Hate About PostgreSQL
+https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
