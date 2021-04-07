@@ -1,0 +1,32 @@
+TechPicks 07/04/2021 -
+
+Confirmed! We Live in a Simulation
+https://www.scientificamerican.com/article/confirmed-we-live-in-a-simulation/
+
+Legalizing Gay Marriage in Crusader Kings III with Ghidra
+https://waffleironer.medium.com/legalizing-gay-marriage-in-crusader-kings-iii-with-ghidra-2602e6aa8689
+
+5 Places SolidJS is not the Best
+https://dev.to/ryansolid/5-places-solidjs-is-not-the-best-5019
+
+What is new in Tailwind CSS 2.1?
+https://www.themes.dev/blog/what-is-new-in-tailwind-css/
+
+Node.js security releases announced - high severity vulnerabilities in all active versions
+https://groups.google.com/g/nodejs-sec/c/TXKhlMr55UA/m/Sqak2IJnBAAJ
+
+Introducing Kaboom - an effort to try make game making more accessible and fun for both beginners and intermediate programmers
+https://blog.replit.com/kaboom
+
+Rust in the Android platform
+https://security.googleblog.com/2021/04/rust-in-android-platform.html
+
+Announcing Preview of Microsoft Build of OpenJDK
+https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/
+
+All C++20 core language features with examples
+https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
