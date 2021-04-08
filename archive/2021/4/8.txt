@@ -1,0 +1,32 @@
+TechPicks 08/04/2021 -
+
+Introducing MathicallJS - A new javascript math library for simulations, data processing, browser games, etc
+https://github.com/PatGleeson101/mathicall.js
+
+How to convince company leadership to care about accessibility — a guide
+https://karomancer.medium.com/why-should-i-care-about-web-accessibility-a-guide-to-convincing-management-to-care-d8cc372c12fa
+
+Online EXIF GPS Steganography - a tool to hide a short message in an image using EXIF GPS data
+https://lucasn-dev.github.io/EXIF-GPS-Steganography/
+
+The project that made me burnout
+https://www.jesuisundev.com/en/the-project-that-made-me-burnout/
+
+How the Slowest Computer Programs Illuminate Math’s Fundamental Limits
+https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210
+
+Branchless Programming: Why "If" is Sloowww... and what we can do about it
+https://www.youtube.com/watch?v=bVJ-mWWL7cE
+
+The Architecture Behind A One-Person Tech Startup
+https://anthonynsimon.com/blog/one-man-saas-architecture/
+
+Kernels 101 – Let’s write a Kernel
+https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel
+
+Wix and Their Dirty Tricks
+https://ma.tt/2021/04/wix-dirty-tricks/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
