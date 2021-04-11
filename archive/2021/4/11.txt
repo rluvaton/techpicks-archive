@@ -1,0 +1,38 @@
+TechPicks 11/04/2021 -
+
+React with TypeScript
+https://mindaugasnakr.medium.com/react-with-typescript-55670137c2da
+
+How to actually test UIs
+https://storybook.js.org/blog/how-to-actually-test-uis/
+
+Everyone Is Still Terrible At Creating Software At Scale
+https://margint.blog/2021/04/05/creating-software-at-scale/
+
+Migrating DevTools to TypeScript - Chrome Developers
+https://developer.chrome.com/blog/migrating-to-typescript/
+
+How to write better reusable code
+https://godoffrontend.com/posts/terseness-vs-control/
+
+Container Queries are actually coming
+https://piccalil.li/blog/container-queries-are-actually-coming
+
+Court rules grocery store’s inaccessible website isn’t an ADA violation
+https://arstechnica.com/tech-policy/2021/04/appeals-court-rules-stores-dont-need-to-make-their-websites-accessible/
+
+Why Vim Uses hjkl, and why JavaScript months start from 0
+https://www.hillelwayne.com/post/always-more-history/
+
+The 10 Most Productive Shell Commands and Command-Line Tricks
+https://betterprogramming.pub/the-most-productive-shell-commands-and-command-line-tricks-ec1415283259
+
+Embrace the Grind
+https://jacobian.org/2021/apr/7/embrace-the-grind/
+
+uBlock Origin works best on Firefox (technical analysis)
+https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
