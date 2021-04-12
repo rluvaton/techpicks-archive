@@ -1,0 +1,32 @@
+TechPicks 12/04/2021 -
+
+The Simplest Way to Download SVG/DOM Elements
+https://fabiwo.io/blog/download-the-dom
+
+Why I Prefer Makefiles Over package.json Scripts
+https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/
+
+Use console.log() like a pro
+https://markodenic.com/use-console-log-like-a-pro/
+
+CSS Pie Timer Revisited
+https://kittygiraudel.com/2021/04/11/css-pie-timer-revisited/
+
+The hidden insights in developers' Google searches
+https://bootcamp.uxdesign.cc/the-hidden-insights-in-developers-google-searches-47f05030cd2d
+
+Workflow: What is it and why should you care?
+https://www.jcheng.org/post/workflow-orchestration-1.0/
+
+Inside a viral website
+https://notfunatparties.substack.com/p/inside-a-viral-website
+
+CUPID - The back story: If you had to offer some principles for modern software development, which would you choose?
+https://dannorth.net/2021/03/16/cupid-the-back-story/
+
+Substack's UI and 1Password just cost me $2,023
+https://timmyomahony.com/blog/substacks-ui-and-1password-just-cost-me-2023-dollars
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
