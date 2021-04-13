@@ -1,0 +1,38 @@
+TechPicks 13/04/2021 -
+
+Pokemon or BigData
+http://pixelastic.github.io/pokemonorbigdata/
+
+party.js - a JavaScript library to brighten up your user's site experience with visual effects
+https://partyjs.yiliansource.dev/
+
+The Ponzi Career
+https://www.drorpoleg.com/the-ponzi-career/
+
+Tips from someone who interviews Junior Frontend Developers
+https://dev.to/jordienr/tips-from-someone-who-interviews-junior-frontend-engineers-5g38
+
+How to design almost any UI element
+https://twitter.com/vponamariov/status/1381584285300359169
+
+My current HTML boilerplate
+https://www.matuzo.at/blog/html-boilerplate/
+
+Modern CSS Upgrades To Improve Accessibility
+https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/
+
+A Docker stack which monitors your home network
+https://github.com/geerlingguy/internet-monitoring
+
+M1 dev setup with a virtual Linux box
+https://kristiandupont.medium.com/m1-dev-setup-with-a-virtual-linux-box-1a2688231667
+
+Clubhouse data leak: 1.3 million scraped user records leaked online for free
+https://cybernews.com/security/clubhouse-data-leak-1-3-million-user-records-leaked-for-free-online/
+
+Facebook Had Years to Fix the Flaw That Leaked 500M Users’ Data
+https://www.wired.com/story/facebook-data-leak-contact-import-flaws/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
