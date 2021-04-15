@@ -1,0 +1,25 @@
+TechPicks 22/02/2018 - 
+
+Animated login avatar
+https://v.redd.it/38jmec4zrlh01
+
+IBM Java CTO: Devs shouldn't have to learn Docker, K8s, 30 other things to deploy an app
+https://www.theregister.co.uk/2018/02/22/ibm_java_cto_john_duimovich_interview/
+
+Node.js in 1 Hour
+https://youtu.be/TlB_eWDSMt4
+
+Common problems Reactjs learners stumble into
+https://dev.to/samerbuna/reactjs-frequently-facedproblems--l5g
+
+No, You Probably Don't Need a Blockchain
+http://ashtonkemerling.com/blog/2018/02/21/no-you-probably-dont-need-a-blockchain/
+
+What I learned making my first open source React component - A geek with a hat
+https://swizec.com/blog/making-first-open-source-react-component/swizec/8204
+
+Electron 2.0.0-beta.1
+https://electronjs.org/releases#2.0.0-beta.1
+
+Lightweight solution for using encrypted passwords in shell scripts
+https://github.com/ahnick/encpass.sh

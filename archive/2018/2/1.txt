@@ -1,0 +1,19 @@
+TechPicks 01/02/2018 -
+
+2017 was a massive year for Mozilla. Here are some highlights!
+https://www.reddit.com/r/webdev/comments/7uejye/2017_was_a_massive_year_for_mozilla_here_are_some/
+
+Redux can be this easy :
+https://www.reddit.com/r/reactjs/comments/7ufr3b/redux_can_be_this_easy/
+
+Node v9.5.0 (Current)
+https://nodejs.org/en/blog/release/v9.5.0/
+
+The complete guide and everything you need to know about HTTP from the basics to the advanced stuff.
+https://code-maze.com/http-series/
+
+Hacking Prototypal Inheritance for Fun and Profit
+http://www.petecorey.com/blog/2018/01/29/hacking-prototypal-inheritance-for-fun-and-profit/
+
+Dark patterns with the HTML dialog tag for fun and profit
+https://medium.com/@tanepiper/dark-patterns-with-the-html-5-2-dialog-tag-and-chrome-for-fun-and-profit-249ce092d200

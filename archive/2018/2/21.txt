@@ -1,0 +1,31 @@
+TechPicks 21/02/2018 -
+
+I am A JavaScript instructor at Microsoft. AMA.
+https://www.reddit.com/r/javascript/comments/7z6lg6/i_am_a_javascript_instructor_at_microsoft_ama/
+
+NGINX now supports the HTTP/2 Server Push specification
+https://www.nginx.com/blog/nginx-1-13-9-http2-server-push/
+
+Protected routes and Authentication with React and Node.js
+https://medium.com/strapi/protected-routes-and-authentication-with-react-and-node-js-d31d234644cd
+
+Node.js event loop workflow & lifecycle in low level
+http://voidcanvas.com/nodejs-event-loop/
+
+React Patterns
+https://reactpatterns.com
+
+TIL whenever "await" is called, node.js call stack is blown away because of process.nextTick being called
+https://github.com/tgriesser/knex/issues/2500
+
+Rethinking Redux in 2018: It’s time for Rematch
+https://github.com/rematch/rematch
+
+9 Promising Javascript Promise Tips
+https://medium.com/@kepta/9-promising-promise-tips-68c33ca52fdf
+
+New Spectre/Meltdown Variants
+https://www.schneier.com/blog/archives/2018/02/new_spectremelt.html
+
+Speaking with an accent. Tips on delivering programming talks in non-native English by the creator of PostCSS
+https://evilmartians.com/chronicles/speaking-with-an-accent

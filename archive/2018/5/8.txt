@@ -1,0 +1,54 @@
+TechPicks 08/05/2018 - 
+
+Introducing Visual Studio IntelliCode
+https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/
+
+Visual Studio Code Live Share Public Preview
+https://code.visualstudio.com/blogs/2018/05/07/live-share-public-preview
+
+Sublime Text 3.1 Released
+https://www.sublimetext.com/blog/articles/sublime-text-3-point-1
+
+Webpack and Dynamic Imports: Doing it Right
+https://medium.com/front-end-hacking/webpack-and-dynamic-imports-doing-it-right-72549ff49234
+
+If you're still removing the CSS outline property, this one's for you. Keyboard-only focus using :focus-visible!
+https://nelo.is/writing/styling-better-focus-states/
+
+Github announces the new Checks API
+https://blog.github.com/2018-05-07-introducing-checks-api/
+
+MS brings JavaScript to Excel
+https://dev.office.com/blogs/azure-machine-learning-javascript-custom-functions-and-power-bi-custom-visuals-further-expand-developers-capabilities-with-excel
+
+How to create a Chrome extension in React JS
+https://veerasundar.com/blog/2018/05/how-to-create-a-chrome-extension-in-react-js/
+
+Job-ready JavaScript
+https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md
+
+Vuegg - Vue GUI Generator
+https://vuegg.now.sh
+
+Simple Color Palette Generator
+https://pigment.shapefactory.co/
+
+Awesome CSS Learning: A tiny list limited to the best CSS Learning Resources
+https://github.com/micromata/awesome-css-learning
+
+What's New in Flutter Beta 3?
+https://medium.com/flutter-io/flutter-beta-3-7d88125245dc
+
+Wave-share – serverless, peer-to-peer, local file sharing through sound
+https://github.com/ggerganov/wave-share#wave-share
+
+How to build a library for Angular apps?
+https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11
+
+Previewing Material Design 2.0
+https://uxdesign.cc/previewing-material-design-2-0-ec0215f0588f
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

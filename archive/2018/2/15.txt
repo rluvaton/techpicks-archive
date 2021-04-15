@@ -1,0 +1,25 @@
+TechPicks 15/02/2018 -
+
+Phaser 3.0 is out - a fast 2D game framework for making HTML5 games for desktop and mobile web browsers
+https://github.com/photonstorm/phaser
+
+My favorite ORM for node, Objection.js, hit 1.0 today!
+https://www.npmjs.com/package/objection
+
+MPEG-2 Patents Have Expired
+https://m.slashdot.org/story/337361
+
+Refactoring a simple loop into a pipeline in Javascript
+http://hangaroundtheweb.com/2017/09/refactoring-a-simple-loop-into-a-pipeline-in-javascript/
+
+How not to Vue - A list of bad things I’ve found on my new job
+https://itnext.io/how-not-to-vue-18f16fe620b5
+
+Waveforms - An Education App Built in React - @972547739953 
+http://waveforms.surge.sh/
+
+Promises are not neutral enough
+https://staltz.com/promises-are-not-neutral-enough.html
+
+Parallax scrolling with CSS variables
+https://basicscroll.electerious.com/

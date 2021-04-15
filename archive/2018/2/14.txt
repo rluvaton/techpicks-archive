@@ -1,0 +1,25 @@
+TechPicks 14/02/2018 - 
+
+Javascript: Promise.prototype.finally is at stage 4
+https://www.twitter.com/ljharb/status/956229868575846400
+
+Mail Bucket: A simple tool to unit test your mail sending implementation
+https://mailbucket.io
+
+Node v6.13.0 (LTS)
+https://nodejs.org/en/blog/release/v6.13.0/
+
+Open source URL shortener Built with React, Next.js and Express.
+https://github.com/thedevs-network/kutt
+
+Hyperapp for Redux refugees
+https://medium.com/hyperapp/hyperapp-for-redux-refugees-2507c9dd1ddc
+
+GraphQL-to-MongoDB, or how I learned to stop worrying and love generated query APIs
+https://blog.solutotlv.com/graphql-to-mongodb-or-how-i-learned-to-stop-worrying-and-love-generated-query-apis/?utm_source=reddit&utm_medium=nodejs
+
+How to prevent your Node.js process from crashing
+https://medium.com/dailyjs/how-to-prevent-your-node-js-process-from-crashing-5d40247b8ab2
+
+What I wish I knew when I became CTO
+https://medium.com/sketchdeck-developer-blog/what-i-wish-i-knew-when-i-became-cto-fdc934b790e3

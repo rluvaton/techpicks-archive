@@ -1,0 +1,26 @@
+TechPicks 09/03/2021 -
+
+An Interactive Guide to CSS Grid
+https://fjolt.com/article/a-guide-to-css-grid
+
+You want enabling CSS selectors, not disabling ones
+https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/
+
+Computer Science Data Structures and Algorithms in JavaScript in simple, clean, reusable code
+https://github.com/i5ik/cs.js
+
+whereami uses WiFi signals and machine learning to predict where you are
+https://github.com/kootenpv/whereami
+
+Code Coverage: The Metric That Makes Your Tests Worse.
+https://medium.com/@AikoPath/code-coverage-the-metric-that-makes-your-tests-worse-c1dddcc0831
+
+The Absolute Beginner's Guide to Emacs
+https://youtu.be/48JlgiBpw_I
+
+JavaScript: What is the meaning of this?
+https://web.dev/javascript-this/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

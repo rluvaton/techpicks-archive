@@ -1,0 +1,34 @@
+TechPicks 25/02/2018 - 
+
+Webpack 4
+https://github.com/webpack/webpack/releases/tag/v4.0.0
+
+Dan Abramov dropping hints about his upcoming JSConf Iceland talk
+https://twitter.com/dan_abramov/status/967242377030262784
+
+Hackterms - The Urban Dictionary for programmers
+https://www.hackterms.com/
+
+Alibaba Pandora.js – A Manageable, Measurable and Traceable Node.js App Manager
+https://github.com/midwayjs/pandora
+
+Tips for using ESLint in a legacy codebase
+http://www.sheshbabu.com/posts/tips-for-using-eslint-in-a-legacy-codebase/
+
+Software development using Bash
+https://oscarforner.com/2018/02/24/Software_development_using_Bash
+
+Anna : Meet your Assistant on Google Chrome
+https://anna-assistant.github.io/
+
+Research paper warns about extraterrestrial hackers
+https://arxiv.org/pdf/1802.02180.pdf
+
+How WebAssembly May Reinvent How We Write and Ship Code on the Web
+https://thenewstack.io/talking-wasm-paul-milham-webassembly-may-reinvent-write-ship-code-web/
+
+The path to sustainably working on FOSS full-time
+https://sircmpwn.github.io/2018/02/24/The-road-to-sustainable-FOSS.html
+
+O API — an alternative to REST APIs
+https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c

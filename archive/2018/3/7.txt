@@ -1,0 +1,31 @@
+TechPicks 07/03/2018 -
+
+Using Node JS To Create Electronic Dance Music
+https://youtu.be/FFzXkKCK1w8?t=22m30s
+
+Why I Prefer Functional Components
+http://reactingonrails.com/prefer-functional-components
+
+Understanding CORS
+http://codefor.life/FUCK-CORS-FUCKFUCKFUCKFUCK/
+
+Kali Linux for WSL now available in the Windows Store
+https://blogs.msdn.microsoft.com/commandline/2018/03/05/kali-linux-for-wsl/
+
+Understanding React "Suspense" API with a "simple" example.
+https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6
+
+Beyond React 16: Time Slicing and Suspense API
+https://auth0.com/blog/time-slice-suspense-react16
+
+How to Design Programs 2nd Edition
+http://www.htdp.org/2018-01-06/
+
+Always start with a stupid model, no exceptions
+https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa
+
+The Postgres 10 feature you didn't know about: CREATE STATISTICS
+https://www.citusdata.com/blog/2018/03/06/postgres-planner-and-its-usage-of-statistics/
+
+Why you don’t need a co-founder to start your own business
+https://www.jotform.com/blog/374-Why-you-don-t-need-a-co-founder-to-start-your-own-business

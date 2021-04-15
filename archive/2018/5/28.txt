@@ -1,0 +1,39 @@
+TechPicks 28/05/2018 - 
+
+Google's Grasshopper is great for new coders
+https://www.androidcentral.com/google-grasshopper
+
+A serverless comment engine build with JavaScript on top of AWS Lambda
+https://github.com/metrue/YoYo
+
+From Django to React: How to Write Frontend if You Are a Backend Developer
+http://www.iamondemand.com/blog/django-react-write-frontend-backend-developer/
+
+Flexy Boxes - CSS flexbox playground
+http://the-echoplex.net/flexyboxes
+
+'I built a PWA and published it in 3 app stores. Here’s what I learned.'
+http://debuggerdotbreak.judahgabriel.com/2018/04/13/i-built-a-pwa-and-published-it-in-3-app-stores-heres-what-i-learned/
+
+RESTful APIs – An accurate description
+https://johnothecoder.uk/integration-devleopment/restful-apis-an-accurate-description/
+
+But what is this “machine learning engineer” actually doing?
+https://medium.com/@tomaszdudek/but-what-is-this-machine-learning-engineer-actually-doing-18464d5c699
+
+Evolution of encapsulation in JavaScript
+https://medium.com/@ziflex/evolution-of-encapsulation-in-javascript-eb01d3128fae
+
+[Research] 2018 Tech Recruiting Report by @HackerRank is now available
+https://research.hackerrank.com/tech-recruiting/2018/
+
+Lazy loading images using Intersection Observer
+https://deanhume.com/lazy-loading-images-using-intersection-observer/
+
+GDPR terminology in plain English
+https://medium.freecodecamp.org/gdpr-terminology-in-plain-english-6087535e6adf
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

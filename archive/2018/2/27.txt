@@ -1,0 +1,28 @@
+TechPicks 27/02/2018 -
+
+A curated list of technical talks and articles about real-world enterprise frontend development
+https://github.com/andrew--r/frontend-case-studies
+
+Learn Redux by Building Redux from Scratch
+https://levelup.gitconnected.com/learn-redux-by-building-redux-from-scratch-dcbcbd31b0d0?ref=redditreact
+
+Replacing redux with the new React context API
+https://medium.com/@DidierFranc/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c
+
+Peter Norvig's Paradigms of Artificial Intelligence Programming
+https://github.com/norvig/paip-lisp
+
+Debugging JavaScript with Source Maps
+https://rollbar.com/blog/source-maps-in-production/
+
+Tools I wish I had known about when I started coding: Revisited 
+https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-revisited-ffb715ffd23f
+
+React Popup Component - Modals, Tooltips, and Menus — All in one
+https://github.com/yjose/reactjs-popup
+
+Forde's Tenth Rule, or, "How I Learned to Stop Worrying and ❤ the State Machine"
+http://raganwald.com/2018/02/23/forde.html
+
+Simple UI State Management
+https://medium.com/@t.saporito/substate-why-i-abandoned-redux-26d01419d74b

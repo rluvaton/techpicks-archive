@@ -1,0 +1,22 @@
+TechPicks 21/01/2018 -
+
+Reverse Engineering A Mysterious UDP Stream in My Hotel · Gokberk Yaltirakli
+https://gkbrk.com/2016/05/hotel-music/
+
+A Webpack Loader that automatically insert react-hot-loader to your app, without any changes in your app code.
+https://github.com/NoamELB/react-hot-loader-loader
+
+5 Tips and Thoughts on Async / Await Functions
+https://start.jcolemorrison.com/5-tips-and-thoughts-on-async-await-functions/
+
+Design Patterns
+https://sourcemaking.com/design_patterns
+
+Design Patterns YouTube playlist
+https://www.youtube.com/playlist?list=PL8C53D99ABAD3F4C8
+
+Node.js streams demystified
+https://gist.github.com/joyrexus/10026630
+
+The Emoji developers use most — based on my analysis of 3.5GB of chat logs
+https://medium.freecodecamp.org/and-the-most-popular-developer-emoji-is-d660a9687be7

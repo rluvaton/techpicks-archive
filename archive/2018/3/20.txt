@@ -1,0 +1,40 @@
+TechPicks 20/03/2018 - 
+
+CSS: The bad bits (and how to avoid them)
+https://www.joeforshaw.com/blog/css-the-bad-bits-and-how-to-avoid-them
+
+Making the World From Scratch With JS
+http://vez.website/a/?Making%20the%20World%20From%20Scratch
+
+Getting to 10x (Results): What Any Developer Can Learn from the Best
+https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
+
+Million Lines of Code
+https://informationisbeautiful.net/visualizations/million-lines-of-code/
+
+Word2Bits - Quantized Word Vectors
+https://github.com/agnusmaximus/Word2Bits
+
+Nature.com collection on Stephen Hawking
+https://www.nature.com/collections/nnpcmxxzhv
+
+Announcing Microsoft DirectX Raytracing!
+https://blogs.msdn.microsoft.com/directx/2018/03/19/announcing-microsoft-directx-raytracing/
+
+The Art, Science, and Engineering of Programming — an open access programming journal
+http://programming-journal.org/
+
+Reacto - an IDE for React.js (mac only)
+https://medium.com/@eveningkid/an-ide-for-react-js-d0fd69052131
+
+Beautiful Javascript WYSIWYG made by devs for devs ✨✨✨
+https://github.com/froala/wysiwyg-editor
+
+10x Performance Increases: Optimizing a Static Site
+https://hackernoon.com/optimizing-a-static-site-d5ab6899f249
+
+What the smoosh happened?!
+https://developers.google.com/web/updates/2018/03/smooshgate
+
+HTML5 OffscreenCanvas 
+https://twitter.com/ebidel/status/975788240463585281

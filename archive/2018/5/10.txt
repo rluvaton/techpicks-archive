@@ -1,0 +1,48 @@
+TechPicks 10/05/2018 -
+
+React Testing Examples
+https://react-testing-examples.com/
+
+Understanding the Spread Operator in JavaScript
+https://zendev.com/2018/05/09/understanding-spread-operator-in-javascript.html
+
+The Angular Framework Forces You To Learn More JavaScript, Making You A Better JavaScript Programmer
+https://www.bennadel.com/blog/3442-the-angular-framework-forces-you-to-learn-more-javascript-making-you-a-better-javascript-programmer.htm
+
+👩‍🎨 Introducing Themify: CSS Themes Made Easy
+https://netbasal.com/introducing-themify-css-themes-made-easy-711a05813f3b
+
+Real-time Human Pose Estimation in the Browser with TensorFlow.js
+https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5
+
+Front-End Tooling Survey 2018 - The Results
+https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results
+
+You can now identify and fix insecure node dependencies with npm audit
+https://blog.npmjs.org/post/173719309445/npm-audit-identify-and-fix-insecure
+
+Learn Enough JavaScript to Be Dangerous
+https://www.learnenough.com/javascript-tutorial
+
+Drupal exploit infects over 400 sites with cryptocurrency miner
+https://drupal.sh/drupal-vulnerability-cryptocurrency-infection
+
+What happened Gmail?
+https://superavi.com/74-2/
+
+Java will no longer have ‘major’ releases
+https://www.infoworld.com/article/3269859/java/java-will-no-longer-have-major-releases.html
+
+Nerd Fonts - Iconic font aggregator, collection, and patcher
+http://nerdfonts.com/
+
+How Microsoft CEO Satya Nadella is rethinking Windows
+https://www.theverge.com/2018/5/7/17324920/microsoft-ceo-satya-nadella-interview-windows-10-build-2018
+
+Firefox is adding ads, because only insults are free
+https://www.theverge.com/2018/5/7/17326184/firefox-ads-sponsored-content-pocket-suggestions
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

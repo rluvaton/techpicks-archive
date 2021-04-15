@@ -1,0 +1,40 @@
+TechPicks 06/03/2018 -
+
+Shai Mishali - Behavior-Driven Testing Tutorial for iOS with Quick & Nimble
+https://www.raywenderlich.com/182118/behavior-driven-testing-tutorial-ios-quick-nimble
+
+History of the browser user-agent string
+https://webaim.org/blog/user-agent-string-history/
+
+Clang is now used to build Chrome for Windows
+http://blog.llvm.org/2018/03/clang-is-now-used-to-build-chrome-for.html
+
+Introducing npm ci
+http://blog.npmjs.org/post/171556855892/introducing-npm-ci-for-faster-more-reliable
+
+UPASH - 🔒 Unified APIs for all Password Hashing Algorithms [CLI Available]
+https://github.com/simonepri/upash
+
+Creating maintainable application with Node.js
+https://blog.octo.com/en/clean-node-part-1/
+
+React Suspense Demo (Inspired by Dan's Demo on JSConf)
+https://github.com/birkir/react-suspense-demo
+
+WebGL: time of the day and weather simulation
+http://rainbowhunt.me/?rai
+
+Respect and Code Reviews
+https://medium.com/@ironfroggy/respect-and-code-reviews-83cfd961e1c3
+
+SpeechSynthesis API support across browsers and OS
+https://browser-speech-support.firebaseapp.com/
+
+Write once, run anywhere with Create React (Native) App and react-native-web
+https://medium.com/@yannickdot/write-once-run-anywhere-with-create-react-native-app-and-react-native-web-ad40db63eed0
+
+How To “Publish” Multiple Packages From Any Repository In 5 Minutes
+https://blog.bitsrc.io/how-to-publish-multiple-packages-from-any-repository-in-5-minutes-9aafd31d85b7
+
+Recreating the Netflix’s Dark opening effect in Html & Javascript
+https://medium.com/@nikpundik/recreating-the-netflixs-dark-opening-effect-in-html-javascript-4f06e17b88dd

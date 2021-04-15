@@ -1,0 +1,41 @@
+TechPicks 15/04/2018 -
+
+A Brief History of JavaScript by the Creator of JavaScript
+https://www.youtube.com/watch?v=3-9fnjzmXWA
+
+I was not ready to become the maintainer of Babel
+https://dev.to/hzoo/i-was-not-ready-to-become-the-maintainer-of-babel-2j6
+
+When do you stop being a newbie in the world of open source?
+https://twitter.com/i/moments/789192306343542784
+
+"I haven't experienced imposter syndrome, and maybe you haven't either"
+https://rachsmith.com/2017/i-dont-have-imposter-syndrome
+
+The Mythical Man Month -- A short collection of essays on Software Engineering Philosophies
+https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf
+
+Vue-powered static site generator released by the creator of Vue.js
+https://twitter.com/youyuxi/status/984918079598710784
+
+redux-structures – Reusable implementations of idiomatic redux data structures.
+https://github.com/thk2b/redux-structures
+
+Forms at scale: 2 years of redux-form
+https://medium.com/@eliseumds/forms-at-scale-2-years-of-redux-form-60e0eea394f9
+
+The Power Of Commands And Events
+https://medium.com/@fagnerbrack/the-power-of-commands-and-events-ec6d2b3f856d
+
+The Fear Cycle
+http://www.michaelnygard.com/blog/2015/07/the-fear-cycle/
+
+When to use STDERR instead of STDOUT
+https://www.jstorimer.com/blogs/workingwithcode/7766119-when-to-use-stderr-instead-of-stdout
+
+How to approach Software Development to reduce Technical Debt
+https://medium.com/@sarthakdudhara/software-engineering-aubergine-abad2e4ed052
+
+Follow TechPicks on your favorite platform -
+https://www.twitter.com/t3chpicks
+https://t.me/techpicks

@@ -1,0 +1,37 @@
+TechPicks 19/03/2018 - 
+
+Firefox Master Password System Has Been Poorly Secured for the Past 9 Years
+https://www.bleepingcomputer.com/news/security/firefox-master-password-system-has-been-poorly-secured-for-the-past-9-years/
+
+Pinterest open sourced its full React component UI library
+https://github.com/pinterest/gestalt
+
+The inception of ESLint
+https://www.nczonline.net/blog/2018/02/the-inception-of-eslint/
+
+(Opinions) Would you suggest new developers learn JavaScript as their first language - why or why not?
+https://hashnode.com/post/would-you-suggest-new-developers-to-learn-javascript-as-their-first-language-why-or-why-not-cjergdrsd000qa1s1wr8icobk
+
+Where To Focus Software Quality Efforts
+http://marcgg.com/blog/2018/03/18/software-quality-focus/
+
+Using Kubernetes for Local Development of a Node.js App
+https://nemethgergely.com/using-kubernetes-for-local-development/
+
+A fully commented image magnify component [OC]
+https://codepen.io/nosurprisethere/pen/eMzGoV
+
+An attempt to upgrade to Webpack 4
+https://gist.github.com/gricard/e8057f7de1029f9036a990af95c62ba8
+
+lookaheads (and lookbehinds) in JavaScript regular expressions
+https://www.stefanjudis.com/today-i-learned/the-complicated-syntax-of-lookaheads-in-javascript-regular-expressions/
+
+Understanding Long Short-Term Memory Networks (LSTMs)
+https://rubikscode.net/2018/03/19/understanding-long-short-term-memory-networks-lstms/
+
+Traditional Programming versus Machine Learning, in One Picture
+https://www.datasciencecentral.com/profiles/blogs/traditional-programming-versus-machine-learning-in-one-picture
+
+Handpicked collection of vScode extensions for Front-End development.
+https://github.com/solodynamo/frontend-vscode-extensionpack

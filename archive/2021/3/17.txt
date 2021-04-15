@@ -1,0 +1,32 @@
+TechPicks 17/03/2021 -
+
+An interactive map to learn RxJS
+https://www.elialotti.com/it/roadmap/rxjs
+
+What is the Javascript Call Stack and how does it get Exceeded
+https://browntreelabs.com/the-call-stack-and-how-it-gets-exceeded/
+
+What I've Learned From 10+ Years of Personal Projects and Startups
+https://benbernardblog.com/what-ive-learned-from-10-years-of-personal-projects/
+
+Frontend Masters Learning Roadmap
+https://frontendmasters.com/guides/learning-roadmap/
+
+Copenhagen: Free, lightweight, open source and hackable code editor for the web
+https://copenhagen.autocode.com/
+
+Hassle-Free Database Migrations with Prisma Migrate
+https://www.prisma.io/blog/prisma-migrate-ga-b5eno5g08d0b
+
+Hypercolor - Tailwind CSS Gradient Palette
+https://hypercolor.dev/
+
+temp-color : Scale temperature (°C /°F) to RGB color
+https://github.com/szymslo/temp-color
+
+California Passes New Regulation Banning 'Dark Patterns' Under Landmark Privacy Law
+https://gizmodo.com/california-passes-new-regulation-banning-dark-patterns-1846482961
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

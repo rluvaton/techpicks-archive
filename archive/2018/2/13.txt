@@ -1,0 +1,31 @@
+TechPicks 13/02/2018 -
+
+Tannenbaum's "Distributed Systems" 3rd edition (2017) free download from authors
+https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/
+
+Hackernoon: 5 Practical Ways To Share Code From NPM to Lerna And Bit
+https://hackernoon.com/5-practical-ways-to-share-code-from-npm-to-lerna-and-bit-732f2a4db512
+
+Recreating the <blink> tag as a native web component
+https://internet-israel.com/%D7%A4%D7%99%D7%AA%D7%95%D7%97-%D7%90%D7%99%D7%A0%D7%98%D7%A8%D7%A0%D7%98/%D7%A4%D7%99%D7%AA%D7%95%D7%97-%D7%91-javascript/%D7%99%D7%A6%D7%99%D7%A8%D7%94-%D7%9E%D7%97%D7%93%D7%A9-%D7%A9%D7%9C-blink-%D7%91%D7%90%D7%9E%D7%A6%D7%A2%D7%95%D7%AA-native-web-component/
+
+Who Killed The Junior Developer? There are plenty of junior developers, but not many jobs for them
+https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c
+
+Cool little NPM package to automate your command line
+https://www.npmjs.com/package/lidless-eye
+
+Scraping data in 3 minutes with Javascript – Data Hunter’s Blog – Medium
+https://medium.com/data-scraper-tips-tricks/scraping-data-with-javascript-in-3-minutes-8a7cf8275b31
+
+Skype can't fix a nasty security bug without a massive code rewrite
+http://www.zdnet.com/article/skype-cannot-fix-security-bug-without-a-massive-code-rewrite/
+
+Zombie Processes are Eating your Memory
+https://randomascii.wordpress.com/2018/02/11/zombie-processes-are-eating-your-memory/
+
+The best photos and videos of SpaceX’s Falcon Heavy launch
+https://www.theverge.com/tldr/2018/2/7/16982052/spacex-falcon-heavy-photos-videos-watch-replay
+
+Government Sites Caught Cryptojacking Off People’s Computers, Crypto Malware Infects 4200 Sites
+https://fossbytes.com/cryptojacking-malware-government-sites-coinhive/

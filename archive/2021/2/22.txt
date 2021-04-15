@@ -1,0 +1,32 @@
+TechPicks 22/02/2021 -
+
+margol0/techtips - A 3rd party TechPicks archive 😎
+https://github.com/margol0/techtips
+
+Building a modern React app from scratch in 2021
+https://github.com/yakkomajuri/react-from-scratch#readme
+
+The Import On Interaction Pattern - lazy-load non-critical resources when a user interacts with UI requiring it
+https://addyosmani.com/blog/import-on-interaction/
+
+How I built a telnet chat server in 2021 with WebAssembly
+https://lunatic.solutions/blog/lunatic-chat/
+
+Go is not an easy language
+https://www.arp242.net/go-easy.html
+
+Products vs Protocols: What Signal got right
+https://snikket.org/blog/products-vs-protocols/
+
+Ultima VIII (or, How to Destroy a Gaming Franchise in One Easy Step)
+https://www.filfre.net/2021/02/ultima-viii-or-how-to-destroy-a-gaming-franchise-in-one-easy-step/
+
+New browser-tracking hack works even when you flush caches or go incognito
+https://arstechnica.com/information-technology/2021/02/new-browser-tracking-hack-works-even-when-you-flush-caches-or-go-incognito/
+
+What Every Programmer Should Know About Memory (2007)
+https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

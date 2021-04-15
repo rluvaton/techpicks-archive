@@ -1,0 +1,38 @@
+TechPicks 11/03/2021 -
+
+Introducing Necktie – a simple and small (~ 3kB) DOM binding tool
+https://github.com/leshniak/necktie
+
+react-rbac-ui-manager - a simple RBAC (Role Based Access Control) user interface library
+https://github.com/build-security/react-rbac-ui-manager
+
+Kysely - A type-safe and autocompletion-friendly typescript SQL query builder for node.js
+https://github.com/koskimas/kysely
+
+Relay adds support for TypeScript
+https://relay.dev/blog/2021/03/09/introducing-relay-hooks/
+
+User-defined type guards in TypeScript
+https://gcollazo.com/user-defined-type-guards-in-typescript/
+
+How the New York Times A/B tests their headlines
+https://blog.tjcx.me/p/new-york-times-ab-testing
+
+Google’s FLoC Is a Terrible Idea
+https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea
+
+Why Your Company's Documentation Sucks
+https://www.worldofbs.com/why-documentation-sucks/
+
+Advanced Bash-Scripting Guide
+https://tldp.org/LDP/abs/html/index.html
+
+Go Developer Survey 2020 Results
+https://blog.golang.org/survey2020-results
+
+Write libraries instead of services, where possible
+http://catern.com/services.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

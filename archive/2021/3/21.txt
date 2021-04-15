@@ -1,0 +1,38 @@
+TechPicks 21/03/2021 -
+
+4 Times I Felt Discriminated Against for Being a Female Developer
+https://betterprogramming.pub/4-times-i-felt-discriminated-against-for-being-a-female-developer-b9579f696a5
+
+React Interview Questions & Answers
+https://github.com/sudheerj/reactjs-interview-questions
+
+The Best Font Loading Strategies and How to Execute Them
+https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/
+
+NASA's next generation mission control system is written in JavaScript, and it's open source
+https://github.com/nasa/openmct
+
+What’s up with these new not-open source licenses?
+https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/
+
+Contributing to Node.js Core
+https://nestedquotes.ca/articles/nodejs-core-contribution/
+
+How we found and fixed a rare race condition in our session handling
+https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/
+
+Why use old computers and operating systems?
+http://john.ankarstrom.se/desktop/2021/03/18/why-old-systems/
+
+A curated list of awesome, language-agnostic WebAssembly tools
+https://github.com/vshymanskyy/awesome-wasm-tools
+
+Stealing arbitrary GitHub Actions secrets
+https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html
+
+The Strictness Principle - Restrict the scope by default. Increase the scope as the need arises.
+https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

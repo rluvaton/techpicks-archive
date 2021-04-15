@@ -1,0 +1,41 @@
+TechPicks 29/03/2021 -
+
+Library Internals Do Not Exist
+https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0
+
+An open letter in support of Richard M. Stallman
+https://rms-support-letter.github.io/
+
+How much of the Hitchhiker's Guide to the Galaxy can you fit on a QR Code?
+https://mbuffett.com/posts/qr-code-hitchhikers-guide/
+
+Female Founder Secrets: Men Clamming Up
+https://femfosec.com/men-clamming-up/
+
+Formal Methods of Software Design
+https://www.cs.utoronto.ca/~hehner/FMSD/
+
+eslint-plugin-clean-regex - An ESLint plugin for writing better regular expressions
+https://github.com/RunDevelopment/eslint-plugin-clean-regex
+
+Ohm - A library and language for building parsers, interpreters, compilers, etc.
+https://github.com/harc/ohm
+
+JavaScript performance beyond bundle size
+https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size//#
+
+New Alan Turing £50 note design is revealed
+https://www.bbc.com/news/business-56503741
+
+How to write better conditional expressions
+https://georgianstan.medium.com/how-to-write-better-conditional-expressions-712c3dd014db
+
+How to Listen for CSS Events in JavaScript
+https://letsbuildui.dev/articles/how-to-listen-for-css-events-in-javascript
+
+Ruby off the Rails: Code library yanked over license blunder, sparks chaos for half a million projects
+https://www.theregister.com/2021/03/25/ruby_rails_code/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

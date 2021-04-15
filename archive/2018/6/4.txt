@@ -1,0 +1,45 @@
+TechPicks 04/06/2018 -
+
+Microsoft Is Said to Have Agreed to Acquire Coding Site GitHub
+https://www.bloomberg.com/news/articles/2018-06-03/microsoft-is-said-to-have-agreed-to-acquire-coding-site-github
+
+Microsoft buying GitHub doesn’t scare me
+https://thenextweb.com/dd/2018/06/04/microsoft-buying-github-doesnt-scare-me/
+
+GDPR Hall of Shame
+https://gdprhallofshame.com/
+
+Keep track of the GDPR compliance of cloud services & subprocessors.
+https://gdprtracker.io/
+
+Longest Poem in the World
+https://github.com/idevelop/longest-poem-in-the-world
+
+Design Patterns - Ideas, inspiration and examples for your own projects.
+https://codepen.io/patterns
+
+How To Implement reCAPTCHA In React
+https://www.youtube.com/watch?v=3r7YMaT1k6Y
+
+GitLab: We're seeing 10x the normal daily amount of repositories
+https://twitter.com/gitlab/status/1003409836170547200
+
+Migrating from GitHub to GitLab
+https://www.youtube.com/watch?v=VYOXuOg9tQI
+
+Ever wonder how computers work? This guy builds one step by step and explains how every part works
+https://www.youtube.com/watch?v=HyznrdDSSGM
+
+GitLab: Congratulations GitHub on the acquisition by Microsoft
+https://about.gitlab.com/2018/06/03/microsoft-acquires-github/
+
+SourceForge announces tool to import your GitHub project to SourceForge
+https://sourceforge.net/p/forge/documentation/GitHub%20Importer/
+
+Why Github can't host the Linux kernel community
+https://blog.ffwll.ch/2017/08/github-why-cant-host-the-kernel.html
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

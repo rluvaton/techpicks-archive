@@ -1,0 +1,48 @@
+TechPicks 07/05/2018 -
+
+LoveBits - React + Paper.js project about code poetry
+https://lovebits.bilebile.net
+
+hokusai - A modern static site generator for building extremely fast websites
+https://github.com/rtsao/hokusai
+
+ClusterWS - build Scalable Node.js WebSocket Applications
+https://github.com/ClusterWS/ClusterWS
+
+Developing the Star Wars opening crawl in HTML/CSS
+https://dev.to/christopherkade/developing-the-star-wars-opening-crawl-in-htmlcss-2j9e
+
+Writing a simple JSON parser
+http://notes.eatonphil.com/writing-a-simple-json-parser.html
+
+Writing DOS programs w/ GCC, for demos and vintage hardware.
+https://www.youtube.com/watch?v=Y7vU5T6rKHE
+
+Our Approach to Employee Security Training
+https://www.pagerduty.com/blog/security-training-at-pagerduty/
+
+local-repl - Project-specific REPLs for Node.js
+https://github.com/sloria/local-repl
+
+Introduction to MobX 4 for React/Redux Developers
+https://dev.to/swyx/introduction-to-mobx-4-for-reactredux-developers-3k07
+
+Brusher - Create interactive backgrounds for Web pages
+http://kamranahmed.info/brusher/
+
+How To Master All Programming Languages
+https://www.tutorialdocs.com/article/how-to-master-all-languages.html
+
+Reinforcement Learning
+https://oneraynyday.github.io/ml/2018/05/03/Reinforcement-Learning-Bandit/
+
+The Various Kinds of IO - Blocking, Non-blocking, Multiplexed and Async.
+https://www.rubberducking.com/2018/05/the-various-kinds-of-io-blocking-non.html
+
+JSX can do that?
+https://medium.com/@pomber/jsx-can-do-that-1b2666c23a32
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

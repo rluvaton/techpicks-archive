@@ -1,0 +1,31 @@
+TechPicks 20/02/2018 -
+
+swag-for-dev
+https://github.com/swapagarwal/swag-for-dev
+
+Optional Chaining may be coming to JavaScript
+https://dev.to/sammyisa/optional-chaining-may-be-coming-to-javascript--4ff0
+
+Universal GraphQL with Urql and Next.js
+http://jsfeeds.com/details/react-universal-graphql-with-urql-and-next-js-5a8ba64a3729757b079d4b30?s=rss
+
+What is a JSON Web Token? // Rob McLarty
+http://robmclarty.com/blog/what-is-a-json-web-token
+
+Pressure - a JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure on the web
+https://pressurejs.com/
+
+JSNES: A JavaScript NES emulator in NodeJS
+https://github.com/bfirsh/jsnes/blob/master/README.md
+
+TypeScript 2.6: JSX Fragment Syntax
+https://blog.mariusschulz.com/2018/02/09/typescript-2-6-jsx-fragment-syntax
+
+List — a fast immutable list with a ton of features
+https://github.com/funkia/list
+
+Easypz.js - make every visualization you see interactive via pan and zoom
+http://easypz.io/
+
+StatorGFC: the simplest possible global state library for React
+https://github.com/cs01/statorgfc

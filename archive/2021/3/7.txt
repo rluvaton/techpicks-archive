@@ -1,0 +1,29 @@
+TechPicks 07/03/2021 -
+
+Conclure JS - a tiny, zero dependencies generator runner
+https://github.com/dmaevsky/conclure
+
+Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js
+https://github.com/nodegui/svelte-nodegui
+
+OkCupid Presents: Modeling UI States in A React Form Component Using A Finite State Machine
+https://tech.okcupid.com/modeling-ui-states-in-react-form-component-using-finite-state-machine/
+
+Visual Studio Code February 2021
+https://code.visualstudio.com/updates/v1_54
+
+Torvalds warns the world: Don’t use the Linux 5.12-rc1 kernel
+https://arstechnica.com/gadgets/2021/03/psa-linux-folks-stay-away-from-the-5-12-rc1-kernel/
+
+What Technical Debt Is And How It’s Measured
+https://medium.com/the-andela-way/what-technical-debt-is-and-how-its-measured-ff41603005e3
+
+The Story of Every Software Rewrite
+https://simon-pitt.medium.com/the-story-of-every-software-rewrite-b2e83c3411d8
+
+Easy Skeezy Date Formatting for Swift and Objective-C
+https://nsdateformatter.com/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

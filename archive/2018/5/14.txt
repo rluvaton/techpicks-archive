@@ -1,0 +1,36 @@
+TechPicks 14/05/2018 -
+
+Make Frontend Shit Again
+https://makefrontendshitagain.party/
+
+In case you are wondering what comes after material design
+https://www.nngroup.com/articles/brutalism-antidesign/
+
+Nest 5: The official release 🚀 Node.js in 2018 – Kamil Mysliwiec – Medium
+https://medium.com/@kammysliwiec/nest-5-the-official-release-node-js-in-2018-1b6d3a47b104
+
+Malware Found In The Ubuntu Snap Store
+https://www.linuxuprising.com/2018/05/malware-found-in-ubuntu-snap-store.html
+
+Build your own X
+https://github.com/danistefanovic/build-your-own-x
+
+Google under investigation for using Android phone data to spy on users
+https://www.dailytelegraph.com.au/technology/smartphones/accc-investigating-oracle-research-showing-google-users-android-phone-plan-data-to-spy/news-story/3ca0cdaa3cc6992d134355bd0b7fcf40
+
+Introducing DataViz a data-structure visualization library for Golang
+https://medium.com/@Arafat./introducing-dataviz-a-data-structure-visualization-library-for-golang-f6e60663bc9d
+
+Designing Hardware For Security: "Most attacks in the past focused gaining access to software, but Meltdown and Spectre have changed that forever."
+https://semiengineering.com/designing-hardware-for-security/
+
+How a “location API” allows cops to figure out where we all are in real-time
+https://arstechnica.com/tech-policy/2018/05/senator-furious-at-polices-easy-ability-to-get-real-time-mobile-location-data/
+
+Ready for Readable Code? - John Papa
+https://www.youtube.com/watch?v=56mETnrByBM&feature=youtu.be
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

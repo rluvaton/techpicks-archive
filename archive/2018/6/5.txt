@@ -1,0 +1,42 @@
+TechPicks 05/06/2018 -
+
+Microsoft officially buys GitHub for $7.5 billion in stock
+https://www.cnbc.com/2018/06/04/microsoft-buys-github.html
+
+Apple deprecating OpenGL and OpenCL in macOS
+https://developer.apple.com/macos/whats-new/
+
+Stop whining about Microsoft buying Github, everything will be O.K.
+https://codestera.com/blog/stop-whining-microsoft-buying-github/
+
+Import your project from GitHub to GitLab
+https://docs.gitlab.com/ee/user/project/import/github.html
+
+GitLab Isn’t Really Open-Source
+https://akr.am/blog/posts/gitlab-isnt-really-open-source
+
+GitLab: We're seeing 10x the normal daily amount of repositories
+https://twitter.com/gitlab/status/1003409836170547200
+
+GitLab sees huge spike in project imports
+https://monitor.gitlab.net/dashboard/db/github-importer?orgId=1
+
+Xcode is now integrated with Gitlab
+https://twitter.com/gitlab/status/1003764673454342144
+
+Tip: npm-installing directories
+http://2ality.com/2018/04/npm-install-directory.html
+
+To Yarn and Back (to npm) Again
+https://mixmax.com/blog/to-yarn-and-back-again-npm
+
+Demystifying CORS
+https://frontendian.co/cors
+
+Solving Life’s Problems with CSS
+https://css-tricks.com/solving-lifes-problems-with-css/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

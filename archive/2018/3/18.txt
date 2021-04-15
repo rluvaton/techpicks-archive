@@ -1,0 +1,31 @@
+TechPicks 18/03/2018 - 
+
+pipe-mail - A command-line tool to send e-mails via SMTP from the standard input
+https://github.com/salvozappa/pipe-mail
+
+Compiler Construction: The Art of Niklaus Wirth
+https://pdfs.semanticscholar.org/036f/c4effda4bbbe9f6a9ee762df717bd0af1324.pdf
+
+JavaScript vs. TypeScript vs. ReasonML
+http://2ality.com/2018/03/javascript-typescript-reasonml.html
+
+Archimedean Oath
+https://en.wikipedia.org/wiki/Archimedean_Oath
+
+Stack Overflow Culture | Jon Skeet's coding blog
+https://codeblog.jonskeet.uk/2018/03/17/stack-overflow-culture/
+
+Checkbot for Chrome version 0.3 - Crawls your site testing 50+ SEO, speed and security best practices
+https://www.checkbot.io
+
+Fabulously kill processes. Cross-platform.
+https://github.com/sindresorhus/fkill-cli
+
+Google is opening up Maps to game developers
+https://latesthackingnews.com/2018/03/16/google-is-opening-up-maps-to-game-developers/
+
+Why is Math.random() in Javascript not designed to be cryptographically secure?
+https://security.stackexchange.com/a/181623/173208
+
+How not to suffer with APIs
+https://medium.com/@kelin2025/how-not-to-suffer-with-apis-8aa75f890fe6

@@ -1,0 +1,35 @@
+TechPicks 02/03/2021 -
+
+React 17 stops event bubbling in scroll event
+https://blog.saeloun.com/2021/03/02/react-17-removes-bubbling-from-onscroll
+
+DDD is Overrated
+https://tilkov.com/post/2021/03/01/ddd-is-overrated/
+
+What's New In DevTools (Chrome 90)
+https://developers.google.com/web/updates/2021/02/devtools
+
+The small web is beautiful
+https://benhoyt.com/writings/the-small-web-is-beautiful/
+
+Fish Shell 3.2.0
+https://github.com/fish-shell/fish-shell/releases/tag/3.2.0
+
+What I wish I had known about single page applications
+https://stackoverflow.blog/2021/02/24/what-i-wish-i-had-known-about-single-page-applications/
+
+Adobe ending support for Brackets text editor
+https://blog.brackets.io/brackets-eol-notice/
+
+The Beauty Of Tiny Enhancements In CSS
+https://ishadeed.com/article/tiny-enhancements-in-css/
+
+Ben Nadel: Using CSS :target Pseudo-Class To Toggle Element Display
+https://www.bennadel.com/blog/3970-using-css-target-pseudo-class-to-toggle-element-display.htm
+
+Course Review – “Programming Languages” Series on Coursera
+https://vkontech.com/course-review-programming-languages-series-on-coursera/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

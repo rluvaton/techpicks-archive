@@ -1,0 +1,36 @@
+TechPicks 11/06/2018 - 
+
+GitHub - DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
+https://github.com/DovAmir/awesome-design-patterns
+
+How to stay productive as a solo developer
+https://alemil.com/how-to-stay-productive-as-a-solo-developer
+
+The Physics Hypertextbook
+https://physics.info/
+
+Post-AmsterdamJS Thoughts: The Shape of Web To Come
+https://medium.com/@thomasaugustusgrice/post-amsterdamjs-thoughts-the-shape-of-web-to-come-7886a7e4eb06
+
+A Framework Author's Case Against Frameworks
+https://youtu.be/k7n2xnOiWI8
+
+Introducing MapKit JS - A JavaScript mapping library by Apple
+https://developer.apple.com/videos/play/wwdc2018/212/
+
+React basic internals nicely explained
+https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained?utm_source=mybridge&amp;utm_medium=blog&amp;utm_campaign=read_more
+
+Build a toggle control smiley face using HTML and CSS
+https://levelup.gitconnected.com/smiley-toggle-wotw-a3bf7cc1b5c3
+
+Animation library that mimics CSS keyframes when scrolling.
+https://github.com/alexcambose/motus
+
+Inventor says Google is patenting work he put in the public domain
+https://arstechnica.com/tech-policy/2018/06/inventor-says-google-is-patenting-work-he-put-in-the-public-domain/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

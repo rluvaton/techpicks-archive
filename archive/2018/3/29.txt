@@ -1,0 +1,49 @@
+TechPicks 29/03/2018 -
+
+Node.js Security Release Summary - March 2018
+https://nodesource.com/blog/node-js-security-release-summary-march-2018
+
+VPNs leak users’ IPs via WebRTC
+https://voidsec.com/vpn-leak/
+
+An overview of the JavaScript ecosystem, from frontend to backend, passing by Node in the process
+https://www.imaginarycloud.com/blog/a-javascript-ecosystem-overview/
+
+Server-side Debugging for Node projects
+https://medium.com/glitch/tackling-the-biggest-pain-points-in-web-development-57d64afe19dc
+
+Pose - a declarative animation library for HTML, SVG and React
+https://popmotion.io/pose/
+
+Working with the new CSS Typed Object Model
+https://developers.google.com/web/updates/2018/03/cssom
+
+9% of websites at risk of remote code execution (drupal vulnerability)
+https://groups.drupal.org/security/faq-2018-002
+
+Validation and User Errors in GraphQL Mutations
+https://medium.com/@tarkus/validation-and-user-errors-in-graphql-mutations-39ca79cd00bf
+
+AV1, the worlds most advanced video codec, was released publicly today
+https://www.phoronix.com/scan.php?page=news_item&px=AV1-Released
+
+Regular Expressions - The Last Guide
+https://medium.com/tech-tajawal/regular-expressions-the-last-guide-6800283ac034
+
+All JavaScript frameworks are terrible – Matt Burgess
+https://medium.com/@mattburgess/all-javascript-frameworks-are-terrible-e68d8865183e
+
+Waiting time, load factor, and queueing theory – why you need to cut your systems a bit of slack
+https://erikbern.com/2018/03/27/waiting-time-load-factor-and-queueing-theory.html
+
+Creating Accessible HTML: A Crash Course in ARIA Landmark Regions
+https://medium.com/c2-group/creating-accessible-html-a-crash-course-in-aria-landmark-regions-40513850298b
+
+How Fast Is Amp Really?
+https://timkadlec.com/remembers/2018-03-19-how-fast-is-amp-really/
+
+Flutter List + Dialog Example
+https://insertbreakpoint.wordpress.com/2018/03/28/flutter-list-dialog-example/
+
+Granting developers some playtime
+https://hackernoon.com/granting-developers-some-playtime-b3833fc74a35

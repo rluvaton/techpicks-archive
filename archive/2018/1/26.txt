@@ -1,0 +1,19 @@
+TechPicks 26/01/2018 -
+
+🚀Webpack 4 beta released — try it today!🚀
+https://medium.com/webpack/webpack-4-beta-try-it-today-6b1d27d7d7e2
+
+What it was like to do programming with punch cards. 2 minute skit from the 60s.
+https://www.youtube.com/watch?v=L6kYRPLVxHs
+
+Debugging Node without restarting processes
+https://hackernoon.com/debugging-node-without-restarting-processes-bd5d5c98f200
+
+Chrome 64 - What's New in DevTools
+https://www.youtube.com/watch?v=90wNAn05Cf4
+
+Ranking Programming Languages by GitHub Users
+http://www.benfrederickson.com/ranking-programming-languages-by-github-users/
+
+An Intro to Color Theory: How to combine colors and set the mood of your designs
+https://medium.freecodecamp.org/an-intro-to-color-theory-how-to-combine-colors-and-set-the-mood-of-your-designs-79bf5a45b3d

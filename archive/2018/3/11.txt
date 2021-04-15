@@ -1,0 +1,28 @@
+TechPicks 11/03/2018 -
+
+The 4 Layers of Single Page Applications You Need to Know
+https://medium.com/p/b842ea633c2e?source=linkShare-f486ab1a1719-1520669926
+
+Creating multiple react components in one command
+https://medium.com/@snrseljanroddsson/create-multiple-react-folder-components-in-one-command-1411cd6bd1ce
+
+Snips open sources its Natural Language Understanding python library
+https://github.com/snipsco/snips-nlu
+
+gitleaks: Verify a git repo for stored secrets and keys
+https://github.com/zricethezav/gitleaks/blob/master/README.md
+
+How to use plain Three.js in your React apps
+https://medium.com/@soffritti.pierfrancesco/how-to-use-plain-three-js-in-your-react-apps-417a79d926e0
+
+Mocking Objects in TypeScript, Functional Style
+https://medium.com/@danieldughila/mocking-in-typescript-a97267f7cea9
+
+getmethefuckthere: A nice little CLI to get Google directions
+https://github.com/jaebradley/getmethefuckthere
+
+Speedo CLI - Internet speed report in your terminal!
+https://github.com/xxczaki/speedo-cli
+
+ES6 + regex + unicode = 💕
+https://bradarv90.github.io/ES6-Regex-Unicode/

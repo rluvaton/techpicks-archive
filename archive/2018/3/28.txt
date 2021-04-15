@@ -1,0 +1,55 @@
+TechPicks 28/03/2018 -
+
+Facebook Container Extension: Take control of how you’re being tracked
+https://www.hndigest.com/m/AJEyFyRI2tB0K5pQ9_hgbg==/s/56779
+
+How I Erased Facebook Comments and Likes
+http://www.jaruzel.com/blog/How-I-Erased-5000-Facebook-Comments-and-Likes
+
+Total Meltdown?: Windows 7 meltdown patch allows arbitrary reads and writes to page tables
+http://blog.frizk.net/2018/03/total-meltdown.html?m=1
+
+Importance of physical exercise for problem solvers
+https://hackernoon.com/the-importance-of-physical-exercise-for-problem-solvers-564b300df7ed
+
+Announcing TypeScript 2.8
+https://blogs.msdn.microsoft.com/typescript/2018/03/27/announcing-typescript-2-8/
+
+React 16.3: Update on async rendering
+https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html
+
+Alex - Catch insensitive, inconsiderate writing
+http://alexjs.com/
+
+Cheatsheet: Spread Object or Array in JavaScript
+http://www.snappyjs.com/2018/03/28/cheatsheet-object-rest-spread-in-javascript/
+
+Vesper - framework to create a scalable, maintainable, extensible, declarative and fast GraphQL-based server applications.
+http://vesper-framework.com/
+
+The DOM - Live vs. static element collections
+https://www.stefanjudis.com/blog/accessing-the-dom-is-not-equal-accessing-the-dom/
+
+Decouple Deployment from Release
+https://medium.com/@CalinLeafshade/decouple-deployment-from-release-b4b9182b6a46
+
+Parallel programming without a clue: 90x performance loss instead of 8x gain
+http://ithare.com/using-parallel-algorithm-without-a-clue-90x-performance-loss-instead-of-8x-gain/
+
+Integer Constant Expression test in C: Torvalds: "That is either genius, or a seriously diseased mind."
+https://lkml.org/lkml/2018/3/20/805
+
+JerryScript: JavaScript engine for the Internet of Things
+https://github.com/jerryscript-project/jerryscript#jerryscript-javascript-engine-for-the-internet-of-things
+
+Bitmasks and the new React Context API
+https://hph.is/coding/bitmasks-react-context
+
+Machine learning with Javascript
+https://medium.com/@yatindra.cse/machine-learning-with-javascript-ed4dd0576675
+
+Python – Understanding Generators
+http://devarea.com/python-understanding-generators
+
+🎉 Introducing Hot Controller: a zero-config, hot reloading controller library
+https://medium.com/@philipodev/introducing-hot-controller-a-zero-config-hot-reloading-controller-library-1d99c5390853

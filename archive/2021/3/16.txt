@@ -1,0 +1,29 @@
+TechPicks 16/03/2021 -
+
+GTA Online: Rockstar to Implement a Fan-Made Fix That Reduces Load Times on PC
+https://za.ign.com/grand-theft-auto-v-pc/151435/news/gta-online-rockstar-to-implement-a-fan-made-fix-that-reduces-load-times-on-pc
+
+CSS Auditing Tools
+https://www.smashingmagazine.com/2021/03/css-auditing-tools/
+
+Chicken story: The time Microsoft banned my entire country
+https://github.com/eyal0/Chicken-story/blob/main/README.md
+
+Just-In-Time: The Next Generation of Tailwind CSS
+https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css
+
+Depix - Recovers passwords from pixelized screenshots
+https://github.com/beurtschipper/Depix
+
+{} + [] is not 0
+https://evinsellin.medium.com/object-plus-array-is-not-zero-ec4db710e7a5
+
+Rethinking the JavaScript ternary operator
+https://jrsinclair.com/articles/2021/rethinking-the-javascript-ternary-operator/
+
+useEncapsulation
+https://kyleshevlin.com/use-encapsulation/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

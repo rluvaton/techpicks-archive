@@ -1,0 +1,23 @@
+TechPicks 23/02/2021 -
+
+Before You memo()
+https://overreacted.io/before-you-memo/
+
+What the heck, z-index??
+https://www.joshwcomeau.com/css/stacking-contexts/
+
+Whistleblowers: Software Bug Keeping Hundreds Of Inmates In Arizona Prisons Beyond Release Dates
+https://kjzz.org/content/1660988/whistleblowers-software-bug-keeping-hundreds-inmates-arizona-prisons-beyond-release
+
+10 Software Engineering Laws Everybody Loves to Ignore
+https://www.netmeister.org/blog/software-engineering-laws.html
+
+Why Discord is switching from Go to Rust (2020)
+https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f
+
+Social Analyzer - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites
+https://github.com/qeeqbox/social-analyzer
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

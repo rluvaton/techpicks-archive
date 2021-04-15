@@ -1,0 +1,39 @@
+TechPicks 06/06/2018 - 
+
+Voicing my concerns, not about GitHub as a product, but about monopolies growing larger and larger.
+https://www.stitcher.io/blog/acquisition-by-giants
+
+GitLab Ultimate and Gold are now free for education and open source.
+https://about.gitlab.com/2018/06/05/gitlab-ultimate-and-gold-free-for-education-and-open-source/
+
+W3C publishes new Web Content Accessibility Guidelines (WCAG) 2.1
+https://www.w3.org/TR/WCAG21/
+
+10 CLI Tools that You Will Love
+https://medium.com/@charleeli/10-cli-tools-that-you-will-love-d214bc73d856
+
+If you're worried about the GitHub acquisition, here's what to look out for
+https://userinterfacing.com/if-youre-really-worried-about-the-github-acquisition-heres-what-to-look-out-for/
+
+Getting started with Docker and Kubernetes on Windows 10
+https://learnk8s.io/blog/installing-docker-and-kubernetes-on-windows
+
+Using Micro-Frontends to Permanently Solve the Legacy JavaScript Problem
+https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac
+
+Introducing Luna — JavaScript Testing Done Right
+https://medium.com/@craigiam/introducing-luna-javascript-testing-done-right-437a738cc1ed
+
+How I automated my job with Node.js
+https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017
+
+React-Europe 2018: Summary of the talks
+https://soofka.pl/entry/react-europe-2018-summary-of-the-talks
+
+Oracle Lays Off Java Mission Control Team After Open Sourcing Product
+https://www.infoq.com/news/2018/06/open-source-jmc
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

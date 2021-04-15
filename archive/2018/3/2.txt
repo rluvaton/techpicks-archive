@@ -1,0 +1,28 @@
+TechPicks 02/03/2018 - 
+
+Line By Line Walkthrough of the React Suspense Demo
+https://dev.to/swyx/a-walkthrough-of-that-react-suspense-demo--4j6a
+
+Sneak Peek: Beyond React 16
+https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html
+
+Structuring projects and naming components in React
+https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76
+
+sendback.io | Mock HTTP Status Codes
+http://sendback.io/
+
+HTML, JS, And State: A Challenging Way To Look At Web Performance
+https://medium.com/@fagnerbrack/html-and-state-a-challenging-way-to-look-at-web-performance-e3084fcff70d
+
+Detect and Refactor JavaScript Copy-Paste Code
+http://elijahmanor.com/js-copypaste-detect/
+
+An Introduction to Algebraic Data Types
+https://medium.com/@JosephJnk/an-introduction-to-algebraic-data-types-9429e49eac27
+
+3 simple tricks for smaller Docker images
+https://learnk8s.io/blog/smaller-docker-images
+
+AR For Everyone: Building cross platform AR (ARCore/ARKit) Apps with React Native and ViroReact
+https://blog.viromedia.com/ar-for-everyone-build-cross-platform-ar-arcore-arkit-apps-react-native-viroreact-f91c58fde

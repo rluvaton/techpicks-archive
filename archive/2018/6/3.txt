@@ -1,0 +1,60 @@
+TechPicks 03/06/2018 -
+
+Javascript ES6 — Iterables and Iterators
+https://medium.com/@ideepak.jsd/javascript-es6-iterables-and-iterators-de18b54f4d4
+
+C++ for JavaScript developers
+https://pawelgrzybek.com/cpp-for-javascript-developers/
+
+BetterPromise: a strawman experiment in subclassing Promise and "fixing" a bunch of its awkward/bad parts
+https://gist.github.com/getify/1173cac45d15fc4ff0a880f32fd598ab
+
+18 most popular JavaScript open source repositories on GitHub.
+https://medium.com/@Iren.Korkishko/cdbed25c58c7
+
+30 Seconds of Interviews - a curated collection of web dev interview questions and answers ranging from junior to senior to help you prepare for your next one
+https://30secondsofinterviews.org/
+
+Critters; 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
+https://github.com/GoogleChromeLabs/critters
+
+Text editing techniques every Front-End developer should know
+https://benfrain.com/text-editing-techniques-every-front-end-developer-should-know/
+
+How CSS works: Understanding the cascade
+https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8
+
+The Cult of the Complex
+http://alistapart.com/article/cult-of-the-complex
+
+CSS Is So Overpowered It Can Deanonymize Facebook Users
+https://www.bleepingcomputer.com/news/security/css-is-so-overpowered-it-can-deanonymize-facebook-users/
+
+Microsoft and GitHub have held acquisition talks
+http://www.businessinsider.com/2-billion-startup-github-could-be-for-sale-microsoft-2018-5
+
+Mapping the whole internet with Hilbert curves
+https://blog.benjojo.co.uk/post/scan-ping-the-internet-hilbert-curve
+
+GNOME Moves to GitLab
+https://about.gitlab.com/2018/05/31/welcome-gnome-to-gitlab/
+
+Side-channel attacking browsers through CSS3 features
+https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/
+
+Understanding the power of data types: PostgreSQL's Secret Weapon
+http://postgres-data-types.pvh.ca/
+
+The latest cover of 'Time' is composed of 958 Intel drones 
+https://www.engadget.com/amp/2018/05/31/intel-drones-time-cover/
+
+Want to build something fun? Here’s a list of sample web app ideas.
+https://flaviocopes.com/sample-app-ideas/
+
+Student Discounts on Tech
+https://www.eggradients.com/discount-for-students
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

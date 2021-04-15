@@ -1,0 +1,19 @@
+TechPicks 19/01/2018 -
+
+Bootstrap 4 released
+http://blog.getbootstrap.com/2018/01/18/bootstrap-4/
+
+JS Paint – a web-based MS Paint remake
+http://jspaint.ml/
+
+CubeCart - Admin Authentication Bypass
+https://blog.ripstech.com/2018/cubecart-admin-authentication-bypass/
+
+Building Secure JavaScript Applications
+https://nemethgergely.com/building-secure-javascript-applications/
+
+Keep webpack Fast: A Field Guide for Better Build Performance
+https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1
+
+Top Node.js Articles of the Year
+https://medium.com/@Mybridge/learn-node-js-we-created-a-directory-of-top-articles-from-2017-783e809452dd

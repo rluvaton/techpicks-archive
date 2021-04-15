@@ -1,0 +1,19 @@
+TechPicks 29/01/2018 -
+
+How a malicious seed generation website stole $4 million
+https://thatoddmailbox.github.io/2017/01/28/iotaseed.html
+
+Hacker101: A free class for web security
+https://github.com/Hacker0x01/hacker101
+
+A fully functioning Node.js shopping cart with Stripe and PayPal payments
+https://github.com/mrvautin/expressCart
+
+Introducing ReactScope – Visualize React component hierarchy, state, and props in real time
+https://levelup.gitconnected.com/introducing-react-scope-a87d9f5247df
+
+Keylogger Campaign Hits Over 2,000 WordPress Sites (Thank you internet ❤ ~T.K)
+https://www.bleepingcomputer.com/news/security/keylogger-campaign-hits-over-2-000-wordpress-sites/
+
+The Most Dangerous Word In Software Development
+http://alistapart.com/blog/post/the-most-dangerous-word-in-software-development

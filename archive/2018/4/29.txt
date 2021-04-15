@@ -1,0 +1,36 @@
+TechPicks 29/04/2018 - 
+
+Blockchain is not only crappy technology but a bad vision for the future
+https://medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec
+
+How does dynamic dispatch work in WebAssembly?
+http://fitzgeraldnick.com/2018/04/26/how-does-dynamic-dispatch-work-in-wasm.html
+
+Brenda Storer - How to use CSS grid today in the real world
+https://www.youtube.com/watch?v=fVX0xscGP9o
+
+Storybook 3.4 with Polymer Support, Image/Vue/Angular Storyshots, Multi-Hierarchy, and more!
+https://medium.com/storybookjs/announcing-storybook-3-4-db4d1341dedd
+
+This ‘Demonically Clever’ Backdoor Hides In a Tiny Slice of a Computer Chip
+https://www.wired.com/2016/06/demonically-clever-backdoor-hides-inside-computer-chip/
+
+Kotlin/Native v0.7 released: smoother interop, frozen objects, optimisations and more.
+https://blog.jetbrains.com/kotlin/2018/04/kotlinnative-v0-7-released-smoother-interop-frozen-objects-optimisations-and-more/
+
+Developers beware: If you are building out your DApp using Create React App watch out for the React Service Worker!
+https://medium.com/@austin_48503/react-service-worker-web3-android-98970a6691ad
+
+Code coverage, Pacman, Make your browser talk and so on... with Puppeteer
+https://github.com/GoogleChromelabs/puppeteer-examples
+
+Code Published for Triggering a BSOD on Windows Computers -- Even If They're Locked
+https://www.bleepingcomputer.com/news/microsoft/poc-code-published-for-triggering-an-instant-bsod-on-all-recent-windows-versions/
+
+A fast, hopefully accurate, fuzzy matching library. Optimised for filenames and code symbols.
+https://github.com/sahilm/fuzzy
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-

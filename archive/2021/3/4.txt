@@ -1,0 +1,26 @@
+TechPicks 04/03/2021 -
+
+jQuery 3.6.0 Released - "We still have our eyes on a jQuery 4.0 release"
+http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/
+
+Variants – a quick tip for better React components
+https://swizec.com/blog/variants-a-quick-tip-for-better-react-components
+
+I've used the pipe() function 2,560 times and I can tell you it's good!
+https://dev.to/ivan7237d/i-ve-used-the-pipe-function-2-560-times-and-i-can-tell-you-it-s-good-4aal
+
+Okta Buys Cloud Security Startup Auth0 For $6.5B
+https://www.thetechee.com/2021/03/okta-buys-cloud-security-startup-auth0.html
+
+Are Xiaomi browsers spyware? Yes, they are…
+https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../
+
+Development on Windows is Painful
+https://christine.website/blog/windows-pain-2021-03-03
+
+Dolt is Git for Data
+https://github.com/dolthub/dolt
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

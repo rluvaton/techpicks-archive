@@ -1,0 +1,35 @@
+TechPicks 09/04/2018 -
+
+Berkeley offers its fastest-growing course – data science – online, for free
+http://news.berkeley.edu/2018/03/29/berkeley-offers-its-fastest-growing-course-data-science-online-for-free/
+
+Heads up: If you use VestaCP on DigitalOcean, DO is disabling networking due to a VestaCP vulnerability even if your droplet has not been compromised
+https://www.digitalocean.com/community/questions/how-do-i-determine-the-impact-of-vestacp-vulnerability-from-april-8th-2018
+
+The Elixir/Phoenix Guide For Django Devs
+https://www.ckl.io/?p=5848
+
+React Fragment API
+https://youtu.be/EuKMWP6JVT8
+
+CSS polyfills from the future
+https://gss.github.io/
+
+Is Docker the New Git?
+https://dev.to/thejoezack/is-docker-the-new-git-h5i
+
+Travis CI dropped production database by accidentally running tests against them
+https://blog.travis-ci.com/2018-04-03-incident-post-mortem
+
+Microsoft open-sourced Windows File Manager
+https://github.com/Microsoft/winfile
+
+Discourse "attacked by Microsoft crawlers" at 0.5 QPS, bans Bingbot
+https://meta.discourse.org/t/bingbot-is-default-blacklisted/84620
+
+How to avoid (or escape) async/await hell
+https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c
+
+Follow TechPicks on your favorite platform -
+https://www.twitter.com/t3chpicks
+https://t.me/techpicks

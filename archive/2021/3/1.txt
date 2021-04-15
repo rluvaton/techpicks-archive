@@ -1,0 +1,35 @@
+TechPicks 01/03/2021 -
+
+How I cut GTA Online loading times by 70%
+https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/
+
+Actually Portable Executables
+https://ahgamut.github.io/c/2021/02/27/ape-cosmo/
+
+Weird architectures weren't supported to begin with
+https://blog.yossarian.net/2021/02/28/Weird-architectures-werent-supported-to-begin-with
+
+The mystery of Dennis Ritchie's doctoral thesis
+https://dmrthesis.net/
+
+A Vim Guide for Advanced Users
+https://thevaluable.dev/vim-advanced/
+
+Test-driven Development and React
+https://kirill-novik.medium.com/test-driven-development-and-react-347487c9610a
+
+ISO 8601: the better date format
+https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/
+
+Former SolarWinds CEO blames intern for password leak
+https://edition.cnn.com/2021/02/26/politics/solarwinds123-password-intern/index.html
+
+The Things I Add to Tailwind CSS Right Out of the Box
+https://css-tricks.com/custom-tailwind-css/
+
+What I look forward to about web development in 2021
+https://blog.6nok.org/what-i-look-forward-to-about-web-development-in-2021/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

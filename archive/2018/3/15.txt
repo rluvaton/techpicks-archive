@@ -1,0 +1,43 @@
+TechPicks 15/03/2018 - 
+
+It looks like the IT security world has hit a new low - Linus Torvalds
+https://plus.google.com/u/0/+LinusTorvalds/posts/PeFp4zYWY46
+
+4 Easy Steps to Using Webpack with Node.js
+https://www.stackchief.com/tutorials/4%20Easy%20Steps%20to%20Using%20Webpack%20with%20Your%20Node.js%20App
+
+Why I’m Giving Up Everything for Flutter
+https://deanchalk.com/why-im-giving-up-everything-for-flutter-eea87464599d
+
+Asynchronicity in JavaScript
+https://github.com/n0ruSh/the-art-of-reading/issues/6
+
+Profiling: Optimisation | Riot Games Engineering
+https://engineering.riotgames.com/news/profiling-optimisation
+
+Picking the low hanging passwords
+https://hackernoon.com/picking-the-low-hanging-passwords-b64684fe2c7
+
+ESLint's Origin Story!
+https://medium.com/@philipjohnbasile/javascripts-eslint-the-origin-story-3311529b1a51
+
+17 JavaScript / node.js performance coding tips to make applications faster
+http://voidcanvas.com/javascript-performant-coding-tips/
+
+How to develop a Messaging app Like Whatsapp
+http://smarther.co/mobile-apps/develop-messaging-app-like-whatsapp/
+
+Elegant patterns in modern JavaScript: Ice Factory
+https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-ice-factory-4161859a0eee
+
+What can we learn from how compilers are designed?
+https://www.tedinski.com/2018/03/13/how-compilers-are-designed.html
+
+C++ Core Guidelines: More about Control Structures
+http://www.modernescpp.com/index.php/c-core-guidelines-more-about-control-structures
+
+Who will steal Android from Google?
+https://medium.com/@steve.yegge/who-will-steal-android-from-google-af3622b6252e
+
+mergedroid: a bot that solves conflicts in GitHub pull requests (beta)
+http://blog.gmaster.io/2018/02/mergedroid-bot-to-solve-conflicts-in-pull-requests.html

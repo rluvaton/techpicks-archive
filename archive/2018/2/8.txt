@@ -1,0 +1,25 @@
+TechPicks 08/02/2018 -
+
+Introducing Rekit Studio: a real IDE for React and Redux development
+https://medium.com/@nate_wang/introducing-rekit-studio-a-real-ide-for-react-and-redux-development-baf0c99cb542
+
+HTTP codes as Valentine’s Day comics
+https://medium.com/@hanilim/http-codes-as-valentines-day-comics-8c03c805faa0
+
+An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps
+https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4
+
+Chiccocoin: Learn what is a Blockchain by creating one in NodeJS
+https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b
+
+React patterns you should know
+https://medium.com/@joomiguelcunha/react-patterns-you-should-know-da86568372fa
+
+Why Developers Love Node.js & what's their main issue with it? Survey Results.
+https://blog.risingstack.com/why-developers-love-node-js-2018-survey/
+
+Visual Studio Code January 2018
+https://code.visualstudio.com/updates/v1_20
+
+ML5.js – high level javascript library for machine learning
+https://www.reddit.com/r/ml5js/comments/7w05rm/ml5js_is_a_simple_javascript_library_for_machine/

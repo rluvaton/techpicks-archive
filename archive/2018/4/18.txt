@@ -1,0 +1,69 @@
+TechPicks 18/04/2018 - 
+
+Dependency Injection is a 25-dollar term for a 5-cent concept.
+http://www.jamesshore.com/Blog/Dependency-Injection-Demystified.html
+
+Oracle announces polyglot virtual machine, GraalVM
+https://sdtimes.com/java/oracle-announces-polyglot-virtual-machine-graalvm/
+
+Web Application Penetration Testing Cheat Sheet
+https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/
+
+Blazor 0.2.0 release now available
+https://blogs.msdn.microsoft.com/webdev/2018/04/17/blazor-0-2-0-release-now-available/
+
+Using advanced design patterns to create flexible and reusable React components — Part 3: Render Props
+https://medium.com/@shaundavidhutch/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-3-render-d7517dfe72bc
+
+“Mind-controlling a Drone with JavaScript is eaiser than it sounds.”
+https://twitter.com/castillo__io/status/986236309139345408?s=21
+
+Apple took down Redditor's app because it contains the word Javascript and Oracle owns the JAVASCRIPT trademark
+https://www.reddit.com/r/javascript/comments/8d0bg2/oracle_owns_javascript_so_apple_is_taking_down_my/
+
+TCL - The misunderstood
+http://antirez.com/articoli/tclmisunderstood.html
+
+Understanding rxjs Subjects
+https://hackernoon.com/understanding-rxjs-subjects-339428a1815b
+
+Distributed architecture concepts I learned while building a large payments system
+http://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/
+
+Zulip 1.8: Open source Slack alternative with threading done right
+https://blog.zulip.org/2018/04/18/zulip-1-8-released/
+
+Viability of unpopular programming languages
+https://www.johndcook.com/blog/2018/04/17/unpopular-languages/
+
+Making Windows Slower Part 1: File Access
+https://randomascii.wordpress.com/2018/04/17/making-windows-slower-part-1-file-access/
+
+“A little ❤ can go a long way” 
+https://medium.com/google-design/a-little-can-go-a-long-way-2acb6cf3dc9f
+
+https://blog.angularindepth.com/angular-and-internet-explorer-5e59bb6fb4e9
+Angular and Internet Explorer
+
+Angular’s $digest is reborn in the newer version of Angular
+https://blog.angularindepth.com/angulars-digest-is-reborn-in-the-newer-version-of-angular-718a961ebd3e
+
+Low-latency JPEG XS format is optimized for live streaming and VR
+https://www.engadget.com/amp/2018/04/14/jpeg-xs-format-nab-2018/
+
+What is my day rate?
+https://www.whatismydayrate.com/
+
+How I built a leaderboard with the top Medium stories of all time. And how it almost died.
+https://medium.freecodecamp.org/how-i-built-top-medium-stories-e07a32cf5255
+
+Dear React: A thank you letter
+https://medium.freecodecamp.org/dear-react-a-thank-you-letter-16cad22e3389
+
+Awesome Hacking - a collection of awesome lists for hackers and pentesters
+https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

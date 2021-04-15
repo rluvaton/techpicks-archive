@@ -1,0 +1,54 @@
+TechPicks 07/06/2018 -
+
+10 Things I Regret About Node.js - Ryan Dahl
+https://www.youtube.com/watch?v=M3BM9TB-8yA
+
+How to Make an Animation of a Typing Cat
+https://medium.com/scrumpy/how-to-make-a-stunning-animation-of-a-typing-cat-60b26cf8c238
+
+Deno: A secure TypeScript runtime on V8 by Node.js creator Ryan Dahl
+https://github.com/ry/deno
+
+Vuesax - New component framework for vuejs
+https://v.redd.it/pej65zm40b211
+
+Getting started using Hyperapp with Parcel as a bundler
+https://medium.com/@rap2h/getting-started-using-hyperapp-with-parcel-as-a-bundler-df1541a3f659
+
+High severity DoS vulnerabilities announced in Node.js, fix & details coming soon
+https://groups.google.com/forum/#!topic/nodejs-sec/lsXouy5LPFo
+
+Visual Studio Code May 2018 (1.24) Released!
+https://code.visualstudio.com/updates/v1_24
+
+Chrome will have an install button in the address bar for Progressive Web Apps
+https://developers.google.com/web/updates/2018/06/a2hs-updates
+
+How to Make an Animation of a Typing Cat
+https://medium.com/scrumpy/how-to-make-a-stunning-animation-of-a-typing-cat-60b26cf8c238
+
+1 Element CSS Rainbow Gradient Infinity
+https://css-tricks.com/1-element-css-rainbow-gradient-infinity/
+
+30 Seconds of CSS
+https://atomiks.github.io/30-seconds-of-css/
+
+Cards - Inclusive design
+https://inclusive-components.design/cards/
+
+'Good Luck With That' Public License
+https://github.com/me-shaon/GLWTPL
+
+Under the sea, Microsoft tests a datacenter that’s quick to deploy, could provide internet connectivity for years
+https://news.microsoft.com/features/under-the-sea-microsoft-tests-a-datacenter-thats-quick-to-deploy-could-provide-internet-connectivity-for-years/
+
+Mozilla announces $225,000 for projects examining AI's effects on society
+https://www.neowin.net/news/mozilla-announces-225000-for-projects-examining-ais-effects-on-society
+
+Truth First, or Why You Should Mostly Implement Database First Designs
+https://blog.jooq.org/2018/06/06/truth-first-or-why-you-should-mostly-implement-database-first-designs/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

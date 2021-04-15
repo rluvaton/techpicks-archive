@@ -1,0 +1,28 @@
+TechPicks 26/02/2018 - 
+
+Programming lessons learned from releasing my first game and why I'm writing my own engine in 2018
+https://github.com/SSYGEN/blog/issues/31
+
+Machine Learning With NodeJS
+https://youtu.be/iumlHzoVlJM
+
+Privacy-respecting, simple social sharing buttons in native JavaScript
+https://github.com/QuadrupleA/private-secure-sharing-buttons
+
+Handmade Hero | "Zero" (50 Cycles) Cost Abstractions
+https://www.youtube.com/watch?v=B2BFbs0DJzw
+
+Server side architecture with Node and Typescript using Nest
+https://samueleresca.net/2018/02/server-side-architecture-with-node-and-typescript-with-nest/
+
+Serious SEO Mistake that Many Software Houses and Startups Make
+https://pawelurbanek.com/simple-seo-mistake
+
+What is "this"? Arrow functions.
+https://wanago.io/2018/02/26/what-is-this-arrow-functions/
+
+Bitmasks and the new React Context API
+https://hph.is/coding/bitmasks-react-context
+
+I figured out a way to hack any of Facebook’s 2 billion accounts, and they paid me a $15,000 bounty…
+https://medium.freecodecamp.org/responsible-disclosure-how-i-could-have-hacked-all-facebook-accounts-f47c0252ae4d

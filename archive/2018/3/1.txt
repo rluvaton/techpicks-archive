@@ -1,0 +1,31 @@
+TechPicks 01/03/2018 - 
+
+Mode Button | Pure JS & CSS - Yariv Fruend
+http://bit.ly/2CP1ynQ
+
+How to use TypeScript to define React component props
+https://www.danielbischoff.com/blog/2018-02-26--ts-react-props/
+
+How to package your React Component for distribution via NPM
+https://medium.com/@suprada/how-to-package-your-react-component-for-distribution-via-npm-d32d4bf71b4f
+
+8 React conditional rendering methods (ternary operator isn't always the best choice)
+https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e
+
+Konva.js - HTML5 2d canvas library for desktop and mobile applications
+https://konvajs.github.io/
+
+Getting the most out of Redux + Sentry
+https://blog.lingoapp.com/getting-the-most-out-of-redux-sentry-ecd8c737410d
+
+Lazy Evaluation in JavaScript with Generators, Map, Filter, and Reduce
+https://dev.to/nestedsoftware/lazy-evaluation-in-javascript-with-generators-map-filter-and-reduce--36h5
+
+Redesigning Redux
+https://medium.com/@ShMcK/redesigning-redux-b2baee8b8a38
+
+Delighters.JS - add CSS animations to delight users as they scroll down
+https://q42.github.io/delighters/
+
+ES2018: asynchronous iteration
+http://2ality.com/2016/10/asynchronous-iteration.html

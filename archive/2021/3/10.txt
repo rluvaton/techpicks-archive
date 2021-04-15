@@ -1,0 +1,35 @@
+TechPicks 10/03/2021 -
+
+Update your git client: malicious repositories can execute remote code while cloning
+https://github.blog/2021-03-09-git-clone-vulnerability-announced/
+
+Half of curl’s vulnerabilities are C mistakes
+https://daniel.haxx.se/blog/2021/03/09/half-of-curls-vulnerabilities-are-c-mistakes/
+
+Ultralist - Command-line task management for tech folks
+https://ultralist.io/
+
+Tips and tricks on writing better end to end tests
+https://cdohotaru.medium.com/principles-of-end-to-end-web-testing-7fa7d27d7826
+
+React authentication, simplified
+https://davidwalsh.name/react-authentication-2
+
+Introducing Relay Hooks: Improved React APIs for Relay
+https://developers.facebook.com/blog/post/2021/03/09/introducing-relay-hooks-improved-react-apis-relay/
+
+Stoxy, a reactive State Management API equipped with Web Components
+https://stoxy.dev/
+
+Why asynchronous Rust doesn't work
+https://theta.eu.org/2021/03/08/async-rust-2.html
+
+Webpack 5 and next-gen tooling for Storybook
+https://storybook.js.org/blog/storybook-for-webpack-5/
+
+Signal Appears To Have Abandoned Their AGPL-licensed Server Sourcecode
+https://linuxreviews.org/Signal_Appears_To_Have_Abandoned_Their_AGPL-licensed_Server_Sourcecode
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

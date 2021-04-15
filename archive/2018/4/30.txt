@@ -1,0 +1,33 @@
+TechPicks 30/04/2018
+
+You Don’t Need Redux, MobX, RxJS, Cerebral
+https://medium.com/@foxdonut00/you-dont-need-redux-mobx-rxjs-cerebral-6a735b150a02
+
+How to use Staticman to add dynamic content to a static website — fast
+https://snipcart.com/blog/staticman-dynamic-content-static-website
+
+How we achieved 51% efficiency in button loading speed
+https://medium.com/the-inkmonk/how-we-achieved-51-efficiency-in-button-loading-speed-86c786ef8e6d
+
+Parallel programming in JavaScript
+https://medium.com/@thatisuday/8f921f2d26db
+
+Myths Programmers Believe about CPU Caches
+https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/
+
+CPU Utilization is WRONG, and Linux CPU performance in 2018: 5 minute lightning talk
+https://opensource.com/article/18/4/cpu-utilization-wrong
+
+Why we are no longer using the Ionic Framework
+https://www.youtube.com/watch?v=MeBNODUCLfc&feature=youtu.be
+
+Meet Material-UI — your new favorite user interface library
+https://medium.freecodecamp.org/meet-your-material-ui-your-new-favorite-user-interface-library-6349a1c88a8c
+
+CSS environment variables env() are getting standardized
+https://twitter.com/malyw/status/990569495432450048
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

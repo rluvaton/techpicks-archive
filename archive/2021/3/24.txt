@@ -1,0 +1,32 @@
+TechPicks 24/03/2021 -
+
+Soda -test - package for unit and component testing for Node.js and Angular projects
+https://github.com/ranhs/soda-test
+
+Nicely asking our users to update the app through an XSS attack
+https://blog.usedevbook.com/nicely-asking-our-users-to-update-the-app-through-an-xss-attack/
+
+Official CSS Nesting – the last piece of the puzzle
+https://benfrain.com/official-css-nesting-the-last-piece-of-the-puzzle/
+
+Linus Torvalds on where Rust will fit into Linux
+https://www.zdnet.com/article/linus-torvalds-on-where-rust-will-fit-into-linux/
+
+Taming Blend Modes: difference and exclusion
+https://css-tricks.com/taming-blend-modes-difference-and-exclusion/
+
+The worst so-called “best practice” for Docker
+https://pythonspeed.com/articles/security-updates-in-docker/
+
+3 times I used my knowledge of data structures on the job
+https://meekg33k.dev/3-times-i-used-my-knowledge-of-data-structures-on-the-job
+
+Every use of useEffect should be a custom hook with a damn good name
+https://kyleshevlin.com/use-encapsulation
+
+Darker Corners of Go
+https://rytisbiel.com/2021/03/06/darker-corners-of-go/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,45 @@
+TechPicks 24/05/2018 -
+
+At today's TC39 meeting, #SmooshGate was resolved by renaming flatten to flat
+https://twitter.com/mathias/status/999101901697363969
+
+React v16.4.0: Pointer Events
+https://reactjs.org/blog/2018/05/23/react-v-16-4.html
+
+Algorithms and Data Structures in JavaScript
+https://github.com/trekhleb/javascript-algorithms
+
+How I started loving Vue
+https://medium.com/@igogrek/how-i-started-loving-vue-d41c1c8e77e1
+
+CSS Grid: More flexibility with minmax() by Michelle Barker
+https://codepen.io/michellebarker/post/css-grid-more-flexibility-with-minmax
+
+30 years from now, the goto will still be alive and well and used as widely as it is today
+https://ieeexplore.ieee.org/document/1556500/
+
+Backdoor Account Found in D-Link DIR-620 Routers
+https://www.bleepingcomputer.com/news/security/backdoor-account-found-in-d-link-dir-620-routers/
+
+A retrospective on moving from Go to Clojure
+https://www.youtube.com/watch?v=3y7xzH8jB8A
+
+Rebuilding from scratch - one year later
+https://techblog.luxgroup.com/cutting-your-losses-c895612dd27c
+
+Ignore the hype over big tech. Its products are mostly useless
+https://www.theguardian.com/commentisfree/2018/may/21/big-tech-products-silicon-valley
+
+How to convince your boss and your fellow devs that you are right (and they are wrong). 
+https://medium.freecodecamp.org/how-to-convince-your-boss-and-your-fellow-devs-that-you-are-right-and-they-are-wrong-
+
+Interviewing for a developer role? Don't say this.
+https://hackernoon.com/things-you-should-never-say-when-interviewing-for-a-developer-role-138609321d7b
+
+Intel is testing self-driving cars in 'challenging' Jerusalem conditions
+https://www.engadget.com/amp/2018/05/17/intel-mobileye-self-driving-cars-jerusalem-autonomous/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

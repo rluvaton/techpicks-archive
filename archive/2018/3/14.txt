@@ -1,0 +1,37 @@
+TechPicks 14/03/2018 - 
+
+Effective Function Parameters in Javascript
+https://medium.com/@jessejorgenson/effective-function-parameters-in-javascript-1c4f2f4602ee
+
+typescript-starter CLI – quickly generate a new TypeScript library or Node.js project
+https://github.com/bitjson/typescript-starter
+
+Optimizing Load Times With the ChromeDev Tools
+https://www.lucidchart.com/techblog/2018/03/13/the-critical-path-optimizing-load-times-with-the-chromedev-tools/
+
+What to do when tech jobs go bad
+https://medium.com/@xevix/what-to-do-when-tech-jobs-go-bad-93e631a1bdc9
+
+You Might Not Need The Virtual DOM
+http://blog.functorial.com/posts/2018-03-12-You-Might-Not-Need-The-Virtual-DOM.html
+
+An introduction to securing OAuth2 for mobile, native, browser apps
+https://www.ory.sh/oauth2-for-mobile-app-spa-browser/
+
+Gödel's First Incompleteness Theorem for Programmers
+https://dvt.name/2018/03/12/godels-first-incompleteness-theorem-programmers/
+
+You need to know curry
+https://github.com/n0ruSh/the-art-of-reading/issues/5
+
+Check out these beginner-friendly unit testing patterns for React
+https://medium.freecodecamp.org/unit-testing-patterns-for-react-720a8275873b
+
+Stealing Bitcoin using NPM namesquatting
+https://medium.com/@jonnyburger/stealing-bitcoin-with-npm-namesquatting-3891681a9953
+
+Modern, Efficient & Lightweight typing effect
+https://github.com/linasmnew/typing-effect-react
+
+Creating a microservice in NodeJs
+http://www.syntaxsuccess.com/viewarticle/creating-a-microservice-in-nodejs

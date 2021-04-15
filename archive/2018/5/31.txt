@@ -1,0 +1,39 @@
+TechPicks 31/05/2018 -
+
+Hello WebAssembly
+https://medium.com/@caspervonb/hello-webassembly-882bba5c9fb7
+
+A couple of videos on Puppeteer; scraping, taking screenshots and generating PDF files
+https://www.youtube.com/playlist?list=PLsV08vdR7NUY1fPPbYPisi3Sj-u8i9jPf
+
+Malicious Git Repository Can Lead to Code Execution on Remote Systems
+https://www.bleepingcomputer.com/news/security/malicious-git-repository-can-lead-to-code-execution-on-remote-systems/
+
+AI winter is well on its way
+https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/
+
+Sonic and ultrasonic attacks damage hard drives and crash OSes
+https://arstechnica.com/information-technology/2018/05/attackers-can-send-sounds-to-ddos-video-recorders-and-pcs/
+
+Git diff and merge on Word docs, using Word's native support
+https://github.com/Gaelan/WordGit
+
+Free Node.js hosting for open source projects - opeNode.io
+https://www.openode.io/
+
+How JavaScript works: Parsing, Abstract Syntax Trees (ASTs) + 5 tips on how to minimize parse time
+https://blog.sessionstack.com/how-javascript-works-parsing-abstract-syntax-trees-asts-5-tips-on-how-to-minimize-parse-time-abfcf7e8a0c8
+
+Using shadow DOM - Web Components
+https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM
+
+The 80-20 Approach to Sustainable SCSS
+https://zendev.com/2018/05/30/the-80-20-approach-to-sustainable-scss.html
+
+Consent based data sharing - Taming GDPR at the design level
+https://lasithapetthawadu.wordpress.com/2018/05/30/consent-based-data-sharing-taming-gdpr-at-the-design-level/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

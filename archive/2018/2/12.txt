@@ -1,0 +1,28 @@
+TechPicks 12/02/2018 - 
+
+Self-taught, free CS education
+https://teachyourselfcs.com/
+
+Web development technologies you can learn in 2018 – Connor Leech – Medium
+https://medium.com/@connorleech/web-development-technologies-you-can-learn-in-2018-ab643dd2fe0f
+
+Autoprefixer 8.0 was released with Browserslist 3.0
+https://github.com/postcss/autoprefixer/releases/tag/8.0.0
+
+The Ultimate Guide to Kicking Ass on Take-home Coding Challenges
+https://www.fullstackinterviewing.com/2018/02/02/the-ultimate-guide-to-kicking-ass-on-take-home-coding-challenges.html
+
+Let’s talk about usernames
+https://www.b-list.org/weblog/2018/feb/11/usernames/
+
+How and why mkdev moved to Vue.js
+https://mkdev.me/en/posts/how-and-why-mkdev-moved-to-vue-js
+
+Slack is the opposite of organizational memory
+https://abe-winter.github.io/plea's/help/2018/02/11/slack.html
+
+The futile comfort of working long hours
+https://codewithoutrules.com/2018/02/11/working-long-hours/
+
+Made a library to compute evenly spaced streamlines
+https://github.com/anvaka/streamlines#streamlines

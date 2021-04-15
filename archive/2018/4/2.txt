@@ -1,0 +1,40 @@
+TechPicks 02/04/2018 -
+
+Cloudflare announces 1.1.1.1: the fastest, privacy-first consumer DNS service
+https://blog.cloudflare.com/announcing-1111/
+
+JSX++
+https://github.com/streamich/jsx-plus-plus
+
+Do you hate regex? Well then, I have a solution for you...
+https://medium.freecodecamp.org/pregx-for-those-who-wish-to-dodge-regex-250e4a484ee0
+
+[Prototype] babel-plugin-tensorflow: Write TensorFlow.js math operations in native Javascript syntax
+https://github.com/bary12/babel-plugin-tensorflow
+
+The Next Development model is Node JS Development
+https://www.bacancytechnology.com/blog/nodejs-next-development-model
+
+Anna: a Key-Value store that outperforms Redis on orders of magnitude
+https://blog.acolyer.org/2018/03/27/anna-a-kvs-for-any-scale/
+
+Fifty (or Sixty) Years of Processor Development…for This?
+https://www.eejournal.com/article/fifty-or-sixty-years-of-processor-developmentfor-this/
+
+DigitalOcean Block Storage down for 12 hours and counting at FRA1
+https://status.digitalocean.com/incidents/8sk3mbgp6jgl
+
+Golang patterns everybody should know
+https://dev.to/napicellatwit/golang-patterns-5a64
+
+ink-gradient - Gradient colors in the terminal
+https://github.com/sindresorhus/ink-gradient
+
+Announcing ZeroVer: Cutting-edge software versioning for minimalists
+https://0ver.org
+
+Setting up a functional and good looking frontend toolset
+https://medium.com/@bojan.ivanac/setting-up-a-functional-and-good-looking-frontend-toolset-40a257841c7e
+
+April Fools’ Day 2018: the best (and lamest) pranks 
+https://www.theverge.com/platform/amp/2018/4/1/17185652/april-fools-day-2018-pranks-jokes-best-worst-lamest

@@ -1,0 +1,39 @@
+TechPicks 29/05/2018 -
+
+{Pro}Coders Best Practice Series - Refactoring
+https://vimeo.com/272230580
+
+Painless HTML email coding
+https://medium.com/applantic/painless-html-email-coding-fdbe2fcc56b8
+
+Learn MERN stack hacks
+https://github.com/rosariorussell/Learn-MERN-stack-hacks
+
+Gooact: React in 160 lines of JavaScript
+https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f
+
+Everything you need to know about css flexbox in under 9 minutes.
+https://youtu.be/4GaHn08BXQw
+
+NPM suddenly fails worldwide with "ERR! 418 I'm a teapot" error.
+https://github.com/npm/npm/issues/20791
+
+VS Code - Hype development, suspicious engineering
+http://david-grs.github.io/hype_development_suspicious_engineering/
+
+Math: from hate to love
+https://dev.to/acoh3n/math-from-hate-to-love-6gn
+
+Getting started with OAuth2 in Go
+https://youtu.be/OdyXIi6DGYw
+
+An Example of How Software Becomes Complicated
+https://dev.to/jorinvo/an-example-of-how-software-becomes-complicated-ahf
+
+Clean Code Practice In Javascript
+https://www.atyantik.com/clean-code-practices-javascript/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

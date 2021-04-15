@@ -1,0 +1,40 @@
+TechPicks 01/04/2018 -
+
+Quack Overflow: Stack Overflow's new duck listens to your problems and helps you solve them
+https://stackoverflow.com
+
+The Node.js Ecosystem Is Chaos
+https://medium.com/@caspervonb/the-internet-is-at-the-mercy-of-a-handful-of-people-73fac4bc5068
+
+Dramatiq - An alternative to Celery
+https://dramatiq.io
+
+Introducing TensorFlow.js, a WebGL accelerated, browser based JavaScript library for training and deploying ML models
+https://js.tensorflow.org
+
+Finding a prime number whose binary representation is a giraffe (or a T-Rex)
+https://www.agiliq.com/blog/2018/01/prime-number-binary-trex/
+
+Turning simple plaintext files into mindmaps
+https://github.com/cdreier/mind-surf
+
+Colors.sh helps you put colors and format to your bash scripts.
+http://colors.sh/
+
+Nothing.js - A chainable, callable mock object which always returns itself
+https://github.com/slmgc/Nothing
+
+The right way to distribute messages effectively in serverless applications
+https://medium.com/epsagon/the-right-way-to-distribute-messages-effectively-in-serverless-applications-f427e4229e67
+
+Introducing Web Pi The Raspberry Pi Web Interface
+https://www.chris-shaw.com/blog/introducing-web-pi-the-raspberry-pi-web-interface
+
+You can't Rust that
+http://lucumr.pocoo.org/2018/3/31/you-cant-rust-that/
+
+PostgreSQL at 20TB and Beyond: Analytics at a Massive Scale
+https://www.youtube.com/watch?v=BgcJnurVFag
+
+The Simple Learning System
+http://codecareergenius.com/simple-learning-system/

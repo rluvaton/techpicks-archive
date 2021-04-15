@@ -1,0 +1,45 @@
+TechPicks 16/05/2018 -
+
+The Slow Death of Internet Explorer and the Future of Progressive Enhancement
+https://alistapart.com/article/the-slow-death-of-internet-explorer-and-future-of-progressive-enhancement
+
+How to record and play audio in JavaScript
+https://medium.com/@bryanjenningz/how-to-record-and-play-audio-in-javascript-faa1b2b3e49b
+
+Natural Language Processing and Machine Learning in JavaScript
+https://medium.com/@daffl/natural-language-processing-and-machine-learning-in-javascript-249181a3b721
+
+How to use the Speech Synthesis API
+https://flaviocopes.com/speech-synthesis-api/
+
+A CLI game to learn Vim
+https://www.ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/
+
+Google's bash style guide
+https://google.github.io/styleguide/shell.xml
+
+Safe ways to do things in bash
+https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md
+
+Signale - Elegant & Hackable Console Logger for Nodejs
+https://github.com/klauscfhq
+
+Write code that’s easy to delete, and easy to debug too.
+https://programmingisterrible.com/post/173883533613/code-to-debug
+
+Demystifying functional programming (in a real company)
+https://medium.com/building-nubank/demystifying-functional-programming-in-a-real-company-e954a2591504
+
+Look busy doing nothing.
+https://github.com/svenstaro/genact/blob/master/README.md
+
+Google’s Plan To Make Tech Less Addictive
+https://www.fastcodesign.com/90171307/googles-plan-to-make-tech-less-addictive
+
+Making More with Material
+https://design.google/library/making-more-with-material/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

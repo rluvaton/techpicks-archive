@@ -1,0 +1,37 @@
+TechPicks 08/04/2018 -
+
+Awesome list on Distributed Systems
+https://github.com/rShetty/awesome-distributed-systems
+
+Awesome list of important Podcasts for software engineers
+https://github.com/rShetty/awesome-podcasts
+
+Pattern-Book - A Pattern Library (Style Guide) designed to be easier to maintain
+https://springload.github.io/pattern-book/
+
+OpenGL bindings for Bash
+https://opensource.com/article/18/4/opengl-bindings-bash
+
+A few tips to approach continuous user input (like dragging)
+https://medium.com/react-code-review-excerpts/how-to-fix-continuous-user-interaction-lag-react-native-b94fb6909a90
+
+The Graphing Calculator Story - an Apple engineer who refused to leave
+http://www.nucalc.com/Story/
+
+12 Git tips for Git's 12th birthday
+https://opensource.com/article/18/4/12-git-tips-gits-12th-birthday
+
+CSS3 Checkbox Switch Generator (🎈No additional element needed🎈)
+https://mburakerman.com/css3-checkbox-switch-generator/
+
+Got code quality issues? Stop looking at dashboards and start failing your build
+https://medium.com/@interpfister/got-code-quality-issues-stop-looking-at-dashboards-and-start-failing-your-build-f75611724169
+
+Abstractions, The Costs
+https://medium.com/@kaveh.shahbazian/abstractions-the-costs-b0c00835aa8d
+
+Why and how GitLab abandoned Microsoft Azure for Google Cloud
+https://venturebeat.com/2018/04/06/why-and-how-gitlab-abandoned-microsoft-azure-for-google-cloud/
+
+Burnout: stories we must share
+https://medium.com/burnout-lets-reignite-the-flame/burnout-stories-we-must-share-888ff255078d
