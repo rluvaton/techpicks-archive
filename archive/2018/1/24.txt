@@ -1,0 +1,22 @@
+TechPicks 24/01/2018 -
+
+2018 Developer Skills Report by HackerRank
+https://research.hackerrank.com/developer-skills/2018/
+
+Vulnerability disclosure for Node.js third-party modules on HackerOne
+https://hackerone.com/nodejs-ecosystem?view_policy=true
+
+I Am a 9 to 5 Developer
+https://exceptionnotfound.net/i-am-a-9-to-5-developer-and-so-can-you/
+
+Make Your Code Cleaner, Shorter and Easier to Read! ES6 Tips and Tricks.
+https://dev.to/samwsoftware/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-2k37
+
+80's kids started programming at an earlier age than today's millennials
+https://thenextweb.com/dd/2018/01/23/report-80s-kids-started-programming-at-an-earlier-age-than-todays-millennials/
+
+React and HTML : Beware of the traps
+http://blog.theodo.fr/2018/01/react-html-beware-traps/
+
+Create reusable high-order React components with Recompose
+https://dev.to/scastiel/create-reusable-high-order-react-components-with-recompose-45io

@@ -1,0 +1,54 @@
+TechPicks 09/05/2018 -
+
+The six biggest announcements from Microsoft Build 2018
+https://www.theverge.com/2018/5/8/17319908/microsoft-build-conference-2018-news-recap-highlights-windows-10
+
+The 10 biggest announcements from Google I/O 2018
+https://www.theverge.com/platform/amp/2018/5/8/17328828/google-io-keynote-summary-highlights-news-recap-2018
+
+Proton Native - React Native for the desktop, cross compatible
+https://proton-native.js.org
+
+promise-fun - Promise utilities for every occasion
+https://github.com/sindresorhus/promise-fun
+
+Twitter Sentiment Analysis using Node.js
+http://sofpro.xyz/twitter-sentiment-analysis-using-nodejs
+
+Windows Notepad will soon have Unix line ending support
+https://blogs.msdn.microsoft.com/commandline/2018/05/08/extended-eol-in-notepad/
+
+Conversations with a six-year-old on functional programming
+https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/
+
+A statement in the Intel SDM was mishandled in the development of some or all operating-system kernels, resulting in unexpected behavior for some traps
+http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-8897
+
+Backdoor in ssh-decorator package
+https://www.reddit.com/r/Python/comments/8hvzja/backdoor_in_sshdecorator_package/
+
+Energy Efficiency across Programming Languages
+https://sites.google.com/view/energy-efficiency-languages
+
+std::iterator is deprecated: Why, What It Was, and What to Use Instead
+https://www.fluentcpp.com/2018/05/08/std-iterator-deprecated/
+
+Visual Studio 2017 version 15.7 released
+https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes
+
+Math Can’t Solve Everything: Questions We Need To Be Asking Before Deciding an Algorithm is the Answer
+https://www.eff.org/deeplinks/2018/05/math-cant-solve-everything-questions-we-need-be-asking-deciding-algorithm-answer
+
+A Stick Figure Guide to the Advanced Encryption Standard (AES)
+http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html
+
+Mario Cart in CSS
+https://codeburst.io/mario-kart-css-7572bd2ce608
+
+Who’s Winning the Self-Driving Car Race?
+https://www.bloomberg.com/news/features/2018-05-07/who-s-winning-the-self-driving-car-race
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

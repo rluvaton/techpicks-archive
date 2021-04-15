@@ -1,0 +1,16 @@
+TechPicks 22/01/2018 -
+
+The Death of Microservice Madness in 2018
+http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/
+
+A perfect guide for cracking a JavaScript interview (A developer’s perspective)
+https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d
+
+Donald Knuth turns 80, seeks problem-solvers for 'The Art of Computer Programming'
+https://developers.slashdot.org/story/18/01/21/1853236/donald-knuth-turns-80-seeks-problem-solvers-for-taocp
+
+Webpack 4 will adopt convention over configuration
+https://twitter.com/jdalton/status/951250082791227392
+
+Weird One Character Domain Superstore... a dumb weekend project that got out of control...
+https://weirdonecharacterdomainsuperstore.com

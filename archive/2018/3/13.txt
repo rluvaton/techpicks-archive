@@ -1,0 +1,76 @@
+TechPicks 13/03/3018 - 
+
+Stack Overflow Developer Survey 2018
+https://insights.stackoverflow.com/survey/2018/
+
+Web Worker(s) — Outsource your JavaScript
+https://develoger.com/web-worker-s-outsource-your-javascript-700db4fb80d
+
+Compressing and enhancing hand-written notes
+https://mzucker.github.io/2016/09/20/noteshrink.html
+
+MobX 4 has been released! Better, simpler, faster, smaller
+https://medium.com/@mweststrate/mobx-4-better-simpler-faster-smaller-c1fbc08008da
+
+How GraphQL Replaces Redux
+https://medium.com/@wmdmark/how-graphql-replaces-redux-3fff8289221d
+
+WebAssembly: What and What Next?
+https://m.youtube.com/watch?v=R9wn99Xheq4
+
+Overly defensive programming
+https://medium.com/@cvitullo/overly-defensive-programming-e7a1b3d234c2
+
+Unused CSS - Scan your website for unused CSS selectors
+https://www.jitbit.com/unusedcss/
+
+Zipson — JSON parse and stringify with compression and streaming support
+https://jgranstrom.github.io/zipson/
+
+Why we don't hire girls!
+https://www.10degrees.uk/blog/why-we-dont-employ-female-developers/
+
+JavaScript v. backward compatibility
+http://tonsky.me/blog/compatibility/
+
+26 Resources That Will Help You Master Microservices Monitoring
+https://medium.com/devopslinks/26-resources-that-will-help-you-master-microservices-monitoring-3801bf027c9b
+
+Using TypeScript With NodeJs
+http://www.syntaxsuccess.com/viewarticle/using-typescript-with-nodejs
+
+React & HTTP | Retrieving Crypto Currency Data.
+http://jsdiaries.com/2018/03/04/react-js-http-retrieving-crypto-currencies-data-from-an-api/
+
+How To Easily Share React Components Between Projects And Apps
+https://blog.bitsrc.io/how-to-easily-share-react-components-between-projects-3dd42149c09
+
+shades.js: immutable data updates have never looked this good
+https://github.com/jamesmcnamara/shades
+
+The Lost Art of the Makefile
+http://www.olioapps.com/blog/the-lost-art-of-the-makefile/
+
+Measuring the performance of your frontend application
+https://jsramblings.com/2018/03/04/measuring-the-performance-of-your-frontend-app.html
+
+The next generation of IT service providers
+https://medium.com/swlh/the-next-generation-of-it-service-providers-c929f30bdaea
+
+Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js
+https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs
+
+Input masking for redux-form has been made easy
+https://renato-bohler.github.io/redux-form-input-masks/
+
+StackBlitz: VSCode + Webpack in your browser
+https://stackblitz.com/
+
+Create hand drawn graphics using JavaScript – RoughJS
+http://roughjs.com/
+
+Why Frameworks Matter - Looking for Contributors (Angular, Ember, Preact, ...)
+https://github.com/rwieruch/why-frameworks-matter
+
+A Chrome extension that extends your Google search results on Github repos
+https://github.com/balzss/extended-search-results

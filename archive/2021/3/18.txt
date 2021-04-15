@@ -1,0 +1,38 @@
+TechPicks 18/03/2021 -
+
+GitHub, f*ck your name change
+https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe
+
+Hacking into Google's Network for $133,337
+https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html
+
+Illegal content and the blockchain
+https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
+
+How to Deal with Difficult People on Software Projects
+https://www.howtodeal.dev/
+
+CSS Generators
+https://www.smashingmagazine.com/2021/03/css-generators/
+
+The Complete CSS Animation Tutorial
+https://semicolon.dev/tutorial/css/css-animation-tutorial?css
+
+Microsoft's latest cloud authentication outage: What went wrong
+https://www.zdnet.com/article/microsofts-latest-cloud-authentication-outage-what-went-wrong/
+
+Can We Stop Pretending SMS Is Secure Now?
+https://krebsonsecurity.com/2021/03/can-we-stop-pretending-sms-is-secure-now/
+
+Unironically Using Kubernetes for my Blog
+https://mbuffett.com/posts/kubernetes-setup/
+
+Principles of Developer Experience
+https://cpojer.net/posts/principles-of-devx
+
+Announcing Windows Community Toolkit v7.0
+https://blogs.windows.com/windowsdeveloper/2021/03/16/announcing-windows-community-toolkit-v7-0/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

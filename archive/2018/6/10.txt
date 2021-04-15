@@ -1,0 +1,54 @@
+TechPicks 10/06/2018 -
+
+AR.js is bringing augmented reality to the web
+https://ednsquare.com/publisher/view/AR-js-is-bringing-augmented-reality-to-the-web-------MQGO4RLkyJ
+
+Hiding properties in JavaScript
+https://medium.com/@gregros/73b52def1589
+
+MobX 5: the saga continues…
+https://medium.com/@mweststrate/mobx-5-the-saga-continues-4852bce05572
+
+13,000 Projects Ditched GitHub for GitLab Monday Morning - Motherboard
+https://motherboard.vice.com/en_us/article/ywen8x/13000-projects-ditched-github-for-gitlab-monday-morning?utm_source
+
+Manipulating Pixels Using Canvas
+https://css-tricks.com/manipulating-pixels-using-canvas/
+
+4 CSS tricks I’ve learnt the hard way
+https://medium.com/p/aab1e7e8ff44/
+
+Windows 10 calendar border style (:hover)
+https://codepen.io/mr21/pen/dKGXrM
+
+The Hardest Program I've Ever Written
+http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/
+
+Why Microsoft Is Willing to Pay So Much for GitHub
+https://hbr.org/2018/06/why-microsoft-is-willing-to-pay-so-much-for-github
+
+Missing the point about microservice
+https://erikbern.com/2018/06/04/missing-the-point-about-microservices.html
+
+Chatbots were the next big thing: what happened?
+https://blog.growthbot.org/chatbots-were-the-next-big-thing-what-happened
+
+Nat Friedman, future CEO of Github on Reddit AMA
+https://www.reddit.com/r/AMA/comments/8pc8mf/im_nat_friedman_future_ceo_of_github_ama/
+
+Structural Types and Duck Typing
+https://blog.infinitenegativeutility.com/2018/5/structural-types-and-duck-typing
+
+The true meaning of unit testing
+https://codewithoutrules.com/2018/06/08/what-does-unittesting-mean/
+
+Falsehoods Programmers Believe About Hiring
+https://shubhamjain.co/2018/06/07/falsehoods-programmers-believe-about-hiring/
+
+Strings Are Evil – Indy Singh
+https://medium.com/@indy_singh/strings-are-evil-a803d05e5ce3
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

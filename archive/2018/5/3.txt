@@ -1,0 +1,48 @@
+TechPicks 03/05/2018 -
+
+Building a *useful* real-world CLI with Node.js
+https://timber.io/blog/creating-a-real-world-cli-app-with-node
+
+Latest Humble Bundle includes a 6 month subscription to Egghead.io for $20
+https://www.humblebundle.com/software/python-dev-kit-bundle
+
+Backdoor injected to NPM express-cookies package
+https://news.ycombinator.com/item?id=16975025
+
+Learn GraphQL by querying JSON
+https://www.graphql.college/practice-graphql
+
+npm tip: you can run npx node@6 to test your code in a specific version of Node
+https://twitter.com/maybekatz/status/991394530682261504
+
+Adding BigInts to V8
+https://v8project.blogspot.com/2018/05/bigint.html
+
+Getting started with Rust and Web Assembly
+https://freemasen.github.io/wasm_tutorial/
+
+Google Maps API to become a paid Service
+https://cloud.google.com/maps-platform/pricing/#details
+
+CSS Grid generator for building layouts
+https://www.layoutit.com/grid
+
+86% of Passwords are Terrible (and Other Statistics)
+https://www.troyhunt.com/86-of-passwords-are-terrible-and-other-statistics/
+
+Rushed testing, poor communication played role in British TSB outage
+https://uk.reuters.com/article/uk-britain-tsb/rushed-testing-poor-communication-played-role-in-british-tsb-outage-contractors-idUKKBN1I2460
+
+TorchCraft is a library that enables AI research on real-time strategy (RTS) games such as StarCraft: Brood War
+https://facebook.ai/developers/tools/torchcraft
+
+How to handle environment-specific settings in your JavaScript apps 
+https://medium.freecodecamp.org/environment-settings-in-javascript-apps-c5f9744282b6
+
+How I crushed my fear of open source and started my own project — and how you can, too. 
+https://medium.freecodecamp.org/how-i-crushed-my-fear-of-open-source-and-started-my-own-project-and-how-you-can-too-ddcfed041a2f
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

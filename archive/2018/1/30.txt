@@ -1,0 +1,31 @@
+TechPicks 30/01/2018 - 
+
+Choose Your Adventure guide on undoing your git fuckup.
+https://sethrobertson.github.io/GitFixUm/fixup.html
+
+Employers want JavaScript, but developers want Python
+https://www.infoworld.com/article/3251506/it-careers/employers-want-javascript-but-developers-want-python.html
+
+The TC39 has spoken: new features in ES2018
+https://twitter.com/mathias/status/956970099063189505
+
+styled-components v3.1.0: v3.1.0: A massive performance boost and streaming server-side rendering support
+https://medium.com/styled-components/v3-1-0-such-perf-wow-many-streams-c45c434dbd03
+
+JavaScript Decorators for More Declarative, Readable, and Efficient Code
+http://blog.mgechev.com/2018/01/29/javascript-decorators-aop-autobind-memoization/
+
+Javascript Objects and Prototypes In-depth
+https://javabrains.io/courses/corejs_objectsprototypes/
+
+Asynchronous patterns in Javascript
+https://medium.com/spendesk-engineering/asynchronous-patterns-in-javascript-9728eede410b
+
+The Developer’s Guide to Choosing the Least Shitty APIs
+https://blog.ipinfo.io/the-developers-guide-to-choosing-the-least-shitty-apis-36894164566e
+
+12 best practices for user account, authorization and password management
+https://cloudplatform.googleblog.com/2018/01/12-best-practices-for-user-account.html
+
+Laws of UX
+https://lawsofux.com/

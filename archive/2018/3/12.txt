@@ -1,0 +1,70 @@
+TechPicks 12/03/2018 - 
+
+Driver.js – A lightweight engine to drive user's focus across the page
+http://kamranahmed.info/driver
+
+The Problem with Webpack and Why It Is (Kind of) Our Fault
+https://medium.com/@allanbaptista/the-problem-with-webpack-8a025268a761
+
+How to Architect complex UI components in React – Medium
+https://medium.com/prolanceer/how-to-architect-complex-ui-components-in-react-27042ff3689f
+
+Using TypeScript With NodeJs
+http://www.syntaxsuccess.com/viewarticle/using-typescript-with-nodejs
+
+Bitwise
+https://github.com/pervognsen/bitwise/blob/master/README.md
+
+Learn about computers by building one
+http://nand2tetris.org/course.php
+
+Building a Mobile App in 10 Days with React Native
+https://medium.com/@austinhale/building-a-mobile-app-in-10-days-with-react-native-c2a7a524c6b4
+
+Dawn of the Dead NPM Packages
+https://www.react-reveal.com/blog/npm/
+
+HeidiSQL - MySQL, MSSQL and PostgreSQL GUI for Windows
+https://www.heidisql.com/
+
+Smooshing JavaScript
+https://dev.to/kayis/smooshing-javascript--5dpc
+
+Mutag – A simple library to get metadata of MP3 files.
+https://github.com/chunqiuyiyu/mutag
+
+Nodorithm - an NPM package for calling commonly used searching and sorting algorithms.
+https://github.com/sharadbhat/nodorithm
+
+How your ethereum can be stolen through DNS rebinding
+https://ret2got.wordpress.com/2018/01/19/how-your-ethereum-can-be-stolen-using-dns-rebinding/
+
+The Definitive C++ Book Guide and List
+https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
+
+Introducing Licensed by Github
+https://githubengineering.com/improving-your-oss-dependency-workflow-with-licensed/
+
+Nine months with Vim
+https://routley.io/tech/2018/03/11/nine-months-with-vim.html
+
+7 Super Useful Aliases to make your development life easier
+https://codeburst.io/7-super-useful-aliases-to-make-your-development-life-easier-fef1ee7f9b73
+
+DependenSi - Generates component dependency graphs for Angular2+ projects
+https://github.com/janbro/dependensi-angular
+
+Every new Android P feature we have found so far
+https://www.androidpolice.com/2018/03/10/every-new-android-p-feature-weve-found-far-continuously-updated/
+
+620+ Free Online Programming & Computer Science Courses You Can Start in March 
+https://medium.freecodecamp.org/620-free-online-programming-computer-science-courses-you-can-start-in-march-68af9d45a115
+
+Font (More) Awesome — an iconic invention
+https://medium.freecodecamp.org/lets-use-font-more-awesome-to-make-an-iconic-invention-a95324d92ace
+
+The Emoji That Killed Chrome!
+https://www.youtube.com/watch?v=15jmfc1JavA&feature=youtu.be
+
+John Cleese on Creativity In Management
+https://www.youtube.com/watch?v=Pb5oIIPO62g

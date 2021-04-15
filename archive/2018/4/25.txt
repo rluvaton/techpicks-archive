@@ -1,0 +1,45 @@
+TechPicks 25/04/2018 -
+
+Lessons Learned — A Year Of Going “Fully Serverless” In Production
+https://hackernoon.com/lessons-learned-a-year-of-going-fully-serverless-in-production-3d7e0d72213f
+
+Announcing npm@6 – npm, Inc. – Medium
+https://medium.com/npm-inc/announcing-npm-6-5d0b1799a905
+
+What’s New in Node 10 – Node.js v10 Released! • r/node
+https://www.reddit.com/r/node/comments/8eluzg/whats_new_in_node_10_nodejs_v10_released_today/
+
+Learn to visualize data with this free D3.js course
+https://medium.freecodecamp.org/learn-to-visualize-data-with-this-free-d3-js-course-2433b060f9dc
+
+CSS at Scale: LinkedIn’s New Open Source Projects Take on Stylesheet Performance
+https://engineering.linkedin.com/blog/2018/04/css-at-scale--linkedins-new-open-source-projects-take-on-stylesh
+
+Getting Laid Off In Tech - we forget that while we’ve prospered, we haven’t achieved real security
+https://hackernoon.com/getting-laid-off-in-tech-4e3efed8649b
+
+Microsoft announces a C++ library manager for Linux, macOS and Windows
+https://blogs.msdn.microsoft.com/vcblog/2018/04/24/announcing-a-single-c-library-manager-for-linux-macos-and-windows-vcpkg/
+
+Oracle enforcing commercial licenses in 2019
+https://www.reddit.com/r/sysadmin/comments/8emu1l/oracle_quietly_announces_java_required_licensing/?utm_source=reddit-android
+
+The Worst API Ever Made - Casey Muratori (2014)
+https://caseymuratori.com/blog_0025
+
+PostgreSQL's fsync() surprise
+https://lwn.net/SubscriberLink/752063/285524b669de527e/
+
+Expression Splicing in C#
+https://balefrost.github.io/expression_splicing.html
+
+Illustrated Guide to Covariance and Contravariance (in Kotlin, but applies to many languages)
+https://typealias.com/guides/illustrated-guide-covariance-contravariance/
+
+Amazon EC2 now Offers Microsoft SQL Server on Ubuntu and Amazon Linux 2 AMIs
+https://aws.amazon.com/about-aws/whats-new/2018/04/amazon-ec2-now-offers-microsoft-sql-server-on-ubuntu-and-amazon-linux-2-amis/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

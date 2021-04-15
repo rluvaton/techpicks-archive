@@ -1,0 +1,50 @@
+Hi guys & gals,
+
+TechPicks has a new Telegram group. Updates will be posted to both the channel and group, for the sake of those who only want to be a part in one of those and not both.
+
+Join us via https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw :) Console copy and paste functionality
+https://betanews.com/2018/04/14/microsoft-windows-linux-wsl-copy-paste/
+
+Infinite recursion in JavaScript with infinistack
+https://github.com/crubier/infinistack
+
+Eight-bit floating point
+https://www.johndcook.com/blog/2018/04/15/eight-bit-floating-point/
+
+Loading Third-Party JavaScript
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/
+
+Tweetstorm: Arguments to dismiss blockchain today are similar to the arguments used to dismiss the web around 1993/1994
+https://mobile.twitter.com/stevesi/status/983751377070391296
+
+Explaining async/await. Creating dummy promises.
+https://wanago.io/2018/04/16/explaining-async-await-creating-dummy-promises/
+
+Microsoft has given up 'significant sales' over concerns that the customer will use AI for evil, says a top scientist
+http://uk.businessinsider.com/microsoft-gives-up-artificial-intelligence-sales-over-ethical-concerns-2018-4
+
+Namazu: Programmable fuzzy scheduler for testing distributed systems
+https://github.com/osrg/namazu
+
+Designing decentralized apps for the Ethereum Blockchain
+https://techtake.info/2018/04/15/designing-decentralized-apps-for-the-ethereum-blockchain/
+
+Asynchronous Javascript Patterns: Exclusive Task
+https://blog.bloomca.me/2018/04/15/asynchronous-javascript-pattern-exclusive-task.html
+
+Unicorn: A magical unit testing framework for C
+https://github.com/vberlier/unicorn
+
+Performance Engineering and the lessons learned about how to become a better developer
+http://saurabhbadhwar.xyz/blog/2018/04/15/performance-engineering-helping-become-better-developer/
+
+Unlocking the JavaScript Code Interview (an Interviewer Perspective)
+https://medium.com/appsflyer/unlocking-the-javascript-code-interview-an-interviewer-perspective-f4fe06246b29
+
+An Apology for the Internet — From the Architects Who Built It
+http://nymag.com/selectall/2018/04/an-apology-for-the-internet-from-the-people-who-built-it.html
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

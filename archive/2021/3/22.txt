@@ -1,0 +1,20 @@
+TechPicks 22/03/2021 -
+
+Switching from WordPress to GatsbyJS
+https://thewooleyway.substack.com/p/switching-from-wordpress-to-gatsbyjs
+
+The dispassionate developer
+https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer/
+
+Computer Networking Basics Every Developer Should Know
+https://iximiuz.com/en/posts/computer-networking-101/?utm_medium=reddit&utm_source=r_programming
+
+How to Design Programs, Second Edition
+https://htdp.org/2018-01-06/Book/index.html
+
+Giving more tools to software engineers: the reorganization of the factory · Erik Bernhardsson
+https://erikbern.com/2020/12/16/giving-more-tools-to-software-engineers-the-reorganization-of-the-factory.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

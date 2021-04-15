@@ -1,0 +1,51 @@
+TechPicks 15/05/2018 -
+
+Elad Shechter - Becoming a CSS Grid Ninja!
+https://medium.com/@elad/becoming-a-css-grid-ninja-f4c6db018cc1
+
+Critical PGP and S/MIME bugs can reveal encrypted e-mails. Uninstall now
+https://arstechnica.com/information-technology/2018/05/critical-pgp-and-smime-bugs-can-reveal-encrypted-e-mails-uninstall-now/
+
+Accessing the Clipboard in JavaScript Using the Async Clipboard API
+https://alligator.io/js/async-clipboard-api/
+
+Whootstrap: Create custom themes for Bootstrap 4
+http://whootstrap.themes.guide
+
+Using trampolines to manage large recursive loops in JavaScript
+https://blog.logrocket.com/using-trampolines-to-manage-large-recursive-loops-in-javascript-d8c9db095ae3
+
+Another Collection of Interesting Facts About CSS Grid
+https://css-tricks.com/another-collection-of-interesting-facts-about-css-grid/
+
+11 Best Programming Fonts
+http://medium.com/@charleeli/724283a9ed57
+
+Teach yourself programming in ten years
+http://norvig.com/21-days.html
+
+530 Free Online Programming & Computer Science Courses You Can Start in May
+https://medium.freecodecamp.org/530-free-online-programming-computer-science-courses-you-can-start-in-may-5e82f5307867
+
+Naive benchmark (Treap implementation) of C++, Rust, Java, JavaScript, Kotlin, Swift, Nim, and Python
+https://github.com/frol/completely-unscientific-benchmarks
+
+Security Flaw Impacts Electron-Based Apps
+https://www.bleepingcomputer.com/news/security/security-flaw-impacts-electron-based-apps/
+
+Opt out from StackOverflow arbitration before it's too late.
+https://www.reddit.com/r/PHP/comments/8ipgmt/stackoverflow_optout_of_new_tos_before_deadline/
+
+Questions to ask your interviewer (part 1)
+https://medium.com/p/questions-to-ask-your-interviewer-82a26e67ce6c
+
+Let me do my damn job or do it yourself
+https://dev.to/spirodonfl/let-me-do-my-damn-job-or-do-it-yourself-28j6
+
+Enter the Matrix – A technical overview and guide to all things Matrix (clickbait title, T.K)
+https://brendan.abolivier.bzh/enter-the-matrix/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

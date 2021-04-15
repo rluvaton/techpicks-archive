@@ -1,0 +1,42 @@
+TechPicks 21/05/2018 -
+
+How to write a frontend JavaScript plugin using ES6 + SASS + Webpack
+http://medium.com/@thatisuday/a1c6d6fdeb71
+
+Git: no deep s!@# guide
+https://rogerdudler.github.io/git-guide/
+
+New CSS Features That Are Changing Web Design
+https://www.smashingmagazine.com/2018/05/future-of-web-design/
+
+"To all you that are trying to tell people they can become professionals in just a few weeks JUST to sell your product - shame on you!"
+https://www.youtube.com/watch?v=DCcE6SQuK4w
+
+Ten Years of Vim
+https://matthias-endler.de/2018/ten-years-of-Vim/
+
+Speeding up Zsh and Oh-My-Zsh
+https://blog.jonlu.ca/posts/speeding-up-zsh
+
+How to write unmaintainable code: naming
+http://mindprod.com/jgloss/unmainnaming.html
+
+The memory models that underlie programming languages
+http://canonical.org/~kragen/memory-models/
+
+Introducing Git protocol version 2
+https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html
+
+GDPR: Don't Panic
+https://jacquesmattheij.com/gdpr-hysteria
+
+<css-doodle /> - A web component for drawing patterns with CSS
+https://css-doodle.com/
+
+Screely - Generate beautiful images from screenshots
+https://www.screely.com/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

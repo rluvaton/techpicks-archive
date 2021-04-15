@@ -1,0 +1,45 @@
+TechPicks 26/04/2018 -
+
+How To Work with Git - The Pros' Way
+https://www.algotech.solutions/blog/engineering/how-to-work-with-git-the-pro-way/
+
+10 actionable tips for better programming in 2018
+https://www.algotech.solutions/blog/engineering/tips-better-programming-2018/
+
+How to make better decisions in life and in business: a mini guide
+https://medium.com/swlh/how-to-make-better-decisions-in-life-and-in-business-a-mini-guide-137f95526437
+
+Node.js 10 lets you iterate asynchronously over streams
+http://2ality.com/2018/04/async-iter-nodejs.html
+
+JavaScript Pattern Matching Proposal
+https://github.com/tc39/proposal-pattern-matching
+
+Browser wars 2018: Microsoft Edge falls behind ... Internet Explorer?
+https://www.zdnet.com/article/in-the-new-browser-war-microsoft-edge-is-losing-internet-explorer/
+
+Here's my short journey going from 59 to 89/100 on Google's PageSpeed Insights just by following the order: "Eliminate render-blocking CSS in above-the-fold content"
+https://medium.com/@brachamul/eliminate-render-blocking-css-in-above-the-fold-content-a8e273dcc9a3
+
+3 Essential Lessons For Anyone Learning Web Development in 2018
+https://medium.com/@akhoury.ak/3-essential-lessons-for-anyone-learning-web-development-in-2018-from-someone-learning-web-c4adfe53982f
+
+Aiming to fill skill gaps in AI, Microsoft makes training courses available to the public
+https://blogs.microsoft.com/ai/microsoft-professional-program-ai/
+
+The Node.js Ecosystem Is Chaotic and Insecure
+https://medium.com/p/73fac4bc5068
+
+JS rounding: "the implementation in the spec does not correctly implement the spec"
+http://ridiculousfish.com/blog/posts/JavaScript-Rounding.html
+
+How Stack Overflow does pagination
+https://meta.stackoverflow.com/questions/322164/how-does-stack-overflow-do-pagination
+
+Notes on structured concurrency, or: Go statement considered harmful
+https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-

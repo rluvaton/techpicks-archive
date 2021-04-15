@@ -1,0 +1,47 @@
+TechPicks 11/04/2018 -
+
+On User Interface Development: appending to the event log
+https://hackernoon.com/on-user-interface-development-appending-to-the-event-log-8d8ca966795d
+
+How to debug front-end: optimising network assets
+https://blog.pragmatists.com/how-to-debug-front-end-optimising-network-assets-c0bfcad29b40
+
+An Intuitive Node.js Client for the Kubernetes API
+https://godaddy.github.io/2018/04/10/an-intuitive-nodejs-client-for-the-kubernetes-api/
+
+Linux: Beep Command Can Be Used to Probe for the Presence of Sensitive Files
+https://www.bleepingcomputer.com/news/security/linux-beep-command-can-be-used-to-probe-for-the-presence-of-sensitive-files/
+
+Excellent CSS-in-JS library #CSSinJS
+https://github.com/streamich/nano-css
+
+HoleyBeep: Explanations and exploit
+https://sigint.sh/#/holeybeep 
+
+Reactathon conference talks now available online
+https://www.realworldreact.com/talks/
+
+How to think like a programmer — lessons in problem solving
+https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2
+
+25% of Open Source Firebase Projects Are Vulnerable to Cascading Rules Mismatch
+https://medium.com/noless/common-mistakes-in-firebase-security-rules-part-1-fd8cdd8bc8a6
+
+How CSS works: Parsing & painting CSS in the critical rendering path
+https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3
+
+Building Real Time Analytics APIs at Scale
+https://blog.algolia.com/building-real-time-analytics-apis/
+
+We saved $50k/y with a tiny Go microservice coded in a Hackathon
+https://movio.co/en/blog/saving-money-with-Hackathon-project/
+
+Will You Be Out of Job if You Don’t Learn AI?
+https://shubhamjain.co/2018/04/10/will-you-be-out-of-job-if-you-dont-learn-ai/
+
+What’s the Value of CI/CD?
+https://builttoadapt.io/whats-the-value-of-ci-cd-c2e6c39450bd
+
+Follow TechPicks on your favorite platform -
+https://www.twitter.com/t3chpicks
+https://t.me/techpicks

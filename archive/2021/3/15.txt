@@ -1,0 +1,38 @@
+TechPicks 15/03/2021 -
+
+Write code. Not too much. Mostly functions.
+https://www.brandonsmith.ninja/blog/write-code-not-too-much-mostly-functions
+
+Introducing sigstore: Easy Code Signing & Verification for Supply Chain Integrity
+https://security.googleblog.com/2021/03/introducing-sigstore-easy-code-signing.html
+
+Git is my buddy: Effective Git as a solo developer
+https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/
+
+3 attributes your images must have!
+https://dev.to/jordanfinners/3-attributes-your-images-must-have-3fhj
+
+SQLfuzz - Simple SQL table fuzzing
+https://github.com/PumpkinSeed/sqlfuzz
+
+goodtimer - setTimeouts for humans + timer functionality
+https://github.com/nickpalenchar/goodtimer
+
+How Many Decimals of Pi Do We Really Need?
+https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/
+
+React component for entering PIN codes
+https://github.com/soywod/react-pin-field
+
+git commit --allow-empty
+https://coderwall.com/p/vkdekq/git-commit-allow-empty
+
+front.codes - useful front-end resources
+https://front.codes/
+
+The State of Responsive 3D Shapes
+https://css-tricks.com/state-responsive-3d-shapes/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

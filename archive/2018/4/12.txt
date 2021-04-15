@@ -1,0 +1,55 @@
+Hi guys & gals, Tal here.
+
+I've been receiving some requests/ideas about a TechPicks discussion group on Telegram. Feel free to share your thoughts about it with me - https://goo.gl/forms/vxlz28s0F5be1blo1 :)
+
+Thanks!
+Tal Korenesnot.run/2018/04/11/pivot/
+
+Octal Zero considered harmful
+https://florianjw.de/en/octal_zero_considered_harmfull.html
+
+The IBM 1401 compiles and runs FORTRAN II
+https://www.youtube.com/watch?v=uFQ3sajIdaM
+
+In-Browser ML - YOLO Object Detection using Tensorflow.js
+https://modeldepot.github.io/tfjs-yolo-tiny-demo/
+
+Creating a REST API: Handling POST, PUT and DELETE requests
+https://jsao.io/2018/04/creating-a-rest-api-handling-post-put-and-delete-requests/
+
+When an modulus call is published as a Node.js package with millions of downloads a day
+http://medium.com/p/73fac4bc5068
+
+How we doubled Mono's Float Speed
+http://tirania.org/blog/archive/2018/Apr-11.html
+
+Heroku + Cloudflare: The Right Way
+https://www.viget.com/articles/heroku-cloudflare-the-right-way/
+
+Ironclad: a command line password manager
+https://github.com/dmulholland/ironclad
+
+uber/prototool: Your Swiss Army Knife for Protocol Buffers
+https://github.com/uber/prototool
+
+An in-depth SVG tutorial
+https://flaviocopes.com/svg/
+
+The new era of static sites – how JavaScript powers everything
+https://www.contentful.com/blog/2018/04/11/new-era-static-sites-rise-future/
+
+Fuchsia is not Linux
+https://fuchsia.googlesource.com/docs/+/master/the-book/
+
+Using Kubernetes to Build Versatile Microservices
+https://nordicapis.com/using-kubernetes-api-microservices/
+
+Why you should start a side project
+https://medium.com/ideas-at-igenius/why-you-should-start-a-side-project-and-how-8e63a33187e5
+
+Beginner Guide to Big O Notation
+http://www.techtalko.com/2018/04/11/beginner-guide-to-big-o-notation-time-and-space-complexity/
+
+Follow TechPicks on your favorite platform -
+https://www.twitter.com/t3chpicks
+https://t.me/techpicks

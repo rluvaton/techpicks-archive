@@ -1,0 +1,28 @@
+TechPicks 07/02/2018 -
+
+The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+https://github.com/kelseyhightower/nocode
+
+Font Awesome 5 Free is now published in its GitHub repository
+https://github.com/FortAwesome/Font-Awesome
+
+The Top JavaScript Trends to Watch in 2018
+https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425
+
+React's new Context API
+https://dev.to/kentcdodds/reacts--new-context-api-dpi
+
+The WHY behind the WAT: An explanation of JavaScript’s weird type system
+https://medium.com/dailyjs/the-why-behind-the-wat-an-explanation-of-javascripts-weird-type-system-83b92879a8db
+
+Googlebot's Javascript random() function is deterministic
+http://www.tomanthony.co.uk/blog/googlebot-javascript-random/
+
+Interview with Evan You, creator of Vue.js
+https://blog.hackages.io/https-blog-hackages-io-evanyoubhack2017-cc5559806157
+
+Online Interview Questions
+https://www.onlineinterviewquestions.com/
+
+Coding Sucks: Why A Job In Programming Is Absolute Hell
+https://www.gizmodo.com.au/2014/05/programming-sucks-why-a-job-in-coding-is-absolute-hell/

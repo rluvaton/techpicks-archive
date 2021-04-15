@@ -1,0 +1,25 @@
+TechPicks 11/02/2018 - 
+
+Always wondered how JavaScript engine works, made this tutorial on my way
+https://medium.com/@vardanator/node-js-v8-internals-an-illustrative-primer-83766e983bf6
+
+A journey from Junior Developer to Technical Lead - Experiences and advise to engineers
+https://medium.com/@boyney123/a-journey-from-junior-developer-to-technical-lead-b1af4d2419fb
+
+Ask HN: What are the books you wish your colleagues had read?
+https://news.ycombinator.com/item?id=16351310
+
+Chrome 68 will mark all HTTP sites as “not secure”
+https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html
+
+Jake Archibald: In The Loop
+https://www.youtube.com/watch?v=cCOL7MC4Pl0
+
+An Argument For Why Nested Ternaries are Great
+https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340
+
+Web Design: Everything Easy is Hard Again
+https://frankchimero.com/writing/everything-easy-is-hard-again/
+
+Reverse Engineering a MMORPG Bot to Find Vulnerabilities
+https://www.youtube.com/watch?v=irhcfHBkfe0

@@ -1,0 +1,37 @@
+TechPicks 27/03/2018 - 
+
+Find the Best Programming Courses & Tutorials
+http://hackr.io/
+
+Path in Node.js - a quick guide
+http://www.snappyjs.com/2018/03/26/path-in-nodejs-a-quick-guide/
+
+Introducing CodeSandbox Live: real time code collaboration in the browser
+https://medium.com/@compuives/introducing-codesandbox-live-real-time-code-collaboration-in-the-browser-6d508cfc70c9
+
+Don’t use inline functions or bind() in React ref callbacks
+https://medium.com/@kwindla/dont-use-inline-functions-or-bind-in-react-ref-callbacks-5559e4342ead
+
+Zig – a programming language designed for robustness, optimality, and clarity [video]
+https://www.recurse.com/events/localhost-andrew-kelley
+
+Anatomy of source maps
+https://blog.bugsnag.com/source-maps/
+
+Modern Frontend Developer in 2018 – Updated
+https://medium.com/tajawal-engineering/modern-frontend-developer-in-2018-4c2072fa2b9c
+
+“The Workplace Is Killing People and Nobody Cares”
+https://www.gsb.stanford.edu/insights/workplace-killing-people-nobody-cares
+
+Mocha Testing Tips & Tricks for JS Developers
+http://www.snappyjs.com/2018/03/27/effective-mocha-testing-tips-tricks/
+
+Microsoft will start monitoring and censoring Skype, Xbox, and Cortana, even retroactively, in anticipation of SESTA bill enactment on the 1st
+https://www.csoonline.com/article/3264658/privacy/microsoft-to-ban-offensive-language-from-skype-xbox-office-and-other-services.html
+
+Minecraft experiment with WebGL2
+https://mrspeaker.github.io/webgl2-voxels/
+
+11 Javascript Machine Learning Libraries To Use In Your App
+https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c

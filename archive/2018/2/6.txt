@@ -1,0 +1,19 @@
+TechPicks 06/02/2018 -
+
+How you can train an AI to convert your design mockups into HTML and CSS
+https://medium.freecodecamp.org/how-you-can-train-an-ai-to-convert-your-design-mockups-into-html-and-css-cc7afd82fed4
+
+The need for speed: Google dedicates engineering team to accelerate development of WordPress ecosystem
+https://searchengineland.com/need-speed-google-dedicates-engineering-team-accelerate-development-wordpress-ecosystem-291214
+
+NSA Exploits Ported to Work on All Windows Versions Released Since Windows 2000
+https://www.bleepingcomputer.com/news/security/nsa-exploits-ported-to-work-on-all-windows-versions-released-since-windows-2000/
+
+TIL Microsoft released a Powershell comic book
+https://docs.microsoft.com/en-us/powershell/digital-art
+
+Next.js improves TypeScript support with Webpack Universal
+https://react-etc.net/entry/next-js-5-0-improves-typescript-support
+
+Data Structures and Algorithms practice problems and their solutions
+https://medium.com/@kingrayhan/500-data-structures-and-algorithms-practice-problems-and-their-solutions-b45a83d803f0

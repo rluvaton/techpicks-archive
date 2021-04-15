@@ -1,0 +1,22 @@
+TechPicks 04/02/2018 -
+
+How one programmer cracked the private key to a Bitcoin wallet hidden in a painting.
+https://motherboard.vice.com/en_us/article/kzpqzz/heres-the-solution-to-the-3-year-old-dollar50000-bitcoin-puzzle
+
+Fantastic Algorithms and Where To Find Them
+https://www.youtube.com/watch?v=wG49AGqQ5Aw
+
+How to promote your Github project
+https://medium.com/@bohdanliashenko/how-to-promote-your-github-project-1b39a7eee841
+
+Javascript Object, Prototype and Inheritance
+https://blog.mavenhive.in/javascript-object-prototype-and-inheritance-9b2eb62a0503
+
+Resumake – A LaTeX resume generator built with Node, React, Redux, and Flow.
+https://resumake.io
+
+Challenges for web developers
+https://paul.kinlan.me/challenges-for-web-developers/
+
+My first open source contribution – Hacker Noon
+https://hackernoon.com/first-open-source-contribution-fc961326123b

@@ -1,0 +1,40 @@
+TechPicks 26/03/2018 - 
+
+Gal Schlezinger - Fun with Functors and ReasonML
+https://hackernoon.com/fun-with-functors-and-reasonml-8bb59b243e9c
+
+vidia's Titan V GPUs spit out 'wrong answers' in scientific simulations
+https://www.theregister.co.uk/2018/03/21/nvidia_titan_v_reproducibility
+
+New Things CSS Grid Brings to The Table
+https://medium.com/@js_tut/new-things-css-grid-brings-to-the-table-e465cb5d2841
+
+What the Next Generation of Web Applications Should Look Like
+https://medium.com/@will_55665/what-the-generation-of-web-applications-should-look-like-be715eed045c
+
+Yoda - Wise and powerful personal assistant, inside your terminal
+https://github.com/yoda-pa/yoda
+
+R2D2: A dead simple React/Redux dispatch HOC - prevent data fetch and validation clutter
+https://github.com/tomarrell/R2D2
+
+Why are there so many damn front-end web frameworks?
+https://medium.com/@chrisdaviesgeek/why-are-there-so-many-damn-front-end-web-frameworks-63b21dacebd1
+
+Express middleware to protect against DNS Rebind attacks
+https://github.com/brannondorsey/host-validation
+
+Avoid Else, Return Early
+http://zcfy.baomitu.com/original/probably-wrong-avoid-else-return-early-4333.html
+
+Feross Aboukhadijeh: JavaScript Pranks
+https://www.youtube.com/watch?v=rLgBqT_e6Yo
+
+Why Tabs VS Spaces Debate Is Pointless
+https://rinkovec.com/why-tabs-vs-spaces-debate-is-pointless/
+
+Open Source has won
+https://blog.frankel.ch/open-source-has-won/
+
+Nestifiritis
+https://medium.com/@jeteon/nestifiritis-a8790d9f40f

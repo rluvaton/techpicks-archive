@@ -1,0 +1,32 @@
+TechPicks 08/03/2021 -
+
+NFTs are a dangerous trap
+https://seths.blog/2021/03/nfts-are-a-dangerous-trap/
+
+Procrastination is flight, deadline is fight, freeze is staring at the screen
+https://pmigdal.medium.com/dont-fight-flight-or-freeze-your-body-and-emotions-96f5aa30b299
+
+Nodes.io – A new way to create with code
+https://nodes.io/
+
+Linux is now on Mars and available on github
+https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars
+
+How to get better at recursion
+https://notes.eatonphil.com/practicing-recursion.html
+
+Apple M1 Microarchitecture Research
+https://dougallj.github.io/applecpu/firestorm.html
+
+Goodbye minikube
+https://blog.frankel.ch/goodbye-minikube/
+
+How SREs Solve Problems at Home (Making my Dumb Fridge Smart)
+https://blog.ericv.me/2021/03/07/smartfridge/
+
+Best practices can slow your application down
+https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

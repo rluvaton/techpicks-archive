@@ -1,0 +1,28 @@
+TechPicks 05/02/2018 -
+
+A toddlers guide to memory leaks in Javascript
+https://medium.com/@kepta/a-toddlers-guide-to-memory-leaks-in-javascript-d5a592c7bec1
+
+Modern CSS Explained For Dinosaurs
+https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525
+
+Stable AngularJS and Long Term Support
+https://blog.angular.io/stable-angularjs-and-long-term-support-7e077635ee9c
+
+Be good at one thing, not average at everything
+https://dev.to/stvnyung/be-good-at-one-thing-not-average-at-everything-1bf1
+
+Visualising and Prioritizing Technical Debt
+https://medium.com/@AikoPath/visualising-and-prioritizing-technical-debt-afc82e542681
+
+If you haven’t jumped on the Vue.js train yet, it’s time to jump on the Vue.js train.
+https://medium.com/@Jaesung2061/if-you-havent-jumped-on-the-vue-js-train-yet-it-s-time-to-jump-on-the-vue-js-train-3530c28c329d
+
+You don't know the difference between HTTP and REST
+https://restishistory.net/blog/do-you-know-the-difference-between-http-and-rest.html
+
+RailsConf 2015 - Implementing a Strong Code-Review Culture
+https://www.youtube.com/watch?v=PJjmw9TRB7s
+
+An Intuitive Explanation of using Poisson Blending for Seamless Copy-and-Paste of Images
+https://erkaman.github.io/posts/poisson_blending.html

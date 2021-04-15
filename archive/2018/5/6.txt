@@ -1,0 +1,48 @@
+TechPicks 06/05/2018 -
+
+A CLI that adds a .gitignore to your projects.
+https://github.com/TejasQ/add-gitignore
+
+Abusing proto (A 30s read)
+https://medium.com/@xilefmai/its-proto-time-6de2e5efd746
+
+After 10 Years of Web Dev, Time to Re-evaulate, a Move from PHP to Node, jQuery to React
+https://medium.com/@kevindeeg/after-10-years-of-web-dev-time-to-re-evaulate-a-move-from-php-to-node-jquery-to-react-bf4e153abf3e
+
+Structuring React.js Web Applications​
+https://medium.com/archieai/structuring-react-js-web-applications-11271643e941
+
+Version 6 of Angular Now Available
+https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
+
+An Easy to Understand Webpack 4+ Configuration File with Comments
+https://medium.com/@timurcatakli/an-easy-to-understand-webpack-4-configuration-file-with-comments-6213882e9edf
+
+Learn CSS Grid in 5 minutes
+https://dev.to/perborgen/learn-css-grid-in-5-minutes-8kp
+
+Are interruptions really worse for programmers than for other knowledge workers?
+https://dev.to/_bigblind/are-interruptions-really-worse-for-programmers-than-for-other-knowledge-workers-2ij9
+
+Notes on 'Clean Coder' by Robert Martin.
+https://gaston.life/books/clean-coder/
+
+The Big Features & Improvements Of The GCC 8 Compiler
+https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-8-Compiler-Features-List
+
+Vapor 3.0 (server-side Swift) released
+https://medium.com/@codevapor/vapor-3-0-0-released-8356fa619a5d
+
+Researchers have found eight new CPU flaws that resemble the Meltdown and Spectre bugs
+https://www.reuters.com/article/us-cyber-intel/next-generation-flaws-found-on-computer-processors-magazine-idUSKBN1I42BZ
+
+CSS Unit Battle: EMs Versus REMs
+https://medium.freecodecamp.org/em-units-versus-rem-units-fight-382c16af8a67?source=rss----336d898217ee---4
+
+Learn This One Weird Trick To Debug CSS
+https://medium.freecodecamp.org/heres-my-favorite-weird-trick-to-debug-css-88529aa5a6a3?source=rss----336d898217ee---4
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

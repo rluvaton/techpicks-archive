@@ -1,0 +1,37 @@
+TechPicks 21/03/2018 - 
+
+'Utterly horrifying': ex-Facebook insider says covert data harvesting was routine
+https://www.theguardian.com/news/2018/mar/20/facebook-data-cambridge-analytica-sandy-parakilas
+
+WhatsApp co-founder tells everyone to delete Facebook
+https://www.theverge.com/2018/3/20/17145200/brian-acton-delete-facebook-whatsapp
+
+Toxic management cost an award-winning game studio its best developers
+https://www.theverge.com/2018/3/20/17130056/telltale-games-developer-layoffs-toxic-video-game-industry
+
+Strategic Initiatives from the Node.js Project
+https://medium.com/the-node-js-collection/strategic-initiatives-coming-from-the-node-js-project-56a645d53c78
+
+Struggling with Redux? 10 tips for React Redux at scale
+https://www.youtube.com/watch?v=NQta2urK3zk
+
+Extensive React Testing Tutorial: Setup and usage of Mocha, Chai, Enzyme, Jest, Sinon, CI, Code Coverage
+https://www.robinwieruch.de/react-testing-tutorial/
+
+How to write powerful schemas in JavaScript
+https://medium.freecodecamp.org/how-to-write-powerful-schemas-in-javascript-490da6233d37
+
+Salesforce: Open Sourcing oclif, the CLI Framework that Powers Our CLIs
+https://engineering.salesforce.com/open-sourcing-oclif-the-cli-framework-that-powers-our-clis-21fbda99d33a
+
+Sociologists Examine Hackathons and See Exploitation
+https://www.wired.com/story/sociologists-examine-hackathons-and-see-exploitation
+
+Useful APIs that you probably don’t notice
+https://medium.com/@michaelzheng/useful-apis-that-you-probably-dont-notice-a5c62c9366e9
+
+Boiling Frogs - about lowering your standards to mediocrity
+http://no-kill-switch.ghost.io/boiling-frogs-about-lowering-your-standards-to-mediocrity/
+
+Animation in the League of Legends Client (A guide to web animation techniques)
+https://engineering.riotgames.com/news/animation-league-legends-client

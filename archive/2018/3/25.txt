@@ -1,0 +1,46 @@
+TechPicks 25/03/2018 -
+
+Facebook scraped call, text message data for years from Android phones 
+https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones/
+
+Kyle Simpson's new book - Functional-Light JavaScript
+https://github.com/getify/Functional-Light-JS
+
+A Better Way to Handle React State in Larger Javascript Apps: ReduxX
+https://medium.com/lessonshop-net/a-better-way-to-handle-react-state-in-larger-javascript-apps-reduxx-19122d55fc6d
+
+Understanding Recursion (by understanding recursion)
+https://github.com/n0ruSh/the-art-of-reading/issues/9
+
+A Friendly Introduction: Hash Tables
+https://www.youtube.com/watch?v=LPzN8jgbnvA
+
+Clean code: takeaways from a love story
+https://medium.com/@albigiu/clean-code-a-love-storys-takeaways-33f3e00c875e
+
+How to route like a hacker with MobX and router5
+https://medium.freecodecamp.org/how-to-route-like-a-hacker-with-mobx-and-router5-d79a5c7a56a
+
+Bulletin Board Systems: Before the 1990s, there was a community of users and programmers who used to open their phone lines to welcome anyone who called
+https://www.youtube.com/watch?v=JnSz-Hb9LQY
+
+Hyperfine - a command-line benchmarking tool
+https://github.com/sharkdp/hyperfine
+
+Fred's ImageMagick Scripts
+http://www.fmwconcepts.com/imagemagick/index.php
+
+Issues reviewing huge PRs? GitHub extension for managing stacked PRs
+https://github.com/rikukissa/stacker
+
+A full mock tech interview on Twitch.tv
+https://m.twitch.tv/videos/241961578
+
+On Complexity and Good Intentions
+https://mmilinkov.wordpress.com/2018/03/23/on-complexity-and-good-intentions/
+
+Vue CLI 3: A Game Changer For Frontend Development
+https://vuejsdevelopers.com/2018/03/26/vue-cli-3/
+
+Introducing TaskEasy - A simple priority queue for when you want to run things in sequence.
+https://github.com/cmseaton42/task-easy

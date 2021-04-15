@@ -1,0 +1,34 @@
+TechPicks 19/02/2018 - 
+
+Designing a REST API with Node.js and MongoDB Atlas
+https://www.zeolearn.com/magazine/designing-a-rest-api-with-nodejs-and-mongodb-atlas
+
+How I design with CSS grid
+https://www.chenhuijing.com/blog/how-i-design-with-css-grid/
+
+Current state of compiling TypeScript to WebAssembly
+https://wanago.io/2018/02/19/current-state-compiling-typescript-webassembly/
+
+Design Patterns in Real Life
+https://arne-mertz.de/2018/02/design-patterns-real-life/
+
+I ❤ JavaScript: Weird parseInt
+https://www.youtube.com/watch?v=KLCFmKIp6hs
+
+How Computers Store Numbers
+https://www.youtube.com/watch?v=CRpKE04lkgo
+
+macOS may lose data on APFS-formatted disk images
+https://bombich.com/blog/2018/02/15/macos-may-lose-data-on-apfs-formatted-disk-images
+
+An Update on ES6 Modules in Node.js
+https://medium.com/the-node-js-collection/an-update-on-es6-modules-in-node-js-42c958b890c
+
+Code Review. 7 Mistakes You May Be Making
+https://bulldogjob.com/news/310-code-review-7-mistakes-you-may-be-making
+
+Web Performance Optimization with Webpack
+https://developers.google.com/web/fundamentals/performance/webpack/
+
+Fixing intermittent test failures
+http://greyblake.com/blog/2018/02/19/how-to-fix-intermittent-test-failures/

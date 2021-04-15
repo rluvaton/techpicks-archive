@@ -1,0 +1,29 @@
+TechPicks 28/02/2021 -
+
+A beginner's guide to applying color in UI design
+https://dev.to/georgedoescode/a-beginner-s-guide-to-applying-color-in-ui-design-3904
+
+Under-the-hood of Git
+https://craigtaub.dev/under-the-hood-of-git
+
+CSS-in-JS support in DevTools
+https://developers.google.com/web/updates/2021/02/css-in-js
+
+10 Things Every Nest.js Developer Should Know
+https://javascript.plainenglish.io/10-things-every-nest-js-developer-should-know-911dec32f66a
+
+On TypeScript discriminated unions
+https://sospedra.me/papers/typescript-unions
+
+A command-line utility for deploying serverless applications to AWS. Complete with custom domains, deploy previews, TypeScript support, and more
+https://github.com/JakePartusch/serverlessui
+
+Google admits Kubernetes container tech is so complex, it's had to roll out an Autopilot feature to do it all for you
+https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/
+
+PyCharm and WSL
+https://blog.jetbrains.com/pycharm/2021/02/pycharm-and-wsl/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

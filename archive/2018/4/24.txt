@@ -1,0 +1,51 @@
+TechPicks 24/04/2018 - 
+
+How long did it take for you to become a senior developer? Is there anything you would have done differently to speed up the process looking back?
+https://www.reddit.com/r/reactjs/comments/8eg8x9/how_long_did_it_take_for_you_to_become_a_senior/
+
+Meet Israeli entrepreneurs for a morning coffee for free
+https://www.themorningcoffeeclub.com/
+
+Is Google always listening: Live Test
+https://youtu.be/zBnDWSvaQ1I
+
+The 5 things you need to check when choosing the best front-end framework for you.
+https://www.toptal.com/javascript/choosing-best-front-end-framework
+
+When Microsoft got things wrong (1998)
+https://thenextweb.com/insider/2018/04/23/20-years-since-microsofts-embarrassing-moment-besides-vista-obviously/
+
+The “unpatchable” exploit that makes every current Nintendo Switch hackable
+https://arstechnica.com/gaming/2018/04/the-unpatchable-exploit-that-makes-every-current-nintendo-switch-hackable/
+
+dayjs - fast 2kB alternative to Moment.js with the same modern API
+https://github.com/xx45/dayjs
+
+Choosing cameras in JavaScript with the mediaDevices API
+https://www.twilio.com/blog/2018/04/choosing-cameras-javascript-mediadevices-api.html
+
+Creating a chatbot to book film tickets
+https://medium.com/@davidmellul/creating-a-chatbot-to-book-film-tickets-part-2-435aecdf402d
+
+Integrating Websockets into a Real-Time Vue App with Socket.io and Vuex
+https://secdevops.ai/weekend-project-part-4-integrating-websockets-into-a-real-time-vue-app-with-socket-io-and-vuex-e358e04f477c
+
+Rust at Chucklefish [pdf]
+https://www.rust-lang.org/pdfs/Rust-Chucklefish-Whitepaper.pdf
+
+Calling C++ constructors from D
+https://forum.dlang.org/thread/kbcdppawjtcdkdtdzwwp@forum.dlang.org
+
+SkyKnit: When knitters teamed up with a neural network
+http://aiweirdness.com/post/173096796277/skyknit-when-knitters-teamed-up-with-a-neural
+
+Null Object as identity
+http://blog.ploeh.dk/2018/04/23/null-object-as-identity/
+
+How to Generate Random Colors Programmatically
+https://martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

@@ -1,0 +1,32 @@
+TechPicks 31/03/2021 -
+
+Whistleblower: Ubiquiti Breach “Catastrophic”
+https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/
+
+Font size is useless; let’s fix it
+https://tonsky.me/blog/font-size/
+
+Developer tools can be magic. Instead, they collect dust.
+http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html
+
+Avoiding instruction cache misses: a few guidelines
+https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/
+
+Google collects 20 times more telemetry from Android devices than Apple from iOS
+https://therecord.media/google-collects-20-times-more-telemetry-from-android-devices-than-apple-from-ios/
+
+Some opinionated thoughts on SQL databases
+https://blog.nelhage.com/post/some-opinionated-sql-takes/
+
+Stork: Fast web search for static sites
+https://blog.fission.codes/stork-search-james-little/
+
+HOWTO backdoor curl
+https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/
+
+Game theory in database design
+https://minimalmodeling.substack.com/p/game-theory-in-database-design
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

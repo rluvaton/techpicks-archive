@@ -1,0 +1,45 @@
+TechPicks 22/05/2018 - 
+
+Recursion? We don't need no stinking recursion!
+http://raganwald.com/2018/05/20/we-dont-need-no-stinking-recursion.html
+
+Testing React Apps with Cypress
+https://blog.bitsrc.io/testing-react-apps-with-cypress-658bc482678
+
+Romanum -- Roman Numeral Math
+https://www.npmjs.com/package/romanum
+
+Humble Book Bundle: Web Design & Development by O'Reilly
+https://www.humblebundle.com/books/web-design-development-books
+
+Writing WebAssembly By Hand
+http://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html
+
+Maintaining Notepad is not a full-time job, but it’s not an empty job either
+https://blogs.msdn.microsoft.com/oldnewthing/20180521-00/?p=98795
+
+Microsoft, Google: We've found a fourth variant of Meltdown-Spectre CPU holes
+https://www.theregister.co.uk/2018/05/21/spectre_meltdown_v4_microsoft_google/
+
+$36k Reward for Remote Code Execution Bug on Google App Engine
+https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce
+
+A Software Developer’s Guide to Side Projects
+https://simpleprogrammer.com/guide-side-projects/
+
+Go by Example is a hands-on introduction to Go using annotated example programs
+https://gobyexample.com
+
+FreeCodeCamp's entire curriculum (~2000 challenges) is now available as an npm package
+https://www.npmjs.com/package/@freecodecamp/curriculum
+
+Angular — Simple In Memory Cache Service with RxJS
+https://hackernoon.com/angular-simple-in-memory-cache-service-on-the-ui-with-rxjs-77f167387e39
+
+How I used a simple Google query to mine passwords from dozens of public Trello boards
+https://medium.freecodecamp.org/discovering-the-hidden-mine-of-credentials-and-sensitive-information-8e5ccfef2724
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

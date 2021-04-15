@@ -1,0 +1,50 @@
+TechPicks 14/03/2021 -
+
+Why Senior Engineers Hate Coding Interviews
+https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757
+
+Regex Crossword
+https://jimbly.github.io/regex-crossword/
+
+Jest-when - Jest support for mock argument-matched return values
+https://github.com/timkindberg/jest-when
+
+How I earn a living selling my open source software
+https://www.indiehackers.com/post/how-i-earn-a-living-selling-my-open-source-software-476f6bb07e
+
+UK to depart from GDPR
+https://www.lawgazette.co.uk/news/uk-to-depart-from-gdpr/5107685.article
+
+I bought 300 emoji domain names from Kazakhstan and built an email service
+https://tinyprojects.dev/projects/mailoji
+
+7-Zip developer releases the first official Linux version
+https://www.bleepingcomputer.com/news/software/7-zip-developer-releases-the-first-official-linux-version/
+
+self-hosting git; or, how git servers actually work, and how to keep yours secure
+https://gemini.nytpu.com/gemlog/2021-03-07.gmi
+
+Why I Don't Like Tailwind CSS
+https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/
+
+moovie.js Movie focused HTML5 Player
+https://github.com/BMSVieira/moovie.js
+
+The only JavaScript loop benchmark that matters for the most of us.
+https://javascript.plainenglish.io/the-only-javascript-loop-benchmark-that-matters-for-the-most-of-us-77ec819eb23e?source=friends_link&sk=ca8b956e0faae6852aaec916ab3034dd
+
+A Spectre proof-of-concept for a Spectre-proof web
+https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html
+
+An Object-Oriented Language for the '20s
+https://adam.nels.onl/blog/an-oo-languge-for-the-20s/
+
+Learning without Burnout
+https://junglecoder.com/blog/learning-without-burnout
+
+Preemptive Pluralization is (Probably) Not Evil
+https://www.swyx.io/preemptive-pluralization
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

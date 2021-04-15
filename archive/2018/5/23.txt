@@ -1,0 +1,42 @@
+TechPicks 23/05/2018 -
+
+ParcelJs: How simple really is it?
+https://medium.com/@TomVance/parceljs-how-simple-really-is-it-679a4feba69d
+
+Self-organizing Scrum dev team fires its manager.
+https://workplace.stackexchange.com/questions/112596/how-do-i-regain-managerial-control-of-my-self-organizing-team
+
+Computer History Museum Makes the Eudora Email Client Source Code Available to the Public
+https://globenewswire.com/news-release/2018/05/22/1510151/0/en/Computer-History-Museum-Makes-the-Eudora-Email-Client-Source-Code-Available-to-the-Public.html
+
+How to write high-performance matrix multiplication
+https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0
+
+The 7 Biggest Lessons I’ve Learned By Building A Twitter Bot With Nodejs🐤🤖
+https://medium.com/@tomastrajan/the-7-biggest-lessons-ive-learned-by-building-a-twitter-bot-59fee84a9ed9
+
+Tips for Getting Started Developing for Web Accessibility
+https://www.w3.org/WAI/tips/developing/
+
+CSS Grid image gallery in under 10 minutes
+http://prashantvikram.com/css-grid-image-gallery/
+
+The Hitchhiker's Guide to Elm
+http://azer.bike/journal/elm
+
+Increase performance of your Angular, React and Gatsby Apps with Guess.js
+https://medium.com/@vyakymenko/2214d4be0871
+
+GitLab 10.8 released with incremental rollouts, plus open source push mirroring
+https://about.gitlab.com/2018/05/22/gitlab-10-8-released/
+
+Free Udacity courses by Google
+https://www.udacity.com/google
+
+orchid - very tiny music player
+https://github.com/eugene-eeo/orchid
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

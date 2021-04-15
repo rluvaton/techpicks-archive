@@ -1,0 +1,23 @@
+TechPicks 24/02/2021 -
+
+Announcing TypeScript 4.2
+https://devblogs.microsoft.com/typescript/announcing-typescript-4-2
+
+JavaScript performance beyond bundle size
+https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/
+
+Critical security updates released for all active Node.js versions
+https://groups.google.com/g/nodejs-sec/c/IdlZq8JBhRs/m/mY-MrJswBQAJ
+
+A Fabulous February Firefox — 86!
+https://hacks.mozilla.org/2021/02/a-fabulous-february-firefox-86/
+
+Faster Charset Decoding
+https://cl4es.github.io/2021/02/23/Faster-Charset-Decoding.html
+
+Python Developers Survey 2020 Results
+https://www.jetbrains.com/lp/python-developers-survey-2020/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

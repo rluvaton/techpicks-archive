@@ -1,0 +1,37 @@
+TechPicks 05/04/2018 - 
+
+[PDF] Beej's Guide to Network Programming Using Internet Sockets
+http://beej.us/guide/bgnet/pdf/bgnet_A4.pdf
+
+Netflix FlameScope
+https://medium.com/@NetflixTechBlog/netflix-flamescope-a57ca19d47bb
+
+DestroyAllSoftware video content free until the end of the week. Highly recommended, especially the computation course.
+https://destroyallsoftware.com
+
+Isolating the impurity of randomness in card games
+https://medium.com/@marcoworms/isolating-the-impurity-of-randomness-in-card-games-b216b926df06
+
+DS with JS — Linked Lists
+https://medium.com/dev-blogs/ds-with-js-linked-lists-db5138ff139f
+
+Microsoft modifies open-source code, blows hole in Windows Defender
+https://www.theregister.co.uk/2018/04/04/microsoft_windows_defender_rar_bug/
+
+Asciimation - Create animated ASCII art for your terminal
+https://github.com/octobanana/asciimation
+
+REST API Design: Filtering, Sorting, and Pagination
+https://www.moesif.com/blog/technical/api-design/REST-API-Design-Filtering-Sorting-and-Pagination/
+
+AWS Secrets Manager: Store, Distribute, and Rotate Credentials Securely
+https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
+
+How did we end up with containers?
+https://www.tedinski.com/2018/04/03/why-containers.html
+
+Going parallel, part 2: from 90x performance loss to 2x gain
+http://ithare.com/parallel-coding-from-90x-performance-loss-to-2x-improvement/
+
+The Vanilla JavaScript component list
+https://www.reddit.com/r/javascript/comments/89s0vr/the_vanilla_javascript_component_list

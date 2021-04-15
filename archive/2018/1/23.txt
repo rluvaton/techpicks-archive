@@ -1,0 +1,19 @@
+TechPicks 23/01/2018 -
+
+REST is the new SOAP
+https://medium.com/@pakaldebonchamp/rest-is-the-new-soap-97ff6c09896d
+
+A Response to REST is the new SOAP
+https://philsturgeon.uk/api/2017/12/18/rest-confusion-explained/
+
+A Web Developer's Guide to Machine Learning in JavaScript
+https://www.robinwieruch.de/machine-learning-javascript-web-developers/
+
+Styled Components v3 just released.
+https://github.com/styled-components/styled-components/releases/tag/v3.0.1
+
+Building My Completely Serverless Blog
+https://ryanmccue.ca/building-my-completely-serverless-website/
+
+Variable Name Anti-Patterns
+https://www.codewithjason.com/variable-name-anti-patterns/

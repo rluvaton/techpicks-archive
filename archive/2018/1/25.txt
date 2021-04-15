@@ -1,0 +1,19 @@
+TechPicks 25/01/2018 -
+
+Automatically build your grid design’s CSS Grid code & CSS Flexbox fallback code
+https://github.com/IBM/css-gridish
+
+JavaScript best practices got 11k stars on Github
+https://github.com/wearehive/project-guidelines
+
+Top 10 JavaScript errors and how to fix them - data from 1000 real-world apps
+https://rollbar.com/blog/top-10-javascript-errors/
+
+With Firefox Version 58, WebAssembly Gets 10X Faster
+https://www.infoq.com/news/2018/01/firefox-58-web-assembly-gets-10x
+
+Database sharding explained in plain English
+https://www.citusdata.com/blog/2018/01/10/sharding-in-plain-english/
+
+OMG - a curated collection of Articles, Videos and Tutorials on CSS Grids
+https://ohmygrids.com/

@@ -1,0 +1,59 @@
+TechPicks 10/04/2018 -
+
+Front-End Developer Handbook 2018 - An original, free book by the Frontend Masters team
+https://frontendmasters.com/books/front-end-handbook/2018/
+
+Hitchhiker's Guide To Structured Data
+https://www.contentful.com/blog/2018/04/03/hitchhikers-guide-to-structured-data/
+
+Test your engineering knowledge and get better at predicting impact and cost
+https://www.evidentmethod.com/training
+
+Announcing Flutter’s beta 2 release
+https://medium.com/flutter-io/https-medium-com-flutter-io-announcing-flutters-beta-2-c85ba1557d5e
+
+Reverse engineering WhatsApp Web
+https://github.com/sigalor/whatsapp-web-reveng
+
+How to Use Firebase CLI Tools to Deploy a Web Application
+https://nrempel.com/guides/firebase-cli-deploy-web-hosting/
+
+Why React needed yet another animation library. Introducing: react-spring
+https://medium.com/@drcmda/why-react-needed-yet-another-animation-library-introducing-react-spring-8212e424c5ce
+
+Algorithm Engineering: Concepts and Practice [pdf]
+http://tcs.informatik.uos.de/_media/pubs/ae_chapter_preprint.pdf
+
+Async & Await in Rust: a full proposal
+https://boats.gitlab.io/blog/post/2018-04-06-async-await-final/
+
+Color: From Hexcodes to Eyeballs
+http://jamie-wong.com/post/color/
+
+Reverse engineering my bed to give it some REST
+https://github.com/swedishborgie/bedrest/blob/master/STORY.md
+
+Microsoft announces the Docs Authoring Pack for Visual Studio Code
+https://docs.microsoft.com/en-us/teamblog/docs-extension
+
+Mythology about security
+https://gettys.wordpress.com/2018/04/09/mythology-about-security/
+
+Why junior devs should review seniors’ commits
+https://pagefault.blog/2018/04/08/why-junior-devs-should-review-seniors-commits/
+
+A fast, typo tolerant search engine
+https://github.com/typesense/typesense
+
+Mocktastic - Develop faster with easy, offline, mock APIs for your entire team
+https://mocktastic.com
+
+How To Open Source Parts Of Your Private Project With Bit
+https://blog.bitsrc.io/how-to-open-source-parts-of-your-private-project-with-bit-113cc2e1af9c
+
+Suck less: A quick introduction to accessibility
+https://www.vincit.fi/en/blog/suck-less-a-quick-introduction-to-accessibility/
+
+Follow TechPicks on your favorite platform -
+https://www.twitter.com/t3chpicks
+https://t.me/techpicks

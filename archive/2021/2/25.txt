@@ -1,0 +1,32 @@
+TechPicks 25/02/2021 -
+
+until-destroy - a neat way to unsubscribe from observables when an Angular component gets destroyed
+https://github.com/ngneat/until-destroy
+
+Use DTOs to Enforce a Layer of Indirection | Node.js w/ TypeScript
+https://khalilstemmler.com/indirection
+
+Material Design Text Fields Are Badly Designed
+https://www.smashingmagazine.com/2021/02/material-design-text-fields/
+
+Introducing State Partitioning in Firefox
+https://hacks.mozilla.org/2021/02/introducing-state-partitioning/
+
+Hiding Content Responsibly
+https://hugogiraudel.com/2021/02/17/hiding-content-responsibly/
+
+Cryptography Interface Design is a Security Concern
+https://soatok.blog/2021/02/24/cryptography-interface-design-is-a-security-concern/
+
+Stop Using Icon Fonts
+https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/
+
+Keeping platforms open
+https://seirdy.one/2021/02/23/keeping-platforms-open.html
+
+How to Make your React App a Progressive Web App (PWA)
+https://felixgerschau.com/how-to-make-your-react-app-a-progressive-web-app-pwa/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

@@ -1,0 +1,37 @@
+TechPicks 28/02/2018 -
+
+Manual Typing is No Fun: Introducing TypeWiz!
+https://medium.com/@urish/manual-typing-is-no-fun-introducing-typewiz-58e3e8813f4c
+
+Bill Gates AMA: Tabs > Spaces
+https://www.reddit.com/r/IAmA/comments/80ow6w/im_bill_gates_cochair_of_the_bill_melinda_gates/dux7cln/
+
+12 best practices for user account, authorization and password management
+https://cloudplatform.googleblog.com/2018/01/12-best-practices-for-user-account.html
+
+It depends. Harden your JavaScript deployment process - part II
+https://blog.softwaremill.com/it-depends-on-the-registry-8fa9d9c5a3b
+
+How to make responsiveness simple with CSS Variables
+https://medium.freecodecamp.org/how-to-make-responsiveness-super-simple-with-css-variables-8c90ebf80d7f
+
+Image brightness / luminosity normalizer for text over image
+https://antoningrele.github.io/img-brightness-normalization/
+
+Composing Authorization into React Apps - react-identity
+https://medium.com/@sarat1669/composing-authorization-into-react-apps-180fa3c18d1
+
+Node.js Top 10 Open Source for the Past Month-v.Feb 2018
+https://medium.com/@Mybridge/node-js-top-10-open-source-for-the-past-month-v-feb-2018-ecdf91353747
+
+I Wanna Go Fast: Why Searching Through 500M Pwned Passwords Is So Quick
+https://www.troyhunt.com/i-wanna-go-fast-why-searching-through-500m-pwned-passwords-is-so-quick/
+
+What is wrong with estimates, you ask?
+https://medium.com/@gsaslis/whats-wrong-with-estimates-7af6d188a132
+
+How the expression problem affects program design
+http://www.tedinski.com/2018/02/27/the-expression-problem.html
+
+Fight Through the Pain: How to Deal With Technical Debt
+https://caylent.com/fight-technical-debt/

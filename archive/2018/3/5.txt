@@ -1,0 +1,25 @@
+TechPicks 05/03/2018 - 
+
+What the heck is JWT anyway?
+https://dev.to/siwalik/what-the-heck-is-jwt-anyway--47hg
+
+New Features and Fixes of Node.js 8.0 Version
+https://paper.li/e-1483705337?read=http%3A%2F%2Fwww.evontech.com%2Fwhat-we-are-saying%2Fentry%2Fwhat-new-features-and-fixes-may-30-release-of-nodejs-80-brings-for-developer.html
+
+Loaderz, a modern, blazing-fast asset-loader using promises
+https://github.com/TotomInc/loaderz
+
+The Web Development Spectrum - thoughts on the hidden complexities of job titles
+https://medium.com/p/the-web-development-spectrum-ce221c440171
+
+The return of RPC - or how REST is no longer the only respectable solution for APIs
+https://sites.google.com/a/athaydes.com/renato-athaydes/posts/thereturnofrpc-orhowrestisnolongertheonlyrespectablesolutionforapis
+
+Introducing Bolt - Real-time file sync for teams, that works with your existing tools
+http://getbolt.herokuapp.com/
+
+How I approached software development and why I prefer PostgreSQL to MySQL
+https://www.goetas.com/blog/how-i-approached-software-development-and-why-i-prefer-postgresql-to-mysql
+
+Hiring Manager: HR is the problem, you are the solution
+https://www.asktheheadhunter.com/5391/hiring-manager-hr-is-the-problem-you-are-the-solution

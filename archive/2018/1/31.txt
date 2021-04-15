@@ -1,0 +1,25 @@
+TechPicks 31/01/2018 - 
+
+Anonymous Pineapple Fund donates $1M worth of BTC to the Free Software Foundation (FSF)
+https://www.fsf.org/news/free-software-foundation-receives-1-million-donation-from-pineapple-fund
+
+reas - A minimalist and highly customizable component system built with styled-components
+https://reas.js.org
+
+Introducing Urql: Universal React Query Library
+https://formidable.com/blog/2018/introducing-urql/
+
+Conditional Breakpoints in Chrome are Awesome
+https://medium.com/@yurkaninryan/conditional-breakpoints-in-chrome-are-awesome-31933ea97a15
+
+Stimulus 1.0: A modest JavaScript framework for the HTML you already have
+https://stimulusjs.org/
+
+The increasing nature of frontend complexity
+https://blog.logrocket.com/the-increasing-nature-of-frontend-complexity-b73c784c09ae
+
+Course: Learn and Understand NodeJS is 95% off
+https://twitter.com/whatsonsalenoww/status/958400405603602433
+
+The Hard Truth: Nobody Has Time To Write Tests
+https://medium.com/p/the-hard-truth-nobody-has-time-to-write-tests-68a122a1a0e3

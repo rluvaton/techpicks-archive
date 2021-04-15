@@ -1,0 +1,35 @@
+TechPicks 30/03/2021 -
+
+Announcing the Deno Company
+https://deno.com/blog/the-deno-company
+
+An open letter to remove Richard M. Stallman from all leadership positions
+https://rms-open-letter.github.io/
+
+Free Software Foundation leaders and supporters desert sinking ship
+https://www.zdnet.com/article/free-software-foundation-leaders-and-supporters-desert-sinking-ship/
+
+mk.js - a Mortal Kombat prototype implemented in JavaScript
+https://github.com/mgechev/mk.js
+
+Why Do Interviewers Ask Linked List Questions?
+https://www.hillelwayne.com/post/linked-lists/
+
+Not Your Typical Horizontal Rules
+https://www.sarasoueidan.com/blog/horizontal-rules/
+
+CSS Only Masonry Grid Layouts
+https://fjolt.com/article/css-grid-masonry
+
+PHP moves to GitHub due to the compromise of git.php.net
+https://news-web.php.net/php.internals/113838
+
+ECMAScript - Introducing BigInt Primitive in ES2020 (ES11)
+https://nitayneeman.com/posts/introducing-bigint-primitive-in-ecmascript-2020/
+
+All the characters that work on most terminals and most operating systems
+https://github.com/ehmicky/cross-platform-terminal-characters
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

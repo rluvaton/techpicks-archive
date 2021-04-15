@@ -1,0 +1,42 @@
+TechPicks 01/05/2018 -
+
+Stack Overflow Isn't Very Welcoming. It's Time for That to Change.
+https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/
+
+You don’t need a CS degree to be a successful engineer, but it helps.
+https://medium.com/@swizec/you-dont-need-a-cs-degree-to-be-a-successful-engineer-but-it-helps-d001ce3c3b35
+
+12 strategies to beat procrastination
+https://www.jotform.com/blog/409-12-strategies-that-help-me-and-108-employees-to-beat-procrastination
+
+Time Blocking for Developers - A Method to Increase Productivity
+https://www.7pace.com/blog/time-blocking-for-developers-how-to-achieve-flow-stop-being-busy-start-being-productive
+
+(2009) Ward Cunningham, the person who coined the term 'Technical Debt' explains the Debt Metaphor
+https://www.youtube.com/watch?v=pqeJFYwnkjE&amp;app=desktop
+
+Competitive Programmer's Handbook (PDF)
+https://cses.fi/book.pdf
+
+Building a Consistent UI Design System
+https://blog.bitsrc.io/building-a-consistent-ui-design-system-4481fb37470f
+
+Use a .dev domain? Not anymore.
+https://medium.engineering/use-a-dev-domain-not-anymore-95219778e6fd
+
+GitLab: The Magic of System Hooks
+https://medium.com/appsflyer/gitlab-the-magic-of-system-hooks-f38c4f7ca8e7
+
+What's new in Windows 10 April 2018 Update
+https://lifehacker.com/here-are-the-features-you-should-care-about-in-microsof-1825642722
+
+Can a Country take away your .com domain?
+https://www.theverge.com/platform/amp/2018/4/30/17302000/france-website-domain-name-lawsuit-french-government
+
+What's new in bootstrap 4.1.1
+https://blog.getbootstrap.com/2018/04/30/bootstrap-4-1-1/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

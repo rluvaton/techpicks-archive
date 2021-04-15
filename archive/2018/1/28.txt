@@ -1,0 +1,19 @@
+TechPicks 28/01/2018 -
+
+How to stop me harvesting credit card numbers and passwords from your site (thanks @972586030770 )
+https://hackernoon.com/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9
+
+Understanding The React Source Code VI – Hacker Noon
+https://hackernoon.com/understanding-the-react-source-code-vi-fe91ea58737f
+
+Understanding CORS - a basic introduction
+https://medium.com/@baphemot/understanding-cors-18ad6b478e2b
+
+Announcing The Node.js Application Showcase – Node.js Foundation
+https://medium.com/@nodejs/announcing-the-node-js-application-showcase-9fbaaa3e4824
+
+HTTP vs Websockets: A performance comparison
+https://blog.feathersjs.com/http-vs-websockets-a-performance-comparison-da2533f13a77
+
+A Crash Course on Docker
+https://blog.sourcerer.io/a-crash-course-on-docker-learn-to-swim-with-the-big-fish-6ff25e8958b0

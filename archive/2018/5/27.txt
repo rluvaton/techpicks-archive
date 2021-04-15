@@ -1,0 +1,39 @@
+TechPicks 27/05/2018 -
+
+Elad Shechter - The CSS Grid Methods
+https://medium.com/@elad/the-css-grid-methods-e75ce54d1da2
+
+Onium - Inject Hebrew support into the Slack desktop client
+https://github.com/yonatan-mitmit/onium
+
+VS Code (insiders build) can now automatically update import paths when you move or rename a TypeScript or JavaScript file
+https://twitter.com/mattbierner/status/1000069936897671168
+
+A tutorial on creating a simple blog using React & Node.js
+https://medium.com/@_aerdeljac/learn-how-to-create-a-simple-blog-with-react-node-c05fa6889de3
+
+Julia Evans on awk
+https://twitter.com/b0rk/status/1000604334026055681
+
+Gatsby officially becomes a startup with $3.8M seed round
+https://twitter.com/gatsbyjs/status/999684072501792768
+
+IoT table radar programmed in JavaScript
+https://github.com/neoniousTR/table_radar
+
+Web performance made easy (Google I/O '18)
+https://www.youtube.com/watch?v=Mv-l3-tJgGk
+
+Finding a prime number which looks like Salvador Dali
+https://www.agiliq.com/notebook/paint-by-prime-numbers/
+
+Hype Driven Development
+https://medium.com/@ozgurgul/hype-driven-development-2196a8bf73fa
+
+What GDPR means for your app or side project
+https://stackshare.io/posts/what-gdpr-means-for-side-projects
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

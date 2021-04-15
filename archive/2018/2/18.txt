@@ -1,0 +1,31 @@
+TechPicks 18/02/2018 -
+
+React Native and Yoga Both Given MIT Licence by Facebook
+https://github.com/facebook/react-native/commit/26684cf3adf4094eb6c405d345a75bf8c7c0bf88
+
+It's perfectly fine to only code at work, don't let anyone tell you otherwise
+https://dev.to/ben/its-perfectly-fine-to-only-code-at-work-dont-let-anyone-tell-you-otherwise--25i3
+
+Checkbot Web Guide - Over 50 web best practices to make your site more secure, SEO-friendly and performant
+https://www.checkbot.io/guide/
+
+A cartoon guide to Flux
+https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207
+
+A cartoon intro to Redux
+https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6
+
+Tools I wish I had known about when I started coding
+https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248
+
+How to study mathematics 
+https://www.math.uh.edu/~dblecher/pf2.html
+
+Simple Blockchain code in Node.js for beginners
+https://github.com/danilomendes12/simpleblockchain
+
+Why I refuse to give up code comments
+https://ewanvalentine.io/why-i-refuse-to-give-up-code-comments/
+
+What You Should Know About Image Optimization
+https://compressman.com/what-you-should-know-about-image-optimization

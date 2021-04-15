@@ -1,0 +1,26 @@
+TechPicks 25/03/2021 -
+
+Is There a Case for Programmers to Unionize?
+https://qvault.io/jobs/is-there-a-case-for-programmers-to-unionize/
+
+React Context for Dependency Injection Not State Management
+https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state/
+
+The solution of the Zodiac killer’s 340-character cipher
+https://blog.wolfram.com/2021/03/24/the-solution-of-the-zodiac-killers-340-character-cipher/
+
+The One Thing You Need to Know To Avoid CSS Overflow
+https://jportella93.medium.com/the-one-thing-you-need-to-know-to-avoid-css-overflow-9554b40aa797
+
+SvelteKit is in public beta
+https://svelte.dev/blog/sveltekit-beta
+
+Get better at programming by learning how things work
+https://jvns.ca/blog/learn-how-things-work/
+
+The End of AMP
+https://www.lafoo.com/the-end-of-amp/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

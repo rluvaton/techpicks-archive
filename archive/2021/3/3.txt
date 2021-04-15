@@ -1,0 +1,26 @@
+TechPicks 03/03/2021 -
+
+It Can Happen to You (another case of O(n^2) sscanf parsing)
+https://www.mattkeeter.com/blog/2021-03-01-happen/
+
+OrbitDB - Peer-to-Peer Databases for the Decentralized Web
+https://github.com/orbitdb/orbit-db
+
+Google Fonts now supports icons
+https://material.io/blog/google-fonts-material-icons
+
+Information Entropy (explanation and code)
+https://willjasen.com/posts/entropy
+
+Picking Apart Kent C. Dodds’ useAsync Hook
+https://headbutt.io/picking-apart-kents-useasync
+
+Speed is the killer feature
+https://bdickason.com/posts/speed-is-the-killer-feature/
+
+Semantic Versioning Will Not Save You
+https://hynek.me/articles/semver-will-not-save-you/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

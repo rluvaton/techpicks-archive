@@ -1,0 +1,84 @@
+TechPicks 23/04/2018 - 
+
+The latest trend for tech interviews: Days of unpaid homework
+https://work.qz.com/1254663/job-interviews-for-programmers-now-often-come-with-days-of-unpaid-homework/
+
+Why programmers are not paid in proportion to their productivity
+https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/
+
+Introducing mmarkdown: md on caffeine
+https://github.com/albinotonnina/mmarkdown
+
+The Non-Secret Formula for Writing Better Code
+https://hackernoon.com/the-non-secret-formula-for-writing-better-code-e41d1ff38682
+
+When Microsoft Got Right things right (1999)
+https://www.sciencealert.com/here-s-everything-microsoft-got-right-about-today-s-technology-back-in-1999
+
+ng-conf 2018 lectures with description and slides
+https://nitayneeman.com/posts/all-talks-from-ng-conf-2018
+
+Deploying AI to grow more than 6 billion roaches a year
+https://thenextweb.com/artificial-intelligence/2018/04/20/chinese-factories-are-growing-more-than-6-billion-roaches-a-year-using-ai
+
+The Magic Hat web layout
+https://medium.freecodecamp.org/magic-hat-technique-408a3fa590bb
+
+Why instant inline validation is bad
+http://uxmovement.com/forms/why-users-make-more-errors-with-instant-inline-validation/
+
+CheerBot - making people happy
+http://slashproject.co/cheerbot/
+
+BlackJack Application with JavaScript
+https://hackernoon.com/blackjack-application-with-javascript-2c76db51dea7
+
+Using Apollo Link State to Manage Local State in Larger Applications
+https://medium.com/@bnchrch/setting-up-apollo-link-state-for-multiple-stores-4cf54fdb1e00
+
+Easy snapshot testing with Puppeteer
+https://github.com/pemrouz/snapscreen
+
++-0, NaN and Object.is in JavaScript
+https://www.stefanjudis.com/today-i-learned/0-nan-and-object-is-in-javascript/
+
+Lightweight form validation framework in React - react-chloroform
+https://www.npmjs.com/package/react-chloroform
+
+"How I exploited a bug in the Avios Travel rewards programme to get 1000’s of valid air-mile points for free."
+https://medium.com/@cian_911/how-i-exploited-a-bug-in-the-avios-rewards-programme-to-get-1000s-of-valid-air-mile-points-for-2ad58c4b560a
+
+A couple of mini projects to get started with React, Redux and React with API from scratch (with tutorials links and latest code)
+https://github.com/ajayns/react-projects
+
+VSCode extension pack plugin containing essentials plugins for web development.
+https://github.com/solodynamo/frontend-vscode-extensionpack
+
+Don't be wastefull of those microseconds (Grace Hopper explains the length of a nanosecond)
+https://youtu.be/JEpsKnWZrJ8?t=1m13s
+
+Blind since birth, writing code at Amazon since 2013
+https://blog.aboutamazon.com/working-at-amazon/blind-since-birth-writing-code-at-amazon-since-2013
+
+Great Intro to Ada
+https://two-wrongs.com/guessing-game-ada-style.html
+
+Verifying leftPad() in Whiley
+http://whiley.org/2018/04/23/verifying-leftpad-in-whiley/
+
+"I made and programmed a working Lego EV3 printer"
+https://youtu.be/f1fdcq7A0ns
+
+What optimizations you can expect from CPU?
+https://dendibakh.github.io/blog/2018/04/22/What-optimizations-you-can-expect-from-CPU
+
+Software Testing Anti-patterns
+http://blog.codepipes.com/testing/software-testing-antipatterns.html
+
+Command Line Tricks For Data Scientists
+http://kadekillary.work/post/cli-4-ds/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

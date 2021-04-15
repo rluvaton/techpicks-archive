@@ -1,0 +1,39 @@
+TechPicks 17/04/18 -
+
+7-Zip exposes a bug in Windows's large memory pages. Causes data corruption and crashes in Windows and other programs. 
+https://sourceforge.net/p/sevenzip/discussion/45797/thread/e730c709/ 
+ 
+Using advanced design patterns to create flexible and reusable React components 
+https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-2-react-3c5662b997ab 
+ 
+env-manager-cli: update all your envs from the command line 
+https://www.npmjs.com/package/env-manager-cli 
+ 
+Turn Your Component Library Into a Component "Playlist" With Bit 
+https://blog.bitsrc.io/turning-your-component-library-into-a-component-playlist-with-bit-a8cae43f0f9d
+
+Parsing: a timeline. Hopefully this puts "Parsing is a solved problem" to rest 
+https://jeffreykegler.github.io/personal/timeline_v3 
+ 
+VuePress - Vue-powered Static Site Generator (by Vue creator, Evan You) 
+https://vuepress.vuejs.org/
+
+The Microsoft laptop anomaly
+https://hackernoon.com/the-microsoft-laptop-anomaly-eeb07486230b
+
+How we made $100K trading CryptoKitties
+https://hackernoon.com/how-we-made-100k-trading-cryptokitties-2d69aebe715b
+
+Designing apps for young kids
+https://uxdesign.cc/designing-apps-for-young-kids-part-1-ff54c46c773b
+
+Loading CSS without blocking render
+https://keithclark.co.uk/articles/loading-css-without-blocking-render/
+
+Crypto YouTuber hacked out of $2 million during a livestream
+https://thenextweb.com/hardfork/2018/04/16/crypto-youtuber-hacked-out-of-2-million-during-a-livestream
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

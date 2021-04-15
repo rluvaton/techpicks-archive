@@ -1,0 +1,37 @@
+TechPicks 08/03/2018 -
+
+Unearthing Z͌̈́̾a͊̈́l͊ g̏̉͆o̾̚̚S̝̬ͅc̬r̯̼͇ͅi̼͖̜̭͔p̲̘̘̹͖t̠͖̟̹͓͇ͅ with visual fuzzing
+http://blog.portswigger.net/2018/03/unearthing-zalgoscript-with-visual.html
+
+Exploring ES2018 and ES2019
+http://exploringjs.com/es2018-es2019/toc.html
+
+Visual Studio Code February 2018(1.21) Released!
+https://code.visualstudio.com/updates/v1_21
+
+This is the craziest CSS Animation library I’ve ever seen
+http://www.joerezendes.com/projects/Woah.css/
+
+Breakpoint - Debugging War Stories: How a small “can’t go wrong” change went very wrong
+https://backtrace.io/blog/breakpoint-paul-khuong-appnexus/
+
+efficient and lightweight typing effect built
+https://github.com/linasmnew/typing-effect-react
+
+Why it's worth to keep an eye on Elm.
+https://www.imaginarycloud.com/blog/elm-javascript-reinvented-2/
+
+Intro to BDD style E2E testing with CodeceptJS, Docker Compose and Semaphore CI
+https://medium.com/itcraftship/intro-to-bdd-style-e2e-testing-with-codeceptjs-docker-compose-and-semaphore-ci-f99a7c3c3a81
+
+SubState.js a Flux / Pub - Sub Hybrid State Management Library with Topic and Content Filtering
+https://github.com/TomSaporito/substate
+
+Natural Language Processing with NoSQL and JavaScript
+https://fullstack-developer.academy/natural-language-processing-with-nosql-and-javascript/
+
+Configuring neovim(vim) gf command to resolve JavaScript import
+https://damien.pobel.fr/post/configure-neovim-vim-gf-javascript-import/
+
+I created a bookmarklet to improve Linkedin's 'People you may know'
+https://jasonday.github.io/Linkedin-Ninja/

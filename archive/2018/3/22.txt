@@ -1,0 +1,37 @@
+TechPicks 22/03/2018 - 
+
+Let's Stop Making it Cool to Hate jQuery
+https://macarthur.me/posts/lets-stop-making-it-cool-to-hate-jquery/
+
+Hooking Up Firebase to Your Redux Store
+https://medium.com/@carlson.joshuaph/hooking-up-firebase-to-your-redux-store-a5e799cf84c4
+
+Arrays, symbols, and realms
+https://jakearchibald.com/2017/arrays-symbols-realms/
+
+typeof null: investigating a classic JavaScript bug
+https://alexanderellis.github.io/blog/posts/typeof-null/
+
+Introducing the free, live, React Bootcamp
+https://tylermcginnis.com/free-react-bootcamp/
+
+Project from Hell
+https://projectfailures.wordpress.com/2008/06/24/project-from-hell/
+
+Recommended compiler and linker flags for GCC
+https://developers.redhat.com/blog/2018/03/21/compiler-and-linker-flags-gcc/
+
+NodeJS Security: Development
+https://medium.com/@rsachenko/nodejs-security-development-3d78f7e3a72b
+
+Node JS: Advanced Concepts
+https://medium.com/@ganudavp/learn-caching-with-redis-speed-up-through-clustering-and-add-image-upload-with-s3-and-node-2a340267f17a
+
+Animations in React Native. How to achieve great performance and tips
+https://medium.com/building-with-react-native/animations-in-react-native-how-to-achieve-great-performance-and-tips-1x04-44fd43996428
+
+Programmer as wizard, programmer as engineer
+https://www.tedinski.com/2018/03/20/wizarding-vs-engineering.html
+
+5 Reasons Why You Should Blog as a Software Developer
+https://devdactic.com/blog-as-a-software-developer/

@@ -1,0 +1,32 @@
+TechPicks 14/10/2020 -
+
+Presenting v7.0.0 of the npm CLI
+https://github.blog/2020-10-13-presenting-v7-0-0-of-the-npm-cli/
+
+A set of color widgets for the web
+https://everycolorpicker.com/
+
+How to Recreate the Ripple Effect of Material Design Buttons
+https://css-tricks.com/how-to-recreate-the-ripple-effect-of-material-design-buttons/
+
+LDM: My Favorite ARM Instruction
+https://keleshev.com/ldm-my-favorite-arm-instruction/
+
+Smooth DOC - a premium Gatsby.js documentation theme is now open source
+https://github.com/gregberge/smooth-doc
+
+An open-source alternative to Twilio
+https://github.com/fonoster/fonos
+
+The case against Low Priority Alerts
+https://utsavshah.com/2020/10/12/case-against-low-priority-alerts/
+
+Prefer Fakes Over Mocks
+https://tyrrrz.me/blog/fakes-over-mocks
+
+Low-Level Academy - learn systems programming with small projects
+https://lowlvl.org/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup

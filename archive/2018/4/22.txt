@@ -1,0 +1,96 @@
+TechPicks 22/04/2018 -
+
+Designing very large (JavaScript) application
+https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3
+
+Give Parcel a Try, You May Like It!
+https://medium.com/@michaelsholty/give-parcel-a-try-you-may-like-it-75cd12a2bfb8
+
+Lightweight form validation framework in React - react-chloroform
+https://www.npmjs.com/package/react-chloroform
+
+DS with JS | Data Structures with JavaScript — Chapter Four — Hash tables — I
+https://medium.com/dev-blogs/ds-with-js-hash-table-4715c94083d2
+
+IoT.js landed in Raspbian - Samsung Open Source Group Blog
+https://blogs.s-osg.org/iot-js-landed-raspbian/
+
+Easily lazy-load, pre-cache and display blurred loading previews for all the images on your website.
+https://github.com/RevillWeb/img-2
+
+How to handle monetary values in JavaScript 
+https://frontstuff.io/how-to-handle-monetary-values-in-javascript
+
+Wikipedia’s cofounder on how he’s creating a bigger, better rival—on the blockchain
+https://qz.com/1151073/wikipedias-cofounder-on-how-hes-creating-a-bigger-better-rival-on-the-blockchain/
+
+Grasshopper is an app for learning JavaScript through mini-games 
+https://www.theverge.com/platform/amp/2018/4/19/17258694/grasshopper-javascript-mini-games
+
+GameDev with three.js on the modern web
+https://blog.openbloc.fr/gamedev-with-three-js-on-the-modern-web/
+
+Befunge: The Rube Goldberg Machine of Coding Languages
+https://dorianbrown.github.io/befunge/
+
+Why Scrum is the Wrong Way to Build Software
+https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5
+
+Lag & Blanking - Super Nintendo Entertainment System Features Pt. 06
+https://www.youtube.com/watch?v=Q8ph2OVqZeM
+
+I made and programmed a working Lego EV3 printer
+https://youtu.be/f1fdcq7A0ns
+
+The Infamous GNOME Shell Memory Leak
+https://feaneron.com/2018/04/20/the-infamous-gnome-shell-memory-leak/
+
+krug - a systems programming language that compiles to x64 assembly written in D
+https://github.com/felixangell/krug/issues
+
+Create Text User Interface(TUI) on Python
+https://medium.com/@bad_day/create-tui-on-python-71377849879d
+
+I made a python program that tracks body movement :)
+https://youtu.be/gPeeFCvJOWA
+
+VSCode can do that?
+https://vscodecandothat.com/
+
+The Pikachu Programming Language - A Programming Language Made For Pikachus
+http://trove42.com/introducing-pikachu-programming-language/
+
+Why Rust's error handling is awesome
+http://rantsideasstuff.com/posts/2018/04/20-rust-error-handling-awesome/
+
+A Guide to Parsing: Algorithms and Terminology
+https://tomassetti.me/guide-parsing-algorithms-terminology/
+
+A lot of Distributed Systems patterns in a single talk
+https://m.youtube.com/watch?v=0C7J7hFv_pk
+
+Kotlin Features I miss when going back to Java
+https://kotlinexpertise.com/kotlin-features-miss-java/
+
+Mapping the whole internet with Hilbert curves
+https://blog.benjojo.co.uk/post/scan-ping-the-internet-hilbert-curve
+
+How to scrape anything on the web and not get caught
+https://tinyendian.com/articles/how-to-scrape-the-web-and-not-get-caught/
+
+cppystruct - C++ implementation of Python's struct.(un)pack
+https://github.com/karkason/cppystruct
+
+The story of ispc: volta is born (part 2)
+http://pharr.org/matt/blog/2018/04/19/ispc-volta-is-born.html
+
+Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking
+https://arxiv.org/abs/1804.06826
+
+Idempotence layer on bloom filters
+https://cristian.io/post/bloom-filters/
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-

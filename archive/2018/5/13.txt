@@ -1,0 +1,51 @@
+TechPicks 13/05/2018 - 
+
+Dean Shub - Group Authentication
+https://medium.com/@deanshub/group-authentication-137dac30a65b
+
+Ethical questions to ask about google duplex
+https://www.theverge.com/2018/5/9/17334658/google-ai-phone-call-assistant-duplex-ethical-social-implications
+
+Facebook is reading encrypted Whatsapp messages!
+https://hackernoon.com/facebook-is-reading-my-encrypted-whatsapp-conversations-375d2eba0c18
+
+Optimizing React: Virtual DOM explained
+https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained
+
+isomorphic-git: A pure JavaScript implementation of git for node and browsers!
+https://github.com/isomorphic-git/isomorphic-git
+
+ES2015 / ES6 modules are now live in Firefox 60
+https://developer.mozilla.org/en-US/Firefox/Releases/60
+
+Googlebot is the new IE
+https://medium.com/drivetribe-engineering/googlebot-is-the-new-ie-2c5a30ef3c8a
+
+Effective Function Parameters in Javascript
+https://medium.com/@jessejorgenson/1c4f2f4602ee
+
+How to Create a Search Microservice
+https://ryanmccue.ca/how-to-create-a-search-microservice/
+
+(2016) Anti-If: The missing patterns
+https://code.joejag.com/2016/anti-if-the-missing-patterns.html
+
+A Brief History of Web App Loading
+https://medium.com/@cvitullo/a-brief-history-of-web-app-loading-ab8409e48812
+
+An alternative to bootstrap
+https://bulma.io/
+
+Machine learning in php, because why not
+https://github.com/php-ai/php-ml/blob/master/README.md
+
+Where does the language stop and the framework begin?
+https://hackernoon.com/framework-or-language-get-off-my-lawn-9935e1c72019
+
+How gitlab handles remote working
+https://hackernoon.com/no-need-to-come-to-the-office-making-remote-work-at-gitlab-737c42865210
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

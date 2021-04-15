@@ -1,0 +1,36 @@
+TechPicks 17/05/2018 - 
+
+After 5 years and $3M, here's everything we've learned from building Ghost
+https://blog.ghost.org/5/
+
+WhatsApp Web reverse engineered
+https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md
+
+Simple Web Layout with CSS Grid
+https://medium.com/@dalenguyen/simple-web-layout-with-css-grid-ec6be5086531
+
+The sad state of sysadmin in the age of containers
+https://www.vitavonni.de/blog/201503/2015031201-the-sad-state-of-sysadmin-in-the-age-of-containers.html
+
+HTTP headers we don't want
+https://www.fastly.com/blog/headers-we-dont-want
+
+I did some tests to find the most efficient serialization + compression method for JavaScript objects. Here are the results.
+https://serialize-comparison.j4id.com/
+
+Virtual DOM algorithm implementation with a demo
+https://github.com/alexcambose/virtual-dom
+
+What are Wireframes in Website Design?
+https://techindustan.com/what-are-wireframes-in-website-design/
+
+Questions to ask your interviewer (part 2): development and emergencies
+https://medium.com/p/questions-to-ask-your-interviewer-development-and-emergencies-f7fbc4519e5b
+
+Psychology of Code Readability
+https://medium.com/@egonelbre/psychology-of-code-readability-d23b1ff1258a
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw

@@ -1,0 +1,39 @@
+TechPicks 02/05/2018 -
+
+Facebook's Announces Dating Feature, And Other F8 Highlights
+http://digg.com/2018/facebook-f8-highlights
+
+Flexbox fallbacks for popular UI solutions that use CSS Grid
+http://www.gridtoflex.com/
+
+Announcing Babylon.js v3.2 - Babylon.js is an open source framework designed from ground up to help create easy and powerful 3D experiences in your browser or your web apps
+https://blogs.windows.com/buildingapps/2018/05/01/announcing-babylon-js-v3-2/
+
+Service Worker in MS Edge - status: complete!
+https://mobile.twitter.com/ebidel/status/991121376109981696
+
+Vuex Pathify - Ridiculously simple Vuex setup + wiring
+https://davestewart.github.io/vuex-pathify
+
+Pure CSS Francine - 18th century-style painting in CSS
+https://github.com/cyanharlow/purecss-francine
+
+Custom domains on GitHub Pages gain support for HTTPS
+https://blog.github.com/2018-05-01-github-pages-custom-domains-https/
+
+Introducing .app, a more secure home for apps on the web
+https://www.blog.google/topics/developers/introducing-app-more-secure-home-apps-web/
+
+GitHub says bug exposed some plaintext passwords
+https://www.zdnet.com/article/github-says-bug-exposed-account-passwords/
+
+Guide to Mozilla's WebAssembly IDE
+https://www.theregister.co.uk/2018/04/11/mozilla_webassembly_tools/
+
+Zsh Native Scripting Handbook
+http://zdharma.org/Zsh-100-Commits-Club/Zsh-Native-Scripting-Handbook.html
+
+Follow TechPicks on your favorite platform -
+Twitter - https://www.twitter.com/t3chpicks
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/joinchat/ErUC1xLmqz1Cl86-mPlfBw
