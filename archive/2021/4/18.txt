@@ -1,0 +1,35 @@
+TechPicks 18/04/2021 -
+
+Thanks for the Bonus, I Quit!
+https://madned.substack.com/p/thanks-for-the-bonus-i-quit
+
+I'd like to review your README
+https://liw.fi/readme-review/
+
+Time flies in Google Earth’s biggest update in years
+https://blog.google/products/earth/timelapse-in-google-earth
+
+See how much Jeff Bezos made since you loaded the page
+https://bezoscalculator.com/
+
+Performance trace recipes with Puppeteer
+https://addyosmani.com/blog/puppeteer-recipes/
+
+QUIC and HTTP/3 Support now in Firefox Nightly and Beta
+https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/
+
+yare.io – a game you control by writing real JavaScript
+https://yare.io
+
+Opting your Website out of Google's FLoC Network
+https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network
+
+5G: The outsourced elephant in the room
+https://berthub.eu/articles/posts/5g-elephant-in-the-room/
+
+The shortest way to conditionally insert properties into an object literal in JavaScript
+https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
