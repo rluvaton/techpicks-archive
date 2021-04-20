@@ -1,0 +1,32 @@
+TechPicks 20/04/2021 -
+
+How often do people actually copy and paste from Stack Overflow? Now we know.
+https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/
+
+Graphics Codex is now a free online computer graphics rendering and ray tracing textbook
+https://graphicscodex.courses.nvidia.com/app.html
+
+Which type of pre-onsite technical interview is the best for recruiting engineers?
+https://karomancer.medium.com/which-type-of-pre-onsite-technical-interview-is-the-best-for-recruiting-engineers-5121ea508feb?sk=31e2be145ede5e886f352384ec176417
+
+Software infrastructure 2.0: a wishlist
+https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html
+
+Schrödinger's Discriminated Union
+https://blog.yoavlavi.com/schroedingers/
+
+Visual Studio 2022
+https://devblogs.microsoft.com/visualstudio/visual-studio-2022/
+
+WordPress could treat Google FloC as a security issue
+https://www.zdnet.com/article/wordpress-could-treat-google-floc-as-a-security-issue/
+
+Never too late for Firefox 88
+https://hacks.mozilla.org/2021/04/never-too-late-for-firefox-88/
+
+Class fields and private class members are now stage 4, ready for ES2022
+https://github.com/tc39/proposal-class-fields
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
