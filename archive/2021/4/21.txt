@@ -1,0 +1,35 @@
+TechPicks 21/04/2021 -
+
+Eylam Milner - Pipeline Composition Analysis: How your CI pipeline presents new opportunities for attackers
+https://eylam.medium.com/pipeline-composition-analysis-how-your-ci-pipeline-presents-new-opportunities-for-attackers-31f2bdc98caa?source=friends_link&sk=97d77c12dd6c19c7752e42c43bf46666
+
+Node.js v16 released
+https://github.com/nodejs/node/releases/tag/v16.0.0
+
+Awesome JS Tooling not in JS
+https://github.com/RobinCsl/awesome-js-tooling-not-in-js
+
+Working around the viewport-based fluid typography bug in Safari
+https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/
+
+GitHub Action to visualize test results in GitHub UI
+https://github.com/dorny/test-reporter
+
+32 Opinionated Advice and Lessons Learned in Software Development
+https://medium.com/swlh/32-opinionated-advice-and-lessons-learned-in-software-development-cc1939847f0a
+
+Sharing ESLint Across Teams
+https://engineering.invisionapp.com/post/sharing-eslint-across-teams/
+
+240 tables and no documentation?
+https://minimalmodeling.substack.com/p/240-tables-and-no-documentation
+
+Software designers, not engineers: An interview from alternative universe
+http://tomasp.net/blog/2021/software-designers/
+
+Why Specifications Don't Compose
+https://www.hillelwayne.com/post/spec-composition/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
