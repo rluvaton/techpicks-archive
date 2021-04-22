@@ -3,10 +3,12 @@ TechPicks 22/04/2021 -
 Lit - New framework from Google
 https://lit.dev/
 
-What's New In DevTools (Chrome 91) - Chrome Developers
-https://developer.chrome.com/blog/new-in-devtools-91/
+What's New In DevTools (Chrome 91) - Chrome Developersnhttps://developer.chrome.com/blog/new-in-devtools-91/
 
-"They introduce kernel bugs on purpose"
+swimlanes - a simple online tool for creating sequence diagrams
+https://swimlanes.io
+
+"They introduce kernel bugs on purpose""
 https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/
 
 The Suspense is Killing Me: Part 1
@@ -21,7 +23,7 @@ https://www.haskellforall.com/2021/04/the-end-of-history-for-programming.html
 How to Write File-Based Tests With Real Files
 https://dev.to/dworddesign/how-to-write-file-based-tests-with-real-files-26ek
 
-I wrote a small Fetch API wrapper, comes with testing utilities
+A small Fetch API wrapper, comes with testing utilities
 https://github.com/tkrotoff/fetch
 
 TypeScript Enums I Want to Actually Use
@@ -29,4 +31,4 @@ https://robinpokorny.com/blog/typescript-enums-i-want-to-actually-use/
 
 Follow TechPicks -
 Telegram channel - https://t.me/techpicks
-Telegram group - https://t.me/techpicksgroup
+Telegram group - https"://t.me/techpicksgroup
