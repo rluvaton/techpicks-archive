@@ -1,0 +1,38 @@
+TechPicks 25/04/2021 -
+
+PullPreview - A GitHub Action that deploys live environments for your pull requests and branches
+https://github.com/pullpreview/action
+
+The Making (and Potential Benefits) of a CSS Font
+https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/
+
+Remote code execution in Homebrew by compromising the official Cask repository
+https://blog.ryotak.me/post/homebrew-security-incident-en/
+
+How to easily manipulate URL search parameters in JavaScript
+https://felixgerschau.com/js-manipulate-url-search-params/
+
+Green Programming Languages Vs. Brown Programming Languages
+https://earthly.dev/blog/brown-green-language/
+
+Noise in Creative Coding—using canvas and WebGL
+https://varun.ca/noise/
+
+Digging for performance gold: finding hidden performance wins
+https://blog.chromium.org/2021/04/digging-for-performance-gold.html
+
+I made the most exhaustive list of programming games on the entire Internet
+https://github.com/readyready15728/awesome-programming-games
+
+GitHub Actions: Helping maintainers combat bad actors
+https://github.blog/2021-04-22-github-actions-update-helping-maintainers-combat-bad-actors/
+
+Modern CI is Too Complex and Misdirected
+https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/
+
+3 use cases for ES6 generators
+https://dev.to/alekseiberezkin/3-use-cases-for-es6-generators-3375
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
