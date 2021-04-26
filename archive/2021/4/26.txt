@@ -1,0 +1,32 @@
+TechPicks 26/04/2021 -
+
+Pattern Monster - SVG Pattern Generator
+https://pattern.monster/
+
+You might as well timestamp it
+https://changelog.com/posts/you-might-as-well-timestamp-it
+
+Has UML died without anyone noticing?
+https://garba.org/posts/2021/uml/
+
+Rust Language Cheat Sheet
+https://cheats.rs/
+
+A Silly Anti-Disassembly Trick
+https://alexomara.com/blog/a-silly-anti-disassembly-trick/
+
+What Every Programmer Should Know About Memory
+https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
+
+Open letter from researchers involved in the “hypocrite commit” debacle
+https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/
+
+An example of overengineering - keep it WET
+https://blog.frankel.ch/example-overengineering/
+
+phpdocker - Production Grade, Rootless, PHP Image for Taming PHP For Kubernetes
+https://github.com/sherifabdlnaby/phpdocker
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
