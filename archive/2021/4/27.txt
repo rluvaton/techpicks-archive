@@ -1,0 +1,29 @@
+TechPicks 27/04/2021 -
+
+University of Minnesota security researchers apologize for deliberately buggy Linux patches
+https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u
+
+The Linux Foundation's demands to the University of Minnesota for its bad Linux patches security project
+https://www.zdnet.com/article/the-linux-foundations-demands-to-the-university-of-minnesota-for-its-bad-linux-patches/
+
+A complete guide to the CSS position property
+https://peterlunch.com/understanding-the-css-position-property/
+
+A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors
+https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/
+
+Incomplete List of Mistakes in the Design of CSS
+https://wiki.csswg.org/ideas/mistakes
+
+Practical SQL for Data Analysis: What you can do without Pandas
+https://hakibenita.com/sql-for-data-analysis
+
+Red & blue functions are actually a good thing
+https://blainehansen.me/post/red-blue-functions-are-actually-good/
+
+All Your Macs Are Belong To Us
+https://objective-see.com/blog/blog_0x64.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
