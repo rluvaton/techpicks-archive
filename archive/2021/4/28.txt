@@ -1,0 +1,32 @@
+TechPicks 28/04/2021 -
+
+Implementing Redux from Scratch
+https://codecrunch.org/redux-from-scratch-implementation-205c5b3be018
+
+Papers from the computer science community to read and discuss
+https://github.com/papers-we-love/papers-we-love
+
+Destructuring in JavaScript
+https://mark-omarov.medium.com/destructuring-in-javascript-fd28ace815ff
+
+Firefox and Chromium
+https://madaidans-insecurities.github.io/firefox-chromium.html
+
+cd is not a program
+https://seb.jambor.dev/posts/cd-is-not-a-program/
+
+Feature flags with rollout percentage for Node.js apps
+https://github.com/cdimascio/flagger-on
+
+Writing better TypeScript
+https://stefan-bauer.online/writing-better-type-script/
+
+GitHub blocks FLoC on all of GitHub Pages
+https://github.blog/changelog/2021-04-27-github-pages-permissions-policy-interest-cohort-header-added-to-all-pages-sites/
+
+A collection of front-end debugging script snippets to be used in the Sources panel in Chrome DevTools.
+https://github.com/matuzo/DevToolsSnippets
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
