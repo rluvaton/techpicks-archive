@@ -1,0 +1,35 @@
+TechPicks 02/05/2021 -
+
+manifetch: A manifest-based fetch() API client builder
+https://github.com/terixjs/manifetch
+
+A JavaScript optimizing compiler
+https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071
+
+Fluid: Simple, lightweight, and blazing-fast UI library at only around 1.5 KB minified and gzipped
+https://github.com/HereIsKevin/fluid/
+
+Understanding Big O Notation as a Software Developer
+https://enmascript.com/articles/2021/04/29/understanding-big-o-notation
+
+GitHub style split diffs in your terminal
+https://github.com/banga/git-split-diffs
+
+‘Master,’ ‘Slave’ and the Fight Over Offensive Terms in Computing
+https://www.nytimes.com/2021/04/13/technology/racist-computer-engineering-terms-ietf.html
+
+Change desktop background image for all desktops
+https://gabrieldougherty.com/posts/macos-change-desktop-background-image/
+
+Testability = Modularity
+https://massimo-nazaria.github.io/blog/2020/01/15/testability-equals-modularity.html
+
+Constructor Theory
+http://constructortheory.org/
+
+How Litestream Eliminated My Database Server for $0.03/month
+https://mtlynch.io/litestream/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
