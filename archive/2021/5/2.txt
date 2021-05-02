@@ -18,7 +18,7 @@ https://github.com/banga/git-split-diffs
 ‘Master,’ ‘Slave’ and the Fight Over Offensive Terms in Computing
 https://www.nytimes.com/2021/04/13/technology/racist-computer-engineering-terms-ietf.html
 
-Change desktop background image for all desktops
+MacOS: Change desktop background image for all desktops
 https://gabrieldougherty.com/posts/macos-change-desktop-background-image/
 
 Testability = Modularity
