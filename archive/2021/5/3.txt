@@ -1,0 +1,23 @@
+TechPicks 03/05/2021 -
+
+GitHub Profile README Generator
+https://github.com/rahulbanerjee26/githubProfileReadmeGenerator
+
+Trigonometric Function Visualizer
+https://conwayjw97.github.io/Trig-Assist/
+
+How companies alienate engineers by getting out of the innovation business
+https://berthub.eu/articles/posts/how-tech-loses-out/
+
+How companies alienate engineers by getting out of the innovation business
+https://berthub.eu/articles/posts/how-tech-loses-out/
+
+Hosting a database on GitHub Pages (or any static file hoster)
+https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
+
+Reports say one-third of Basecamp employees exit in the wake of new company etiquette
+https://www.zdnet.com/article/reports-say-one-third-of-basecamp-employees-exit-in-the-wake-of-new-company-etiquette/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
