@@ -1,0 +1,29 @@
+TechPicks 04/05/2021 -
+
+Project Jengo
+https://www.cloudflare.com/jengo/sable-prior-art-search/
+
+Is 0kb of JavaScript in your Future?
+https://dev.to/this-is-learning/is-0kb-of-javascript-in-your-future-48og
+
+Mantine – new React library, 60+ hooks and components with dark theme support
+https://mantine.dev/
+
+Google engineer calls out Apple for holding back the web with 'uniquely underpowered' iOS browsers
+https://infrequently.org/2021/04/progress-delayed/
+
+How to create dynamic og:images just like GitHub using React.js and TailwindCSS
+https://flayyer.com/blog/posts/github-cards
+
+CSS Hell - a collection of common CSS mistakes, and how to fix them
+https://csshell.dev/
+
+Should DevTools teach the CSS cascade?
+https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/
+
+My favorite one-liners
+https://muhammadraza.me/2021/Oneliners/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
