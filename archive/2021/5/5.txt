@@ -1,0 +1,38 @@
+TechPicks 05/05/2021 -
+
+My experience with sexual harassment in the Scala community
+https://yifanxing.medium.com/my-experience-with-sexual-harassment-in-the-scala-community-9245b4a139de
+
+Announcing Rome Tools Inc, an open source first company
+https://rome.tools/blog/announcing-rome-tools-inc/
+
+How we use Web Components at GitHub
+https://github.blog/2021-05-04-how-we-use-web-components-at-github/
+
+In-depth exploration of JavaScript iteration protocols
+https://www.nodejsdesignpatterns.com/blog/javascript-async-iterators
+
+How React hooks work - in depth
+https://github.com/Eliav2/how-react-hooks-work
+
+Tiny Wins
+https://joelcalifa.com/blog/tiny-wins/
+
+How setting arbitrary deadlines can hurt developers
+https://javascript.plainenglish.io/how-setting-arbitrary-deadlines-can-hurt-developers-aa663df4d7ad
+
+Inside the all-hands meeting that led to a third of Basecamp employees quitting
+https://www.theverge.com/2021/5/3/22418208/basecamp-all-hands-meeting-employee-resignations-buyouts-implosion
+
+Learn VIM while playing a game
+https://vim-adventures.com/
+
+What really happened at Basecamp
+https://www.platformer.news/p/-what-really-happened-at-basecamp
+
+DigitalOcean says customer billing data accessed in data breach
+https://techcrunch.com/2021/04/28/digitalocean-customer-billing-data-breach/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
