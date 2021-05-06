@@ -1,0 +1,35 @@
+TechPicks 06/05/2021 -
+
+Visual Studio Code April 2021
+https://code.visualstudio.com/updates/v1_56
+
+V8 release v9.1
+https://v8.dev/blog/v8-release-91
+
+Bootstrap 5 Released
+https://blog.getbootstrap.com/2021/05/05/bootstrap-5/
+
+HTML tips you might have not been aware of
+https://markodenic.com/html-tips/
+
+Dependency Managers Don’t Manage Your Dependencies
+https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies
+
+How I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit
+https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html
+
+The State of Data Engineering in 2021
+https://lakefs.io/the-state-of-data-engineering-in-2021/
+
+Comprehensive Python Cheatsheet
+https://github.com/gto76/python-cheatsheet
+
+The Case of the 50ms request
+https://mysteries.wizardzines.com/50ms-request.html
+
+Six years of professional Clojure development
+http://www.falkoriemenschneider.de/a__2021-05-10__Six-years-of-professional-Clojure-development.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
