@@ -1,0 +1,44 @@
+TechPicks 09/05/2021 -
+
+google/zx: a package for writing scripts in JavaScript instead of Bash
+https://github.com/google/zx
+
+How we sped up Chrome DevTools stack traces by 10x
+https://developer.chrome.com/blog/faster-stack-traces/
+
+Peak Web Is Long Passed
+https://www.datagubbe.se/peakweb/
+
+Linkinator: A super simple site crawler and broken link checker
+https://github.com/JustinBeckwith/linkinator
+
+The Byte Order Fiasco
+https://justine.lol/endian.html
+
+CSS-only fluid modular type scales
+https://utopia.fyi/blog/css-modular-scales/
+
+Announcing Rust for Windows v0.9
+https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-windows-v0-9/
+
+Smithy: Amazon's language for defining services and SDKs
+https://awslabs.github.io/smithy/
+
+World's 1st multinode quantum network is a breakthrough for the quantum internet
+https://www.livescience.com/three-node-quantum-network.html 
+
+ The Mortifying Ordeal of Pairing All Day
+https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/
+
+Atuin: Improved shell history with multi-machine sync
+https://github.com/ellie/atuin
+
+Undo your last git command with ugit
+https://bhupesh-v.github.io/undo-your-last-git-mistake-with-ugit/
+
+What I Learned by Relearning HTML
+https://www.dannyguo.com/blog/what-i-learned-by-relearning-html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
