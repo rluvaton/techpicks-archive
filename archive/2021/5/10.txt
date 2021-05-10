@@ -1,0 +1,23 @@
+TechPicks 10/05/2021 -
+
+Technical Debt Isn’t All Bad (Usually)
+https://ryanhayes.net/technical-debt-isnt-all-bad-usually/
+
+Building a React color picker
+https://lorenzopepe.dev/blog/react-color-picker
+
+25 years of OCaml
+https://discuss.ocaml.org/t/25-years-of-ocaml/7813/
+
+Criticism pushes the web forward - commentary on the recent Tailwind CSS discussions
+https://hiddedevries.nl/en/blog/2021-05-08-criticism-pushes-the-web-forward/
+
+What is HTTP/3, and why does it matter?
+https://javascript.plainenglish.io/what-is-http-3-and-why-does-it-matter-cb7d7b4b600f
+
+Termite is archived. Maintainer suggests moving to Alacritty
+https://github.com/thestinger/termite
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
