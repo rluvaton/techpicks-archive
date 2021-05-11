@@ -1,0 +1,32 @@
+TechPicks 11/05/2021 -
+
+Babel.js is used by millions, so why are we running out of money?
+https://babeljs.io/blog/2021/05/10/funding-update.html
+
+tinyws — tiny WebSocket middleware for Node.js
+https://github.com/talentlessguy/tinyws
+
+Portable Unix shell commands for Node.js
+https://github.com/shelljs/shelljs
+
+URL protocol handler registration for PWAs
+https://web.dev/url-protocol-handler/
+
+Tailwind CSS v2.1 - new JIT engine, first-class support for composable CSS filters & blending mode utilities
+https://blog.tailwindcss.com/tailwindcss-2-1
+
+JWT should not be your default for sessions
+https://evertpot.com/jwt-is-a-bad-default/
+
+Introducing csharp 10
+https://kenbonny.net/introducing-csharp-10
+
+Boeing 787s must be turned off and on every 51 days to prevent 'misleading data' being shown to pilots
+https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data
+
+50 Years of Pascal by Niklaus Wirth
+https://m-cacm.acm.org/magazines/2021/3/250705-50-years-of-pascal/fulltext
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
