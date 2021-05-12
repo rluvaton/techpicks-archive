@@ -1,0 +1,26 @@
+TechPicks 12/05/2021 -
+
+URL protocol handler registration for PWAs
+https://web.dev/url-protocol-handler/
+
+Why Sleep Apnea Patients Rely on a CPAP Machine Hacker
+https://www.vice.com/en/article/xwjd4w/im-possibly-alive-because-it-exists-why-sleep-apnea-patients-rely-on-a-cpap-machine-hacker
+
+The Plan for the Rust 2021 Edition
+https://blog.rust-lang.org/2021/05/11/edition-2021.html
+
+Deno v1.10 released
+https://deno.com/blog/v1.10
+
+My Development Environment in 2021
+https://ideas.offby1.net/posts/development-environment-2021.html
+
+10 things I learned making the fastest site in the world
+https://medium.com/hackernoon/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7
+
+FragAttacks: Security flaws in all Wi-Fi devices
+https://www.fragattacks.com/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
