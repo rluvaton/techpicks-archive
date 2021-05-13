@@ -24,9 +24,6 @@ https://github.com/exalt/exalt
 Software development topics I've changed my mind on after 6 years in the industry
 https://chriskiehl.com/article/thoughts-after-6-years
 
-Google Docs will now use canvas based rendering
-http://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html
-
 untab - a productivity tool to boost your browser workflow
 https://github.com/blenderskool/untab
 
