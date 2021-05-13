@@ -1,0 +1,38 @@
+TechPicks 13/05/2021 -
+
+Angular v12 is now available
+https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
+
+Announcing TypeScript 4.3 RC
+https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-rc/
+
+Google Docs will now use canvas based rendering
+http://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html
+
+The Worst Question You Can Ask a Software Developer - "When will you be done?"
+https://betterprogramming.pub/the-worst-question-you-can-ask-a-software-developer-ddbcd5956eb4
+
+Prettier 2.3. In which assignments are consistent, short keys non-breaking, and Handlebars official
+https://prettier.io/blog/2021/05/09/2.3.0.html
+
+Announcing Docusaurus 2 Beta
+https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta
+
+Exalt - A JavaScript framework for building universal apps
+https://github.com/exalt/exalt
+
+Software development topics I've changed my mind on after 6 years in the industry
+https://chriskiehl.com/article/thoughts-after-6-years
+
+Google Docs will now use canvas based rendering
+http://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html
+
+untab - a productivity tool to boost your browser workflow
+https://github.com/blenderskool/untab
+
+The room where it happens: How Rails gets made
+https://schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
