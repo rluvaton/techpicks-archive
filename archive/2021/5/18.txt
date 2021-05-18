@@ -1,0 +1,41 @@
+TechPicks 18/05/2021 -
+
+Preventing Crypto Mining abuse on GitLab.com SaaS
+https://about.gitlab.com/blog/2021/05/17/prevent-crypto-mining-abuse/
+
+Google Course: Technical Writing for Software Engineers
+https://developers.google.com/tech-writing
+
+Release Cosmopolitan v1.0: Cosmopolitan Libc makes C a build-once run-anywhere language, like Java, except it doesn't need an interpreter or virtual machine.
+https://github.com/jart/cosmopolitan
+
+State machines are wonderful tools
+https://nullprogram.com/blog/2020/12/31/
+
+Clarity is an underrated skill | Tom Gamon
+https://tomgamon.com/posts/clarity/
+
+A visualiser to help people learn about the DOM Event system through exploration
+https://domevents.dev
+
+Typehole – Create TypeScript interfaces from JS runtime values automatically
+https://github.com/rikukissa/typehole
+
+React 17 internally uses the browser's focusin and focusout events for onFocus and onBlur events
+https://blog.saeloun.com/2021/05/14/react-17-uses-browse-focusin-focusout-for-onfocus-onblur
+
+Learn.js: A fast introduction to modern programming with JavaScript
+https://github.com/MarcoWorms/learn.js
+
+Modern Javascript: Everything you missed over the last 10 years (ECMAScript 2020)
+https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years
+
+Dev tool: A Markdown editor for JS developers
+https://dev.to/alagrede/dev-tool-a-markdown-editor-for-developers-1j13
+
+Deno, One Year and Two Hundred Patches Later
+https://dev.to/caspervonb/deno-one-year-and-two-hundred-patches-later-3bdd
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
