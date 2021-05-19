@@ -1,0 +1,35 @@
+TechPicks 19/05/2021 -
+
+How to reuse Storybook stories with React tests
+https://medium.com/storybookjs/testing-lib-storybook-react-8c36716fab86
+
+Introducing Firefox’ new Site Isolation Security Architecture
+https://hacks.mozilla.org/2021/05/introducing-firefox-new-site-isolation-security-architecture/
+
+Multiplayer Doom on Cloudflare Workers
+https://blog.cloudflare.com/doom-multiplayer-workers/
+
+Free and Open Source UI Components Library for Vue 3
+https://github.com/epicmaxco/vuestic-ui
+
+The Matrix Space Beta
+https://matrix.org/blog/2021/05/17/the-matrix-space-beta
+
+The data model behind Notion's flexibility
+https://www.notion.so/blog/data-model-behind-notion
+
+Two Different Views of What Decoupled Code Means
+https://www.worldofbs.com/decoupled-software/
+
+The tools and tech I use to run a one-woman hardware company
+https://blog.thea.codes/winterblooms-tech-stack/
+
+Khan Academy's migration from Python 2 to Go
+https://blog.khanacademy.org/half-a-million-lines-of-go/
+
+Can't Unsee
+https://cantunsee.space/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
