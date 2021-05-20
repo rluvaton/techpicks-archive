@@ -1,0 +1,38 @@
+TechPicks 20/05/2021 -
+
+Learn CSS - a CSS course by Google
+https://web.dev/learn/css/
+
+A love letter to HTML & CSS
+https://css-tricks.com/a-love-letter-to-html-css/
+
+Microsoft finally retiring Internet Explorer on June 15, 2022
+https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/
+
+Project Starline: Feel like you're there, together
+https://blog.google/technology/research/project-starline/amp/
+
+Introducing Angular DevTools
+https://blog.angular.io/introducing-angular-devtools-2d59ff4cf62f
+
+Trombone.js - a digital trombone for your web browser
+https://github.com/bignimbus/trombone.js
+
+In 1982, a one-bit hack let me dodge a summer of filling in potholes
+https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual
+
+The Freenode resignation FAQ, or: "what the fuck is going on?"
+https://gist.github.com/joepie91/df80d8d36cd9d1bde46ba018af497409
+
+Improving Firefox stability on Linux
+https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/
+
+A Teenager's Guide to Avoiding Actual Work
+https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual
+
+Libera Chat
+https://libera.chat/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
