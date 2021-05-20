@@ -27,9 +27,6 @@ https://gist.github.com/joepie91/df80d8d36cd9d1bde46ba018af497409
 Improving Firefox stability on Linux
 https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/
 
-A Teenager's Guide to Avoiding Actual Work
-https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual
-
 Libera Chat
 https://libera.chat/
 
