@@ -1,0 +1,29 @@
+TechPicks 23/05/2021 -
+
+Raz Luvaton - A Chrome Extension for checking whether a link has already been sent to TechPicks
+https://github.com/rluvaton/is-already-sent-to-tech-picks-extension
+
+Announcing a new Appwrite Release - a step closer to becoming a complete OSS Firebase Alternative
+https://dev.to/appwrite/announcing-appwrite-0-8-an-open-source-self-hosted-baas-kda
+
+DOOM Captcha - Captchas don't have to be boring
+https://vivirenremoto.github.io/doomcaptcha/
+
+zx 1.9.0 release with a new pipe() method
+https://github.com/google/zx/releases/tag/1.9.0
+
+Popular Elitism In Programming - How your path of learning can affect your judgement towards other people
+https://fagnerbrack.com/popular-elitism-in-programming-d11447bc60dd?source=friends_link&sk=3e335ef5c632dcefd83da14b1ca8313c
+
+The Time I (Sorta) Had a Real Use Case for a Bitwise Operator in JavaScript
+https://macarthur.me/posts/use-case-for-bitwise-operator-in-javascript
+
+Parcel 2 beta 3: 10× faster JavaScript compiler written in Rust
+https://v2.parceljs.org/blog/beta3/
+
+Deep Object Change Handlers in Typescript
+https://typeofnan.dev/deep-object-change-handlers-in-typescript/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
