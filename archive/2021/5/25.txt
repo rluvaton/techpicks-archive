@@ -1,0 +1,38 @@
+TechPicks 25/05/2021 -
+
+How to keep your job as CTO
+https://medium.com/the-innovation/how-to-keep-your-job-as-cto-7bff166c567d
+
+JavaScript Inheritance: the Dark Arts
+https://dev.to/nickkelly314/javascript-inheritance-the-dark-arts-1bh1
+
+SvelteKitAuth - Authentication library for use with SvelteKit featuring built-in OAuth providers
+https://github.com/Dan6erbond/sk-auth
+
+Introducing WebContainers: Run Node.js natively in your browser
+https://blog.stackblitz.com/posts/introducing-webcontainers/
+
+Visual Studio Roadmap for 2022
+https://visualstudiomagazine.com/articles/2021/05/24/vs-2022-roadmap.aspx
+
+Build a library with esbuild
+https://dev.to/daviddalbusco/build-a-library-with-esbuild-fnh
+
+Don’t use custom CSS mouse cursors
+https://ericwbailey.design/writing/dont-use-custom-css-mouse-cursors/
+
+unfont — embed Font Awesome icons into HTML as inline SVG
+https://github.com/thoughtspile/unfont
+
+Deep Dive into Rust for Node.js Developers
+https://gotoflorian-pro.medium.com/deep-dive-into-rust-for-node-js-developers-5faace6dc71f?source=friends_link&sk=839b9bc4296f1312b6173f0a121603f9
+
+20 JavaScript Concepts you should know as a JavaScript Programmer
+https://blog.devgenius.io/20-javascript-concepts-you-should-know-as-a-javascript-programmer-c04d7b1a8d6e?sk=cc9a655f3a07686a9a1cdd4825c73e18
+
+The Bad Reasons People Avoid TypeScript — and the Better Reasons Why They Shouldn’t
+https://medium.com/@billwohlers/the-bad-reasons-people-avoid-typescript-and-the-better-reasons-why-they-shouldnt-86f8d98534de
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
