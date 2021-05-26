@@ -1,0 +1,32 @@
+TechPicks 26/05/2021 -
+
+The 2021 Developer Survey is now open
+https://stackoverflow.blog/2021/05/25/the-2021-developer-survey-is-now-open/
+
+Windows Terminal Preview 1.9 Release
+https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-9-release/
+
+How software gets color wrong
+https://bottosson.github.io/posts/colorwrong/?utm_source=bengtan.com
+
+Hate Cookies? Introducing Aurora, 100% Cookie-Free JavaScript Open Website Analytics
+https://useaurora.app/
+
+Jest 27: New Defaults for Jest, 2021 edition
+https://jestjs.io/blog/2021/05/25/jest-27
+
+How to Leverage the AWS WebSocket API for Serverless WebRTC signaling
+https://webrtchacks.com/leverage-aws-websocket-api-for-webrtc-signaling/
+
+Scheme based powerful lisp interpreter written in JavaScript
+https://github.com/jcubic/lips
+
+snap-tweet: CLI to snap a screenshot of a tweet
+https://github.com/privatenumber/snap-tweet
+
+GraphJin - Automagical GraphQL to SQL compiler now available on NPM
+https://www.npmjs.com/package/graphjin
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
