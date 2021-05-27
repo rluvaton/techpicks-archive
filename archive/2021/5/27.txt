@@ -1,0 +1,26 @@
+TechPicks 27/05/2021 -
+
+MDN is launching MDN Plus
+https://developer.mozilla.org/en-US/plus
+
+Announcing TypeScript 4.3
+https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/
+
+Clarity on Flow’s Direction and Open Source Engagement
+https://medium.com/flow-type/clarity-on-flows-direction-and-open-source-engagement-e721a4eb4d8b
+
+Have you ever hurt yourself from your own code?
+https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code
+
+Unreal Engine 5 is now available in Early Access!
+https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available-in-early-access
+
+Freenode, The Mainstream IRC Network, Is Collapsing
+https://fosspost.org/freenode-collapse/
+
+Summoning Cthulhu by Parsing HTML with Regular Expressions
+https://talbrenev.com/2021/05/26/html-regex.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
