@@ -1,0 +1,26 @@
+TechPicks 30/05/2021 -
+
+Learn X in Y minutes - Take a whirlwind tour of your next favorite language
+https://learnxinyminutes.com/
+
+Sparkplug — A non-optimizing JavaScript compiler
+https://v8.dev/blog/sparkplug
+
+Pwned Passwords, Open Source in the .NET Foundation and Working with the FBI
+https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/
+
+Rocket Booster - The edge-rendered speed booster for web applications, storage platforms, and RESTful APIs
+https://github.com/rocket-booster/rocket-booster
+
+A Codemod to migrate from Moment to day.js
+https://github.com/rajasegar/moment-dayjs-codemod
+
+State Management: How to tell a bad boolean from a good boolean
+https://dev.to/mpocock1/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean-260n
+
+Coding Adventure: Terraforming
+https://www.youtube.com/watch?v=vTMEdHcKgM4
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
