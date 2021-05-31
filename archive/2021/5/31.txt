@@ -1,8 +1,5 @@
 TechPicks 31/05/2021 -
 
-Under-the-hood of NPM
-https://craigtaub.dev/under-the-hood-of-npm
-
 Transition Auto - A JavaScript function enabling element width and height transitions to and from auto
 https://github.com/alexspirgel/transition-auto
 
