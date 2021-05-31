@@ -1,0 +1,32 @@
+TechPicks 31/05/2021 -
+
+Under-the-hood of NPM
+https://craigtaub.dev/under-the-hood-of-npm
+
+Transition Auto - A JavaScript function enabling element width and height transitions to and from auto
+https://github.com/alexspirgel/transition-auto
+
+Second-guessing the modern web
+https://macwright.com/2020/05/10/spa-fatigue.html
+
+Projen: Node.js project boilerplating
+https://gorianskyi.medium.com/projen-nodejs-project-boilerplating-15c20665c6b5?source=friends_link&sk=fc8f043a3757f4336dcf09073df95e11
+
+Creator of Rufus outlines the problems with Microsoft's UWP
+https://github.com/pbatard/rufus/issues/1617
+
+A slightly different way to generate strong, memorable passwords
+https://throughascreendarkly.com/2021/05/31/a-slightly-different-way-to-generate-strong-memorable-passwords/
+
+Drunk Post: Things I've learned as a Sr Engineer
+https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/
+
+Phacility, maintainer of Phabricator, is Winding Down Operations
+https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/
+
+Web Dev History
+https://webdevelopmenthistory.com/index/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
