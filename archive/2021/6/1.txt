@@ -1,0 +1,26 @@
+TechPicks 01/06/2021 -
+
+Wikipedia is swimming in money — why is it begging people to donate?
+https://www.dailydot.com/debug/wikipedia-endownemnt-fundraising/  
+
+The Most Expensive Number in Engineering
+https://surjan.substack.com/p/the-most-expensive-number-in-engineering
+
+Danish whistleblower details NSA collaboration, submarine cable spying, surveillance data center
+https://www.datacenterdynamics.com/en/news/danish-whistleblower-details-nsa-collaboration-submarine-cable-spying-surveillance-data-center/
+
+Software Testing in the 2020's
+https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021
+
+How to Test
+https://matklad.github.io//2021/05/31/how-to-test.html
+
+Using Wikipedia as an Impromptu RottenTomatoes API
+https://zverok.github.io/blog/2021-05-31-rottentomatoes_wikipedia.html
+
+Why We Need to Rethink the Computer ‘Desktop’ as a Concept
+https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
