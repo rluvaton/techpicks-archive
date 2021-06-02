@@ -1,0 +1,38 @@
+TechPicks 02/06/2021 -
+
+Yet Another Dotfiles Manager
+https://yadm.io/
+
+htop-like system-monitor for Windows with Vi-keybindings
+https://github.com/gsass1/NTop
+
+Google's speedier internet standard is now an actual standard
+https://www.engadget.com/google-quic-becomes-official-internet-standard-170000970.html?guccounter=1
+
+Modern, clean new Firefox clears the way to all you need online
+https://blog.mozilla.org/en/mozilla/news/modern-clean-new-firefox-clears-the-way-to-all-you-need-online/
+
+GNU BRE/ERE cheatsheet and differences between grep, sed and awk
+https://learnbyexample.github.io/gnu-bre-ere-cheatsheet/
+
+JWTs done right: Quebec's proof of vaccination
+https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/
+
+GCC drops its copyright-assignment requirement
+https://lwn.net/Articles/857791/
+
+New CSS functional psuedo class selectors :is() and :where()
+https://web.dev/css-is-and-where/
+
+Should Perl die gracefully?
+https://phoenixtrap.com/2021/06/01/should-perl-die-gracefully/
+
+What's in email tracking links and pixels?
+https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/
+
+Better JSON in Postgres with PostgreSQL 14
+https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
