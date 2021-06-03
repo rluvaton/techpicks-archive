@@ -1,0 +1,32 @@
+TechPicks 03/06/2021 -
+
+Stack Overflow Sold to Tech Giant Prosus for $1.8 Billion
+https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400
+
+Stackoverflow: Kinda a big announcement
+https://www.joelonsoftware.com/2021/06/02/kinda-a-big-announcement/
+
+Why We Should Throw Out React and Pick Up Angular
+https://javascript.plainenglish.io/throw-out-react-and-pick-up-angular-8b578bb7cabc
+
+GOODJOBS - Find your next job at a company trying to change the world for the better
+https://goodjobs.careers/
+
+Why Python 4.0 might never arrive, according to its creator
+https://www.techrepublic.com/article/programming-languages-why-python-4-0-will-probably-never-arrive-according-to-its-creator/
+
+gRPC vs REST: comparing APIs architectural styles
+https://www.imaginarycloud.com/blog/grpc-vs-rest/
+
+The Missing Guide to Async/Await, Promises, and Error Handling in Express
+https://www.youtube.com/watch?v=XFn0SJmGYs4&list=PLxki0D-ilnqZfyo2dZe11ZNGP7RJxJcoA&index=18
+
+25 Years of CSS
+https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/
+
+Bunnyhopping from the Programmer's Perspective
+https://adrianb.io/2015/02/14/bunnyhop.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
