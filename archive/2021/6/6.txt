@@ -1,0 +1,38 @@
+TechPicks 06/06/2021 -
+
+Organize code by concepts, not layers
+https://kislayverma.com/programming/how-to-organize-your-code/
+
+Don't use functions as callbacks unless they're designed for it
+https://jakearchibald.com/2021/function-callback-risks/
+
+Rustpad: An online collaborative code editor that looks like VS Code - self-hosted, powered by Rust, TypeScript, & WebAssembly
+https://github.com/ekzhang/rustpad
+
+Anatomy of a Linux DNS Lookup
+https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
+
+The faster you unlearn OOP, the better for you and your software (2018)
+https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software
+
+The repeated deaths of OOP
+https://loup-vaillant.fr/articles/deaths-of-oop
+
+Brilliant Jerks in Engineering (2017)
+http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html
+
+React Aria - a library of React Hooks that provides accessible UI primitives for your design system
+https://react-spectrum.adobe.com/react-aria/index.html
+
+New in Storybook 6.3: addons for better layout debugging
+https://storybook.js.org/blog/essential-layout-debugging/
+
+Password Managers
+https://lock.cmpxchg8b.com/passmgrs.html
+
+Nice nginx features for developers
+https://alex.dzyoba.com/blog/nginx-features-for-developers/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
