@@ -1,0 +1,20 @@
+TechPicks 07/06/2021 -
+
+An incomplete list of skills senior engineers need, beyond coding
+https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
+
+What makes Rust's enums so great?
+https://dwbrite.com/blog/post/rust%20enums%20by%20example
+
+A new future for icanhazip
+https://major.io/2021/06/06/a-new-future-for-icanhazip/
+
+It’s time to ditch Chrome
+https://www.wired.co.uk/article/google-chrome-browser-data
+
+The pedantic checklist for changing your data model in a web application
+https://rtpg.co/2021/06/07/changes-checklist.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
