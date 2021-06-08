@@ -1,0 +1,32 @@
+TechPicks 08/06/2021 -
+
+Apple WWDC 2021 keynote in 23 minutes
+https://www.youtube.com/watch?v=S0LVnxfn5n4
+
+The C4 model for visualising software architecture
+https://c4model.com/
+
+A fun JavaScript quiz that will test your knowledge on somewhat obscure JS syntax
+https://jsisweird.com/
+
+Clever vs Insightful Code
+https://www.hillelwayne.com/post/cleverness/
+
+The top-ranking HTML editor on Google is an SEO scam
+https://casparwre.de/blog/seo-scam/
+
+How Replit used legal threats to kill my open-source project
+https://intuitiveexplanations.com/tech/replit/
+
+PM2 5.0 released with system monitoring embedded
+https://github.com/Unitech/pm2/blob/master/CHANGELOG.md#500
+
+Golang Cheatsheet for Node.js Developers
+https://gotoflorian-pro.medium.com/golang-for-node-js-developers-5d8f83dac55c?source=friends_link&sk=052d8ed8575db0c18ae4e0c2e095c49c
+
+Can I :has()
+https://bkardell.com/blog/canihas.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
