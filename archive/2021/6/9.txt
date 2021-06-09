@@ -1,0 +1,26 @@
+TechPicks 09/06/2021 -
+
+The Plan for React 18
+https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html
+
+Glue: the Dark Matter of Software
+https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html
+
+Rust from a JavaScript perspective - A tongue in cheek walk-through
+https://blogs.harvard.edu/kapolos/rust-from-a-javascript-perspective/
+
+Implementing Private Fields for JavaScript
+https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/
+
+Naming names in incident writeups
+https://surfingcomplexity.blog/2021/05/22/naming-names-in-incident-writeups/
+
+The Developer Advocacy Handbook
+https://github.com/codepo8/developer-advocacy-handbook
+
+Always be quitting
+https://jmmv.dev/2021/04/always-be-quitting.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
