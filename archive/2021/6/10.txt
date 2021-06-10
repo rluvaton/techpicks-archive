@@ -1,0 +1,32 @@
+TechPicks 10/06/2021 -
+
+Angular 12 and Ivy support coming to Storybook
+https://storybook.js.org/blog/storybook-for-angular-12/
+
+New Suspense SSR Architecture in React 18
+https://github.com/reactwg/react-18/discussions/37?s=09
+
+Things I've learned as a Sr Engineer
+https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/
+
+Bad managers are a huge problem in tech and developers can only compensate so much
+https://iism.org/article/developers-can-t-fix-bad-management-57
+
+LPT: Make a bookmarklet to engage the "you have unsaved changes, are you sure?" prompt when editing styles in dev tools, here's how
+https://river.me/blog/bookmarklet-stay-here/
+
+How to Choose the Right Database
+https://towardsdatascience.com/how-to-choose-the-right-database-afcf95541741
+
+"Good Enough" Architecture - Stefan Tilkov - GOTO 2019
+https://www.youtube.com/watch?v=PzEox3szeRc
+
+Why should you return early?
+https://szymonkrajewski.pl/why-should-you-return-early/
+
+How to work with text in .NET like a pro with Humanizer
+https://www.youtube.com/watch?v=bLKXqJwRNSY
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
