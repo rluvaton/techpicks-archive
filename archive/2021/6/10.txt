@@ -12,7 +12,7 @@ https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_l
 Bad managers are a huge problem in tech and developers can only compensate so much
 https://iism.org/article/developers-can-t-fix-bad-management-57
 
-LPT: Make a bookmarklet to engage the "you have unsaved changes, are you sure?" prompt when editing styles in dev tools, here's how
+Make a bookmarklet to engage the "you have unsaved changes, are you sure?" prompt when editing styles in dev tools, here's how
 https://river.me/blog/bookmarklet-stay-here/
 
 How to Choose the Right Database
