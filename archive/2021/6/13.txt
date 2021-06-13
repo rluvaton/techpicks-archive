@@ -1,0 +1,29 @@
+TechPicks 13/06/2021 -
+
+The art of Frontend Engineering
+https://www.narative.co/articles/the-art-of-frontend-engineering/
+
+Request Quest
+https://jakearchibald.github.io/request-quest/
+
+"Python is 1.3x faster when compiled in a way that re-examines shitty technical decisions from the 1990s."
+https://www.facebook.com/dan.colascione/posts/10107358290728348
+
+Exceptional Naming
+https://kevlinhenney.medium.com/exceptional-naming-6e3c8f5bffac
+
+Introducing the Memory Inspector - Chrome Developers
+https://developer.chrome.com/blog/memory-inspector/
+
+Nano Stores: tiny state manager for React/Preact/Vue/Svelte in 152 bytes (!) and with tree-shaking support
+https://github.com/ai/nanostores
+
+Visual Studio Code May 2021
+https://code.visualstudio.com/updates/v1_57
+
+7 Practical Tips for Cheating at Design
+https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
