@@ -1,0 +1,29 @@
+TechPicks 15/06/2021 -
+
+Pathfinding Visualizer: A*, Dijkstra, Bidirectional Search, Breadth First
+https://josephprichard.github.io/Pathfinder/
+
+Sick of the stupid jokes? Write your own arbitrary-precision JavaScript Math library
+https://jrsinclair.com/articles/2020/sick-of-the-jokes-write-your-own-arbitrary-precision-javascript-math-library/
+
+Visualization of common sorting algorithms in JS: QuickSort, MergeSort, HeapSort, BubbleSort, InsertionSort
+https://github.com/loonywizard/sorting-algos-visualizer
+
+What has the Marko Team Been Doing all These Years?
+https://dev.to/ryansolid/what-has-the-marko-team-been-doing-all-these-years-1cf6
+
+Freenode commits suicide, is no longer a serious IRC network
+https://www.devever.net/~hl/freenode_suicide
+
+The end of freenode
+https://ariadne.space/2021/06/14/the-end-of-freenode/
+
+Fully Homomorphic Encryption by Google
+https://github.com/google/fully-homomorphic-encryption
+
+Vim is actually worth it
+https://alexfertel.hashnode.dev/vim-is-actually-worth-it
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
