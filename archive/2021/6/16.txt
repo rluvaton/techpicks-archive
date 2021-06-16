@@ -1,0 +1,29 @@
+TechPicks 16/06/2021 -
+
+Next.js 11 released
+https://nextjs.org/blog/next-11
+
+Import assertions
+https://v8.dev/features/import-assertions
+
+Serving sharp images to high density screens
+https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/
+
+Slonik – TypeSafe PostgreSQL client for Node.js
+https://github.com/gajus/slonik
+
+Amazon is blocking Google's FLoC
+https://digiday.com/media/amazon-is-blocking-googles-floc-and-that-could-seriously-weaken-the-fledgling-tracking-system/
+
+Unicode weirdness: bear plus snowflake equals polarbear
+https://andysalerno.com/posts/weird-emojis/
+
+Writing fast async HTTP requests in Python
+https://blog.jonlu.ca/posts/async-python-http
+
+Big Time Public License 1.0.0
+https://writing.kemitchell.com/2021/06/15/Big-Time-1.0.0.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
