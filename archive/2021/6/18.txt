@@ -1,0 +1,29 @@
+TechPicks 18/06/2021 -
+
+Bad Apple Safari update breaks IndexedDB JavaScript API, upsets web apps
+https://www.theregister.com/2021/06/16/apple_safari_indexeddb_bug/
+
+ES 12/2021 introduces new logical assignment operators
+https://blog.saeloun.com/2021/06/17/es2021-logical-assignment-operator-and-or-nullish
+
+tomnomnom/gron - Make JSON greppable
+https://github.com/tomnomnom/gron
+
+Modern Unix tools
+https://github.com/ibraheemdev/modern-unix
+
+Apple M1, three months later
+https://blog.jae.fi/apple-m1-three-months-later/
+
+PHP has been removed in macOS Monterey
+https://developer.apple.com/forums/thread/681907
+
+5 Ideas on How to Incorporate Web Accessibility into your Dev Workflow
+https://levelup.gitconnected.com/5-tips-on-how-to-incorporate-web-accessibility-into-your-dev-workflow-74d831e92fba
+
+JavaScript Monorepos with Lerna
+https://semaphoreci.com/blog/javascript-monorepos-lerna
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
