@@ -1,0 +1,29 @@
+TechPicks 20/06/2021 -
+
+Div.js - "a framework for the HTML programming language"
+https://github.com/willmartindev/div.js
+
+Flagsmith - Open Source feature flagging and remote config service
+https://github.com/Flagsmith/flagsmith
+
+Evaluate JavaScript on a URL through headless Chrome browser
+https://github.com/gupsevopse/jseval
+
+Blurring the lines between shell and editor
+https://xenodium.com/yasnippet-in-emacs-eshell
+
+The Wrong Way to Switch Operating Systems on Your Server
+https://figbert.com/posts/wrong-way-to-switch-server-os/
+
+State of the Windows: How many layers of UI inconsistencies are in Windows 10?
+https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/
+
+Licenses Alone Do Not Govern Behavior in Open Source
+https://michaelweinberg.org/blog/2021/06/17/licenses-and-social-norms/
+
+sish - an open source serveo/ngrok alternative
+https://github.com/antoniomika/sish
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
