@@ -1,0 +1,29 @@
+TechPicks 21/06/2021 -
+
+Have you ever had/given a really good interview?
+https://lobste.rs/s/1bwpi8/have_you_ever_had_given_really_good
+
+North Carolina tells retired engineer he can't talk about engineering
+https://ij.org/press-release/north-carolina-board-tells-retired-engineer-he-cant-talk-about-engineering/
+
+Rust from a JavaScript perspective
+https://blogs.harvard.edu/kapolos/rust-from-a-javascript-perspective/
+
+Software Estimation Is Hard. Do It Anyway.
+https://jacobian.org/2021/may/20/estimation/
+
+How Good Developers Handle Bad Management
+https://levelup.gitconnected.com/how-good-developers-handle-bad-management-f49b64432202
+
+“%p%s%s%s%s%n” breaks Wi-Fi on iPhones
+https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/
+
+On ethics using analytics
+https://adol.pw/2021/06/20/ethics-using-analytics/
+
+What Every Programmer Should Know About SSDs
+http://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
