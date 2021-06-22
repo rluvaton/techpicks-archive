@@ -1,0 +1,29 @@
+TechPicks 22/06/2021 -
+
+How databases handle 10 million devices in high-cardinality benchmarks
+https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance
+
+multi-command for VS Code:  create a command sequence as one command and bind a key, or call it manually 
+https://github.com/ryuta46/vscode-multi-command
+
+git undo: We can do better
+https://blog.waleedkhan.name/git-undo/
+
+Demystifying styled-components
+https://www.joshwcomeau.com/react/demystifying-styled-components/
+
+Why Storing Files in the Database Is Considered Bad Practice
+https://maximorlov.com/why-storing-files-database-bad-practice/
+
+Displaying Your Top Songs Using the Spotify API
+https://luigicruz.medium.com/displaying-your-top-songs-using-the-spotify-api-fa669899d608
+
+React XSS Protection Cheat Sheet
+https://lolware.net/blog/react-xss-protection-cheat-sheet/
+
+Copying all of MySQL's dumbest decisions
+https://www.dolthub.com/blog/2021-06-21-copying-mysqls-dumb-decisions/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
