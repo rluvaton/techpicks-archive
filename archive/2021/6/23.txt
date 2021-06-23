@@ -1,0 +1,23 @@
+TechPicks 23/06/2021 -
+
+Your CPU May Have Slowed Down on Wednesday
+https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html
+
+Epic Games releases free anti-cheat and voice chat services for developers
+https://www.theverge.com/2021/6/22/22544447/epic-games-anti-cheat-voice-chat-online-services-free
+
+ES2021 features list as approved by the Ecma General Assembly!
+https://h3manth.com/ES2021/
+
+What is pipenv and how to install it
+https://hinty.io/ivictbor/what-is-pipenv-and-how-to-install-it/
+
+SigNoz - Open source alternative to DataDog, NewRelic with ClickHouse as storage
+https://github.com/SigNoz/signoz
+
+Bash Function Names Can Be Almost Anything
+https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
