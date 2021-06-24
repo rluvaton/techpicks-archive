@@ -1,0 +1,38 @@
+TechPicks 24/06/2021 -
+
+John McAfee: Anti-virus creator found dead in prison cell
+https://www.bbc.com/news/world-europe-57589822
+
+Why I Won’t Approve Your PR
+https://elisabethirgens.github.io/notes/2021/06/code-reviews/
+
+How to Structure and Organize a React Application
+https://www.taniarascia.com/react-architecture-directory-structure/
+
+react-18: Glossary + Explain Like I'm Five
+https://github.com/reactwg/react-18/discussions/46
+
+$102M to Continue Building the Next Web, Together
+https://vercel.com/blog/series-c-102m-continue-building-the-next-web
+
+Software development is a creative process; an original masterpiece not a paint by numbers
+https://thehosk.medium.com/software-development-is-a-creative-process-an-original-masterpiece-not-a-paint-by-numbers-1700e05e6d7b
+
+Thinking Outside the Box with CSS Grid
+https://frontend.horse/articles/thinking-outside-the-box-with-css-grid/
+
+Microservices Architecture – Explained in Plain English
+https://www.freecodecamp.org/news/microservices-architecture-for-humans/
+
+Opinion-driven design
+https://stitcher.io/blog/opinion-driven-design
+
+4 Useful fzf Tricks for Your Terminal
+https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/
+
+How I Found A Vulnerability To Hack iCloud Accounts and How Apple Reacted To It
+https://thezerohack.com/apple-vulnerability-bug-bounty
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
