@@ -1,0 +1,35 @@
+TechPicks 27/06/2021 -
+
+Microsoft is bringing Android apps to Windows 11
+https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store
+
+React Preview for Visual Studio Code
+https://reddit.com/r/reactjs/comments/o70663/react_preview_for_visual_studio_code/
+
+Storybook 6.3 is out—handy new CSS tools, test utils, and revamped integrations
+https://storybook.js.org/blog/storybook-6-3/
+
+gProfiler: a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on
+https://github.com/granulate/gprofiler
+
+A fun JavaScript quiz that will test your knowledge on somewhat obscure JS syntax
+https://jsisweird.com/
+
+A 10 minute primer to JavaScript modules, module formats, module loaders and module bundlers
+https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/
+
+A Vim Guide For Veteran Users
+https://thevaluable.dev/vim-veteran/
+
+Ignoring mass reformatting commits with git blame
+https://akrabat.com/ignoring-revisions-with-git-blame/
+
+LeetCode - Valid Parentheses
+https://alkeshghorpade.me/post/leetcode-valid-parentheses
+
+Procedurally Ruin Other People's Code Using The Magic of ASTs
+https://www.christinahsuholland.com/blog/2019-01-24-procedurally-ruin-other-peoples-code-using-the-magic-of-asts
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
