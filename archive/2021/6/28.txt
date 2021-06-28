@@ -1,0 +1,29 @@
+TechPicks 28/06/2021 -
+
+learnbyexample's books on Regexp and CLI (grep, sed, awk, etc) are free until June 30
+https://learnbyexample.github.io/books/
+
+Reddit's disrespectful design
+https://ognjen.io/reddits-disrespectful-design/
+
+Functors and Monads For People Who Have Read Too Many "Tutorials"
+http://www.jerf.org/iri/post/2958
+
+Whatever Happened to UI Affordances?
+https://shkspr.mobi/blog/2021/06/whatever-happened-to-ui-affordances/
+
+Malibu — framework-agnostic CSRF middleware for modern Node.js
+https://github.com/tinyhttp/malibu
+
+Unison: a new programming language with immutable content-addressable code
+https://www.unisonweb.org/
+
+Using CSS to Enforce Accessibility
+https://adrianroselli.com/2021/06/using-css-to-enforce-accessibility.html
+
+Nice nginx features for operators
+https://alex.dzyoba.com/blog/nginx-features-for-operators/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
