@@ -1,0 +1,26 @@
+TechPicks 29/06/2021 -
+
+The Dev Behind One Of The World's Best SNES Emulators Has Died
+https://www.nintendolife.com/news/2021/06/the_dev_behind_one_of_the_worlds_best_snes_emulators_has_died
+
+SolidJS Official Release: The long road to 1.0
+https://dev.to/ryansolid/solidjs-official-release-the-long-road-to-1-0-4ldd
+
+Math Rendering is wrong on the Web
+https://danilafe.com/blog/math_rendering_is_wrong/
+
+The 'Fuck You' Pattern
+https://cedwards.xyz/the-fuck-you-pattern/
+
+Temporal: getting started with JavaScript’s new date time API
+https://2ality.com/2021/06/temporal-api.html
+
+Windows 11: TPMs required. Why your PC is becoming an Xbox. An end to privacy and user freedoms
+https://secret.club/2021/06/28/windows11-tpms.html
+
+Portal: Zero-config P2P live folder syncing that respects your .gitignore
+https://github.com/jackyzha0/portal/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
