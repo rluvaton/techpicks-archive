@@ -1,0 +1,32 @@
+TechPicks 30/06/2021 -
+
+GitHub Copilot · Your AI pair programmer
+https://copilot.github.com/
+
+How to work hard
+http://paulgraham.com/hwh.html
+
+Tauri Studio - Build smaller, faster, and more secure desktop applications with a web frontend
+https://tauri.studio/
+
+New LinkedIn Data Leak Leaves 700 Million Users Exposed
+https://restoreprivacy.com/linkedin-data-leak-700-million-users/
+
+normalizr - Normalize nested JSON according to a schema
+https://github.com/paularmstrong/normalizr
+
+Google Play developers will need to enable 2-Step Verification and meet identity requirements
+https://9to5google.com/2021/06/28/google-play-developer-requirements/
+
+SQL Errors and Video Cameras
+https://earthly.dev/blog/video-camera-on/
+
+The Greatest Regex Trick Ever
+http://www.rexegg.com/regex-best-trick.html
+
+An Architect's guide to GPS
+https://www.redhat.com/architect/architects-guide-gps
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
