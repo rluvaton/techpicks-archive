@@ -1,0 +1,26 @@
+TechPicks 01/07/2021 -
+
+GitHub co-pilot as open source code laundering?
+https://twitter.com/eevee/status/1410037309848752128
+
+DevOps; a decade of confusion and frustration
+https://blog.dijit.sh/devops-confusion-and-frustration
+
+Encoding data for POST requests
+https://jakearchibald.com/2021/encoding-data-for-post-requests/
+
+Cheat sheet for x86-64 Unix systems programming
+https://github.com/jstrieb/systems-programming-cheat-sheet
+
+Tim Berners-Lee sells web source code NFT for $5.4m
+https://www.bbc.com/news/technology-57666335
+
+Unit testing is overrated
+https://tyrrrz.me/blog/unit-testing-is-overrated
+
+Learn by reading code: Python standard library design decisions explained (for advanced beginners)
+https://death.andgravity.com/stdlib
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
