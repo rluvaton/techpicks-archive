@@ -22,7 +22,7 @@ The Grand Physics Compendium
 https://phisics.tech/
 
 Business people have turned agile into games rather than dealing with the complexity it attempts to resolve
-https://www.forbes.com/sites/cognitiveworld/2019/08/23/the-end-of-agile/?sh=665b8eb20713
+https://www.forbes.com/sites/cognitiveworld/2019/08/23/the-end-of-agile/
 
 Transactional Outbox: What is it and why you need it?
 http://morningcoffee.io/what-is-a-transaction-outbox-and-why-you-need-it.html
