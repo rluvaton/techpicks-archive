@@ -1,0 +1,32 @@
+TechPicks 04/07/2021 -
+
+GitHub Copilot Research Recitation - Analysis on how often Copilot copy-pastes from prior work
+https://docs.github.com/en/github/copilot/research-recitation
+
+GitHub Copilot and License Restrictions
+https://zephyrtronium.github.io/articles/copilot.html
+
+Things I wish Git had: Commit groups
+http://blog.danieljanus.pl/2021/07/01/commit-groups/
+
+inherit, initial, unset, revert
+https://css-tricks.com/inherit-initial-unset-revert/
+
+Where are we going from here? Software engineering needs formal methods
+https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/
+
+Thoughts About Using Android Again as an iPhone User
+https://christine.website/blog/android-thoughts-2021-07-03
+
+The Grand Physics Compendium
+https://phisics.tech/
+
+Business people have turned agile into games rather than dealing with the complexity it attempts to resolve
+https://www.forbes.com/sites/cognitiveworld/2019/08/23/the-end-of-agile/?sh=665b8eb20713
+
+Transactional Outbox: What is it and why you need it?
+http://morningcoffee.io/what-is-a-transaction-outbox-and-why-you-need-it.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
