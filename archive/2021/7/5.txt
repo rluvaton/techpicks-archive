@@ -1,0 +1,32 @@
+TechPicks 05/07/2021 -
+
+Time to say goodbye - Enzyme.js
+https://www.piotrstaniow.pl/goodbye-enzyme
+
+The File-Sharing Revolution Revisited: BitTorrent Turns 20
+https://torrentfreak.com/bittorrent-turns-20-the-file-sharing-revolution-revisited-210702/
+
+Bringing emulation into the 21st century
+https://blog.davetcode.co.uk/post/21st-century-emulator/
+
+SEO for Web Developers
+https://samgermain.medium.com/seo-for-web-developers-16fe2e83237c
+
+Write a time-series database engine from scratch
+https://nakabonne.dev/posts/write-tsdb-from-scratch
+
+Rust on the front-end
+https://blog.frankel.ch/start-rust/5/
+
+fzstd - expand super-compressed Zstandard data in 8kB of pure JS
+https://github.com/101arrowz/fzstd
+
+Commit Often, Perfect Later, Publish Once — Git Best Practices
+https://sethrobertson.github.io/GitBestPractices/
+
+iptables-vis – visualise iptables chains
+https://github.com/Nudin/iptable_vis
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
