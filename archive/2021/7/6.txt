@@ -1,0 +1,32 @@
+TechPicks 06/07/2021 -
+
+WikipediaQL: Query language for efficient data extraction from Wikipedia
+https://github.com/zverok/wikipedia_ql
+
+GitHub Copilot is not infringing your copyright
+https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/
+
+Eradicate all XSS flaws of your React or Vue application using a single ESLint rule
+https://github.com/theodo/RisXSS
+
+PHP isn’t that like really bad?
+https://getparthenon.com/blog/php-isnt-that-like-really-bad/
+
+Some Experiments with GitHub Copilot
+https://www.realpythonproject.com/some-experiments-with-github-copilot/
+
+New mystery AWS product 'Infinidash' goes viral — despite being entirely fictional
+https://www.theregister.com/2021/07/05/infinidash/
+
+git update: the odyssey for a sensible git pull
+https://felipec.wordpress.com/2021/07/05/git-update/
+
+WebTransport is a proposed API to expose QUIC's datagrams and streams to JavaScript clients
+https://web.dev/webtransport/
+
+Debugging in Clojure
+https://blog.davemartin.me/posts/debugging-in-clojure/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
