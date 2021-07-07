@@ -1,0 +1,35 @@
+TechPicks 07/07/2021 -
+
+export default thing behaves differently to export { thing as default }
+https://jakearchibald.com/2021/export-default-thing-vs-thing-as-default/
+
+rrweb 1.0 - record and replay the web even better
+https://rrweb.io/
+
+Here's how you create the folded corner effect in no time using two divs, one CSS transition, and two clipping paths
+https://www.reddit.com/r/webdev/comments/oeosrk/heres_how_you_crate_the_folded_corner_effect_in/
+
+Glass UI - A modern CSS UI library based on the glassmorphism design principles that will help you quickly design and build beautiful websites and applications
+https://ui.glass/
+
+Glassmorphism CSS Generator
+https://ui.glass/generator/
+
+TypeBox - JSON Schema Type Builder with Static Type Resolution for TypeScript
+https://github.com/sinclairzx81/typebox
+
+Goodbye C developers: The future of programming with certified program synthesis
+https://gopiandcode.uk/logs/log-certified-synthesis.html
+
+What Can Coerce, and Where, in Rust
+https://www.possiblerust.com/guide/what-can-coerce-and-where-in-rust
+
+Console Do Not Track
+https://consoledonottrack.com/
+
+Poisson's Equation is the Most Powerful Tool not yet in your Toolbox
+https://mattferraro.dev/posts/poissons-equation
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
