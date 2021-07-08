@@ -1,0 +1,32 @@
+TechPicks 08/07/2021 -
+
+useCookieConsent hook to manage GDPR style cookies
+https://github.com/bring-shrubbery/use-cookie-consent
+
+npm audit: Broken by Design
+https://overreacted.io/npm-audit-broken-by-design/
+
+When writing Bash, you should always set nounset. Here's why.
+https://cuddly-octo-palm-tree.com/posts/2021-01-24-bash-set-dash-u/
+
+Open letter: Ban surveillance-based advertising
+https://vivaldi.com/blog/letter-ban-surveillance-based-advertising/
+
+Reverse Engineering the M6 Smart Fitness Bracelet
+https://rbaron.net/blog/2021/07/06/Reverse-engineering-the-M6-smart-fitness-band.html
+
+One Database Transaction Too Many
+https://hakibenita.com/django-nested-transaction
+
+Software Development Is Misunderstood ; Quality Is Fastest Way to Get Code Into Production
+https://thehosk.medium.com/software-development-is-misunderstood-quality-is-fastest-way-to-get-code-into-production-f1f5a0792c69
+
+Amazon shifts Lumberyard to open source 3D game engine supported by 20 companies
+https://venturebeat.com/2021/07/06/amazons-lumberyard-becomes-an-open-source-3d-game-engine-with-support-from-20-companies/
+
+Component Story Format 3.0—simpler syntax with support for scripted interactions
+https://storybook.js.org/blog/component-story-format-3-0/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
