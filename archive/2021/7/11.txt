@@ -1,0 +1,32 @@
+TechPicks 11/07/2021 -
+
+Visual Studio Code June 2021: Flexible terminal location!
+https://code.visualstudio.com/updates/v1_58
+
+Tenacity - a privacy-respecting audacity fork
+https://github.com/tenacityteam/tenacity
+
+Announcing NestJS 8: What’s New?
+https://trilon.io/blog/announcing-nestjs-8-whats-new
+
+Against SQL
+https://scattered-thoughts.net/writing/against-sql/
+
+Blitsort: A new in-place stable sorting algorithm faster than quicksort
+https://github.com/scandum/blitsort/
+
+Tailwindo - This tool can convert Your CSS framework (currently Bootstrap) classes in HTML/PHP (any of your choice) files to equivalent Tailwind CSS classes.
+https://github.com/awssat/tailwindo
+
+GitHub Support just confirmed in an email that they used all public GitHub code, regardless of license
+https://twitter.com/NoraDotCodes/status/1412741339771461635
+
+Trust in Software, an All Time Low
+https://underjord.io/trust-in-software-an-all-time-low.html
+
+How The Chronicle is trying to malign Sci-Hub
+https://engineuring.wordpress.com/2021/07/09/how-the-chronicle-is-trying-to-malign-sci-hub/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
