@@ -1,0 +1,26 @@
+TechPicks 12/07/2021 -
+
+Deep JavaScript: Theory and techniques
+https://exploringjs.com/deep-js/index.html
+
+A Complete Guide To Accessible Front-End Components
+https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/
+
+Automatically tagging Belgian politician when they use their phone on the daily livestreams. With the help of AI.
+https://driesdepoorter.be/theflemishscrollers/
+
+Best of .bashrc
+https://www.datagubbe.se/bestofbash/
+
+Solving The Three Stooges Problem, or how to improve your website’s uptime from 9 5’s to 5 9’s
+https://www.reddit.com/r/RedditEng/comments/obqtfm/solving_the_three_stooges_problem/
+
+3 Programmers Got Fired (Including Me) Due to a Single App Crash
+https://betterprogramming.pub/3-programmers-got-fired-including-me-due-to-a-single-app-crash-35d4c94555da
+
+Dev tools that don’t exist yet but really should
+https://macwright.com/2021/07/05/two-wishes-for-dev-tooling.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
