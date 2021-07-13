@@ -1,0 +1,26 @@
+TechPicks 13/07/2021 -
+
+Risk Assessment of GitHub Copilot
+https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902
+
+GitHub Copilot Is Super Cool, and It Isn’t a Threat to Developers’ Jobs
+https://betterprogramming.pub/github-copilot-is-super-cool-but-it-isnt-a-threat-to-developers-job-d32458810df
+
+Checklist I wished I had when I started React Freelancing
+https://www.robinwieruch.de/freelance-react-developer
+
+The 10 Most Valuable Lessons I Learned As A Developer
+https://blog.oliverjumpertz.dev/the-10-most-valuable-lessons-i-learned-as-a-developer
+
+Wayback Machine Downloader
+https://github.com/hartator/wayback-machine-downloader/
+
+The Large, Small, and Dynamic Viewports
+https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/
+
+Using the Specificity of :where() as a CSS Reset
+https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
