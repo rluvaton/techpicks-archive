@@ -1,0 +1,32 @@
+TechPicks 14/07/2021 -
+
+GitHub’s Commercial AI Tool Copilot Facing Criticism From Open-Source Community For Blind Copying Of Blocks Of Code
+https://www.theinsaneapp.com/2021/07/github-copilot-ai-facing-criticism.html
+
+Getting lively with Firefox 90
+https://hacks.mozilla.org/2021/07/getting-lively-with-firefox-90/
+
+The Dilemma of Naming Font Size Variables
+https://css-tricks.com/the-dilemma-of-naming-font-size-variables/
+
+Learn Some Linux: The Single Best Self-Improvement Step for a Windows Developer
+https://medium.com/young-coder/learn-some-linux-the-single-best-self-improvement-step-for-a-windows-developer-71495374c847
+
+This Website is hosted on a Casio fx-9750GII Calculator
+http://fxip.as203478.net/
+
+Will AI Replace Programmers? tl;dr - definitely not
+https://medium.com/geekculture/will-ai-replace-programmers-fb6fcfd70b37
+
+react-plough: A strongly typed react form library
+https://github.com/sinclairnick/react-plough
+
+83% of Developers Suffer From Burnout, Haystack Analytics Study Finds
+https://www.usehaystack.io/blog/83-of-developers-suffer-from-burnout-haystack-analytics-study-finds
+
+Freenode: Introducing Remotes
+https://freenode.net/news/introducing-remotes
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
