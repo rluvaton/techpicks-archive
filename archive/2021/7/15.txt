@@ -1,0 +1,29 @@
+TechPicks 15/07/2021 -
+
+Cut down your Webpack build times by half with esbuild-loader
+https://dev.to/burhanuday/cut-down-your-webpack-build-times-by-half-2bh6
+
+The unreasonable effectiveness of just showing up everyday
+https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/
+
+WebAssembly from Scratch: From FizzBuzz to DooM
+https://github.com/diekmann/wasm-fizzbuzz
+
+Orbit - Open source design system for your next travel project
+https://beta.orbit.kiwi/
+
+Perfecting the password field with the HTML passwordrules attribute
+https://www.scottbrady91.com/Authentication/Perfecting-the-Password-Field-with-the-HTML-passwordrules-Attribute
+
+The universal VM we call browser
+https://cerebralab.com/The_universal_VM_we_call_browser
+
+The Future Web: Will Canvas Rendering Replace the DOM?
+https://medium.com/young-coder/the-future-web-will-canvas-rendering-replace-the-dom-847be872884c
+
+The Database Ruins All Good Ideas
+http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
