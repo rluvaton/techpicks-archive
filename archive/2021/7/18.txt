@@ -1,0 +1,35 @@
+TechPicks 18/07/2021 -
+
+What I learned from Software Engineering at Google
+https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/
+
+Outside-In Frontend Development
+https://outsidein.dev/
+
+What interesting command line tools do you use?
+https://lobste.rs/s/yfgwjr/what_interesting_command_line_tools_do
+
+xargs considered harmful
+https://codefaster.substack.com/p/xargs-considered-harmful
+
+Remote code execution in cdnjs of Cloudflare
+https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/
+
+The State of Developer Ecosystem in 2021 Infographic
+https://www.jetbrains.com/lp/devecosystem-2021/
+
+The Road to Ember 4.0
+https://blog.emberjs.com/the-road-to-ember-4-0/
+
+ProbaClick - Do something when someone's probably going to click something
+https://github.com/alexmacarthur/probaclick
+
+Updates from the latest meeting of TC39
+https://dev.to/hemanth/updates-from-the-84th-meeting-of-tc39-c41
+
+CSS Grid Cheat Sheet
+https://i.redd.it/phlaefsgoeb71.png
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
