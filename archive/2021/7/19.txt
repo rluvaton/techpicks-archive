@@ -1,0 +1,32 @@
+TechPicks 19/07/2021 -
+
+Idan Dagan: “unhandledRejection” — Under the Hood
+https://medium.com/@idandagan/unhandledrejection-reject-like-a-pro-8edc2224a7c6
+
+The American Dream
+https://sites.google.com/site/forgottenemployee/
+
+Y-Combinator Co-Founder matching
+https://www.startupschool.org/cofounder-matching
+
+Bulletproof React - A simple, scalable, and powerful architecture for building production ready React applications
+https://github.com/alan2207/bulletproof-react
+
+A bunch of Docker Compose files used to quickly spin up local databases
+https://github.com/alexmacarthur/local-docker-db
+
+Everything beginners need to know about Node.js
+https://gotoflorian-pro.medium.com/everything-you-should-know-about-node-js-2b7e223dc563
+
+Inserting One Billion Rows in SQLite Under A Minute
+https://avi.im/blag/2021/fast-sqlite-inserts/
+
+Why my last three blog posts are wrong and how I screwed up trying to benchmark Haskell code
+https://cuddly-octo-palm-tree.com/posts/2021-07-18-cwafi-5-mea-culpa/
+
+Unix Shell Programming: The Next 50 Years
+https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
