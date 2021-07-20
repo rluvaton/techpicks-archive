@@ -1,0 +1,26 @@
+TechPicks 20/07/2021 -
+
+How To Learn Stuff Quickly
+https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/
+
+System *Things
+https://css-tricks.com/system-things/
+
+Public CDNs Are Useless and Dangerous
+https://httptoolkit.tech/blog/public-cdn-risks/
+
+Deurbanising the Web
+https://lab6.com/0
+
+Torvalds wants new NTFS driver in kernel
+https://lore.kernel.org/lkml/CAHk-=whfeq9gyPWK3yao6cCj7LKeU3vQEDGJ3rKDdcaPNVMQzQ@mail.gmail.com/
+
+20 Questions a Software Engineer Should Ask When Joining a New Team
+https://trstringer.com/20-questions-for-new-software-team/
+
+I ****ing hate Science
+https://buttondown.email/hillelwayne/archive/i-ing-hate-science/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
