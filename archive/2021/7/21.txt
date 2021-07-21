@@ -1,0 +1,26 @@
+TechPicks 21/07/2021 -
+
+Thinking About Glue Code
+https://www.oreilly.com/radar/thinking-about-glue/
+
+Spring Cleaning MDN: Part 1
+https://hacks.mozilla.org/2021/07/spring-cleaning-mdn-part-1/
+
+Headless Recorder 1.0 is out! Record Puppeteer & Playwright JS scripts for testing and monitoring
+https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda
+
+How I structure my Node.js REST APIs
+https://larswaechter.dev/blog/nodejs-rest-api-structure/
+
+How we improved the performance of our Rust app
+https://www.poor.dev/blog/performance/
+
+Ten Papers Every Developer Should Read At Least Twice
+https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice
+
+A simple developer-friendly CLI for managing secrets
+https://github.com/sniptt-official/snip-cli
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
