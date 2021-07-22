@@ -1,0 +1,29 @@
+TechPicks 22/07/2021 -
+
+What is the sorting algorithm behind ORDER BY query in MySQL?
+https://blog.pankajtanwar.in/what-is-the-sorting-algorithm-behind-order-by-query-in-mysql
+
+DuckDuckGo email protection
+https://spreadprivacy.com/introducing-email-protection-beta/
+
+A monorepo misconception - atomic cross-project commits
+https://www.snellman.net/blog/archive/2021-07-21-monorepo-atomic/
+
+"My Code is Self-Documenting"
+https://www.ericholscher.com/blog/2017/jan/27/code-is-self-documenting/
+
+Kubernetes is Our Generation's Multics (oilshell.org Summer Blog Backlog: Distributed Systems)
+http://www.oilshell.org/blog/2021/07/blog-backlog-2.html
+
+Planning & estimating large-scale software projects
+https://tomrussell.co.uk/writing/2021/07/19/estimating-large-scale-software-projects.html
+
+How to test component interactions
+https://storybook.js.org/blog/testing-component-interactions/
+
+Using WebAssembly threads from C, C++ and Rust
+https://web.dev/webassembly-threads/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
