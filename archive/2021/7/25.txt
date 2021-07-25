@@ -1,0 +1,29 @@
+TechPicks 25/07/2021 -
+
+Malicious NPM Package Steals Passwords via Chrome’s Account-Recovery Tool
+https://threatpost.com/npm-package-steals-chrome-passwords/168004/
+
+Is GitHub Copilot a blessing, or a curse?
+https://www.fast.ai/2021/07/19/copilot/
+
+The Non-Engineer’s Ultimate Guide to Software Technology
+https://sanpram.com/2021/05/25/ultimate-guide-to-software/
+
+Abracadabra - Automated refactorings for VS Code (JS & TS)
+https://github.com/nicoespeon/abracadabra
+
+A beginner's guide to password hashing and salting
+https://muhib.me/understanding-password-hashing-and-salting-for-enhanced-security-1
+
+Fluxsort: A branchless sorting algorithm 2.5 times faster than std:stable_sort
+https://github.com/scandum/fluxsort
+
+Back to the '70s with Serverless
+http://evrl.com/devops/cloud/2020/12/18/serverless.html
+
+Types versus sets in math and programming languages
+https://byorgey.wordpress.com/2021/06/24/types-versus-sets-in-math-and-programming-languages/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
