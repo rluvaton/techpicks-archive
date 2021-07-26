@@ -1,0 +1,32 @@
+TechPicks 26/07/2021 -
+
+Dekel Braunstein - Setup a new mac (for devs [and others]) 💻
+https://dev.to/dekel/setup-a-new-mac-for-devs-and-others-4d88
+
+Agile At 20: The Failed Revolution
+https://www.simplethread.com/agile-at-20-the-failed-rebellion/
+
+From Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Functional Containers
+https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html
+
+Freenom, the free domains website, is a scam
+https://daniel.is-a.dev/blog/freenom-the-free-domains-website-is-a-scam-3
+
+You don’t need React for building websites
+https://www.silvestar.codes/articles/you-don-t-need-react-for-building-websites/
+
+Heuristics for Effective Software Development: A continuously evolving list
+https://holub.com/heuristics-for-effective-software-development-a-continuously-evolving-list/
+
+Why self hosting is important
+https://dataswamp.org/~solene/2021-07-23-why-selfhosting-is-important.html
+
+Store more with Firebase Firestore by compressing text using Unishox 2
+https://github.com/siara-cc/Unishox_JS#integrating-with-firebase-firestore
+
+What I Wish I Knew About CSS When Starting Out As A Frontender
+https://engineering.kablamo.com.au/posts/2021/my-first-css
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
