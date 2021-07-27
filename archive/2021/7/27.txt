@@ -1,0 +1,32 @@
+TechPicks 27/07/2021 -
+
+Building a Better Resume for Developers
+http://www.bennorthrop.com/Essays/2021/techrez-a-better-resume-for-tech.php
+
+Lessons learned from 15 years of SumatraPDF, an open source Windows app
+https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html
+
+Yarn 3.0 - Performances, ESBuild, Better Patches, ...
+https://dev.to/arcanis/yarn-3-0-performances-esbuild-better-patches-e07
+
+Facebook's Tectonic Filesystem: Efficiency from Exascale
+https://paulcavallaro.com/blog/facebook-tectonic-filesystem/
+
+Omega - Clubhouse GPT-3 bot
+https://lordajax.com/post/Omega-Clubhouse-GPT-3-bot/
+
+We need to talk about testing
+https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/
+
+PhotoGimp - A Patch for GIMP 2.10+ for Photoshop Users
+https://github.com/Diolinux/PhotoGIMP
+
+Building a breadcrumbs component
+https://web.dev/building-a-breadcrumbs-component/
+
+Blame someone else for your bad code
+https://github.com/jayphelps/git-blame-someone-else
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
