@@ -1,0 +1,26 @@
+TechPicks 28/07/2021 -
+
+For developers, Apple’s Safari is crap and outdated
+https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/
+
+The Scientist and Engineer's Guide to Digital Signal Processing
+http://www.dspguide.com/pdfbook.htm
+
+Open Source Instagram Viewer Hit with Cease and Desist Letter
+https://github.com/austinhuang0131/austinhuang0131/issues/2
+
+Collision Detection is Hard: The Story of Alf
+https://nicole.express/2021/remember-alf.html
+
+Cleaning Up Git History
+https://blog.sulami.xyz/posts/cleaning-up-git-history/
+
+Bridging a typed and an untyped world
+https://blog.noredink.com/post/657844755189972992/bridging-a-typed-and-an-untyped-world
+
+Netcat - All you need to know
+https://blog.ikuamike.io/posts/2021/netcat/
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
