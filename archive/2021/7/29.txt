@@ -1,0 +1,29 @@
+TechPicks 29/07/2021 -
+
+What We Expect From Software Developers on Each Level
+https://dafir.medium.com/what-we-expect-from-software-developers-on-each-level-f7b44abb71da
+
+Evil tip: avoid "easy" things
+http://yosefk.com/blog/evil-tip-avoid-easy-things.html
+
+A Visual Guide to React Rendering - Props
+https://alexsidorenko.com/blog/react-render-props/
+
+Clockwise: a meeting cost calculator designed to encourage more efficient meetings
+https://github.com/syncfast/clockwise
+
+Monospaced Fonts Can Be Playful And Fun!
+https://realdougwilson.com/writing/coding-with-character
+
+Genetic algorithm for register allocation
+https://kunalspathak.github.io/2021-07-22-Genetic-Algorithms-In-LSRA/
+
+Kubernetes Maximalism
+https://matt-rickard.com/kubernetes-maximalism/
+
+Basic schema inference for arbitrary JavaScript data objects
+https://github.com/multiprocessio/shape
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
