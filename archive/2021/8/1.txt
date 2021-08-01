@@ -1,0 +1,35 @@
+TechPicks 01/08/2021 -
+
+fart.js - the premier javascript fart library, by jsfart.com
+http://jsfart.com/
+
+The journey to controlling external monitors on M1 Macs
+https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/
+
+Executable PNGs
+https://djharper.dev/post/2020/12/26/executable-pngs/
+
+5000x Faster CRDTs: An Adventure in Optimization
+https://josephg.com/blog/crdts-go-brrr/
+
+Edit Your C++ Code while Debugging with Hot Reload in Visual Studio 2022
+https://devblogs.microsoft.com/cppblog/edit-your-c-code-while-debugging-with-hot-reload-in-visual-studio-2022/
+
+Cloudflare's inaccessible browser contradicts the company's mission
+https://mwcampbell.github.io/cloudflare-browser-isolation-letter/
+
+Hosting SQLite databases on Github Pages
+https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/
+
+6 Years of Professional Clojure
+https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983
+
+Hasta la Vista Gmail
+http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html
+
+Running My Own Email Server
+http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
