@@ -1,0 +1,26 @@
+TechPicks 02/08/2021 -
+
+Tagged Template Literals - The Magic Behind Styled Components
+https://dev.to/dekel/tagged-template-literals-the-magic-behind-styled-components-2f2c
+
+Integration test best practices
+https://github.com/testjavascript/nodejs-integration-tests-best-practices
+
+Idiots And Maniacs
+https://earthly.dev/blog/idiots-and-maniacs/
+
+New in Git: switch and restore
+https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/
+
+What is DevOps?
+https://resources.github.com/devops/
+
+testen - Run your tests locally against multiple node.js versions
+https://github.com/bevry/testen
+
+Firefox lost 50M users since 2019
+https://data.firefox.com/dashboard/user-activity
+
+Follow TechPicks -
+Telegram channel - https://t.me/techpicks
+Telegram group - https://t.me/techpicksgroup
